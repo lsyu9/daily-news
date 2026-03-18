@@ -1,0 +1,33 @@
+{
+    "updated_at": "2026-03-18 08:00:00",
+    "news": [
+        {
+            "source": "Polymarket 动态",
+            "title": "NCAA 疯狂三月引发 Polymarket 流动性狂潮，单日奖励池超 $7,500",
+            "summary": "预测市场上的 NCAA 盘口出现了巨大的定价偏差，吸引了大量套利者和做市机器人进场进行 Delta-Neutral 对冲。",
+            "time": "2026-03-18 07:50",
+            "url": "https://polymarket.com"
+        },
+        {
+            "source": "宏观经济",
+            "title": "美联储维持利率不变，风险资产出现短期回调",
+            "summary": "最新 FOMC 会议纪要显示，尽管通胀有所降温，但委员们仍认为降息为时尚早，导致加密货币和美股盘前承压。",
+            "time": "2026-03-18 06:00",
+            "url": "https://www.federalreserve.gov"
+        },
+        {
+            "source": "科技前沿",
+            "title": "开源 AI 模型再获突破，本地运行效率提升 300%",
+            "summary": "最新发布的量化算法允许在消费级显卡上全速运行 70B 参数的大语言模型，大幅降低了 AI 开发者的硬件门槛。",
+            "time": "2026-03-18 03:00",
+            "url": "https://github.com"
+        },
+        {
+            "source": "GitHub 热点",
+            "title": "Daily-News 自动化爬虫项目登顶 Trending",
+            "summary": "一个名为 daily-news 的开源项目通过轻量级的 Python 脚本结合 GitHub Actions，实现了新闻的零成本自动化聚合与发布。",
+            "time": "2026-03-17 22:00",
+            "url": "https://github.com/6551Team/daily-news"
+        }
+    ]
+}

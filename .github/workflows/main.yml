@@ -1,0 +1,50 @@
+# =====================================================
+# Daily News 自动化工作流
+# =====================================================
+# 功能：每天北京时间早上 8 点自动运行爬虫，
+#       生成 data.json 并提交到仓库，
+#       前端页面 (GitHub Pages) 刷新后即可展示最新新闻。
+# =====================================================
+
+name: Daily News Update
+
+on:
+  # 定时触发：每天 UTC 0:00（即北京时间 08:00）
+  schedule:
+    - cron: '0 0 * * *'
+
+  # 允许手动触发（方便调试）
+  workflow_dispatch:
+
+# 设置权限，允许写入仓库
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出仓库代码
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 配置 Python 环境
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. 运行爬虫脚本，生成 data.json
+      - name: 📡 Run news scraper
+        run: python scraper.py
+
+      # 4. 提交并推送更新后的 data.json
+      - name: 📤 Commit and push data.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data.json
+          # 如果有变更才提交，避免空提交报错
+          git diff --staged --quiet || git commit -m "📰 自动更新每日新闻 $(date +'%Y-%m-%d %H:%M')"
+          git push

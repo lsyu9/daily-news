@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily News - 每日简报</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            letter-spacing: 1px;
+        }
+
+        header p {
+            margin: 0.5rem 0 0 0;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .update-info {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .news-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border: 1px solid #e2e8f0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+        }
+
+        .news-source {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .news-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin: 0 0 1rem 0;
+            line-height: 1.4;
+            color: var(--text-main);
+        }
+
+        .news-summary {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            flex-grow: 1;
+            margin-bottom: 1.5rem;
+        }
+
+        .news-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            border-top: 1px solid #f1f5f9;
+            padding-top: 1rem;
+        }
+
+        .read-more {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .read-more:hover {
+            text-decoration: underline;
+        }
+
+        /* 加载动画 */
+        .loader {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-muted);
+            font-size: 1.2rem;
+            grid-column: 1 / -1;
+        }
+
+        .loader.error {
+            color: #dc2626;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid #e2e8f0;
+            margin-top: 2rem;
+        }
+
+        footer a {
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>📰 Daily News</h1>
+        <p id="current-date">正在加载今日简报...</p>
+    </header>
+
+    <div class="container">
+        <div class="update-info" id="update-info"></div>
+        <div class="news-grid" id="news-container">
+            <div class="loader">📡 正在从节点获取最新资讯...</div>
+        </div>
+    </div>
+
+    <footer>
+        Powered by <a href="https://github.com/6551Team/daily-news" target="_blank">6551Team/daily-news</a> · 每日自动更新
+    </footer>
+
+    <script>
+        // 设置今日日期
+        const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString('zh-CN', dateOptions);
+
+        // 核心逻辑：从 data.json 获取新闻数据并渲染
+        async function fetchAndRenderNews() {
+            const container = document.getElementById('news-container');
+            const updateInfo = document.getElementById('update-info');
+
+            try {
+                // 从仓库根目录的 data.json 文件读取数据
+                // 该文件由 GitHub Actions 每天自动运行 Python 爬虫生成
+                const response = await fetch('./data.json');
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                const newsData = data.news || data;
+
+                // 显示更新时间
+                if (data.updated_at) {
+                    updateInfo.textContent = `🔄 数据最后更新时间: ${data.updated_at}`;
+                }
+
+                // 清空加载动画
+                container.innerHTML = '';
+
+                if (!newsData || newsData.length === 0) {
+                    container.innerHTML = '<div class="loader">📭 暂无新闻数据，请等待下次自动更新。</div>';
+                    return;
+                }
+
+                // 渲染卡片
+                newsData.forEach(news => {
+                    const card = document.createElement('div');
+                    card.className = 'news-card';
+                    card.innerHTML = `
+                        <div class="news-source">${news.source || '未知来源'}</div>
+                        <h2 class="news-title">${news.title}</h2>
+                        <div class="news-summary">${news.summary || news.description || ''}</div>
+                        <div class="news-footer">
+                            <span>🕒 ${news.time || news.published_at || ''}</span>
+                            <a href="${news.url || '#'}" target="_blank" class="read-more">阅读原文 →</a>
+                        </div>
+                    `;
+                    container.appendChild(card);
+                });
+
+            } catch (error) {
+                container.innerHTML = `<div class="loader error">❌ 获取新闻失败: ${error.message}<br><small>请检查 data.json 是否存在或数据源连接是否正常。</small></div>`;
+                console.error("加载失败:", error);
+            }
+        }
+
+        // 页面加载完成后执行
+        window.addEventListener('DOMContentLoaded', fetchAndRenderNews);
+    </script>
+
+</body>
+</html>
