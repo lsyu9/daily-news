@@ -1,33 +1,47 @@
 {
-    "updated_at": "2026-03-18 08:00:00",
+    "updated_at": "2026-03-19 10:49:49",
     "news": [
         {
-            "source": "Polymarket 动态",
-            "title": "NCAA 疯狂三月引发 Polymarket 流动性狂潮，单日奖励池超 $7,500",
-            "summary": "预测市场上的 NCAA 盘口出现了巨大的定价偏差，吸引了大量套利者和做市机器人进场进行 Delta-Neutral 对冲。",
-            "time": "2026-03-18 07:50",
-            "url": "https://polymarket.com"
+            "source": "CoinDesk",
+            "title": "SEC approves Nasdaq's move to support tokenized securities trading",
+            "summary": "The SEC’s approval lets Nasdaq test blockchain-based versions of stocks that trade and settle like traditional shares.",
+            "time": "Wed, 18 Mar 2026 20:44:02 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading"
         },
         {
-            "source": "宏观经济",
-            "title": "美联储维持利率不变，风险资产出现短期回调",
-            "summary": "最新 FOMC 会议纪要显示，尽管通胀有所降温，但委员们仍认为降息为时尚早，导致加密货币和美股盘前承压。",
-            "time": "2026-03-18 06:00",
-            "url": "https://www.federalreserve.gov"
+            "source": "CoinDesk",
+            "title": "Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge",
+            "summary": "The crypto sector's leading political action committee devoted more than 5% of its war chest trying to defeat a Senate candidate who just won her primary.",
+            "time": "Wed, 18 Mar 2026 20:31:18 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge"
         },
         {
-            "source": "科技前沿",
-            "title": "开源 AI 模型再获突破，本地运行效率提升 300%",
-            "summary": "最新发布的量化算法允许在消费级显卡上全速运行 70B 参数的大语言模型，大幅降低了 AI 开发者的硬件门槛。",
-            "time": "2026-03-18 03:00",
-            "url": "https://github.com"
+            "source": "CoinDesk",
+            "title": "Bitcoin sinks below $71,000, stocks close at session lows, as 2026 Fed rate cut hopes fade further",
+            "summary": "Fed chair Jerome Powell said rising energy prices are feeding into the inflation outlook, but \"nobody knows\" yet how lasting the impact will be.",
+            "time": "Wed, 18 Mar 2026 20:19:04 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-sinks-below-usd71-000-stocks-close-at-session-lows-as-2026-rate-cut-hopes-fade-further"
         },
         {
-            "source": "GitHub 热点",
-            "title": "Daily-News 自动化爬虫项目登顶 Trending",
-            "summary": "一个名为 daily-news 的开源项目通过轻量级的 Python 脚本结合 GitHub Actions，实现了新闻的零成本自动化聚合与发布。",
-            "time": "2026-03-17 22:00",
-            "url": "https://github.com/6551Team/daily-news"
+            "source": "Hacker News",
+            "title": "Ask HN: How do you deal with people who trust LLMs?",
+            "summary": "A lot of people use LLMs as the source of their objective truth. They have a question that would be very well answered with a search leading to a reputable source, but instead they ask some LLM chat b...",
+            "time": "Thu, 19 Mar 2026 01:37:35 +0000",
+            "url": "https://news.ycombinator.com/item?id=47433702"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Autoresearch for SAT Solvers",
+            "summary": "Article URL: https://github.com/iliazintchenko/agent-sat\nComments URL: https://news.ycombinator.com/item?id=47433265\nPoints: 44\n# Comments: 5",
+            "time": "Thu, 19 Mar 2026 00:40:32 +0000",
+            "url": "https://github.com/iliazintchenko/agent-sat"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Show HN: ATO – a GUI to see and fix what your LLM agents configured",
+            "summary": "Article URL: https://github.com/WillNigri/Agentic-Tool-Optimization\nComments URL: https://news.ycombinator.com/item?id=47433155\nPoints: 3\n# Comments: 0",
+            "time": "Thu, 19 Mar 2026 00:28:05 +0000",
+            "url": "https://github.com/WillNigri/Agentic-Tool-Optimization"
         }
     ]
 }
