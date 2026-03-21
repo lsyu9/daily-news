@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-20 10:40:30",
+    "updated_at": "2026-03-21 10:33:55",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto Clarity Act inches toward Senate hearing as lawmakers weigh legislative trades",
-            "summary": "The White House may be reviewing fresh legislative text, and lawmakers are reportedly weighing offers to banks of other, unrelated provisions for their support.",
-            "time": "Thu, 19 Mar 2026 22:10:45 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/19/crypto-clarity-act-inches-toward-senate-hearing-as-lawmakers-weigh-legislative-trades"
+            "title": "Sam Bankman-Fried's past political cash gives AI PAC fuel for bashing NY candidate Bores",
+            "summary": "A mailer from Think Big PAC told voters that the Democratic U.S. House candidate once got $100,000 in support from the former head of failed global exchange FTX.",
+            "time": "Fri, 20 Mar 2026 20:03:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/20/sam-bankman-fried-s-past-political-cash-gives-ai-pac-fuel-for-bashing-ny-candidate-bores"
         },
         {
             "source": "CoinDesk",
-            "title": "DeFi risk management giant Gauntlet sees $380 million exit as OKX crypto campaign ends",
-            "summary": "Gauntlet noted that deposits are now back to same levels before the campaign, and has navigated large capital swings before due to incentive campaign endings, airdrops, and shifts in market conditions...",
-            "time": "Thu, 19 Mar 2026 20:12:45 +0000",
-            "url": "https://www.coindesk.com/tech/2026/03/19/defi-risk-management-giant-gauntlet-sees-usd380-million-exit-as-okx-crypto-campaign-ends"
+            "title": "Senators say they've reached compromise on yield to advance crypto market bill",
+            "summary": "One of the major sticking points on the crypto market structure bill may be resolved, at least enough to move toward a Senate hearing to advance the bill.",
+            "time": "Fri, 20 Mar 2026 19:27:20 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto markets – and the American people – deserve clarity",
-            "summary": "The SEC is pivoting away from its previous regulatory strategy.",
-            "time": "Thu, 19 Mar 2026 20:12:30 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/03/19/crypto-markets-and-the-american-people-deserve-clarity"
+            "title": "Kalshi gets temporary Nevada ban in dispute over sports betting",
+            "summary": "A Nevada court issued a 14-day ban on a wide range of contracts from prediction market firm Kalshi as the firm continues battling with state regulators.",
+            "time": "Fri, 20 Mar 2026 18:45:29 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/20/kalshi-gets-temporary-nevada-ban-in-dispute-over-sports-betting"
         },
         {
             "source": "Hacker News",
-            "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
-            "summary": "Article URL: https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found\nComments URL: https://news.ycombinator.com/item?id=47448994\nPoints: 9\n# Comments: 0",
-            "time": "Fri, 20 Mar 2026 01:09:45 +0000",
-            "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found"
+            "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+            "summary": "Article URL: https://github.com/arnoldrobbins/LinuxByExample-2e\nComments URL: https://news.ycombinator.com/item?id=47462483\nPoints: 32\n# Comments: 5",
+            "time": "Fri, 20 Mar 2026 23:57:22 +0000",
+            "url": "https://github.com/arnoldrobbins/LinuxByExample-2e"
         },
         {
             "source": "Hacker News",
-            "title": "Drugwars for the TI-82/83/83 Calculators",
-            "summary": "Article URL: https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404\nComments URL: https://news.ycombinator.com/item?id=47448566\nPoints: 32\n# Comments: 17",
-            "time": "Fri, 20 Mar 2026 00:26:47 +0000",
-            "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404"
+            "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
+            "summary": "I go on a lot of backcountry trips where I barely get cell service. If my group splits, nobody knows knows where anyone is until you regroup at camp or at your destination. You can buy Garmin radios o...",
+            "time": "Fri, 20 Mar 2026 22:25:51 +0000",
+            "url": "https://github.com/RedGridTactical/RedGridLink"
         },
         {
             "source": "Hacker News",
-            "title": "Push events into a running session with channels",
-            "summary": "Article URL: https://code.claude.com/docs/en/channels\nComments URL: https://news.ycombinator.com/item?id=47448524\nPoints: 167\n# Comments: 86",
-            "time": "Fri, 20 Mar 2026 00:22:08 +0000",
-            "url": "https://code.claude.com/docs/en/channels"
+            "title": "Ghostling",
+            "summary": "Article URL: https://github.com/ghostty-org/ghostling\nComments URL: https://news.ycombinator.com/item?id=47461378\nPoints: 98\n# Comments: 10",
+            "time": "Fri, 20 Mar 2026 22:11:37 +0000",
+            "url": "https://github.com/ghostty-org/ghostling"
         }
     ]
 }
