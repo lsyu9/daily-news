@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-21 10:33:55",
+    "updated_at": "2026-03-22 10:50:27",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Sam Bankman-Fried's past political cash gives AI PAC fuel for bashing NY candidate Bores",
-            "summary": "A mailer from Think Big PAC told voters that the Democratic U.S. House candidate once got $100,000 in support from the former head of failed global exchange FTX.",
-            "time": "Fri, 20 Mar 2026 20:03:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/20/sam-bankman-fried-s-past-political-cash-gives-ai-pac-fuel-for-bashing-ny-candidate-bores"
+            "title": "Bitcoin options signal extreme fear as downside protection premium hits new all-time high, says VanEck",
+            "summary": "Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.",
+            "time": "Sat, 21 Mar 2026 18:54:23 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/21/bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-time-high-says-vaneck"
         },
         {
             "source": "CoinDesk",
-            "title": "Senators say they've reached compromise on yield to advance crypto market bill",
-            "summary": "One of the major sticking points on the crypto market structure bill may be resolved, at least enough to move toward a Senate hearing to advance the bill.",
-            "time": "Fri, 20 Mar 2026 19:27:20 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield"
+            "title": "Crypto firms cut hundreds of jobs in weeks, blaming weak markets, strong AI",
+            "summary": "A wave of crypto job cuts in early 2026 exposes the gap between two convenient narratives: macro headwinds and AI transformation.",
+            "time": "Sat, 21 Mar 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/03/21/crypto-firms-cut-hundreds-of-jobs-in-weeks-blaming-markets-and-ai-in-equal-measure"
         },
         {
             "source": "CoinDesk",
-            "title": "Kalshi gets temporary Nevada ban in dispute over sports betting",
-            "summary": "A Nevada court issued a 14-day ban on a wide range of contracts from prediction market firm Kalshi as the firm continues battling with state regulators.",
-            "time": "Fri, 20 Mar 2026 18:45:29 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/20/kalshi-gets-temporary-nevada-ban-in-dispute-over-sports-betting"
+            "title": "How DeFi is quietly rebuilding the fixed-income stack for institutional capital",
+            "summary": "The real institutional prize isn’t about tokenized assets. It’s about programmable yield.",
+            "time": "Sat, 21 Mar 2026 17:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/03/21/how-defi-is-quietly-rebuilding-the-fixed-income-stack-for-institutional-capital"
         },
         {
             "source": "Hacker News",
-            "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-            "summary": "Article URL: https://github.com/arnoldrobbins/LinuxByExample-2e\nComments URL: https://news.ycombinator.com/item?id=47462483\nPoints: 32\n# Comments: 5",
-            "time": "Fri, 20 Mar 2026 23:57:22 +0000",
-            "url": "https://github.com/arnoldrobbins/LinuxByExample-2e"
+            "title": "The Three Pillars of JavaScript Bloat",
+            "summary": "Article URL: https://43081j.com/2026/03/three-pillars-of-javascript-bloat\nComments URL: https://news.ycombinator.com/item?id=47473718\nPoints: 10\n# Comments: 2",
+            "time": "Sun, 22 Mar 2026 02:04:31 +0000",
+            "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
-            "summary": "I go on a lot of backcountry trips where I barely get cell service. If my group splits, nobody knows knows where anyone is until you regroup at camp or at your destination. You can buy Garmin radios o...",
-            "time": "Fri, 20 Mar 2026 22:25:51 +0000",
-            "url": "https://github.com/RedGridTactical/RedGridLink"
+            "title": "Chest Fridge",
+            "summary": "Article URL: https://mtbest.net/chest-fridge/\nComments URL: https://news.ycombinator.com/item?id=47473279\nPoints: 22\n# Comments: 13",
+            "time": "Sun, 22 Mar 2026 01:02:10 +0000",
+            "url": "https://mtbest.net/chest-fridge/"
         },
         {
             "source": "Hacker News",
-            "title": "Ghostling",
-            "summary": "Article URL: https://github.com/ghostty-org/ghostling\nComments URL: https://news.ycombinator.com/item?id=47461378\nPoints: 98\n# Comments: 10",
-            "time": "Fri, 20 Mar 2026 22:11:37 +0000",
-            "url": "https://github.com/ghostty-org/ghostling"
+            "title": "Why craft-lovers are losing their craft",
+            "summary": "Article URL: https://writings.hongminhee.org/2026/03/craft-alienation-llm/\nComments URL: https://news.ycombinator.com/item?id=47473178\nPoints: 37\n# Comments: 19",
+            "time": "Sun, 22 Mar 2026 00:46:32 +0000",
+            "url": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/"
         }
     ]
 }
