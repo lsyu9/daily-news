@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-22 10:50:27",
+    "updated_at": "2026-03-23 10:50:29",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin options signal extreme fear as downside protection premium hits new all-time high, says VanEck",
-            "summary": "Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.",
-            "time": "Sat, 21 Mar 2026 18:54:23 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/21/bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-time-high-says-vaneck"
+            "title": "If one trader can force the outcome of a prediction market, it shouldn’t be tradable",
+            "summary": "By hosting manipulable contracts, prediction markets swap their long-term credibility for short-term engagement.",
+            "time": "Sun, 22 Mar 2026 19:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/03/22/if-one-trader-can-force-the-outcome-of-a-prediction-market-it-shouldn-t-be-tradable"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto firms cut hundreds of jobs in weeks, blaming weak markets, strong AI",
-            "summary": "A wave of crypto job cuts in early 2026 exposes the gap between two convenient narratives: macro headwinds and AI transformation.",
-            "time": "Sat, 21 Mar 2026 18:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/03/21/crypto-firms-cut-hundreds-of-jobs-in-weeks-blaming-markets-and-ai-in-equal-measure"
+            "title": "The SEC explains how it's viewing a crypto security: State of Crypto",
+            "summary": "Joint SEC-CFTC interpretive guidance outlines how the agencies will determine whether a cryptocurrency is a security.",
+            "time": "Sun, 22 Mar 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/22/the-sec-explains-how-it-s-viewing-a-crypto-security-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "How DeFi is quietly rebuilding the fixed-income stack for institutional capital",
-            "summary": "The real institutional prize isn’t about tokenized assets. It’s about programmable yield.",
-            "time": "Sat, 21 Mar 2026 17:30:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/03/21/how-defi-is-quietly-rebuilding-the-fixed-income-stack-for-institutional-capital"
+            "title": "Ethereum faces make-or-break moment in high-stakes balancing act as scaling, quantum and AI pressures mount",
+            "summary": "While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer sca...",
+            "time": "Sun, 22 Mar 2026 17:00:57 +0000",
+            "url": "https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount"
         },
         {
             "source": "Hacker News",
-            "title": "The Three Pillars of JavaScript Bloat",
-            "summary": "Article URL: https://43081j.com/2026/03/three-pillars-of-javascript-bloat\nComments URL: https://news.ycombinator.com/item?id=47473718\nPoints: 10\n# Comments: 2",
-            "time": "Sun, 22 Mar 2026 02:04:31 +0000",
-            "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat"
+            "title": "Intuitions for Tranformer Circuits",
+            "summary": "Article URL: https://www.connorjdavis.com/p/intuitions-for-transformer-circuits\nComments URL: https://news.ycombinator.com/item?id=47484227\nPoints: 12\n# Comments: 0",
+            "time": "Mon, 23 Mar 2026 01:06:35 +0000",
+            "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits"
         },
         {
             "source": "Hacker News",
-            "title": "Chest Fridge",
-            "summary": "Article URL: https://mtbest.net/chest-fridge/\nComments URL: https://news.ycombinator.com/item?id=47473279\nPoints: 22\n# Comments: 13",
-            "time": "Sun, 22 Mar 2026 01:02:10 +0000",
-            "url": "https://mtbest.net/chest-fridge/"
+            "title": "Department of State advises Americans worldwide to exercise increased caution",
+            "summary": "Article URL: https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html\nComments URL: https://news.ycombinator.com/item?id=47484208\nPoints: 123\n# Comments:...",
+            "time": "Mon, 23 Mar 2026 01:02:56 +0000",
+            "url": "https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html"
         },
         {
             "source": "Hacker News",
-            "title": "Why craft-lovers are losing their craft",
-            "summary": "Article URL: https://writings.hongminhee.org/2026/03/craft-alienation-llm/\nComments URL: https://news.ycombinator.com/item?id=47473178\nPoints: 37\n# Comments: 19",
-            "time": "Sun, 22 Mar 2026 00:46:32 +0000",
-            "url": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/"
+            "title": "Migrating the American Express Payment Network, Twice",
+            "summary": "Article URL: https://americanexpress.io/migrating-the-payments-network-twice/\nComments URL: https://news.ycombinator.com/item?id=47483830\nPoints: 12\n# Comments: 1",
+            "time": "Mon, 23 Mar 2026 00:15:10 +0000",
+            "url": "https://americanexpress.io/migrating-the-payments-network-twice/"
         }
     ]
 }
