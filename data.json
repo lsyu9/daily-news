@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-23 10:50:29",
+    "updated_at": "2026-03-24 10:42:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "If one trader can force the outcome of a prediction market, it shouldn’t be tradable",
-            "summary": "By hosting manipulable contracts, prediction markets swap their long-term credibility for short-term engagement.",
-            "time": "Sun, 22 Mar 2026 19:30:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/03/22/if-one-trader-can-force-the-outcome-of-a-prediction-market-it-shouldn-t-be-tradable"
+            "title": "Stablecoin yield in crypto Clarity Act won't allow rewards on balances, latest text says",
+            "summary": "The crypto industry got a first look at legislative language that won't allow rewards on stablecoin balances, and the approach is seen as restrictive.",
+            "time": "Mon, 23 Mar 2026 22:43:06 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/23/stablecoin-yield-in-crypto-clarity-act-won-t-allow-rewards-on-balances-latest-text-says"
         },
         {
             "source": "CoinDesk",
-            "title": "The SEC explains how it's viewing a crypto security: State of Crypto",
-            "summary": "Joint SEC-CFTC interpretive guidance outlines how the agencies will determine whether a cryptocurrency is a security.",
-            "time": "Sun, 22 Mar 2026 18:00:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/22/the-sec-explains-how-it-s-viewing-a-crypto-security-state-of-crypto"
+            "title": "Bitcoin holds above $70,000, but future direction hinges on Iran-U.S. 'talks'",
+            "summary": "Cryptos bounced on Trump’s five-day pause announcement, but the next move hinges on whether tensions between the U.S. and Iran ease or spiral, a Wintermute trader said.",
+            "time": "Mon, 23 Mar 2026 21:14:08 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/23/bitcoin-holds-above-usd70-000-but-future-direction-hinges-on-iran-u-s-talks"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethereum faces make-or-break moment in high-stakes balancing act as scaling, quantum and AI pressures mount",
-            "summary": "While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer sca...",
-            "time": "Sun, 22 Mar 2026 17:00:57 +0000",
-            "url": "https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount"
+            "title": "Solana Foundation targets institutions with new privacy framework",
+            "summary": "The organization argued that the next phase of crypto adoption will depend less on transparency alone and more on giving companies control over what they reveal — and to whom.",
+            "time": "Mon, 23 Mar 2026 20:00:42 +0000",
+            "url": "https://www.coindesk.com/tech/2026/03/23/solana-foundation-targets-institutions-with-new-privacy-framework"
         },
         {
             "source": "Hacker News",
-            "title": "Intuitions for Tranformer Circuits",
-            "summary": "Article URL: https://www.connorjdavis.com/p/intuitions-for-transformer-circuits\nComments URL: https://news.ycombinator.com/item?id=47484227\nPoints: 12\n# Comments: 0",
-            "time": "Mon, 23 Mar 2026 01:06:35 +0000",
-            "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits"
+            "title": "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
+            "summary": "Article URL: https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/\nComments URL: https://news.ycombinator.com/item?id=47497679\nPoints: 31\n# Comments: 30",
+            "time": "Tue, 24 Mar 2026 01:42:38 +0000",
+            "url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
         },
         {
             "source": "Hacker News",
-            "title": "Department of State advises Americans worldwide to exercise increased caution",
-            "summary": "Article URL: https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html\nComments URL: https://news.ycombinator.com/item?id=47484208\nPoints: 123\n# Comments:...",
-            "time": "Mon, 23 Mar 2026 01:02:56 +0000",
-            "url": "https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html"
+            "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
+            "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink\nComments URL: https://news.ycombinator.com/item?id=47496583\nPoints: 37\n# Comme...",
+            "time": "Mon, 23 Mar 2026 23:32:17 +0000",
+            "url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
         },
         {
             "source": "Hacker News",
-            "title": "Migrating the American Express Payment Network, Twice",
-            "summary": "Article URL: https://americanexpress.io/migrating-the-payments-network-twice/\nComments URL: https://news.ycombinator.com/item?id=47483830\nPoints: 12\n# Comments: 1",
-            "time": "Mon, 23 Mar 2026 00:15:10 +0000",
-            "url": "https://americanexpress.io/migrating-the-payments-network-twice/"
+            "title": "Pentagon Adopts New Limits for Journalists After Court Loss",
+            "summary": "Article URL: https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html\nComments URL: https://news.ycombinator.com/item?id=47496305\nPoints: 55\n# Comments: 15",
+            "time": "Mon, 23 Mar 2026 23:02:01 +0000",
+            "url": "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html"
         }
     ]
 }
