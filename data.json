@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-25 10:47:24",
+    "updated_at": "2026-03-26 10:54:01",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Robinhood reloads stock repurchase plan to $1.5 billion as shares continue in downtrend",
-            "summary": "Riding the crypto boom to become one of the 2025's hottest stocks, HOOD has shed more than 50% of its value since bitcoin topped in early October.",
-            "time": "Tue, 24 Mar 2026 20:59:40 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/24/robinhood-stock-rises-after-usd1-5-billion-buyback-as-shares-stay-under-pressure"
+            "title": "Market structure bill compromise draws wide-ranging reaction from fractured crypto crowd",
+            "summary": "The yield agreement, seen as a step toward finally advancing the stalled market structure bill, hasn't yet fully won industry support.",
+            "time": "Wed, 25 Mar 2026 23:11:42 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/25/market-structure-bill-compromise-draws-wide-ranging-reaction-from-fractured-crypto-crowd"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin jolted modestly higher on Iran ceasefire report; oil tumbles 4%",
-            "summary": "An Israeli TV report said a one-month ceasefire could be announced soon.",
-            "time": "Tue, 24 Mar 2026 20:48:11 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-jolted-modestly-higher-on-iran-ceasefire-report-oil-tumbles-4"
+            "title": "Elon Musk's X hires crypto-savvy design lead as X Money payments push inches closer",
+            "summary": "Benji Taylor, former CPO at Aave Labs and design head at Coinbase's Base, brings self-custody wallet and DeFi product experience to the social media platform.",
+            "time": "Wed, 25 Mar 2026 20:54:45 +0000",
+            "url": "https://www.coindesk.com/business/2026/03/25/elon-musk-s-x-hires-crypto-savvy-design-lead-as-x-money-payments-push-inches-closer"
         },
         {
             "source": "CoinDesk",
-            "title": "BlackRock sees AI driving crypto’s next bull phase as altcoin interest fades",
-            "summary": "The asset management giant's Robbie Mitchnic said clients are focused on bitcoin, ether and only a few other tokens, and aren't looking for broad exposure. Rather, they see opportunity for crypto in a...",
-            "time": "Tue, 24 Mar 2026 20:17:06 +0000",
-            "url": "https://www.coindesk.com/business/2026/03/24/blackrock-flags-ai-as-crypto-s-next-big-use-case-not-token-boom"
+            "title": "BitGo teams with ZKsync to build tokenized deposit infrastructure to bring banks onchain",
+            "summary": "Now in testing, the platform aims to enable programmable payments and simplify blockchain adoption for financial institutions.",
+            "time": "Wed, 25 Mar 2026 20:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/03/25/bitgo-teams-with-zksync-to-build-tokenized-deposit-infrastructure-to-bring-banks-onchain"
         },
         {
             "source": "Hacker News",
-            "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
-            "summary": "Article URL: https://spectrum.ieee.org/data-center-dc\nComments URL: https://news.ycombinator.com/item?id=47511703\nPoints: 76\n# Comments: 63",
-            "time": "Wed, 25 Mar 2026 00:44:55 +0000",
-            "url": "https://spectrum.ieee.org/data-center-dc"
+            "title": "False claims in a widely-cited paper. No corrections. No consequences",
+            "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82...",
+            "time": "Thu, 26 Mar 2026 00:46:31 +0000",
+            "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259"
         },
         {
             "source": "Hacker News",
-            "title": "Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types",
-            "summary": "Article URL: https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/\nComments URL: https://news.ycombinator.com/item?id=47511631\n...",
-            "time": "Wed, 25 Mar 2026 00:36:46 +0000",
-            "url": "https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/"
+            "title": "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
+            "summary": "Article URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780\nComments URL: https://news.ycombinator.com/item?id=47524719\nPoints: 92\n# Comments: 38",
+            "time": "Wed, 25 Mar 2026 23:30:55 +0000",
+            "url": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780"
         },
         {
             "source": "Hacker News",
-            "title": "Flighty Airports",
-            "summary": "Article URL: https://flighty.com/airports\nComments URL: https://news.ycombinator.com/item?id=47511589\nPoints: 86\n# Comments: 29",
-            "time": "Wed, 25 Mar 2026 00:29:45 +0000",
-            "url": "https://flighty.com/airports"
+            "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+            "summary": "Article URL: https://lab.puga.com.br/cog/\nComments URL: https://news.ycombinator.com/item?id=47524704\nPoints: 30\n# Comments: 15",
+            "time": "Wed, 25 Mar 2026 23:29:13 +0000",
+            "url": "https://lab.puga.com.br/cog/"
         }
     ]
 }
