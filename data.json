@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-26 10:54:01",
+    "updated_at": "2026-03-27 10:56:42",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Market structure bill compromise draws wide-ranging reaction from fractured crypto crowd",
-            "summary": "The yield agreement, seen as a step toward finally advancing the stalled market structure bill, hasn't yet fully won industry support.",
-            "time": "Wed, 25 Mar 2026 23:11:42 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/25/market-structure-bill-compromise-draws-wide-ranging-reaction-from-fractured-crypto-crowd"
+            "title": "White House crypto czar David Sacks transfers to presidential advisory committee role",
+            "summary": "White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.",
+            "time": "Fri, 27 Mar 2026 00:11:26 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/26/white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee-role"
         },
         {
             "source": "CoinDesk",
-            "title": "Elon Musk's X hires crypto-savvy design lead as X Money payments push inches closer",
-            "summary": "Benji Taylor, former CPO at Aave Labs and design head at Coinbase's Base, brings self-custody wallet and DeFi product experience to the social media platform.",
-            "time": "Wed, 25 Mar 2026 20:54:45 +0000",
-            "url": "https://www.coindesk.com/business/2026/03/25/elon-musk-s-x-hires-crypto-savvy-design-lead-as-x-money-payments-push-inches-closer"
+            "title": "Top Democrat on House committee questions Kraken's Federal Reserve account",
+            "summary": "Maxine Waters, who would likely take the House Financial Services Committee gavel again if Democrats win the House, sent a letter to the Kansas City Fed.",
+            "time": "Thu, 26 Mar 2026 22:17:35 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/26/top-democrat-on-house-committee-questions-kraken-s-federal-reserve-account"
         },
         {
             "source": "CoinDesk",
-            "title": "BitGo teams with ZKsync to build tokenized deposit infrastructure to bring banks onchain",
-            "summary": "Now in testing, the platform aims to enable programmable payments and simplify blockchain adoption for financial institutions.",
-            "time": "Wed, 25 Mar 2026 20:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/03/25/bitgo-teams-with-zksync-to-build-tokenized-deposit-infrastructure-to-bring-banks-onchain"
+            "title": "Crypto edges off of worst levels after Trump extends Iran strike pause",
+            "summary": "It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.",
+            "time": "Thu, 26 Mar 2026 21:03:57 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause"
         },
         {
             "source": "Hacker News",
-            "title": "False claims in a widely-cited paper. No corrections. No consequences",
-            "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82...",
-            "time": "Thu, 26 Mar 2026 00:46:31 +0000",
-            "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259"
+            "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+            "summary": "Article URL: https://www.symbolica.ai/blog/arc-agi-3\nComments URL: https://news.ycombinator.com/item?id=47538078\nPoints: 13\n# Comments: 6",
+            "time": "Fri, 27 Mar 2026 01:32:10 +0000",
+            "url": "https://www.symbolica.ai/blog/arc-agi-3"
         },
         {
             "source": "Hacker News",
-            "title": "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
-            "summary": "Article URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780\nComments URL: https://news.ycombinator.com/item?id=47524719\nPoints: 92\n# Comments: 38",
-            "time": "Wed, 25 Mar 2026 23:30:55 +0000",
-            "url": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780"
+            "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+            "summary": "Article URL: https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk\nComments URL: https://news.ycombinator.com/item?id=47537228\nPoints: 209\n# Comments: 132",
+            "time": "Thu, 26 Mar 2026 23:33:53 +0000",
+            "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-            "summary": "Article URL: https://lab.puga.com.br/cog/\nComments URL: https://news.ycombinator.com/item?id=47524704\nPoints: 30\n# Comments: 15",
-            "time": "Wed, 25 Mar 2026 23:29:13 +0000",
-            "url": "https://lab.puga.com.br/cog/"
+            "title": "Chicago artist creates tourism posters for city's neighborhoods",
+            "summary": "Article URL: https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/\nComments URL: https://news.ycombinator.com/item?id=47537106\nPoints: 60\n# Comments: 28",
+            "time": "Thu, 26 Mar 2026 23:18:38 +0000",
+            "url": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/"
         }
     ]
 }
