@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-27 10:56:42",
+    "updated_at": "2026-03-28 10:46:05",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "White House crypto czar David Sacks transfers to presidential advisory committee role",
-            "summary": "White House AI and Crypto Czar David Sacks said Thursday he was joining the President’s Council of Advisors on Science and Technology and leaving the czar role.",
-            "time": "Fri, 27 Mar 2026 00:11:26 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/26/white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee-role"
+            "title": "Bitcoin miners are becoming AI companies and selling their BTC to fund the transition",
+            "summary": "The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts,...",
+            "time": "Sat, 28 Mar 2026 02:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-miners-are-becoming-ai-companies-and-selling-their-btc-to-fund-the-transition"
         },
         {
             "source": "CoinDesk",
-            "title": "Top Democrat on House committee questions Kraken's Federal Reserve account",
-            "summary": "Maxine Waters, who would likely take the House Financial Services Committee gavel again if Democrats win the House, sent a letter to the Kansas City Fed.",
-            "time": "Thu, 26 Mar 2026 22:17:35 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/26/top-democrat-on-house-committee-questions-kraken-s-federal-reserve-account"
+            "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
+            "summary": "The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.",
+            "time": "Fri, 27 Mar 2026 20:21:43 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto edges off of worst levels after Trump extends Iran strike pause",
-            "summary": "It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.",
-            "time": "Thu, 26 Mar 2026 21:03:57 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause"
+            "title": "Why Mastercard paid double for stablecoin infrastructure it could have built",
+            "summary": "The credit card giant’s pricey payment to buy stablecoin platform, BVNK, says more than any strategy deck or earnings call ever could.",
+            "time": "Fri, 27 Mar 2026 16:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built"
         },
         {
             "source": "Hacker News",
-            "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-            "summary": "Article URL: https://www.symbolica.ai/blog/arc-agi-3\nComments URL: https://news.ycombinator.com/item?id=47538078\nPoints: 13\n# Comments: 6",
-            "time": "Fri, 27 Mar 2026 01:32:10 +0000",
-            "url": "https://www.symbolica.ai/blog/arc-agi-3"
+            "title": "Fear and denial in Silicon Valley over social media addiction trial",
+            "summary": "Article URL: https://www.bbc.com/news/articles/c86e3eglv2go\nComments URL: https://news.ycombinator.com/item?id=47550726\nPoints: 43\n# Comments: 27",
+            "time": "Sat, 28 Mar 2026 01:50:19 +0000",
+            "url": "https://www.bbc.com/news/articles/c86e3eglv2go"
         },
         {
             "source": "Hacker News",
-            "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
-            "summary": "Article URL: https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk\nComments URL: https://news.ycombinator.com/item?id=47537228\nPoints: 209\n# Comments: 132",
-            "time": "Thu, 26 Mar 2026 23:33:53 +0000",
-            "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk"
+            "title": "Don't YOLO your file system",
+            "summary": "Article URL: https://jai.scs.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=47550282\nPoints: 48\n# Comments: 33",
+            "time": "Sat, 28 Mar 2026 00:39:54 +0000",
+            "url": "https://jai.scs.stanford.edu/"
         },
         {
             "source": "Hacker News",
-            "title": "Chicago artist creates tourism posters for city's neighborhoods",
-            "summary": "Article URL: https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/\nComments URL: https://news.ycombinator.com/item?id=47537106\nPoints: 60\n# Comments: 28",
-            "time": "Thu, 26 Mar 2026 23:18:38 +0000",
-            "url": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/"
+            "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+            "summary": "Hey HN, I re-launched an old site I remembered back in the day that someone made called twitchroulette.net with a lot of new features and stats and I would love for people to check it out. The idea is...",
+            "time": "Fri, 27 Mar 2026 22:22:20 +0000",
+            "url": "https://twitchroulette.net/"
         }
     ]
 }
