@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-28 10:46:05",
+    "updated_at": "2026-03-29 11:19:11",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin miners are becoming AI companies and selling their BTC to fund the transition",
-            "summary": "The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts,...",
-            "time": "Sat, 28 Mar 2026 02:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-miners-are-becoming-ai-companies-and-selling-their-btc-to-fund-the-transition"
+            "title": "Crypto needs a reset before the next bull run",
+            "summary": "The industry’s most significant opportunities are being forged during this period of uncomfortable volatility. Here’s why, argues Grider.",
+            "time": "Sat, 28 Mar 2026 18:27:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/03/28/crypto-needs-a-reset-before-the-next-bull-run"
         },
         {
             "source": "CoinDesk",
-            "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
-            "summary": "The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.",
-            "time": "Fri, 27 Mar 2026 20:21:43 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee"
+            "title": "Washington sues Kalshi as states ramp up legal pressure against prediction markets",
+            "summary": "The Washington state attorney general alleged Kalshi offers \"gambling products\" products dressed up as prediction markets in a lawsuit Friday.",
+            "time": "Sat, 28 Mar 2026 17:43:47 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/28/washington-sues-kalshi-as-states-ramp-up-legal-pressure-against-prediction-markets"
         },
         {
             "source": "CoinDesk",
-            "title": "Why Mastercard paid double for stablecoin infrastructure it could have built",
-            "summary": "The credit card giant’s pricey payment to buy stablecoin platform, BVNK, says more than any strategy deck or earnings call ever could.",
-            "time": "Fri, 27 Mar 2026 16:30:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built"
+            "title": "Kalshi secures license to offer margin trading to institutional investors",
+            "summary": "Margin feature is a departure from traditional prediction markets, which typically require fully collateralized positions, and comes as the industry sees growing trading volumes and investment.",
+            "time": "Sat, 28 Mar 2026 17:06:48 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/28/kalshi-secures-license-to-offer-margin-trading-to-institutional-investors"
         },
         {
             "source": "Hacker News",
-            "title": "Fear and denial in Silicon Valley over social media addiction trial",
-            "summary": "Article URL: https://www.bbc.com/news/articles/c86e3eglv2go\nComments URL: https://news.ycombinator.com/item?id=47550726\nPoints: 43\n# Comments: 27",
-            "time": "Sat, 28 Mar 2026 01:50:19 +0000",
-            "url": "https://www.bbc.com/news/articles/c86e3eglv2go"
+            "title": "Will the AI data centre boom become a $9T bust?",
+            "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723\nComments URL: https://news.ycombinator.com/item?id=47559948\nPoints: 12\n# Comments: 3",
+            "time": "Sun, 29 Mar 2026 02:35:59 +0000",
+            "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
         },
         {
             "source": "Hacker News",
-            "title": "Don't YOLO your file system",
-            "summary": "Article URL: https://jai.scs.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=47550282\nPoints: 48\n# Comments: 33",
-            "time": "Sat, 28 Mar 2026 00:39:54 +0000",
-            "url": "https://jai.scs.stanford.edu/"
+            "title": "Show HN: PeriodicTableOfElements.org",
+            "summary": "Article URL: https://periodictableofelements.org/?lang=en\nComments URL: https://news.ycombinator.com/item?id=47559509\nPoints: 7\n# Comments: 0",
+            "time": "Sun, 29 Mar 2026 00:59:45 +0000",
+            "url": "https://periodictableofelements.org/?lang=en"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-            "summary": "Hey HN, I re-launched an old site I remembered back in the day that someone made called twitchroulette.net with a lot of new features and stats and I would love for people to check it out. The idea is...",
-            "time": "Fri, 27 Mar 2026 22:22:20 +0000",
-            "url": "https://twitchroulette.net/"
+            "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+            "summary": "Article URL: https://www.bmj.com/content/387/bmj-2024-082194\nComments URL: https://news.ycombinator.com/item?id=47559481\nPoints: 44\n# Comments: 20",
+            "time": "Sun, 29 Mar 2026 00:53:30 +0000",
+            "url": "https://www.bmj.com/content/387/bmj-2024-082194"
         }
     ]
 }
