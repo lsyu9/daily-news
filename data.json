@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-29 11:19:11",
+    "updated_at": "2026-03-30 11:22:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto needs a reset before the next bull run",
-            "summary": "The industry’s most significant opportunities are being forged during this period of uncomfortable volatility. Here’s why, argues Grider.",
-            "time": "Sat, 28 Mar 2026 18:27:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/03/28/crypto-needs-a-reset-before-the-next-bull-run"
+            "title": "Stablecoin payments go 'invisible' in Southeast Asia as crypto card business surges",
+            "summary": "StraitsX, a Singapore-based company, has seen rapid growth in its stablecoin card program, with a 40x surge in transaction volume and an 83x increase in card issuance between 2024 and 2025.",
+            "time": "Sun, 29 Mar 2026 19:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/03/29/stablecoin-payments-go-invisible-in-southeast-asia-as-crypto-card-business-surges"
         },
         {
             "source": "CoinDesk",
-            "title": "Washington sues Kalshi as states ramp up legal pressure against prediction markets",
-            "summary": "The Washington state attorney general alleged Kalshi offers \"gambling products\" products dressed up as prediction markets in a lawsuit Friday.",
-            "time": "Sat, 28 Mar 2026 17:43:47 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/28/washington-sues-kalshi-as-states-ramp-up-legal-pressure-against-prediction-markets"
+            "title": "Strategy may have paused bitcoin accumulation last week, ending a thirteen week buying streak",
+            "summary": "The company seemed to have skipped its weekly bitcoin purchase announcement for the first time since late December.",
+            "time": "Sun, 29 Mar 2026 18:31:48 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak"
         },
         {
             "source": "CoinDesk",
-            "title": "Kalshi secures license to offer margin trading to institutional investors",
-            "summary": "Margin feature is a departure from traditional prediction markets, which typically require fully collateralized positions, and comes as the industry sees growing trading volumes and investment.",
-            "time": "Sat, 28 Mar 2026 17:06:48 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/28/kalshi-secures-license-to-offer-margin-trading-to-institutional-investors"
+            "title": "No one is 100% happy with the stablecoin yield agreement: State of Crypto",
+            "summary": "The crypto and banking industries saw Senators Alsobrooks and Tillis' agreement-in-principle for stablecoin yield.",
+            "time": "Sun, 29 Mar 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/03/29/no-one-is-100-happy-with-the-stablecoin-yield-agreement-state-of-crypto"
         },
         {
             "source": "Hacker News",
-            "title": "Will the AI data centre boom become a $9T bust?",
-            "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723\nComments URL: https://news.ycombinator.com/item?id=47559948\nPoints: 12\n# Comments: 3",
-            "time": "Sun, 29 Mar 2026 02:35:59 +0000",
-            "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
+            "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+            "summary": "Article URL: https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9\nComments URL: https://news.ycombinator.com/item?id=47569837\nPoints: 10\n# Comments: 3",
+            "time": "Mon, 30 Mar 2026 02:43:17 +0000",
+            "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: PeriodicTableOfElements.org",
-            "summary": "Article URL: https://periodictableofelements.org/?lang=en\nComments URL: https://news.ycombinator.com/item?id=47559509\nPoints: 7\n# Comments: 0",
-            "time": "Sun, 29 Mar 2026 00:59:45 +0000",
-            "url": "https://periodictableofelements.org/?lang=en"
+            "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+            "summary": "Article URL: https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/\nComments URL: https://news.ycombinator.com/item?id=47569502\nPoints: 74\n# Comments: 11",
+            "time": "Mon, 30 Mar 2026 01:43:20 +0000",
+            "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/"
         },
         {
             "source": "Hacker News",
-            "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
-            "summary": "Article URL: https://www.bmj.com/content/387/bmj-2024-082194\nComments URL: https://news.ycombinator.com/item?id=47559481\nPoints: 44\n# Comments: 20",
-            "time": "Sun, 29 Mar 2026 00:53:30 +0000",
-            "url": "https://www.bmj.com/content/387/bmj-2024-082194"
+            "title": "Philly courts will ban all smart eyeglasses starting next week",
+            "summary": "Article URL: https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html\nComments URL: https://news.ycombinator.com/item?id=47569471\nPoints: 83\n# Comments: 31",
+            "time": "Mon, 30 Mar 2026 01:38:17 +0000",
+            "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html"
         }
     ]
 }
