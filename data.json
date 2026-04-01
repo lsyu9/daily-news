@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-03-31 10:55:30",
+    "updated_at": "2026-04-01 11:26:20",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. rule change may open trillions in 401(k) funds to crypto",
-            "summary": "The Labor Department on Monday proposed a rule following an executive order from President Donald Trump that directed regulators to expand access to digital assets in retirement portfolios.",
-            "time": "Mon, 30 Mar 2026 22:00:08 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/30/u-s-rule-change-may-open-trillions-in-401-k-funds-to-crypto"
+            "title": "Hong Kong hasn’t issued a single HKD stablecoin license after March target",
+            "summary": "Officials flagged March for initial approvals, but licensing has yet to begin with no updated timeline",
+            "time": "Wed, 01 Apr 2026 03:13:52 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/01/hong-kong-hasn-t-issued-a-single-hkd-stablecoin-license-after-march-target"
         },
         {
             "source": "CoinDesk",
-            "title": "Democrats urge warnings to federal officials against insider bets on prediction markets",
-            "summary": "Members of the House and Senate asked the CFTC and federal ethics office to remind government employees it's illegal to make insider derivatives trades.",
-            "time": "Mon, 30 Mar 2026 21:37:35 +0000",
-            "url": "https://www.coindesk.com/policy/2026/03/30/democrats-urge-warnings-to-federal-officials-against-insider-bets-on-prediction-markets"
+            "title": "Bitcoin is closer to its 'buy zone' than it's been in three years",
+            "summary": "The gap between bitcoin's spot price and realized price is compressing toward levels that historically marked cycle bottoms, but the on-chain data shows the capitulation that typically precedes those ...",
+            "time": "Wed, 01 Apr 2026 03:13:01 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-is-closer-to-its-buy-zone-than-it-s-been-in-three-years"
         },
         {
             "source": "CoinDesk",
-            "title": "Why Consensus is crypto’s new ground zero",
-            "summary": "A decade of building is paying off. Massive Institutional presence, deep focus on agentic commerce make the event in Miami one for the ages.",
-            "time": "Mon, 30 Mar 2026 21:02:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/03/30/why-consensus-is-crypto-s-new-ground-zero"
+            "title": "Bitcoin enters the public bond market as Moody’s gives a first-of-its-kind crypto deal a rating",
+            "summary": "A New Hampshire state authority is set to issue a first-of-its-kind bitcoin-backed bond with a Ba2 rating, marking an early test of how crypto can function as collateral inside traditional public fina...",
+            "time": "Tue, 31 Mar 2026 22:58:55 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-enters-the-public-bond-market-as-moody-s-gives-a-first-of-its-kind-crypto-deal-a-rating"
         },
         {
             "source": "Hacker News",
-            "title": "Incident March 30th, 2026 – Accidental CDN Caching",
-            "summary": "Article URL: https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching\nComments URL: https://news.ycombinator.com/item?id=47581721\nPoints: 17\n# Comments: 3",
-            "time": "Tue, 31 Mar 2026 01:28:18 +0000",
-            "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching"
+            "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
+            "summary": "Article URL: https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/\nComments URL: https://news.ycombinator.com/item?id=47595971\nPoints: 47\n# Comments...",
+            "time": "Wed, 01 Apr 2026 02:14:42 +0000",
+            "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/"
         },
         {
             "source": "Hacker News",
-            "title": "Universal Claude.md – cut Claude output tokens by 63%",
-            "summary": "Article URL: https://github.com/drona23/claude-token-efficient\nComments URL: https://news.ycombinator.com/item?id=47581701\nPoints: 71\n# Comments: 35",
-            "time": "Tue, 31 Mar 2026 01:23:34 +0000",
-            "url": "https://github.com/drona23/claude-token-efficient"
+            "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+            "summary": "Article URL: https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/\nComments URL: https://news.ycombinator.com/item?id=47595865\nPoints: 86\n# Comments: 26",
+            "time": "Wed, 01 Apr 2026 01:58:45 +0000",
+            "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"
         },
         {
             "source": "Hacker News",
-            "title": "Android Developer Verification",
-            "summary": "Article URL: https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html\nComments URL: https://news.ycombinator.com/item?id=47580297\nPoints: 161...",
-            "time": "Mon, 30 Mar 2026 22:05:21 +0000",
-            "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html"
+            "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+            "summary": "Article URL: https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security\nComments URL: https://news.ycombinator.com/item?id=47595620\nPoints: 137\n# Comments: 53",
+            "time": "Wed, 01 Apr 2026 01:18:51 +0000",
+            "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security"
         }
     ]
 }
