@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-01 11:26:20",
+    "updated_at": "2026-04-02 10:52:00",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Hong Kong hasn’t issued a single HKD stablecoin license after March target",
-            "summary": "Officials flagged March for initial approvals, but licensing has yet to begin with no updated timeline",
-            "time": "Wed, 01 Apr 2026 03:13:52 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/01/hong-kong-hasn-t-issued-a-single-hkd-stablecoin-license-after-march-target"
+            "title": "Citadel-backed EDX Markets applies for U.S. trust charter to expand institutional crypto services",
+            "summary": "The Citadel-backed exchange is seeking approval to offer custody and asset services as institutional demand grows.",
+            "time": "Wed, 01 Apr 2026 19:36:22 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/01/citadel-backed-edx-markets-applies-for-u-s-trust-charter-to-expand-institutional-crypto-services"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin is closer to its 'buy zone' than it's been in three years",
-            "summary": "The gap between bitcoin's spot price and realized price is compressing toward levels that historically marked cycle bottoms, but the on-chain data shows the capitulation that typically precedes those ...",
-            "time": "Wed, 01 Apr 2026 03:13:01 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-is-closer-to-its-buy-zone-than-it-s-been-in-three-years"
+            "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
+            "summary": "The platform halted deposits while it investigates suspicious activity and urges users to proceed with caution.",
+            "time": "Wed, 01 Apr 2026 18:35:27 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin enters the public bond market as Moody’s gives a first-of-its-kind crypto deal a rating",
-            "summary": "A New Hampshire state authority is set to issue a first-of-its-kind bitcoin-backed bond with a Ba2 rating, marking an early test of how crypto can function as collateral inside traditional public fina...",
-            "time": "Tue, 31 Mar 2026 22:58:55 +0000",
-            "url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-enters-the-public-bond-market-as-moody-s-gives-a-first-of-its-kind-crypto-deal-a-rating"
+            "title": "Galaxy Digital's testnet suffers hack but no client funds or information were compromised",
+            "summary": "Mike Novogratz’s crypto financial services firm said unauthorized access was limited to a segregated R&D workspace; trading systems and client accounts were unaffected.",
+            "time": "Wed, 01 Apr 2026 17:48:13 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/01/galaxy-digital-suffers-hack-but-no-client-funds-or-information-were-compromised"
         },
         {
             "source": "Hacker News",
-            "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
-            "summary": "Article URL: https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/\nComments URL: https://news.ycombinator.com/item?id=47595971\nPoints: 47\n# Comments...",
-            "time": "Wed, 01 Apr 2026 02:14:42 +0000",
-            "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/"
+            "title": "Trinity Large Thinking",
+            "summary": "Article URL: https://openrouter.ai/arcee-ai/trinity-large-thinking\nComments URL: https://news.ycombinator.com/item?id=47609241\nPoints: 3\n# Comments: 2",
+            "time": "Thu, 02 Apr 2026 02:15:28 +0000",
+            "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking"
         },
         {
             "source": "Hacker News",
-            "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
-            "summary": "Article URL: https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/\nComments URL: https://news.ycombinator.com/item?id=47595865\nPoints: 86\n# Comments: 26",
-            "time": "Wed, 01 Apr 2026 01:58:45 +0000",
-            "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"
+            "title": "Quantum computing bombshells that are not April Fools",
+            "summary": "Article URL: https://scottaaronson.blog/?p=9665\nComments URL: https://news.ycombinator.com/item?id=47608495\nPoints: 39\n# Comments: 1",
+            "time": "Thu, 02 Apr 2026 00:24:43 +0000",
+            "url": "https://scottaaronson.blog/?p=9665"
         },
         {
             "source": "Hacker News",
-            "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-            "summary": "Article URL: https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security\nComments URL: https://news.ycombinator.com/item?id=47595620\nPoints: 137\n# Comments: 53",
-            "time": "Wed, 01 Apr 2026 01:18:51 +0000",
-            "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security"
+            "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+            "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/\nComments URL: https://news.ycombinator.com/item?id=47608155\nPoints: 49\n# Comments:...",
+            "time": "Wed, 01 Apr 2026 23:45:03 +0000",
+            "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
         }
     ]
 }
