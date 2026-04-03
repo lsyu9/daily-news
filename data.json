@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-02 10:52:00",
+    "updated_at": "2026-04-03 10:54:17",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Citadel-backed EDX Markets applies for U.S. trust charter to expand institutional crypto services",
-            "summary": "The Citadel-backed exchange is seeking approval to offer custody and asset services as institutional demand grows.",
-            "time": "Wed, 01 Apr 2026 19:36:22 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/01/citadel-backed-edx-markets-applies-for-u-s-trust-charter-to-expand-institutional-crypto-services"
+            "title": "Todd Blanche, author of DOJ crypto enforcement memo, is now interim AG",
+            "summary": "U.S. President Donald Trump named Todd Blanche, his former personal attorney and deputy attorney general, as the interim top prosecutor.",
+            "time": "Fri, 03 Apr 2026 00:28:27 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/02/todd-blanche-author-of-doj-crypto-enforcement-memo-now-interim-ag"
         },
         {
             "source": "CoinDesk",
-            "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
-            "summary": "The platform halted deposits while it investigates suspicious activity and urges users to proceed with caution.",
-            "time": "Wed, 01 Apr 2026 18:35:27 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits"
+            "title": "Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week",
+            "summary": "Crypto and banking industry representatives are viewing revised stablecoin yield compromise language this week.",
+            "time": "Thu, 02 Apr 2026 22:12:10 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week"
         },
         {
             "source": "CoinDesk",
-            "title": "Galaxy Digital's testnet suffers hack but no client funds or information were compromised",
-            "summary": "Mike Novogratz’s crypto financial services firm said unauthorized access was limited to a segregated R&D workspace; trading systems and client accounts were unaffected.",
-            "time": "Wed, 01 Apr 2026 17:48:13 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/01/galaxy-digital-suffers-hack-but-no-client-funds-or-information-were-compromised"
+            "title": "Here’s why bitcoin’s drop below $68,000 raises the risk of a crash under $60,000",
+            "summary": "The negative gamma zone below $68,000 can trigger a self-reinforcing sell-off, leading to an ever larger slump.",
+            "time": "Thu, 02 Apr 2026 18:27:29 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/02/here-s-why-bitcoin-s-drop-below-usd68-000-puts-it-at-risk-of-a-crash-under-usd60-000"
         },
         {
             "source": "Hacker News",
-            "title": "Trinity Large Thinking",
-            "summary": "Article URL: https://openrouter.ai/arcee-ai/trinity-large-thinking\nComments URL: https://news.ycombinator.com/item?id=47609241\nPoints: 3\n# Comments: 2",
-            "time": "Thu, 02 Apr 2026 02:15:28 +0000",
-            "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking"
+            "title": "Post Mortem: axios NPM supply chain compromise",
+            "summary": "Article URL: https://github.com/axios/axios/issues/10636\nComments URL: https://news.ycombinator.com/item?id=47621792\nPoints: 27\n# Comments: 10",
+            "time": "Fri, 03 Apr 2026 00:00:19 +0000",
+            "url": "https://github.com/axios/axios/issues/10636"
         },
         {
             "source": "Hacker News",
-            "title": "Quantum computing bombshells that are not April Fools",
-            "summary": "Article URL: https://scottaaronson.blog/?p=9665\nComments URL: https://news.ycombinator.com/item?id=47608495\nPoints: 39\n# Comments: 1",
-            "time": "Thu, 02 Apr 2026 00:24:43 +0000",
-            "url": "https://scottaaronson.blog/?p=9665"
+            "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
+            "summary": "Article URL: https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/\nComments URL: https://news.ycombinator.com/item?id=47621518\nPoints: 8\n# Comments: 2",
+            "time": "Thu, 02 Apr 2026 23:26:01 +0000",
+            "url": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/"
         },
         {
             "source": "Hacker News",
-            "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-            "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/\nComments URL: https://news.ycombinator.com/item?id=47608155\nPoints: 49\n# Comments:...",
-            "time": "Wed, 01 Apr 2026 23:45:03 +0000",
-            "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
+            "title": "A Few Good Magazines From the 70s and 80s",
+            "summary": "Article URL: https://www.bi6.us/CO/MG.HTML\nComments URL: https://news.ycombinator.com/item?id=47621448\nPoints: 27\n# Comments: 5",
+            "time": "Thu, 02 Apr 2026 23:17:26 +0000",
+            "url": "https://www.bi6.us/CO/MG.HTML"
         }
     ]
 }
