@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-03 10:54:17",
+    "updated_at": "2026-04-04 10:44:51",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Todd Blanche, author of DOJ crypto enforcement memo, is now interim AG",
-            "summary": "U.S. President Donald Trump named Todd Blanche, his former personal attorney and deputy attorney general, as the interim top prosecutor.",
-            "time": "Fri, 03 Apr 2026 00:28:27 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/02/todd-blanche-author-of-doj-crypto-enforcement-memo-now-interim-ag"
+            "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
+            "summary": "Google's quantum paper made headlines with that number. Here's what it means, what's actually at risk, and why 6.9 million bitcoin are more exposed than the rest.",
+            "time": "Sat, 04 Apr 2026 02:30:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week",
-            "summary": "Crypto and banking industry representatives are viewing revised stablecoin yield compromise language this week.",
-            "time": "Thu, 02 Apr 2026 22:12:10 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week"
+            "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
+            "summary": "The financial services giant with almost $12 trillion in client assets is moving closer to direct crypto trading, offering subscription for early access to the Schwab Crypto account.",
+            "time": "Fri, 03 Apr 2026 19:18:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026"
         },
         {
             "source": "CoinDesk",
-            "title": "Here’s why bitcoin’s drop below $68,000 raises the risk of a crash under $60,000",
-            "summary": "The negative gamma zone below $68,000 can trigger a self-reinforcing sell-off, leading to an ever larger slump.",
-            "time": "Thu, 02 Apr 2026 18:27:29 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/02/here-s-why-bitcoin-s-drop-below-usd68-000-puts-it-at-risk-of-a-crash-under-usd60-000"
+            "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
+            "summary": "Prominent blockchain sleuth ZachXBT alleged faster action by Circle could have limited crypto losses, but freezing asset without legal authorization carries legal risks.",
+            "time": "Fri, 03 Apr 2026 19:02:51 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc"
         },
         {
             "source": "Hacker News",
-            "title": "Post Mortem: axios NPM supply chain compromise",
-            "summary": "Article URL: https://github.com/axios/axios/issues/10636\nComments URL: https://news.ycombinator.com/item?id=47621792\nPoints: 27\n# Comments: 10",
-            "time": "Fri, 03 Apr 2026 00:00:19 +0000",
-            "url": "https://github.com/axios/axios/issues/10636"
+            "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+            "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, ...",
+            "time": "Sat, 04 Apr 2026 02:26:42 +0000",
+            "url": "https://github.com/borski/travel-hacking-toolkit"
         },
         {
             "source": "Hacker News",
-            "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
-            "summary": "Article URL: https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/\nComments URL: https://news.ycombinator.com/item?id=47621518\nPoints: 8\n# Comments: 2",
-            "time": "Thu, 02 Apr 2026 23:26:01 +0000",
-            "url": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/"
+            "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+            "summary": "Article URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice\nComments URL: https://news.ycombinator.com/item?id=47633947\nPoints: ...",
+            "time": "Fri, 03 Apr 2026 23:56:32 +0000",
+            "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice"
         },
         {
             "source": "Hacker News",
-            "title": "A Few Good Magazines From the 70s and 80s",
-            "summary": "Article URL: https://www.bi6.us/CO/MG.HTML\nComments URL: https://news.ycombinator.com/item?id=47621448\nPoints: 27\n# Comments: 5",
-            "time": "Thu, 02 Apr 2026 23:17:26 +0000",
-            "url": "https://www.bi6.us/CO/MG.HTML"
+            "title": "How to Write Unmaintainable Code (1999)",
+            "summary": "Article URL: https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html\nComments URL: https://news.ycombinator.com/item?id=47633640\nPoints: 24\n# Comments: 7",
+            "time": "Fri, 03 Apr 2026 23:22:37 +0000",
+            "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html"
         }
     ]
 }
