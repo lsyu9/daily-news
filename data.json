@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-04 10:44:51",
+    "updated_at": "2026-04-05 11:20:56",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
-            "summary": "Google's quantum paper made headlines with that number. Here's what it means, what's actually at risk, and why 6.9 million bitcoin are more exposed than the rest.",
-            "time": "Sat, 04 Apr 2026 02:30:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean"
+            "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
+            "summary": "The study analyzed 60-day windows after economic or geopolitical shocks and found that Bitcoin posted stronger returns than gold and the S&P 500 in each period.",
+            "time": "Sat, 04 Apr 2026 18:56:03 +0000",
+            "url": "https://www.coindesk.com/markets/2026/03/30/bitcoin-tends-to-outperform-gold-and-stocks-after-global-shocks-mercado-bitcoin-finds"
         },
         {
             "source": "CoinDesk",
-            "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
-            "summary": "The financial services giant with almost $12 trillion in client assets is moving closer to direct crypto trading, offering subscription for early access to the Schwab Crypto account.",
-            "time": "Fri, 03 Apr 2026 19:18:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026"
+            "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
+            "summary": "Kwasi Kwarteng reflects on current UK market turmoil, fiscal “doom loop,” and his move into bitcoin with Stack BTC.",
+            "time": "Sat, 04 Apr 2026 17:00:23 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems"
         },
         {
             "source": "CoinDesk",
-            "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
-            "summary": "Prominent blockchain sleuth ZachXBT alleged faster action by Circle could have limited crypto losses, but freezing asset without legal authorization carries legal risks.",
-            "time": "Fri, 03 Apr 2026 19:02:51 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc"
+            "title": "Digital asset treasuries must now earn their keep",
+            "summary": "For treasuries to do so and stay competitive, Kiernan unpacks three broad strategies that are emerging.",
+            "time": "Sat, 04 Apr 2026 16:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/04/04/digital-asset-treasuries-must-now-earn-their-keep"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-            "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, ...",
-            "time": "Sat, 04 Apr 2026 02:26:42 +0000",
-            "url": "https://github.com/borski/travel-hacking-toolkit"
+            "title": "Introduction to Computer Music [pdf]",
+            "summary": "Article URL: https://composerprogrammer.com/introductiontocomputermusic.pdf\nComments URL: https://news.ycombinator.com/item?id=47645432\nPoints: 35\n# Comments: 9",
+            "time": "Sun, 05 Apr 2026 01:54:29 +0000",
+            "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf"
         },
         {
             "source": "Hacker News",
-            "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-            "summary": "Article URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice\nComments URL: https://news.ycombinator.com/item?id=47633947\nPoints: ...",
-            "time": "Fri, 03 Apr 2026 23:56:32 +0000",
-            "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice"
+            "title": "SpaceX Pushes Back Crucial Starship Test Launch",
+            "summary": "Article URL: https://www.wsj.com/business/spacex-pushes-back-crucial-starship-test-launch-e1fb91f5\nComments URL: https://news.ycombinator.com/item?id=47645240\nPoints: 7\n# Comments: 1",
+            "time": "Sun, 05 Apr 2026 01:19:49 +0000",
+            "url": "https://www.wsj.com/business/spacex-pushes-back-crucial-starship-test-launch-e1fb91f5"
         },
         {
             "source": "Hacker News",
-            "title": "How to Write Unmaintainable Code (1999)",
-            "summary": "Article URL: https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html\nComments URL: https://news.ycombinator.com/item?id=47633640\nPoints: 24\n# Comments: 7",
-            "time": "Fri, 03 Apr 2026 23:22:37 +0000",
-            "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html"
+            "title": "Isseven",
+            "summary": "Article URL: https://isseven.app/\nComments URL: https://news.ycombinator.com/item?id=47645168\nPoints: 36\n# Comments: 16",
+            "time": "Sun, 05 Apr 2026 01:05:19 +0000",
+            "url": "https://isseven.app/"
         }
     ]
 }
