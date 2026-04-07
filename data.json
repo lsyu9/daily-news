@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-06 11:24:22",
+    "updated_at": "2026-04-07 10:57:00",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "A simple explainer on what quantum computing actually is, and why it is terrifying for bitcoin",
-            "summary": "Most simplifies the complex process of quantum computing as \"it can be 0 and 1 at the same time.\" That is not an explanation for why it threatens Bitcoin. This is.",
-            "time": "Sun, 05 Apr 2026 20:03:22 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/05/a-simple-explainer-on-what-quantum-computing-actually-is-and-why-it-is-terrifying-for-bitcoin"
+            "title": "Bitcoin options market is quietly pricing a major downside move",
+            "summary": "Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.",
+            "time": "Mon, 06 Apr 2026 19:23:38 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move"
         },
         {
             "source": "CoinDesk",
-            "title": "Polymarket pulls controversial Iran rescue markets after intense backlash",
-            "summary": "Prediction markets face rising regulatory pressure, with congressional Democrats proposing legislation to ban contracts tied to elections, war and government actions.",
-            "time": "Sun, 05 Apr 2026 19:20:03 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/05/polymarket-pulls-controversial-iran-rescue-markets-after-intense-backlash"
+            "title": "Aave loses key risk manager, Chaos Labs, amid contributor exodus and disputes",
+            "summary": "A key sticking point is Aave’s V4 upgrade, which introduces a new architecture and significantly expands the scope of risk management.",
+            "time": "Mon, 06 Apr 2026 17:50:02 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/06/aave-loses-key-risk-manager-chaos-labs-amid-contributor-exodus-and-disputes"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
-            "summary": "Bitcoin's correlation with global central bank easing has turned strongly negative since 2024, suggesting BTC now leads rather than lags monetary policy signals.",
-            "time": "Sun, 05 Apr 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/05/bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cause"
+            "title": "Polymarket reveals a 'full exchange upgrade' to take control of its own trading and truth",
+            "summary": "The $20 billion prediction market is overhauling its infrastructure and launching a native stablecoin to streamline trading as it prepares for a major U.S. expansion.",
+            "time": "Mon, 06 Apr 2026 17:13:59 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/06/polymarket-reveals-a-full-exchange-upgrade-to-take-control-of-its-own-trading-and-truth"
         },
         {
             "source": "Hacker News",
-            "title": "LLMs can't justify their answers–this CLI forces them to",
-            "summary": "Article URL: https://wheat.grainulation.com/\nComments URL: https://news.ycombinator.com/item?id=47655721\nPoints: 4\n# Comments: 0",
-            "time": "Mon, 06 Apr 2026 01:07:51 +0000",
-            "url": "https://wheat.grainulation.com/"
+            "title": "Solod – A Subset of Go That Translates to C",
+            "summary": "Article URL: https://github.com/solod-dev/solod\nComments URL: https://news.ycombinator.com/item?id=47669337\nPoints: 31\n# Comments: 6",
+            "time": "Tue, 07 Apr 2026 00:48:01 +0000",
+            "url": "https://github.com/solod-dev/solod"
         },
         {
             "source": "Hacker News",
-            "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
-            "summary": "Article URL: https://apexstandard.org/\nComments URL: https://news.ycombinator.com/item?id=47655618\nPoints: 9\n# Comments: 2",
-            "time": "Mon, 06 Apr 2026 00:50:32 +0000",
-            "url": "https://apexstandard.org/"
+            "title": "After 20 years I turned off Google Adsense for my websites (2025)",
+            "summary": "Article URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm\nComments URL: https://news.ycombinator.com/item?id=47668727\nPoints: 126\n# Comm...",
+            "time": "Mon, 06 Apr 2026 23:23:28 +0000",
+            "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm"
         },
         {
             "source": "Hacker News",
-            "title": "Employers use your personal data to figure out the lowest salary you'll accept",
-            "summary": "Article URL: https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb\nComments URL: https://news.ycombinator.com/item?id=47655466\n...",
-            "time": "Mon, 06 Apr 2026 00:29:08 +0000",
-            "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb"
+            "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+            "summary": "Article URL: https://www.anthropic.com/news/google-broadcom-partnership-compute\nComments URL: https://news.ycombinator.com/item?id=47667717\nPoints: 158\n# Comments: 74",
+            "time": "Mon, 06 Apr 2026 21:52:08 +0000",
+            "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
         }
     ]
 }
