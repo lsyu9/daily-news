@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-07 10:57:00",
+    "updated_at": "2026-04-08 11:16:58",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin options market is quietly pricing a major downside move",
-            "summary": "Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.",
-            "time": "Mon, 06 Apr 2026 19:23:38 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move"
+            "title": "CZ says SBF asked for billions 'like a Bologna sandwich' as FTX collapsed",
+            "summary": "In his new memoir, Changpeng Zhao reveals he signed the FTX letter of intent as a formality and calls Caroline Ellison's $22 floor price offer a \"fatal mistake.\"",
+            "time": "Wed, 08 Apr 2026 00:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/07/cz-says-sbf-asked-for-billions-like-a-bologna-sandwich-as-ftx-collapsed"
         },
         {
             "source": "CoinDesk",
-            "title": "Aave loses key risk manager, Chaos Labs, amid contributor exodus and disputes",
-            "summary": "A key sticking point is Aave’s V4 upgrade, which introduces a new architecture and significantly expands the scope of risk management.",
-            "time": "Mon, 06 Apr 2026 17:50:02 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/06/aave-loses-key-risk-manager-chaos-labs-amid-contributor-exodus-and-disputes"
+            "title": "Bitcoin vaults past $72,000 as U.S. stock futures surge on a two‑week U.S.–Iran ceasefire",
+            "summary": "Risk assets rose late Tuesday as oil collapsed after Trump and Iran confirmed the two-week ceasefire.",
+            "time": "Tue, 07 Apr 2026 23:53:16 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/08/bitcoin-u-s-stock-futures-surge-on-a-two-week-u-s-iran-ceasefire"
         },
         {
             "source": "CoinDesk",
-            "title": "Polymarket reveals a 'full exchange upgrade' to take control of its own trading and truth",
-            "summary": "The $20 billion prediction market is overhauling its infrastructure and launching a native stablecoin to streamline trading as it prepares for a major U.S. expansion.",
-            "time": "Mon, 06 Apr 2026 17:13:59 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/06/polymarket-reveals-a-full-exchange-upgrade-to-take-control-of-its-own-trading-and-truth"
+            "title": "Bitcoin rises past $69,000 as risk markets reverse big early losses on hope for Iran deal",
+            "summary": "Iran's government is reportedly reviewing Pakistan's request for a two-week ceasefire positively, according to an Axios report.",
+            "time": "Tue, 07 Apr 2026 20:18:52 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-rises-past-usd69-000-as-risk-markets-reverse-big-early-losses-on-hope-for-iran-deal"
         },
         {
             "source": "Hacker News",
-            "title": "Solod – A Subset of Go That Translates to C",
-            "summary": "Article URL: https://github.com/solod-dev/solod\nComments URL: https://news.ycombinator.com/item?id=47669337\nPoints: 31\n# Comments: 6",
-            "time": "Tue, 07 Apr 2026 00:48:01 +0000",
-            "url": "https://github.com/solod-dev/solod"
+            "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+            "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html\nComments URL: https://news.ycombinator.com/item?id=47684326\nPoints: 75\n# Comments: 10",
+            "time": "Wed, 08 Apr 2026 02:41:12 +0000",
+            "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
         },
         {
             "source": "Hacker News",
-            "title": "After 20 years I turned off Google Adsense for my websites (2025)",
-            "summary": "Article URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm\nComments URL: https://news.ycombinator.com/item?id=47668727\nPoints: 126\n# Comm...",
-            "time": "Mon, 06 Apr 2026 23:23:28 +0000",
-            "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm"
+            "title": "JSIR: A High-Level IR for JavaScript",
+            "summary": "Article URL: https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456\nComments URL: https://news.ycombinator.com/item?id=47683376\nPoints: 16\n# Comments: 4",
+            "time": "Wed, 08 Apr 2026 00:59:05 +0000",
+            "url": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456"
         },
         {
             "source": "Hacker News",
-            "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-            "summary": "Article URL: https://www.anthropic.com/news/google-broadcom-partnership-compute\nComments URL: https://news.ycombinator.com/item?id=47667717\nPoints: 158\n# Comments: 74",
-            "time": "Mon, 06 Apr 2026 21:52:08 +0000",
-            "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+            "title": "Xilem – An experimental Rust native UI framework",
+            "summary": "Article URL: https://github.com/linebender/xilem\nComments URL: https://news.ycombinator.com/item?id=47682719\nPoints: 38\n# Comments: 4",
+            "time": "Tue, 07 Apr 2026 23:36:15 +0000",
+            "url": "https://github.com/linebender/xilem"
         }
     ]
 }
