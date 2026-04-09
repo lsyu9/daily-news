@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-08 11:16:58",
+    "updated_at": "2026-04-09 10:52:55",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "CZ says SBF asked for billions 'like a Bologna sandwich' as FTX collapsed",
-            "summary": "In his new memoir, Changpeng Zhao reveals he signed the FTX letter of intent as a formality and calls Caroline Ellison's $22 floor price offer a \"fatal mistake.\"",
-            "time": "Wed, 08 Apr 2026 00:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/07/cz-says-sbf-asked-for-billions-like-a-bologna-sandwich-as-ftx-collapsed"
+            "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
+            "summary": "Morgan Stanley’s low-fee bitcoin ETF debuted with strong early trading, signaling demand as competition shifts to cost and distribution.",
+            "time": "Wed, 08 Apr 2026 20:51:31 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin vaults past $72,000 as U.S. stock futures surge on a two‑week U.S.–Iran ceasefire",
-            "summary": "Risk assets rose late Tuesday as oil collapsed after Trump and Iran confirmed the two-week ceasefire.",
-            "time": "Tue, 07 Apr 2026 23:53:16 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/08/bitcoin-u-s-stock-futures-surge-on-a-two-week-u-s-iran-ceasefire"
+            "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
+            "summary": "Speaking at a Mizuho event, the Strategy (MSTR) executive chairman said the formation of banking credit pairing with digital credit will be the catalyst for the next bull market.",
+            "time": "Wed, 08 Apr 2026 18:35:47 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin rises past $69,000 as risk markets reverse big early losses on hope for Iran deal",
-            "summary": "Iran's government is reportedly reviewing Pakistan's request for a two-week ceasefire positively, according to an Axios report.",
-            "time": "Tue, 07 Apr 2026 20:18:52 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-rises-past-usd69-000-as-risk-markets-reverse-big-early-losses-on-hope-for-iran-deal"
+            "title": "Yuga Labs settles Bored Ape NFT lawsuit, ending fight over alleged copycat tokens",
+            "summary": "The settlement avoids a trial and ends the dispute over the RR/BAYC NFTs, which claimed to parody Bored Ape Yacht Club, one of the most recognizable NFT brands.",
+            "time": "Wed, 08 Apr 2026 17:16:52 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/08/yuga-labs-settles-bored-ape-nft-lawsuit-ending-fight-over-alleged-copycat-tokens"
         },
         {
             "source": "Hacker News",
-            "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-            "summary": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html\nComments URL: https://news.ycombinator.com/item?id=47684326\nPoints: 75\n# Comments: 10",
-            "time": "Wed, 08 Apr 2026 02:41:12 +0000",
-            "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html"
+            "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
+            "summary": "Article URL: https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire\nComments URL: https://news.ycombinator.com/item?id=47698082\nPoints: 30\n# Comments: 8",
+            "time": "Thu, 09 Apr 2026 00:55:46 +0000",
+            "url": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire"
         },
         {
             "source": "Hacker News",
-            "title": "JSIR: A High-Level IR for JavaScript",
-            "summary": "Article URL: https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456\nComments URL: https://news.ycombinator.com/item?id=47683376\nPoints: 16\n# Comments: 4",
-            "time": "Wed, 08 Apr 2026 00:59:05 +0000",
-            "url": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456"
+            "title": "LittleSnitch for Linux",
+            "summary": "Article URL: https://obdev.at/products/littlesnitch-linux/index.html\nComments URL: https://news.ycombinator.com/item?id=47697870\nPoints: 194\n# Comments: 70",
+            "time": "Thu, 09 Apr 2026 00:26:08 +0000",
+            "url": "https://obdev.at/products/littlesnitch-linux/index.html"
         },
         {
             "source": "Hacker News",
-            "title": "Xilem – An experimental Rust native UI framework",
-            "summary": "Article URL: https://github.com/linebender/xilem\nComments URL: https://news.ycombinator.com/item?id=47682719\nPoints: 38\n# Comments: 4",
-            "time": "Tue, 07 Apr 2026 23:36:15 +0000",
-            "url": "https://github.com/linebender/xilem"
+            "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+            "summary": "Article URL: https://thales.me/posts/why-i-built-snapstate/\nComments URL: https://news.ycombinator.com/item?id=47696760\nPoints: 21\n# Comments: 37",
+            "time": "Wed, 08 Apr 2026 21:53:36 +0000",
+            "url": "https://thales.me/posts/why-i-built-snapstate/"
         }
     ]
 }
