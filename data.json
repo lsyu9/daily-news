@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-09 10:52:55",
+    "updated_at": "2026-04-10 11:25:10",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
-            "summary": "Morgan Stanley’s low-fee bitcoin ETF debuted with strong early trading, signaling demand as competition shifts to cost and distribution.",
-            "time": "Wed, 08 Apr 2026 20:51:31 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one"
+            "title": "OKX and HashKey invest in new Vietnam exchange ahead of crypto licensing push",
+            "summary": "The partnership will help the exchange meet Vietnam's $380 million capital requirement to enter a government pilot program aimed at licensing local platforms and curbing offshore trading.",
+            "time": "Fri, 10 Apr 2026 02:35:25 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/10/okx-hashkey-back-usd380-million-vietnam-crypto-push-as-new-rules-near-rollout"
         },
         {
             "source": "CoinDesk",
-            "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
-            "summary": "Speaking at a Mizuho event, the Strategy (MSTR) executive chairman said the formation of banking credit pairing with digital credit will be the catalyst for the next bull market.",
-            "time": "Wed, 08 Apr 2026 18:35:47 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown"
+            "title": "Mythos AI threat prompts Bessent, Powell to convene bank CEOs for urgent talks",
+            "summary": "Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.",
+            "time": "Fri, 10 Apr 2026 02:03:54 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/10/mythos-ai-threat-sees-bessent-powell-call-urgent-meeting-with-bank-ceos"
         },
         {
             "source": "CoinDesk",
-            "title": "Yuga Labs settles Bored Ape NFT lawsuit, ending fight over alleged copycat tokens",
-            "summary": "The settlement avoids a trial and ends the dispute over the RR/BAYC NFTs, which claimed to parody Bored Ape Yacht Club, one of the most recognizable NFT brands.",
-            "time": "Wed, 08 Apr 2026 17:16:52 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/08/yuga-labs-settles-bored-ape-nft-lawsuit-ending-fight-over-alleged-copycat-tokens"
+            "title": "Bitcoin tops $72,000, but Circle and Bullish drop sharply after downgrades",
+            "summary": "Eased Middle East tensions pushed crypto prices and U.S. stocks sizable hjigher.",
+            "time": "Thu, 09 Apr 2026 21:10:46 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-tops-usd72-000-but-circle-and-bullish-drop-sharply-after-downgrades"
         },
         {
             "source": "Hacker News",
-            "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
-            "summary": "Article URL: https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire\nComments URL: https://news.ycombinator.com/item?id=47698082\nPoints: 30\n# Comments: 8",
-            "time": "Thu, 09 Apr 2026 00:55:46 +0000",
-            "url": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire"
+            "title": "I still prefer MCP over skills",
+            "summary": "Article URL: https://david.coffee/i-still-prefer-mcp-over-skills/\nComments URL: https://news.ycombinator.com/item?id=47712718\nPoints: 13\n# Comments: 15",
+            "time": "Fri, 10 Apr 2026 02:01:48 +0000",
+            "url": "https://david.coffee/i-still-prefer-mcp-over-skills/"
         },
         {
             "source": "Hacker News",
-            "title": "LittleSnitch for Linux",
-            "summary": "Article URL: https://obdev.at/products/littlesnitch-linux/index.html\nComments URL: https://news.ycombinator.com/item?id=47697870\nPoints: 194\n# Comments: 70",
-            "time": "Thu, 09 Apr 2026 00:26:08 +0000",
-            "url": "https://obdev.at/products/littlesnitch-linux/index.html"
+            "title": "Microsoft PhotoDNA scanning problem",
+            "summary": "Article URL: https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/\nComments URL: https://news.ycombinator.com/item?id=47712340\nPoints: 84\n# Comments: 34",
+            "time": "Fri, 10 Apr 2026 01:09:06 +0000",
+            "url": "https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
-            "summary": "Article URL: https://thales.me/posts/why-i-built-snapstate/\nComments URL: https://news.ycombinator.com/item?id=47696760\nPoints: 21\n# Comments: 37",
-            "time": "Wed, 08 Apr 2026 21:53:36 +0000",
-            "url": "https://thales.me/posts/why-i-built-snapstate/"
+            "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
+            "summary": "Article URL: https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/\nComments URL: https://news.ycombinator.com/item?id=47712222\nPoints: 14\n# Comments: ...",
+            "time": "Fri, 10 Apr 2026 00:50:43 +0000",
+            "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/"
         }
     ]
 }
