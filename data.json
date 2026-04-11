@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-10 11:25:10",
+    "updated_at": "2026-04-11 10:49:23",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "OKX and HashKey invest in new Vietnam exchange ahead of crypto licensing push",
-            "summary": "The partnership will help the exchange meet Vietnam's $380 million capital requirement to enter a government pilot program aimed at licensing local platforms and curbing offshore trading.",
-            "time": "Fri, 10 Apr 2026 02:35:25 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/10/okx-hashkey-back-usd380-million-vietnam-crypto-push-as-new-rules-near-rollout"
+            "title": "Federal judge blocks Arizona from bringing criminal charges against Kalshi",
+            "summary": "Judge Michael Liburdi ordered Arizona not to bring any enforcement actions under state law against Kalshi, at least temporarily.",
+            "time": "Fri, 10 Apr 2026 23:31:34 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/10/federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi"
         },
         {
             "source": "CoinDesk",
-            "title": "Mythos AI threat prompts Bessent, Powell to convene bank CEOs for urgent talks",
-            "summary": "Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.",
-            "time": "Fri, 10 Apr 2026 02:03:54 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/10/mythos-ai-threat-sees-bessent-powell-call-urgent-meeting-with-bank-ceos"
+            "title": "Star Xu calls CZ a ‘liar’ as founders of world’s largest crypto exchanges argue over past allegations",
+            "summary": "The dispute between the crypto exchange founders, which included a $1 billion wager from CZ, revives allegations dating back 11 years to Zhao’s time at OKCoin.",
+            "time": "Fri, 10 Apr 2026 15:38:47 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/10/star-xu-calls-cz-a-liar-as-founders-of-world-s-largest-crypto-exchanges-argue-over-past-allegations"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin tops $72,000, but Circle and Bullish drop sharply after downgrades",
-            "summary": "Eased Middle East tensions pushed crypto prices and U.S. stocks sizable hjigher.",
-            "time": "Thu, 09 Apr 2026 21:10:46 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-tops-usd72-000-but-circle-and-bullish-drop-sharply-after-downgrades"
+            "title": "The magic word for digital assets adoption and success: choice",
+            "summary": "For the digital asset ecosystem of the future to flourish, investors need options, explains Sullivan.",
+            "time": "Fri, 10 Apr 2026 15:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/04/10/the-magic-word-for-digital-assets-adoption-and-success-choice"
         },
         {
             "source": "Hacker News",
-            "title": "I still prefer MCP over skills",
-            "summary": "Article URL: https://david.coffee/i-still-prefer-mcp-over-skills/\nComments URL: https://news.ycombinator.com/item?id=47712718\nPoints: 13\n# Comments: 15",
-            "time": "Fri, 10 Apr 2026 02:01:48 +0000",
-            "url": "https://david.coffee/i-still-prefer-mcp-over-skills/"
+            "title": "Artemis II safely splashes down",
+            "summary": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/\nComments URL: https://news.ycombinator.com/item?id=47725583\nPoints: 437\n# Comments: 158",
+            "time": "Sat, 11 Apr 2026 00:10:51 +0000",
+            "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"
         },
         {
             "source": "Hacker News",
-            "title": "Microsoft PhotoDNA scanning problem",
-            "summary": "Article URL: https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/\nComments URL: https://news.ycombinator.com/item?id=47712340\nPoints: 84\n# Comments: 34",
-            "time": "Fri, 10 Apr 2026 01:09:06 +0000",
-            "url": "https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/"
+            "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+            "summary": "Article URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty\nComments URL: https://news.ycombinator.com/item?id=47725403\nPoints: 29\n# Comments:...",
+            "time": "Fri, 10 Apr 2026 23:48:07 +0000",
+            "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty"
         },
         {
             "source": "Hacker News",
-            "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
-            "summary": "Article URL: https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/\nComments URL: https://news.ycombinator.com/item?id=47712222\nPoints: 14\n# Comments: ...",
-            "time": "Fri, 10 Apr 2026 00:50:43 +0000",
-            "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/"
+            "title": "Sam Altman's response to Molotov cocktail incident",
+            "summary": "Article URL: https://blog.samaltman.com/2279512\nComments URL: https://news.ycombinator.com/item?id=47724921\nPoints: 190\n# Comments: 362",
+            "time": "Fri, 10 Apr 2026 23:05:48 +0000",
+            "url": "https://blog.samaltman.com/2279512"
         }
     ]
 }
