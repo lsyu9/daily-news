@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-11 10:49:23",
+    "updated_at": "2026-04-12 11:28:56",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Federal judge blocks Arizona from bringing criminal charges against Kalshi",
-            "summary": "Judge Michael Liburdi ordered Arizona not to bring any enforcement actions under state law against Kalshi, at least temporarily.",
-            "time": "Fri, 10 Apr 2026 23:31:34 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/10/federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi"
+            "title": "Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution",
+            "summary": "U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan, sending crypto prices down between 1.5% and 2%.",
+            "time": "Sun, 12 Apr 2026 02:05:05 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution"
         },
         {
             "source": "CoinDesk",
-            "title": "Star Xu calls CZ a ‘liar’ as founders of world’s largest crypto exchanges argue over past allegations",
-            "summary": "The dispute between the crypto exchange founders, which included a $1 billion wager from CZ, revives allegations dating back 11 years to Zhao’s time at OKCoin.",
-            "time": "Fri, 10 Apr 2026 15:38:47 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/10/star-xu-calls-cz-a-liar-as-founders-of-world-s-largest-crypto-exchanges-argue-over-past-allegations"
+            "title": "Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI",
+            "summary": "Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.",
+            "time": "Sat, 11 Apr 2026 19:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai"
         },
         {
             "source": "CoinDesk",
-            "title": "The magic word for digital assets adoption and success: choice",
-            "summary": "For the digital asset ecosystem of the future to flourish, investors need options, explains Sullivan.",
-            "time": "Fri, 10 Apr 2026 15:30:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/04/10/the-magic-word-for-digital-assets-adoption-and-success-choice"
+            "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
+            "summary": "On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.",
+            "time": "Sat, 11 Apr 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline"
         },
         {
             "source": "Hacker News",
-            "title": "Artemis II safely splashes down",
-            "summary": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/\nComments URL: https://news.ycombinator.com/item?id=47725583\nPoints: 437\n# Comments: 158",
-            "time": "Sat, 11 Apr 2026 00:10:51 +0000",
-            "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"
+            "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+            "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo\nComments URL: https://news.ycombinator.com/item?id=47735704\nPoints: 26\n# Comments: 5",
+            "time": "Sun, 12 Apr 2026 02:37:39 +0000",
+            "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
         },
         {
             "source": "Hacker News",
-            "title": "Italo Calvino: A Traveller in a World of Uncertainty",
-            "summary": "Article URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty\nComments URL: https://news.ycombinator.com/item?id=47725403\nPoints: 29\n# Comments:...",
-            "time": "Fri, 10 Apr 2026 23:48:07 +0000",
-            "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty"
+            "title": "Americans still opt for print books over digital or audio versions",
+            "summary": "Article URL: https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/\nComments URL: https://news.ycombinator.com/ite...",
+            "time": "Sun, 12 Apr 2026 02:14:44 +0000",
+            "url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/"
         },
         {
             "source": "Hacker News",
-            "title": "Sam Altman's response to Molotov cocktail incident",
-            "summary": "Article URL: https://blog.samaltman.com/2279512\nComments URL: https://news.ycombinator.com/item?id=47724921\nPoints: 190\n# Comments: 362",
-            "time": "Fri, 10 Apr 2026 23:05:48 +0000",
-            "url": "https://blog.samaltman.com/2279512"
+            "title": "How a dancer with ALS used brainwaves to perform live",
+            "summary": "Article URL: https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/\nComments URL: https://news.ycombinator.com/item?id=47735581\nPoints: 4\n# Comment...",
+            "time": "Sun, 12 Apr 2026 02:09:13 +0000",
+            "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/"
         }
     ]
 }
