@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-12 11:28:56",
+    "updated_at": "2026-04-13 11:35:19",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution",
-            "summary": "U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan, sending crypto prices down between 1.5% and 2%.",
-            "time": "Sun, 12 Apr 2026 02:05:05 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution"
+            "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto",
+            "summary": "Selig said states do not have the ability to police prediction market providers, echoing his agency's stance as it pursues court cases to cement its authority.",
+            "time": "Sun, 12 Apr 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI",
-            "summary": "Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.",
-            "time": "Sat, 11 Apr 2026 19:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai"
+            "title": "DeFi’s shakeout is a stress test, not a death sentence",
+            "summary": "Novozhenov argues that despite lingering governance, security and regulatory hurdles that have shuttered several protocols, DeFi remains resilient.",
+            "time": "Sun, 12 Apr 2026 17:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
-            "summary": "On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.",
-            "time": "Sat, 11 Apr 2026 18:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline"
+            "title": "Bitcoin may be forming a base at $65,000 as 'paper hands' have been flushed out",
+            "summary": "Jurrien Timmer, director of global macro at Fidelity Investments, says strong earnings are helping markets absorb geopolitical shocks, despite ongoing risks.",
+            "time": "Sun, 12 Apr 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity"
         },
         {
             "source": "Hacker News",
-            "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-            "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo\nComments URL: https://news.ycombinator.com/item?id=47735704\nPoints: 26\n# Comments: 5",
-            "time": "Sun, 12 Apr 2026 02:37:39 +0000",
-            "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
+            "title": "All elementary functions from a single binary operator",
+            "summary": "Article URL: https://arxiv.org/abs/2603.21852\nComments URL: https://news.ycombinator.com/item?id=47746610\nPoints: 17\n# Comments: 7",
+            "time": "Mon, 13 Apr 2026 01:49:32 +0000",
+            "url": "https://arxiv.org/abs/2603.21852"
         },
         {
             "source": "Hacker News",
-            "title": "Americans still opt for print books over digital or audio versions",
-            "summary": "Article URL: https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/\nComments URL: https://news.ycombinator.com/ite...",
-            "time": "Sun, 12 Apr 2026 02:14:44 +0000",
-            "url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/"
+            "title": "State of Homelab 2026",
+            "summary": "Article URL: https://mrlokans.work/posts/state-of-homelab-2026/\nComments URL: https://news.ycombinator.com/item?id=47746577\nPoints: 5\n# Comments: 0",
+            "time": "Mon, 13 Apr 2026 01:42:37 +0000",
+            "url": "https://mrlokans.work/posts/state-of-homelab-2026/"
         },
         {
             "source": "Hacker News",
-            "title": "How a dancer with ALS used brainwaves to perform live",
-            "summary": "Article URL: https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/\nComments URL: https://news.ycombinator.com/item?id=47735581\nPoints: 4\n# Comment...",
-            "time": "Sun, 12 Apr 2026 02:09:13 +0000",
-            "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/"
+            "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+            "summary": "Article URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/\nComments URL: https://news.ycombinator.com/item?id=47745284\nPoints: 79\n# Comments: 64",
+            "time": "Sun, 12 Apr 2026 22:38:45 +0000",
+            "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/"
         }
     ]
 }
