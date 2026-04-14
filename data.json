@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-13 11:35:19",
+    "updated_at": "2026-04-14 11:24:59",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto",
-            "summary": "Selig said states do not have the ability to police prediction market providers, echoing his agency's stance as it pursues court cases to cement its authority.",
-            "time": "Sun, 12 Apr 2026 18:00:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto"
+            "title": "U.S. lawmakers take another swing at crypto tax policy with revised bill",
+            "summary": "A bill would amend how the IRS would approach crypto taxes.",
+            "time": "Tue, 14 Apr 2026 02:09:45 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/13/u-s-lawmakers-take-another-swing-at-crypto-tax-policy-with-revised-bill"
         },
         {
             "source": "CoinDesk",
-            "title": "DeFi’s shakeout is a stress test, not a death sentence",
-            "summary": "Novozhenov argues that despite lingering governance, security and regulatory hurdles that have shuttered several protocols, DeFi remains resilient.",
-            "time": "Sun, 12 Apr 2026 17:30:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence"
+            "title": "This little-known token just posted a 6,000% rally — and traders are trying to figure out why",
+            "summary": "RAVE’s sudden surge into crypto’s top ranks has drawn intense attention, with a mix of unusual trading patterns, tight supply and market dynamics fueling debate over what’s really behind the move.",
+            "time": "Mon, 13 Apr 2026 20:20:24 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/13/this-little-known-token-just-posted-a-6-000-rally-and-traders-are-trying-to-figure-out-why"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin may be forming a base at $65,000 as 'paper hands' have been flushed out",
-            "summary": "Jurrien Timmer, director of global macro at Fidelity Investments, says strong earnings are helping markets absorb geopolitical shocks, despite ongoing risks.",
-            "time": "Sun, 12 Apr 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity"
+            "title": "Bitcoin erases weekend decline, returns to $73,400 as oil retreats back under $100",
+            "summary": "Risk assets shrugged off the failed weekend negotiations between the U.S. and Iran, and the U.S. blockade of the Strait of Hormuz.",
+            "time": "Mon, 13 Apr 2026 19:59:33 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/13/bitcoin-erases-weekend-decline-returns-to-usd73-400-as-oil-retreats-back-under-usd100"
         },
         {
             "source": "Hacker News",
-            "title": "All elementary functions from a single binary operator",
-            "summary": "Article URL: https://arxiv.org/abs/2603.21852\nComments URL: https://news.ycombinator.com/item?id=47746610\nPoints: 17\n# Comments: 7",
-            "time": "Mon, 13 Apr 2026 01:49:32 +0000",
-            "url": "https://arxiv.org/abs/2603.21852"
+            "title": "DaVinci Resolve releases Photo Editor",
+            "summary": "Article URL: https://www.blackmagicdesign.com/products/davinciresolve/photo\nComments URL: https://news.ycombinator.com/item?id=47760529\nPoints: 22\n# Comments: 3",
+            "time": "Tue, 14 Apr 2026 02:25:15 +0000",
+            "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo"
         },
         {
             "source": "Hacker News",
-            "title": "State of Homelab 2026",
-            "summary": "Article URL: https://mrlokans.work/posts/state-of-homelab-2026/\nComments URL: https://news.ycombinator.com/item?id=47746577\nPoints: 5\n# Comments: 0",
-            "time": "Mon, 13 Apr 2026 01:42:37 +0000",
-            "url": "https://mrlokans.work/posts/state-of-homelab-2026/"
+            "title": "Lean proved this program correct; then I found a bug",
+            "summary": "Article URL: https://kirancodes.me/posts/log-who-watches-the-watchers.html\nComments URL: https://news.ycombinator.com/item?id=47759709\nPoints: 125\n# Comments: 67",
+            "time": "Tue, 14 Apr 2026 00:25:08 +0000",
+            "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html"
         },
         {
             "source": "Hacker News",
-            "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-            "summary": "Article URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/\nComments URL: https://news.ycombinator.com/item?id=47745284\nPoints: 79\n# Comments: 64",
-            "time": "Sun, 12 Apr 2026 22:38:45 +0000",
-            "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/"
+            "title": "Why it’s impossible to measure England’s coastline",
+            "summary": "https://www.researchgate.net/profile/Ion-Andronache/post/Wha...\n\nComments URL: https://news.ycombinator.com/item?id=47759416\nPoints: 18\n# Comments: 17",
+            "time": "Mon, 13 Apr 2026 23:44:10 +0000",
+            "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline"
         }
     ]
 }
