@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-14 11:24:59",
+    "updated_at": "2026-04-15 11:23:06",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. lawmakers take another swing at crypto tax policy with revised bill",
-            "summary": "A bill would amend how the IRS would approach crypto taxes.",
-            "time": "Tue, 14 Apr 2026 02:09:45 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/13/u-s-lawmakers-take-another-swing-at-crypto-tax-policy-with-revised-bill"
+            "title": "Bitcoin's $76,000 breakout fails but a rare signal is hinting at major market bottom",
+            "summary": "Derivatives funding rates have now remained negative for 46 days, a streak last seen following the FTX crash which marked the bottom of 2022's crypto winter.",
+            "time": "Tue, 14 Apr 2026 20:09:28 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/14/bitcoin-usd75-000-breakout-fails-but-a-rare-signal-is-hinting-at-major-market-bottom"
         },
         {
             "source": "CoinDesk",
-            "title": "This little-known token just posted a 6,000% rally — and traders are trying to figure out why",
-            "summary": "RAVE’s sudden surge into crypto’s top ranks has drawn intense attention, with a mix of unusual trading patterns, tight supply and market dynamics fueling debate over what’s really behind the move.",
-            "time": "Mon, 13 Apr 2026 20:20:24 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/13/this-little-known-token-just-posted-a-6-000-rally-and-traders-are-trying-to-figure-out-why"
+            "title": "The next Fed chair has crypto exposure in his portfolio. Here are the details",
+            "summary": "Kevin Warsh's financial disclosure reveals stakes in DeFi protocols, Ethereum scaling networks, a Bitcoin Lightning startup, and prediction markets — all of which he's promised to sell.",
+            "time": "Tue, 14 Apr 2026 18:57:56 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin erases weekend decline, returns to $73,400 as oil retreats back under $100",
-            "summary": "Risk assets shrugged off the failed weekend negotiations between the U.S. and Iran, and the U.S. blockade of the Strait of Hormuz.",
-            "time": "Mon, 13 Apr 2026 19:59:33 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/13/bitcoin-erases-weekend-decline-returns-to-usd73-400-as-oil-retreats-back-under-usd100"
+            "title": "Rakuten to allow XRP to be used as payment method by its 44 million customers",
+            "summary": "Rakuten Pay users will also be able to spot trade XRP via the Rakuten Pay app and exchange the Japanese e-commerce giant’s points to purchase Ripple’s token",
+            "time": "Tue, 14 Apr 2026 18:46:41 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/14/rakuten-to-allow-xrp-to-be-used-as-payment-method-by-its-44-million-customers"
         },
         {
             "source": "Hacker News",
-            "title": "DaVinci Resolve releases Photo Editor",
-            "summary": "Article URL: https://www.blackmagicdesign.com/products/davinciresolve/photo\nComments URL: https://news.ycombinator.com/item?id=47760529\nPoints: 22\n# Comments: 3",
-            "time": "Tue, 14 Apr 2026 02:25:15 +0000",
-            "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo"
+            "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
+            "summary": "Article URL: https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/\nComments URL: https://news.ycombinator.com/item?id=47773...",
+            "time": "Wed, 15 Apr 2026 01:36:22 +0000",
+            "url": "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/"
         },
         {
             "source": "Hacker News",
-            "title": "Lean proved this program correct; then I found a bug",
-            "summary": "Article URL: https://kirancodes.me/posts/log-who-watches-the-watchers.html\nComments URL: https://news.ycombinator.com/item?id=47759709\nPoints: 125\n# Comments: 67",
-            "time": "Tue, 14 Apr 2026 00:25:08 +0000",
-            "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html"
+            "title": "The FCC just saved Netgear from its router ban for no obvious reason",
+            "summary": "Article URL: https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval\nComments URL: https://news.ycombinator.com/item?id=47773448\nPoints: 77\n# Comments: 22",
+            "time": "Wed, 15 Apr 2026 01:07:19 +0000",
+            "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval"
         },
         {
             "source": "Hacker News",
-            "title": "Why it’s impossible to measure England’s coastline",
-            "summary": "https://www.researchgate.net/profile/Ion-Andronache/post/Wha...\n\nComments URL: https://news.ycombinator.com/item?id=47759416\nPoints: 18\n# Comments: 17",
-            "time": "Mon, 13 Apr 2026 23:44:10 +0000",
-            "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline"
+            "title": "Apple App Store threatened to remove Grok over deepfakes: Letter",
+            "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677\nComments URL: https://news.ycombinator.com/item?id=47772906\nPoints: 51\n# Com...",
+            "time": "Tue, 14 Apr 2026 23:41:43 +0000",
+            "url": "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677"
         }
     ]
 }
