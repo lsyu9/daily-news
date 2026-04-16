@@ -1,47 +1,26 @@
 {
-    "updated_at": "2026-04-15 11:23:06",
+    "updated_at": "2026-04-16 11:31:19",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin's $76,000 breakout fails but a rare signal is hinting at major market bottom",
-            "summary": "Derivatives funding rates have now remained negative for 46 days, a streak last seen following the FTX crash which marked the bottom of 2022's crypto winter.",
-            "time": "Tue, 14 Apr 2026 20:09:28 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/14/bitcoin-usd75-000-breakout-fails-but-a-rare-signal-is-hinting-at-major-market-bottom"
+            "title": "Solana Policy Institute-backed PAC spends millions to jam Sherrod Brown's Senate run",
+            "summary": "The Sentinel Action Fund is supporting Republican John Husted in that race, with funding from the Solana network's advocacy group and Multicoin Capital.",
+            "time": "Wed, 15 Apr 2026 23:08:06 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/15/solana-policy-institute-backed-pac-spends-millions-to-jam-sherrod-brown-s-senate-run"
         },
         {
             "source": "CoinDesk",
-            "title": "The next Fed chair has crypto exposure in his portfolio. Here are the details",
-            "summary": "Kevin Warsh's financial disclosure reveals stakes in DeFi protocols, Ethereum scaling networks, a Bitcoin Lightning startup, and prediction markets — all of which he's promised to sell.",
-            "time": "Tue, 14 Apr 2026 18:57:56 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it"
+            "title": "Bitcoin capped at $75,000 as Nasdaq and S&P 500 fly to new record highs",
+            "summary": "The Nasdaq was higher for the 11th consecutive session as investors looked past the conflict in the Middle East.",
+            "time": "Wed, 15 Apr 2026 22:57:59 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-capped-at-usd75-000-as-nasdaq-and-s-and-p-500-fly-to-new-record-highs"
         },
         {
             "source": "CoinDesk",
-            "title": "Rakuten to allow XRP to be used as payment method by its 44 million customers",
-            "summary": "Rakuten Pay users will also be able to spot trade XRP via the Rakuten Pay app and exchange the Japanese e-commerce giant’s points to purchase Ripple’s token",
-            "time": "Tue, 14 Apr 2026 18:46:41 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/14/rakuten-to-allow-xrp-to-be-used-as-payment-method-by-its-44-million-customers"
-        },
-        {
-            "source": "Hacker News",
-            "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
-            "summary": "Article URL: https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/\nComments URL: https://news.ycombinator.com/item?id=47773...",
-            "time": "Wed, 15 Apr 2026 01:36:22 +0000",
-            "url": "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/"
-        },
-        {
-            "source": "Hacker News",
-            "title": "The FCC just saved Netgear from its router ban for no obvious reason",
-            "summary": "Article URL: https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval\nComments URL: https://news.ycombinator.com/item?id=47773448\nPoints: 77\n# Comments: 22",
-            "time": "Wed, 15 Apr 2026 01:07:19 +0000",
-            "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval"
-        },
-        {
-            "source": "Hacker News",
-            "title": "Apple App Store threatened to remove Grok over deepfakes: Letter",
-            "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677\nComments URL: https://news.ycombinator.com/item?id=47772906\nPoints: 51\n# Com...",
-            "time": "Tue, 14 Apr 2026 23:41:43 +0000",
-            "url": "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677"
+            "title": "Justin Sun blasts Trump-linked WLFI's 'absurd' governance vote, escalating feud",
+            "summary": "The Tron founder claimed that dissenters would face token lockups and exclusion from voting, while the project said the proposal aims to align all participants for the long-run.",
+            "time": "Wed, 15 Apr 2026 22:17:09 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/15/justin-sun-blasts-trump-linked-wlfi-s-absurd-governance-vote-escalating-feud"
         }
     ]
 }
