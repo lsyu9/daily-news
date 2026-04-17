@@ -1,26 +1,47 @@
 {
-    "updated_at": "2026-04-16 11:31:19",
+    "updated_at": "2026-04-17 11:26:37",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Solana Policy Institute-backed PAC spends millions to jam Sherrod Brown's Senate run",
-            "summary": "The Sentinel Action Fund is supporting Republican John Husted in that race, with funding from the Solana network's advocacy group and Multicoin Capital.",
-            "time": "Wed, 15 Apr 2026 23:08:06 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/15/solana-policy-institute-backed-pac-spends-millions-to-jam-sherrod-brown-s-senate-run"
+            "title": "U.S. CFTC's Selig says AI has helped make up for staffing cuts at key crypto watchdog",
+            "summary": "Chairman Mike Selig faces explosive new market duties with crypto and prediction markets, where he said \"numerous investigations\" have begun.",
+            "time": "Thu, 16 Apr 2026 16:50:44 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/16/u-s-cftc-s-selig-says-ai-has-helped-make-up-for-staffing-cuts-at-key-crypto-watchdog"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin capped at $75,000 as Nasdaq and S&P 500 fly to new record highs",
-            "summary": "The Nasdaq was higher for the 11th consecutive session as investors looked past the conflict in the Middle East.",
-            "time": "Wed, 15 Apr 2026 22:57:59 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-capped-at-usd75-000-as-nasdaq-and-s-and-p-500-fly-to-new-record-highs"
+            "title": "Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins",
+            "summary": "The Cardano founder argues BIP-361 is mislabeled as a soft fork and that its zero-knowledge recovery plan cannot rescue roughly 1.7 million pre-2013 bitcoin, including Satoshi's holdings.",
+            "time": "Thu, 16 Apr 2026 16:19:29 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins"
         },
         {
             "source": "CoinDesk",
-            "title": "Justin Sun blasts Trump-linked WLFI's 'absurd' governance vote, escalating feud",
-            "summary": "The Tron founder claimed that dissenters would face token lockups and exclusion from voting, while the project said the proposal aims to align all participants for the long-run.",
-            "time": "Wed, 15 Apr 2026 22:17:09 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/15/justin-sun-blasts-trump-linked-wlfi-s-absurd-governance-vote-escalating-feud"
+            "title": "Crypto for Advisors: Tokenization’s evolution",
+            "summary": "Tokenized assets are moving from concept to portfolio allocation. Learn how compliance architecture and institutional movement are redefining risk and opportunity for advisors.",
+            "time": "Thu, 16 Apr 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/04/15/crypto-for-advisors-tokenization-s-evolution"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Substrate AI Is Hiring Harness Engineers",
+            "summary": "Article URL: https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer\nComments URL: https://news.ycombinator.com/item?id=47802016\nPoints: 0\n# Comments: 0",
+            "time": "Fri, 17 Apr 2026 02:53:16 +0000",
+            "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+            "summary": "I built MCP servers for my oscilloscope and SPICE simulator so Claude Code can close the loop between simulation and real hardware.\n\nComments URL: https://news.ycombinator.com/item?id=47801255\nPoints:...",
+            "time": "Fri, 17 Apr 2026 00:37:47 +0000",
+            "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Everything we like is a psyop",
+            "summary": "Article URL: https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/\nComments URL: https://news.ycombinator.com/item?id=47800738\nPoints: 159\n# Comments: 90",
+            "time": "Thu, 16 Apr 2026 23:15:33 +0000",
+            "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/"
         }
     ]
 }
