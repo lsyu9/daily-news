@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-18 10:57:16",
+    "updated_at": "2026-04-19 11:33:40",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Strategy proposes semi-monthly dividends on its popular STRC preferred stock",
-            "summary": "\"[The] proposed changes are intended to stabilize price, dampen cyclicality, drive liquidity, and grow demand,\" said Executive Chairman Michael Saylor.",
-            "time": "Fri, 17 Apr 2026 20:32:55 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/17/strategy-proposes-semi-monthly-dividends-on-its-popular-strc-preferred-stock"
+            "title": "2026's biggest crypto exploit: $292 million gets drained from Kelp DAO with wrapped ether stranded across 20 chains",
+            "summary": "An attacker drained 116,500 rsETH, roughly 18% of circulating supply, from Kelp's LayerZero-powered bridge on Saturday, triggering emergency freezes across Aave, SparkLend, Fluid and Upshift.",
+            "time": "Sat, 18 Apr 2026 20:53:55 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/19/2026-s-biggest-crypto-exploit-kelp-dao-hit-for-usd292-million-with-wrapped-ether-stranded-across-20-chains"
         },
         {
             "source": "CoinDesk",
-            "title": "Sam Altman’s World project launches major upgrade to fight deepfakes and bots",
-            "summary": "The project is also expanding its partnerships with Tinder, Zoom and Docusign.",
-            "time": "Fri, 17 Apr 2026 17:50:27 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/17/sam-altman-s-world-project-launches-major-upgrade-to-fight-deepfakes-and-bots"
+            "title": "Why Michael Saylor's Strategy decided to make STRC's dividend bi-monthly",
+            "summary": "Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.",
+            "time": "Sat, 18 Apr 2026 20:27:21 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/18/why-michael-saylor-s-strategy-decided-to-make-strc-s-dividend-bi-monthly"
         },
         {
             "source": "CoinDesk",
-            "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
-            "summary": "Oil prices slumped as Trump said Iran committed to open the Strait of Hormuz and the U.S. plans to acquire that country's enriched uranium as part of a deal.",
-            "time": "Fri, 17 Apr 2026 16:01:15 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000"
+            "title": "From smelters to servers: Alcoa to cash in on crypto’s thirst for energy",
+            "summary": "Alcoa is in advanced negotiations to sell its dormant Massena East smelter in upstate New York to Bitcoin mining firm NYDIG.",
+            "time": "Sat, 18 Apr 2026 20:21:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/18/from-smelters-to-servers-alcoa-to-cash-in-on-crypto-s-thirst-for-energy"
         },
         {
             "source": "Hacker News",
-            "title": "Casus Belli Engineering",
-            "summary": "Article URL: https://marcosmagueta.com/blog/casus-belli-engineering/\nComments URL: https://news.ycombinator.com/item?id=47812331\nPoints: 5\n# Comments: 0",
-            "time": "Sat, 18 Apr 2026 01:14:02 +0000",
-            "url": "https://marcosmagueta.com/blog/casus-belli-engineering/"
+            "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+            "summary": "Article URL: https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/\nComments URL: https://news.ycombinator.com/item?id=47820531\nPoints: ...",
+            "time": "Sat, 18 Apr 2026 23:47:45 +0000",
+            "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/"
         },
         {
             "source": "Hacker News",
-            "title": "Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs",
-            "summary": "Article URL: https://arxiv.org/abs/2603.23532\nComments URL: https://news.ycombinator.com/item?id=47811993\nPoints: 3\n# Comments: 0",
-            "time": "Sat, 18 Apr 2026 00:17:23 +0000",
-            "url": "https://arxiv.org/abs/2603.23532"
+            "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+            "summary": "Article URL: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/\nComments URL: https://news.ycombinator.com/item?id=47820195\nPoints: 30\n# Comments: 13",
+            "time": "Sat, 18 Apr 2026 22:46:13 +0000",
+            "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/"
         },
         {
             "source": "Hacker News",
-            "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
-            "summary": "Article URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/\nComments URL: https://news.ycombinator.com/item?id=47811442\nPoints: 17\n# Comments: 13",
-            "time": "Fri, 17 Apr 2026 22:53:18 +0000",
-            "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/"
+            "title": "Dad brains: How fatherhood rewires the male mind",
+            "summary": "Article URL: https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare\nComments URL: https://news.ycombinator.com/item?id=47820046\nPoints: 103\n# Comments...",
+            "time": "Sat, 18 Apr 2026 22:24:47 +0000",
+            "url": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare"
         }
     ]
 }
