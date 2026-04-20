@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-19 11:33:40",
+    "updated_at": "2026-04-20 11:35:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "2026's biggest crypto exploit: $292 million gets drained from Kelp DAO with wrapped ether stranded across 20 chains",
-            "summary": "An attacker drained 116,500 rsETH, roughly 18% of circulating supply, from Kelp's LayerZero-powered bridge on Saturday, triggering emergency freezes across Aave, SparkLend, Fluid and Upshift.",
-            "time": "Sat, 18 Apr 2026 20:53:55 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/19/2026-s-biggest-crypto-exploit-kelp-dao-hit-for-usd292-million-with-wrapped-ether-stranded-across-20-chains"
+            "title": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
+            "summary": "Breach tied to compromised AI tool may have exposed credentials used by app frontends, the user-facing layer that connects web3 wallets and trading interfaces to backend services.",
+            "time": "Mon, 20 Apr 2026 01:47:28 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/20/hack-at-vercel-sends-crypto-developers-scrambling-to-lock-down-api-keys"
         },
         {
             "source": "CoinDesk",
-            "title": "Why Michael Saylor's Strategy decided to make STRC's dividend bi-monthly",
-            "summary": "Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.",
-            "time": "Sat, 18 Apr 2026 20:27:21 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/18/why-michael-saylor-s-strategy-decided-to-make-strc-s-dividend-bi-monthly"
+            "title": "The $292 million Kelp exploit: how it happened, and what it means for DeFi",
+            "summary": "2026 is shaping up to be DeFi's \"worst year in terms of hacks,\" Ledger's CTO said, as the Kelp exploit shows how a single point of failure can cascade across systems.",
+            "time": "Sun, 19 Apr 2026 22:27:17 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi"
         },
         {
             "source": "CoinDesk",
-            "title": "From smelters to servers: Alcoa to cash in on crypto’s thirst for energy",
-            "summary": "Alcoa is in advanced negotiations to sell its dormant Massena East smelter in upstate New York to Bitcoin mining firm NYDIG.",
-            "time": "Sat, 18 Apr 2026 20:21:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/18/from-smelters-to-servers-alcoa-to-cash-in-on-crypto-s-thirst-for-energy"
+            "title": "Previewing Consensus' Policy Summit: State of Crypto",
+            "summary": "Every year policy discussions get more important, and this year's even more so.",
+            "time": "Sun, 19 Apr 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/19/previewing-consensus-policy-summit-state-of-crypto"
         },
         {
             "source": "Hacker News",
-            "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-            "summary": "Article URL: https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/\nComments URL: https://news.ycombinator.com/item?id=47820531\nPoints: ...",
-            "time": "Sat, 18 Apr 2026 23:47:45 +0000",
-            "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/"
+            "title": "Anthropic installs spyware when you install Claude Desktop",
+            "summary": "Article URL: https://www.thatprivacyguy.com/blog/anthropic-spyware/\nComments URL: https://news.ycombinator.com/item?id=47829800\nPoints: 27\n# Comments: 4",
+            "time": "Mon, 20 Apr 2026 02:41:50 +0000",
+            "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/"
         },
         {
             "source": "Hacker News",
-            "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-            "summary": "Article URL: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/\nComments URL: https://news.ycombinator.com/item?id=47820195\nPoints: 30\n# Comments: 13",
-            "time": "Sat, 18 Apr 2026 22:46:13 +0000",
-            "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/"
+            "title": "The insider trading suspicions looming over Trump's presidency",
+            "summary": "Article URL: https://www.bbc.com/news/articles/cge0grppe3po\nComments URL: https://news.ycombinator.com/item?id=47829486\nPoints: 161\n# Comments: 65",
+            "time": "Mon, 20 Apr 2026 01:50:35 +0000",
+            "url": "https://www.bbc.com/news/articles/cge0grppe3po"
         },
         {
             "source": "Hacker News",
-            "title": "Dad brains: How fatherhood rewires the male mind",
-            "summary": "Article URL: https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare\nComments URL: https://news.ycombinator.com/item?id=47820046\nPoints: 103\n# Comments...",
-            "time": "Sat, 18 Apr 2026 22:24:47 +0000",
-            "url": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare"
+            "title": "Claude Token Counter, now with model comparisons",
+            "summary": "Article URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/\nComments URL: https://news.ycombinator.com/item?id=47829178\nPoints: 13\n# Comments: 1",
+            "time": "Mon, 20 Apr 2026 00:56:40 +0000",
+            "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/"
         }
     ]
 }
