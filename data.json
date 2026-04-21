@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-20 11:35:14",
+    "updated_at": "2026-04-21 11:27:39",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
-            "summary": "Breach tied to compromised AI tool may have exposed credentials used by app frontends, the user-facing layer that connects web3 wallets and trading interfaces to backend services.",
-            "time": "Mon, 20 Apr 2026 01:47:28 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/20/hack-at-vercel-sends-crypto-developers-scrambling-to-lock-down-api-keys"
+            "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
+            "summary": "More than $500 million was siphoned across the Drift and Kelp exploits in just over two weeks. What once looked like isolated breaches now resembles a sustained campaign, likely driven by the financia...",
+            "time": "Mon, 20 Apr 2026 21:17:17 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit"
         },
         {
             "source": "CoinDesk",
-            "title": "The $292 million Kelp exploit: how it happened, and what it means for DeFi",
-            "summary": "2026 is shaping up to be DeFi's \"worst year in terms of hacks,\" Ledger's CTO said, as the Kelp exploit shows how a single point of failure can cascade across systems.",
-            "time": "Sun, 19 Apr 2026 22:27:17 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi"
+            "title": "Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos",
+            "summary": "Aave published a report outlining two possible outcomes: around $123 million in losses if damage is shared across all rsETH, or up to $230 million if confined to Layer 2s, with the final impact depend...",
+            "time": "Mon, 20 Apr 2026 21:03:44 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos"
         },
         {
             "source": "CoinDesk",
-            "title": "Previewing Consensus' Policy Summit: State of Crypto",
-            "summary": "Every year policy discussions get more important, and this year's even more so.",
-            "time": "Sun, 19 Apr 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/19/previewing-consensus-policy-summit-state-of-crypto"
+            "title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
+            "summary": "Crypto steadied despite rising Iran tensions, but DeFi is reeling from one of the largest exploits of the year.",
+            "time": "Mon, 20 Apr 2026 20:53:22 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack"
         },
         {
             "source": "Hacker News",
-            "title": "Anthropic installs spyware when you install Claude Desktop",
-            "summary": "Article URL: https://www.thatprivacyguy.com/blog/anthropic-spyware/\nComments URL: https://news.ycombinator.com/item?id=47829800\nPoints: 27\n# Comments: 4",
-            "time": "Mon, 20 Apr 2026 02:41:50 +0000",
-            "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/"
+            "title": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
+            "summary": "Article URL: https://arxiv.org/abs/2604.15356\nComments URL: https://news.ycombinator.com/item?id=47843715\nPoints: 40\n# Comments: 15",
+            "time": "Tue, 21 Apr 2026 02:11:14 +0000",
+            "url": "https://arxiv.org/abs/2604.15356"
         },
         {
             "source": "Hacker News",
-            "title": "The insider trading suspicions looming over Trump's presidency",
-            "summary": "Article URL: https://www.bbc.com/news/articles/cge0grppe3po\nComments URL: https://news.ycombinator.com/item?id=47829486\nPoints: 161\n# Comments: 65",
-            "time": "Mon, 20 Apr 2026 01:50:35 +0000",
-            "url": "https://www.bbc.com/news/articles/cge0grppe3po"
+            "title": "How to Make a Fast Dynamic Language Interpreter",
+            "summary": "Article URL: https://zef-lang.dev/implementation\nComments URL: https://news.ycombinator.com/item?id=47843194\nPoints: 58\n# Comments: 2",
+            "time": "Tue, 21 Apr 2026 00:48:07 +0000",
+            "url": "https://zef-lang.dev/implementation"
         },
         {
             "source": "Hacker News",
-            "title": "Claude Token Counter, now with model comparisons",
-            "summary": "Article URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/\nComments URL: https://news.ycombinator.com/item?id=47829178\nPoints: 13\n# Comments: 1",
-            "time": "Mon, 20 Apr 2026 00:56:40 +0000",
-            "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/"
+            "title": "Jujutsu megamerges for fun and profit",
+            "summary": "Article URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit\nComments URL: https://news.ycombinator.com/item?id=47841129\nPoints: 157\n# Comments: 45",
+            "time": "Mon, 20 Apr 2026 21:32:10 +0000",
+            "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit"
         }
     ]
 }
