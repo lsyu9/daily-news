@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-22 11:25:44",
+    "updated_at": "2026-04-23 11:29:22",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto's great hope in Senate's Clarity Act still has a path to survive tight calendar",
-            "summary": "A sideshow stablecoin yield debate has dragged the market structure bill through months of delay, even as the Senate's available floor time diminishes for 2026.",
-            "time": "Tue, 21 Apr 2026 22:45:47 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/04/21/crypto-s-great-hope-in-senate-s-clarity-act-still-has-a-path-to-survive-tight-calendar"
+            "title": "Kalshi flags more insider trading cases, including politician who appeared on FBoy Island",
+            "summary": "The prediction market platform, which has been caught in the middle of a regulatory battle between the feds and the states, is seeking to demonstrate strong controls.",
+            "time": "Wed, 22 Apr 2026 21:14:22 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/22/kalshi-flags-more-insider-trading-cases-including-politician-who-appeared-on-fboy-island"
         },
         {
             "source": "CoinDesk",
-            "title": "Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery",
-            "summary": "A new documentary digs into Bitcoin’s origins, reframing the search for Satoshi Nakamoto as both a technical investigation and a deeply human story.",
-            "time": "Tue, 21 Apr 2026 21:54:18 +0000",
-            "url": "https://www.coindesk.com/coindesk-news/2026/04/21/inside-the-hunt-for-satoshi-filmmakers-chase-crypto-s-biggest-mystery"
+            "title": "Elon Musk's Tesla reports unchanged bitcoin holdings, books $173 million digital asset loss",
+            "summary": "The company's bitcoin stash remained at 11,509 BTC, worth about $880 million at bitcoin's current price of around $78,000.",
+            "time": "Wed, 22 Apr 2026 20:36:19 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/22/elon-musk-s-tesla-reports-unchanged-bitcoin-holdings-books-usd173-million-digital-asset-loss"
         },
         {
             "source": "CoinDesk",
-            "title": "New York sues Coinbase, Gemini over prediction market offerings",
-            "summary": "New York has become the latest state to argue that prediction market contracts touching on sports and entertainment violate state gambling laws.",
-            "time": "Tue, 21 Apr 2026 20:58:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/21/new-york-sues-coinbase-gemini-over-prediction-market-offerings"
+            "title": "The question isn't whether privacy. It's what sort of privacy",
+            "summary": "Blockchains are going private. The only question left is what kind of privacy the industry will build, argues Schiller.",
+            "time": "Wed, 22 Apr 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/04/22/the-question-isn-t-whether-privacy-it-s-what-sort-of-privacy"
         },
         {
             "source": "Hacker News",
-            "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
-            "summary": "Article URL: https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/\nComments URL: https://news.ycombinator.com/item?id=47858246\nPoints: 15\n# Comments: 1",
-            "time": "Wed, 22 Apr 2026 02:49:40 +0000",
-            "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/"
+            "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+            "summary": "Article URL: https://tempest.homemade.systems\nComments URL: https://news.ycombinator.com/item?id=47871195\nPoints: 28\n# Comments: 6",
+            "time": "Thu, 23 Apr 2026 01:02:32 +0000",
+            "url": "https://tempest.homemade.systems"
         },
         {
             "source": "Hacker News",
-            "title": "Global growth in solar \"the largest ever observed for any source\"",
-            "summary": "Article URL: https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/\nComments URL: https://news.ycombinator.com/item?id=47857509\nPoints: 28\n# Comments:...",
-            "time": "Wed, 22 Apr 2026 01:25:04 +0000",
-            "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/"
+            "title": "OpenAI's response to the Axios developer tool compromise",
+            "summary": "Article URL: https://openai.com/index/axios-developer-tool-compromise/\nComments URL: https://news.ycombinator.com/item?id=47871077\nPoints: 26\n# Comments: 3",
+            "time": "Thu, 23 Apr 2026 00:45:01 +0000",
+            "url": "https://openai.com/index/axios-developer-tool-compromise/"
         },
         {
             "source": "Hacker News",
-            "title": "San Diego rents declined more than 19 of 20 top US markets after surge in supply",
-            "summary": "Article URL: https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply\nComments URL: https://news.ycombinator.com/item?id=4...",
-            "time": "Wed, 22 Apr 2026 01:21:09 +0000",
-            "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply"
+            "title": "Approximating Hyperbolic Tangent",
+            "summary": "Article URL: https://jtomschroeder.com/blog/approximating-tanh/\nComments URL: https://news.ycombinator.com/item?id=47870709\nPoints: 29\n# Comments: 4",
+            "time": "Wed, 22 Apr 2026 23:46:38 +0000",
+            "url": "https://jtomschroeder.com/blog/approximating-tanh/"
         }
     ]
 }
