@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-26 11:38:26",
+    "updated_at": "2026-04-27 11:42:07",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
-            "summary": "Alchemy CEO Nikil Viswanathan argues the global financial system was designed for humans, but the next wave of commerce will be driven by AI agents that operate natively in crypto.",
-            "time": "Sat, 25 Apr 2026 19:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo"
+            "title": "Running out of time on Clarity: State of Crypto",
+            "summary": "April is almost over. May is the month to watch.",
+            "time": "Sun, 26 Apr 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/26/running-out-of-time-on-clarity-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
-            "summary": "President Donald Trump, at a Mar-a-Lago gathering of investors in his self-branded memecoin, said crypto is mainstream and banks should back off the industry's bill.",
-            "time": "Sat, 25 Apr 2026 18:53:48 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo"
+            "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
+            "summary": "Blockchain analytics platform Arkham said that the largest contributors are Mantle and Aave DAO, having raised a combined $127 million.",
+            "time": "Sun, 26 Apr 2026 16:21:01 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit"
         },
         {
             "source": "CoinDesk",
-            "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
-            "summary": "IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.",
-            "time": "Sat, 25 Apr 2026 18:29:20 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet"
+            "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
+            "summary": "A $292 million exploit and $13 billion TVL drop looks catastrophic on the surface, but the data tells a different story.",
+            "time": "Sun, 26 Apr 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus"
         },
         {
             "source": "Hacker News",
-            "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-            "summary": "Every day for the past 3 days around 1pm EST the 'Headspace' app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I've updated to the latest iOS since this sta...",
-            "time": "Sun, 26 Apr 2026 00:50:56 +0000",
-            "url": "https://news.ycombinator.com/item?id=47906253"
+            "title": "The Prompt API",
+            "summary": "Article URL: https://developer.chrome.com/docs/ai/prompt-api\nComments URL: https://news.ycombinator.com/item?id=47917026\nPoints: 4\n# Comments: 0",
+            "time": "Mon, 27 Apr 2026 02:18:58 +0000",
+            "url": "https://developer.chrome.com/docs/ai/prompt-api"
         },
         {
             "source": "Hacker News",
-            "title": "Why has there been so little progress on Alzheimer's disease?",
-            "summary": "Article URL: https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\nComments URL: https://news.ycombinator.com/item?id=47905984\nPoints: 112\n# Comments: 50",
-            "time": "Sun, 26 Apr 2026 00:12:47 +0000",
-            "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/"
+            "title": "Notepad++ for Mac",
+            "summary": "Article URL: https://notepad-plus-plus-mac.org/\nComments URL: https://news.ycombinator.com/item?id=47916964\nPoints: 40\n# Comments: 13",
+            "time": "Mon, 27 Apr 2026 02:06:33 +0000",
+            "url": "https://notepad-plus-plus-mac.org/"
         },
         {
             "source": "Hacker News",
-            "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
-            "summary": "Article URL: https://www.lmsys.org/blog/2026-04-25-deepseek-v4/\nComments URL: https://news.ycombinator.com/item?id=47905768\nPoints: 4\n# Comments: 0",
-            "time": "Sat, 25 Apr 2026 23:44:05 +0000",
-            "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/"
+            "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+            "summary": "Article URL: https://github.com/evanklem/evanflow\nComments URL: https://news.ycombinator.com/item?id=47916909\nPoints: 10\n# Comments: 3",
+            "time": "Mon, 27 Apr 2026 01:56:39 +0000",
+            "url": "https://github.com/evanklem/evanflow"
         }
     ]
 }
