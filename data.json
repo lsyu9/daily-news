@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-27 11:42:07",
+    "updated_at": "2026-04-28 11:48:49",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Running out of time on Clarity: State of Crypto",
-            "summary": "April is almost over. May is the month to watch.",
-            "time": "Sun, 26 Apr 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/26/running-out-of-time-on-clarity-state-of-crypto"
+            "title": "Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack",
+            "summary": "The response to the DeFi recovery fund has quickly extended beyond Aave, and in some cases began with direct outreach.",
+            "time": "Mon, 27 Apr 2026 21:40:04 +0000",
+            "url": "https://www.coindesk.com/tech/2026/04/27/industry-leaders-are-pouring-hundreds-of-millions-into-a-rescue-plan-for-aave-users-after-massive-crypto-hack"
         },
         {
             "source": "CoinDesk",
-            "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
-            "summary": "Blockchain analytics platform Arkham said that the largest contributors are Mantle and Aave DAO, having raised a combined $127 million.",
-            "time": "Sun, 26 Apr 2026 16:21:01 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit"
+            "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
+            "summary": "Cooling U.S. demand, elevated Bitfinex whale positioning and a key on chain rejection point to short term downside during the Las Vegas Bitcoin conference.",
+            "time": "Mon, 27 Apr 2026 21:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish"
         },
         {
             "source": "CoinDesk",
-            "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
-            "summary": "A $292 million exploit and $13 billion TVL drop looks catastrophic on the surface, but the data tells a different story.",
-            "time": "Sun, 26 Apr 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus"
+            "title": "Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says",
+            "summary": "The 175-year-old money-transfer firm also plans to issue a stablecoin-linked card for payments and cash-out options from crypto to local currencies, CEO Devin McGranahan said.",
+            "time": "Mon, 27 Apr 2026 20:35:56 +0000",
+            "url": "https://www.coindesk.com/business/2026/04/27/western-union-eyeing-stablecoin-launch-to-settle-global-transactions-without-swift-ceo-says"
         },
         {
             "source": "Hacker News",
-            "title": "The Prompt API",
-            "summary": "Article URL: https://developer.chrome.com/docs/ai/prompt-api\nComments URL: https://news.ycombinator.com/item?id=47917026\nPoints: 4\n# Comments: 0",
-            "time": "Mon, 27 Apr 2026 02:18:58 +0000",
-            "url": "https://developer.chrome.com/docs/ai/prompt-api"
+            "title": "Show HN: Waiting for LLMs Suck – Give your user a game",
+            "summary": "Give your user a game while they wait for the LLM to return a result.\n\nComments URL: https://news.ycombinator.com/item?id=47929961\nPoints: 5\n# Comments: 1",
+            "time": "Tue, 28 Apr 2026 02:45:33 +0000",
+            "url": "https://github.com/ftaip/waiting-game"
         },
         {
             "source": "Hacker News",
-            "title": "Notepad++ for Mac",
-            "summary": "Article URL: https://notepad-plus-plus-mac.org/\nComments URL: https://news.ycombinator.com/item?id=47916964\nPoints: 40\n# Comments: 13",
-            "time": "Mon, 27 Apr 2026 02:06:33 +0000",
-            "url": "https://notepad-plus-plus-mac.org/"
+            "title": "Show HN: AgentSwift – Open-source iOS builder agent",
+            "summary": "I'm working on a coding agent for building iOS apps. It's built on openspec and xcodebuildmcp. It's free and open source.\n\nComments URL: https://news.ycombinator.com/item?id=47929375\nPoints: 15\n# Comm...",
+            "time": "Tue, 28 Apr 2026 01:14:31 +0000",
+            "url": "https://github.com/hpennington/agentswift"
         },
         {
             "source": "Hacker News",
-            "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-            "summary": "Article URL: https://github.com/evanklem/evanflow\nComments URL: https://news.ycombinator.com/item?id=47916909\nPoints: 10\n# Comments: 3",
-            "time": "Mon, 27 Apr 2026 01:56:39 +0000",
-            "url": "https://github.com/evanklem/evanflow"
+            "title": "Ted Nyman – High Performance Git",
+            "summary": "Article URL: https://gitperf.com/\nComments URL: https://news.ycombinator.com/item?id=47929035\nPoints: 33\n# Comments: 6",
+            "time": "Tue, 28 Apr 2026 00:32:04 +0000",
+            "url": "https://gitperf.com/"
         }
     ]
 }
