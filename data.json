@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-28 11:48:49",
+    "updated_at": "2026-04-29 11:45:25",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack",
-            "summary": "The response to the DeFi recovery fund has quickly extended beyond Aave, and in some cases began with direct outreach.",
-            "time": "Mon, 27 Apr 2026 21:40:04 +0000",
-            "url": "https://www.coindesk.com/tech/2026/04/27/industry-leaders-are-pouring-hundreds-of-millions-into-a-rescue-plan-for-aave-users-after-massive-crypto-hack"
+            "title": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue",
+            "summary": "While the trading platform’s crypto revenue tanked 47% to $134 million, a record-breaking surge in prediction market bets helped push overall revenue up 15% to $1.07 billion.",
+            "time": "Tue, 28 Apr 2026 20:28:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
-            "summary": "Cooling U.S. demand, elevated Bitfinex whale positioning and a key on chain rejection point to short term downside during the Las Vegas Bitcoin conference.",
-            "time": "Mon, 27 Apr 2026 21:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish"
+            "title": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
+            "summary": "It will be \"really hard to make money\" in stocks over the next decade, said the billionaire investor, noting that the S&P 500's valuation reminds him of the 2000 dot-com bubble.",
+            "time": "Tue, 28 Apr 2026 19:56:15 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks"
         },
         {
             "source": "CoinDesk",
-            "title": "Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says",
-            "summary": "The 175-year-old money-transfer firm also plans to issue a stablecoin-linked card for payments and cash-out options from crypto to local currencies, CEO Devin McGranahan said.",
-            "time": "Mon, 27 Apr 2026 20:35:56 +0000",
-            "url": "https://www.coindesk.com/business/2026/04/27/western-union-eyeing-stablecoin-launch-to-settle-global-transactions-without-swift-ceo-says"
+            "title": "CFTC sues Wisconsin in agency's legal campaign defending prediction markets authority",
+            "summary": "The U.S. Commodity Futures Trading Commission added Wisconsin to the list of states it's sued over event-contract jurisdiction, most recently New York.",
+            "time": "Tue, 28 Apr 2026 18:22:41 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/28/cftc-sues-wisconsin-in-agency-s-legal-campaign-defending-prediction-markets-authority"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Waiting for LLMs Suck – Give your user a game",
-            "summary": "Give your user a game while they wait for the LLM to return a result.\n\nComments URL: https://news.ycombinator.com/item?id=47929961\nPoints: 5\n# Comments: 1",
-            "time": "Tue, 28 Apr 2026 02:45:33 +0000",
-            "url": "https://github.com/ftaip/waiting-game"
+            "title": "We decreased our LLM costs with Opus",
+            "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs\nComments URL: https://news.ycombinator.com/item?id=47942903\nPoints: 51\n# Comments: 15",
+            "time": "Wed, 29 Apr 2026 00:57:12 +0000",
+            "url": "https://www.mendral.com/blog/frontier-model-lower-costs"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: AgentSwift – Open-source iOS builder agent",
-            "summary": "I'm working on a coding agent for building iOS apps. It's built on openspec and xcodebuildmcp. It's free and open source.\n\nComments URL: https://news.ycombinator.com/item?id=47929375\nPoints: 15\n# Comm...",
-            "time": "Tue, 28 Apr 2026 01:14:31 +0000",
-            "url": "https://github.com/hpennington/agentswift"
+            "title": "Regression: malware reminder on every read still causes subagent refusals",
+            "summary": "Not sure if anybody else has experienced this, but for my job I've been playing around with Claude Managed Agents to run code generation tasks in our repo. Every read operation in the managed agent is...",
+            "time": "Tue, 28 Apr 2026 23:59:57 +0000",
+            "url": "https://github.com/anthropics/claude-code/issues/49363"
         },
         {
             "source": "Hacker News",
-            "title": "Ted Nyman – High Performance Git",
-            "summary": "Article URL: https://gitperf.com/\nComments URL: https://news.ycombinator.com/item?id=47929035\nPoints: 33\n# Comments: 6",
-            "time": "Tue, 28 Apr 2026 00:32:04 +0000",
-            "url": "https://gitperf.com/"
+            "title": "How ChatGPT serves ads",
+            "summary": "Article URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/\nComments URL: https://news.ycombinator.com/item?id=47942437\nPoints: 188\n# Comments: 132",
+            "time": "Tue, 28 Apr 2026 23:54:14 +0000",
+            "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
         }
     ]
 }
