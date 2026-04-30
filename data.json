@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-29 11:45:25",
+    "updated_at": "2026-04-30 11:47:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue",
-            "summary": "While the trading platform’s crypto revenue tanked 47% to $134 million, a record-breaking surge in prediction market bets helped push overall revenue up 15% to $1.07 billion.",
-            "time": "Tue, 28 Apr 2026 20:28:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting"
+            "title": "Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger",
+            "summary": "Tether has moved to combine bitcoin treasury, mining, and financial services under one roof.",
+            "time": "Wed, 29 Apr 2026 22:12:53 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger"
         },
         {
             "source": "CoinDesk",
-            "title": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
-            "summary": "It will be \"really hard to make money\" in stocks over the next decade, said the billionaire investor, noting that the S&P 500's valuation reminds him of the 2000 dot-com bubble.",
-            "time": "Tue, 28 Apr 2026 19:56:15 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks"
+            "title": "Big Tech's multi-billion dollar AI bets are still on track as Mag 7 giants report earnings",
+            "summary": "The four Mag 7 giants reported quarterly results on Wednesday, showing that they are still on track to spend multi-billion on AI. Here is what it means for crypto.",
+            "time": "Wed, 29 Apr 2026 21:07:33 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings"
         },
         {
             "source": "CoinDesk",
-            "title": "CFTC sues Wisconsin in agency's legal campaign defending prediction markets authority",
-            "summary": "The U.S. Commodity Futures Trading Commission added Wisconsin to the list of states it's sued over event-contract jurisdiction, most recently New York.",
-            "time": "Tue, 28 Apr 2026 18:22:41 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/28/cftc-sues-wisconsin-in-agency-s-legal-campaign-defending-prediction-markets-authority"
+            "title": "Eric Trump says bitcoin in its 'greatest period ever' as Wall Street falls in line",
+            "summary": "Speaking at Bitcoin Las Vegas 2026, the American Bitcoin co-founder declared the last six months a turning point.",
+            "time": "Wed, 29 Apr 2026 19:49:14 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line"
         },
         {
             "source": "Hacker News",
-            "title": "We decreased our LLM costs with Opus",
-            "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs\nComments URL: https://news.ycombinator.com/item?id=47942903\nPoints: 51\n# Comments: 15",
-            "time": "Wed, 29 Apr 2026 00:57:12 +0000",
-            "url": "https://www.mendral.com/blog/frontier-model-lower-costs"
+            "title": "Where the Goblins Came From",
+            "summary": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 13\n# Comments: 0",
+            "time": "Thu, 30 Apr 2026 03:21:04 +0000",
+            "url": "https://openai.com/index/where-the-goblins-came-from/"
         },
         {
             "source": "Hacker News",
-            "title": "Regression: malware reminder on every read still causes subagent refusals",
-            "summary": "Not sure if anybody else has experienced this, but for my job I've been playing around with Claude Managed Agents to run code generation tasks in our repo. Every read operation in the managed agent is...",
-            "time": "Tue, 28 Apr 2026 23:59:57 +0000",
-            "url": "https://github.com/anthropics/claude-code/issues/49363"
+            "title": "A Grounded Conceptual Model for Ownership Types in Rust",
+            "summary": "Article URL: https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/\nComments URL: https://news.ycombinator.com/item?id=47957116\nPoints: 8\n# Comments: 0",
+            "time": "Thu, 30 Apr 2026 01:47:19 +0000",
+            "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/"
         },
         {
             "source": "Hacker News",
-            "title": "How ChatGPT serves ads",
-            "summary": "Article URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/\nComments URL: https://news.ycombinator.com/item?id=47942437\nPoints: 188\n# Comments: 132",
-            "time": "Tue, 28 Apr 2026 23:54:14 +0000",
-            "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
+            "title": "Craig Venter has died",
+            "summary": "Article URL: https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79\nComments URL: https://news.ycombinator.com/item?id=47957101\nPoints: 107...",
+            "time": "Thu, 30 Apr 2026 01:44:56 +0000",
+            "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79"
         }
     ]
 }
