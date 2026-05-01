@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-04-30 11:47:03",
+    "updated_at": "2026-05-01 11:58:12",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger",
-            "summary": "Tether has moved to combine bitcoin treasury, mining, and financial services under one roof.",
-            "time": "Wed, 29 Apr 2026 22:12:53 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger"
+            "title": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
+            "summary": "The Senate agreed unanimously to revise its rules to ban members and their staffs from wagers on prediction markets platforms.",
+            "time": "Thu, 30 Apr 2026 22:13:13 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/30/u-s-senators-won-t-be-weighing-in-on-prediction-markets-bets-after-banning-themselves"
         },
         {
             "source": "CoinDesk",
-            "title": "Big Tech's multi-billion dollar AI bets are still on track as Mag 7 giants report earnings",
-            "summary": "The four Mag 7 giants reported quarterly results on Wednesday, showing that they are still on track to spend multi-billion on AI. Here is what it means for crypto.",
-            "time": "Wed, 29 Apr 2026 21:07:33 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings"
+            "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
+            "summary": "Cathie Wood’s Ark Invest snapped up over 500,000 shares of Robinhood on Wednesday, joining a wave of analysts who believe a surge in April trading activity will outweigh a recent earnings disappointme...",
+            "time": "Thu, 30 Apr 2026 19:30:05 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump"
         },
         {
             "source": "CoinDesk",
-            "title": "Eric Trump says bitcoin in its 'greatest period ever' as Wall Street falls in line",
-            "summary": "Speaking at Bitcoin Las Vegas 2026, the American Bitcoin co-founder declared the last six months a turning point.",
-            "time": "Wed, 29 Apr 2026 19:49:14 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line"
+            "title": "Senator Warren questions Commerce Secretary Lutnick on Tether loan to family",
+            "summary": "Senators Elizabeth Warren and Ron Wyden sent letters to Howard Lutnick and Tether CEO Paulo Ardoino asking about a loan Tether reportedly made to Lutnick's family.",
+            "time": "Thu, 30 Apr 2026 17:06:21 +0000",
+            "url": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family"
         },
         {
             "source": "Hacker News",
-            "title": "Where the Goblins Came From",
-            "summary": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 13\n# Comments: 0",
-            "time": "Thu, 30 Apr 2026 03:21:04 +0000",
-            "url": "https://openai.com/index/where-the-goblins-came-from/"
+            "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
+            "summary": "Article URL: https://github.com/kernalix7/winpodx\nComments URL: https://news.ycombinator.com/item?id=47970690\nPoints: 15\n# Comments: 2",
+            "time": "Fri, 01 May 2026 02:23:43 +0000",
+            "url": "https://github.com/kernalix7/winpodx"
         },
         {
             "source": "Hacker News",
-            "title": "A Grounded Conceptual Model for Ownership Types in Rust",
-            "summary": "Article URL: https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/\nComments URL: https://news.ycombinator.com/item?id=47957116\nPoints: 8\n# Comments: 0",
-            "time": "Thu, 30 Apr 2026 01:47:19 +0000",
-            "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/"
+            "title": "OpenWarp",
+            "summary": "Article URL: https://openwarp.zerx.dev\nComments URL: https://news.ycombinator.com/item?id=47970622\nPoints: 44\n# Comments: 41",
+            "time": "Fri, 01 May 2026 02:10:46 +0000",
+            "url": "https://openwarp.zerx.dev"
         },
         {
             "source": "Hacker News",
-            "title": "Craig Venter has died",
-            "summary": "Article URL: https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79\nComments URL: https://news.ycombinator.com/item?id=47957101\nPoints: 107...",
-            "time": "Thu, 30 Apr 2026 01:44:56 +0000",
-            "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79"
+            "title": "The Hearts of the Super Nintendo",
+            "summary": "Article URL: https://fabiensanglard.net/snes_hearts/\nComments URL: https://news.ycombinator.com/item?id=47970578\nPoints: 7\n# Comments: 2",
+            "time": "Fri, 01 May 2026 02:02:11 +0000",
+            "url": "https://fabiensanglard.net/snes_hearts/"
         }
     ]
 }
