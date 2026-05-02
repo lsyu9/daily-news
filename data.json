@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-01 11:58:12",
+    "updated_at": "2026-05-02 11:31:50",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
-            "summary": "The Senate agreed unanimously to revise its rules to ban members and their staffs from wagers on prediction markets platforms.",
-            "time": "Thu, 30 Apr 2026 22:13:13 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/30/u-s-senators-won-t-be-weighing-in-on-prediction-markets-bets-after-banning-themselves"
+            "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+            "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
+            "time": "Fri, 01 May 2026 21:33:27 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield"
         },
         {
             "source": "CoinDesk",
-            "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
-            "summary": "Cathie Wood’s Ark Invest snapped up over 500,000 shares of Robinhood on Wednesday, joining a wave of analysts who believe a surge in April trading activity will outweigh a recent earnings disappointme...",
-            "time": "Thu, 30 Apr 2026 19:30:05 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump"
+            "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+            "summary": "AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business.",
+            "time": "Fri, 01 May 2026 20:59:09 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot"
         },
         {
             "source": "CoinDesk",
-            "title": "Senator Warren questions Commerce Secretary Lutnick on Tether loan to family",
-            "summary": "Senators Elizabeth Warren and Ron Wyden sent letters to Howard Lutnick and Tether CEO Paulo Ardoino asking about a loan Tether reportedly made to Lutnick's family.",
-            "time": "Thu, 30 Apr 2026 17:06:21 +0000",
-            "url": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family"
+            "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+            "summary": "The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine, raising roughly $10.2 million.",
+            "time": "Fri, 01 May 2026 18:16:40 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
-            "summary": "Article URL: https://github.com/kernalix7/winpodx\nComments URL: https://news.ycombinator.com/item?id=47970690\nPoints: 15\n# Comments: 2",
-            "time": "Fri, 01 May 2026 02:23:43 +0000",
-            "url": "https://github.com/kernalix7/winpodx"
+            "title": "Good developers learn to program. Most courses teach a language",
+            "summary": "Article URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language\nComments URL: https://news.ycombinator.com/item?id=47981995\nPoints: 58\n# Comments: 35",
+            "time": "Sat, 02 May 2026 00:14:33 +0000",
+            "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language"
         },
         {
             "source": "Hacker News",
-            "title": "OpenWarp",
-            "summary": "Article URL: https://openwarp.zerx.dev\nComments URL: https://news.ycombinator.com/item?id=47970622\nPoints: 44\n# Comments: 41",
-            "time": "Fri, 01 May 2026 02:10:46 +0000",
-            "url": "https://openwarp.zerx.dev"
+            "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+            "summary": "Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf\nComments URL: https://news.ycombinator.com/item?id=47981669\nPoints: 39\n# Comments: 9",
+            "time": "Fri, 01 May 2026 23:24:10 +0000",
+            "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"
         },
         {
             "source": "Hacker News",
-            "title": "The Hearts of the Super Nintendo",
-            "summary": "Article URL: https://fabiensanglard.net/snes_hearts/\nComments URL: https://news.ycombinator.com/item?id=47970578\nPoints: 7\n# Comments: 2",
-            "time": "Fri, 01 May 2026 02:02:11 +0000",
-            "url": "https://fabiensanglard.net/snes_hearts/"
+            "title": "Credit cards are vulnerable to brute force kind attacks",
+            "summary": "Article URL: https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html\nComments URL: https://news.ycombinator.com/item?id=47979839\nPoints: 197\n# Comments: 164",
+            "time": "Fri, 01 May 2026 20:26:24 +0000",
+            "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html"
         }
     ]
 }
