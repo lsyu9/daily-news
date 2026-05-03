@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-02 11:31:50",
+    "updated_at": "2026-05-03 11:53:13",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
-            "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
-            "time": "Fri, 01 May 2026 21:33:27 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield"
+            "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+            "summary": "The ban applies to fintechs and payment firms, closing the back-end payment rail for cross-border flows, but individual crypto investors can still buy and hold assets.",
+            "time": "Sat, 02 May 2026 16:56:08 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
-            "summary": "AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business.",
-            "time": "Fri, 01 May 2026 20:59:09 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot"
+            "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
+            "summary": "The agreement necessitates firms restructure reward programs from a \"buy and hold\" to a \"buy and use\" model; however, CCI raised concerns over its broad prohibition.",
+            "time": "Sat, 02 May 2026 16:01:01 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
-            "summary": "The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine, raising roughly $10.2 million.",
-            "time": "Fri, 01 May 2026 18:16:40 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy"
+            "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
+            "summary": "Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.",
+            "time": "Sat, 02 May 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork"
         },
         {
             "source": "Hacker News",
-            "title": "Good developers learn to program. Most courses teach a language",
-            "summary": "Article URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language\nComments URL: https://news.ycombinator.com/item?id=47981995\nPoints: 58\n# Comments: 35",
-            "time": "Sat, 02 May 2026 00:14:33 +0000",
-            "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language"
+            "title": "Windows API Is Successful Cross-Platform API",
+            "summary": "Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api\nComments URL: https://news.ycombinator.com/item?id=47992859\nPoints: 7\n# Comments: 0",
+            "time": "Sun, 03 May 2026 02:53:29 +0000",
+            "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api"
         },
         {
             "source": "Hacker News",
-            "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-            "summary": "Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf\nComments URL: https://news.ycombinator.com/item?id=47981669\nPoints: 39\n# Comments: 9",
-            "time": "Fri, 01 May 2026 23:24:10 +0000",
-            "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"
+            "title": "Open Source Does Not Imply Open Community",
+            "summary": "Article URL: https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/\nComments URL: https://news.ycombinator.com/item?id=47992772\nPoints: 33\n# Comments: 3",
+            "time": "Sun, 03 May 2026 02:36:09 +0000",
+            "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/"
         },
         {
             "source": "Hacker News",
-            "title": "Credit cards are vulnerable to brute force kind attacks",
-            "summary": "Article URL: https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html\nComments URL: https://news.ycombinator.com/item?id=47979839\nPoints: 197\n# Comments: 164",
-            "time": "Fri, 01 May 2026 20:26:24 +0000",
-            "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html"
+            "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
+            "summary": "Article URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html\nComments URL: https://news.ycombinator.com/item?id=47992349\nPoints: 63\n# Comments: 28",
+            "time": "Sun, 03 May 2026 01:24:09 +0000",
+            "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html"
         }
     ]
 }
