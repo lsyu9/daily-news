@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-03 11:53:13",
+    "updated_at": "2026-05-04 11:51:01",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
-            "summary": "The ban applies to fintechs and payment firms, closing the back-end payment rail for cross-border flows, but individual crypto investors can still buy and hold assets.",
-            "time": "Sat, 02 May 2026 16:56:08 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments"
+            "title": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
+            "summary": "Morgan Stanley launched the first bank-issued Bitcoin ETP, but Amy Oldenburg said advisors, regulators and balance sheets still have a long way to go.",
+            "time": "Mon, 04 May 2026 00:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
-            "summary": "The agreement necessitates firms restructure reward programs from a \"buy and hold\" to a \"buy and use\" model; however, CCI raised concerns over its broad prohibition.",
-            "time": "Sat, 02 May 2026 16:01:01 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup"
+            "title": "Policy Summit and other things at Consensus 2026: State of Crypto",
+            "summary": "We are kicking off the show in Miami this week. Here's what you should attend.",
+            "time": "Sun, 03 May 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/03/policy-summit-and-other-things-at-consensus-2026-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
-            "summary": "Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.",
-            "time": "Sat, 02 May 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork"
+            "title": "Crypto is at bottom of U.S. voters' priorities heading into elections, CoinDesk survey shows",
+            "summary": "Americans had a generally unfavorable view of cryptocurrencies, the survey of 1,000 randomly selected registered voters found.",
+            "time": "Sun, 03 May 2026 14:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows"
         },
         {
             "source": "Hacker News",
-            "title": "Windows API Is Successful Cross-Platform API",
-            "summary": "Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api\nComments URL: https://news.ycombinator.com/item?id=47992859\nPoints: 7\n# Comments: 0",
-            "time": "Sun, 03 May 2026 02:53:29 +0000",
-            "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api"
+            "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+            "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 126\n# Comments: 50",
+            "time": "Sun, 03 May 2026 23:59:02 +0000",
+            "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility"
         },
         {
             "source": "Hacker News",
-            "title": "Open Source Does Not Imply Open Community",
-            "summary": "Article URL: https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/\nComments URL: https://news.ycombinator.com/item?id=47992772\nPoints: 33\n# Comments: 3",
-            "time": "Sun, 03 May 2026 02:36:09 +0000",
-            "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/"
+            "title": "Let's Buy Spirit Air",
+            "summary": "Article URL: https://letsbuyspiritair.com/\nComments URL: https://news.ycombinator.com/item?id=48002777\nPoints: 225\n# Comments: 174",
+            "time": "Sun, 03 May 2026 23:36:11 +0000",
+            "url": "https://letsbuyspiritair.com/"
         },
         {
             "source": "Hacker News",
-            "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
-            "summary": "Article URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html\nComments URL: https://news.ycombinator.com/item?id=47992349\nPoints: 63\n# Comments: 28",
-            "time": "Sun, 03 May 2026 01:24:09 +0000",
-            "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html"
+            "title": "The 'Hidden' Costs of Great Abstractions",
+            "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions\nComments URL: https://news.ycombinator.com/item?id=48002607\nPoints: 77\n# Comments: 17",
+            "time": "Sun, 03 May 2026 23:12:02 +0000",
+            "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions"
         }
     ]
 }
