@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-04 11:51:01",
+    "updated_at": "2026-05-05 11:33:01",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
-            "summary": "Morgan Stanley launched the first bank-issued Bitcoin ETP, but Amy Oldenburg said advisors, regulators and balance sheets still have a long way to go.",
-            "time": "Mon, 04 May 2026 00:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet"
+            "title": "Bitcoin tests $80,000 as Asia’s bid fades and Hong Kong AI IPOs surge",
+            "summary": "Western desks are carrying the bitcoin rally alone, with Friday’s jobs report the next test.",
+            "time": "Tue, 05 May 2026 02:05:26 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tests-usd80-000-as-asia-s-bid-fades-and-hong-kong-ai-ipos-surge"
         },
         {
             "source": "CoinDesk",
-            "title": "Policy Summit and other things at Consensus 2026: State of Crypto",
-            "summary": "We are kicking off the show in Miami this week. Here's what you should attend.",
-            "time": "Sun, 03 May 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/03/policy-summit-and-other-things-at-consensus-2026-state-of-crypto"
+            "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
+            "summary": "The video game retailer’s proposed acquisition plan revives question on whether its $368 million bitcoin stash could be sold to fund the expansion.",
+            "time": "Mon, 04 May 2026 20:16:04 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto is at bottom of U.S. voters' priorities heading into elections, CoinDesk survey shows",
-            "summary": "Americans had a generally unfavorable view of cryptocurrencies, the survey of 1,000 randomly selected registered voters found.",
-            "time": "Sun, 03 May 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows"
+            "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
+            "summary": "A new $200 million, 364-day bitcoin-backed facility replaces the Coinbase Credit arrangement, cutting debt costs by 200 basis points.",
+            "time": "Mon, 04 May 2026 18:31:44 +0000",
+            "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai"
         },
         {
             "source": "Hacker News",
-            "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-            "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 126\n# Comments: 50",
-            "time": "Sun, 03 May 2026 23:59:02 +0000",
-            "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility"
+            "title": "What I'm Hearing About Cognitive Debt (So Far)",
+            "summary": "Article URL: https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/\nComments URL: https://news.ycombinator.com/item?id=48017298\nPoints: 35\n# Comments: 6",
+            "time": "Tue, 05 May 2026 02:08:21 +0000",
+            "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/"
         },
         {
             "source": "Hacker News",
-            "title": "Let's Buy Spirit Air",
-            "summary": "Article URL: https://letsbuyspiritair.com/\nComments URL: https://news.ycombinator.com/item?id=48002777\nPoints: 225\n# Comments: 174",
-            "time": "Sun, 03 May 2026 23:36:11 +0000",
-            "url": "https://letsbuyspiritair.com/"
+            "title": "Bun is being ported from Zig to Rust",
+            "summary": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\nComments URL: https://news.ycombinator.com/item?id=48016880\nPoints: 205\n# Comments: 132",
+            "time": "Tue, 05 May 2026 01:08:17 +0000",
+            "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
         },
         {
             "source": "Hacker News",
-            "title": "The 'Hidden' Costs of Great Abstractions",
-            "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions\nComments URL: https://news.ycombinator.com/item?id=48002607\nPoints: 77\n# Comments: 17",
-            "time": "Sun, 03 May 2026 23:12:02 +0000",
-            "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions"
+            "title": "Y Combinator's Stake in OpenAI (0.6%)",
+            "summary": "Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai\nComments URL: https://news.ycombinator.com/item?id=48016534\nPoints: 118\n# Comments: 2",
+            "time": "Tue, 05 May 2026 00:09:01 +0000",
+            "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
         }
     ]
 }
