@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-05 11:33:01",
+    "updated_at": "2026-05-06 11:47:15",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin tests $80,000 as Asia’s bid fades and Hong Kong AI IPOs surge",
-            "summary": "Western desks are carrying the bitcoin rally alone, with Friday’s jobs report the next test.",
-            "time": "Tue, 05 May 2026 02:05:26 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tests-usd80-000-as-asia-s-bid-fades-and-hong-kong-ai-ipos-surge"
+            "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
+            "summary": "Michael Saylor proposes using bitcoin sales to support dividends, as Strategy reported a $12.54 billion Q1 loss.",
+            "time": "Tue, 05 May 2026 23:43:44 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations"
         },
         {
             "source": "CoinDesk",
-            "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
-            "summary": "The video game retailer’s proposed acquisition plan revives question on whether its $368 million bitcoin stash could be sold to fund the expansion.",
-            "time": "Mon, 04 May 2026 20:16:04 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs"
+            "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
+            "summary": "Speakers point to complexity, poor user experience and lack of transparency as key obstacles for mainstream users.",
+            "time": "Tue, 05 May 2026 22:39:33 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists"
         },
         {
             "source": "CoinDesk",
-            "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
-            "summary": "A new $200 million, 364-day bitcoin-backed facility replaces the Coinbase Credit arrangement, cutting debt costs by 200 basis points.",
-            "time": "Mon, 04 May 2026 18:31:44 +0000",
-            "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai"
+            "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
+            "summary": "The Consensys CEO and founder said tokenization can be traced back to Ethereum, the blockchain he helped co-found.",
+            "time": "Tue, 05 May 2026 22:06:55 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin"
         },
         {
             "source": "Hacker News",
-            "title": "What I'm Hearing About Cognitive Debt (So Far)",
-            "summary": "Article URL: https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/\nComments URL: https://news.ycombinator.com/item?id=48017298\nPoints: 35\n# Comments: 6",
-            "time": "Tue, 05 May 2026 02:08:21 +0000",
-            "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/"
+            "title": "Ombudsman column: The Pentagon is trying to silence me",
+            "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html\nComments URL: https://news.ycombinator.com/item?id=48031769\nPoints: 6\n# Commen...",
+            "time": "Wed, 06 May 2026 03:24:49 +0000",
+            "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html"
         },
         {
             "source": "Hacker News",
-            "title": "Bun is being ported from Zig to Rust",
-            "summary": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\nComments URL: https://news.ycombinator.com/item?id=48016880\nPoints: 205\n# Comments: 132",
-            "time": "Tue, 05 May 2026 01:08:17 +0000",
-            "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
+            "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
+            "summary": "Article URL: https://github.com/microsoft/vscode/issues/314311\nComments URL: https://news.ycombinator.com/item?id=48031707\nPoints: 4\n# Comments: 0",
+            "time": "Wed, 06 May 2026 03:15:05 +0000",
+            "url": "https://github.com/microsoft/vscode/issues/314311"
         },
         {
             "source": "Hacker News",
-            "title": "Y Combinator's Stake in OpenAI (0.6%)",
-            "summary": "Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai\nComments URL: https://news.ycombinator.com/item?id=48016534\nPoints: 118\n# Comments: 2",
-            "time": "Tue, 05 May 2026 00:09:01 +0000",
-            "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
+            "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+            "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/\nComments URL: https://news.ycombinator.com/item?id=48031684\nPoints: 9\n# Comments: 2",
+            "time": "Wed, 06 May 2026 03:10:33 +0000",
+            "url": "https://blog.cloudflare.com/agents-stripe-projects/"
         }
     ]
 }
