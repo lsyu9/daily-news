@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-07 11:46:00",
+    "updated_at": "2026-05-08 11:37:49",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "AI agents becoming more relevant than humans by 2035 has Big Tech 'terrified', says Hoskinson",
-            "summary": "The founder and CEO of Cardano’s Input Output said Google, Amazon and Facebook are terrified because AI agents will not behave like humans when confronted with ads.",
-            "time": "Wed, 06 May 2026 22:35:57 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/06/ai-agents-will-become-more-relevant-than-humans-by-2035-says-charles-hoskinson"
+            "title": "Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance",
+            "summary": "Coinbax took the top spot at Consensus Miami with software built to add compliance controls to onchain payments.",
+            "time": "Thu, 07 May 2026 21:35:01 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance"
         },
         {
             "source": "CoinDesk",
-            "title": "Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury",
-            "summary": "The real-estate mogul said the hybrid model brings new users into crypto and challenges traditional real estate structures.",
-            "time": "Wed, 06 May 2026 22:32:30 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury"
+            "title": "Privacy and accountability can coexist onchain, say panelists at Consensus Miami",
+            "summary": "Public blockchains make transactions traceable, but that transparency can come at the expense of user privacy. Speakers from Moody’s Ratings and ChangeNOW said that hybrid blockchain architecture and ...",
+            "time": "Thu, 07 May 2026 21:14:23 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami"
         },
         {
             "source": "CoinDesk",
-            "title": "Nasdaq's president says the SEC’s new crypto stance is letting markets 'build' again",
-            "summary": "Nasdaq’s Tal Cohen said a friendlier SEC is giving crypto firms and exchanges room to experiment with tokenization and digital market infrastructure.",
-            "time": "Wed, 06 May 2026 22:31:09 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again"
+            "title": "AI agents and large corporates will lead the next stablecoin boom, executives say",
+            "summary": "Stablecoins are entering a new phase of adoption, with large corporations using them for cross-border treasury flows while AI agents begin using blockchain rails for autonomous payments, Bridge and De...",
+            "time": "Thu, 07 May 2026 21:10:50 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/07/ai-agents-and-large-corporates-will-lead-the-next-stablecoin-boom-executives-say"
         },
         {
             "source": "Hacker News",
-            "title": "Permacomputing Principles",
-            "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 17\n# Comments: 0",
-            "time": "Thu, 07 May 2026 02:18:23 +0000",
-            "url": "https://permacomputing.net/principles/"
+            "title": "Komai: a fine Matrix chat app you can get to love",
+            "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 26\n# Comments: 10",
+            "time": "Fri, 08 May 2026 00:10:44 +0000",
+            "url": "https://etke.cc/blog/introducing-komai"
         },
         {
             "source": "Hacker News",
-            "title": "The Vatican's Website in Latin",
-            "summary": "Article URL: https://www.vatican.va/latin/latin_index.html\nComments URL: https://news.ycombinator.com/item?id=48044311\nPoints: 67\n# Comments: 43",
-            "time": "Thu, 07 May 2026 01:26:03 +0000",
-            "url": "https://www.vatican.va/latin/latin_index.html"
+            "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+            "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 30\n# Comments: 10",
+            "time": "Fri, 08 May 2026 00:03:38 +0000",
+            "url": "https://github.com/robertdfrench/ifuncd-up"
         },
         {
             "source": "Hacker News",
-            "title": "What British people mean when they say 'sorry'",
-            "summary": "Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry\nComments URL: https://news.ycombinator.com/item?id=48043184\nPoints: 24\n# Comments: 10",
-            "time": "Wed, 06 May 2026 23:21:53 +0000",
-            "url": "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry"
+            "title": "Gambling ads on social media reach more than twice as many men as women: study",
+            "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 19\n# Commen...",
+            "time": "Thu, 07 May 2026 23:17:03 +0000",
+            "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women"
         }
     ]
 }
