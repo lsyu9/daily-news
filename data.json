@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-08 11:37:49",
+    "updated_at": "2026-05-09 11:38:28",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance",
-            "summary": "Coinbax took the top spot at Consensus Miami with software built to add compliance controls to onchain payments.",
-            "time": "Thu, 07 May 2026 21:35:01 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance"
+            "title": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
+            "summary": "The Senate Banking Committee announced it would hold its markup hearing for the Clarity Act on March 14.",
+            "time": "Fri, 08 May 2026 23:20:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday"
         },
         {
             "source": "CoinDesk",
-            "title": "Privacy and accountability can coexist onchain, say panelists at Consensus Miami",
-            "summary": "Public blockchains make transactions traceable, but that transparency can come at the expense of user privacy. Speakers from Moody’s Ratings and ChangeNOW said that hybrid blockchain architecture and ...",
-            "time": "Thu, 07 May 2026 21:14:23 +0000",
-            "url": "https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami"
+            "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
+            "summary": "Tokenization and digital asset-infrastructure stocks climbed as SEC Chair Paul Atkins signaled support for onchain finance rules.",
+            "time": "Fri, 08 May 2026 20:59:25 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000"
         },
         {
             "source": "CoinDesk",
-            "title": "AI agents and large corporates will lead the next stablecoin boom, executives say",
-            "summary": "Stablecoins are entering a new phase of adoption, with large corporations using them for cross-border treasury flows while AI agents begin using blockchain rails for autonomous payments, Bridge and De...",
-            "time": "Thu, 07 May 2026 21:10:50 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/07/ai-agents-and-large-corporates-will-lead-the-next-stablecoin-boom-executives-say"
+            "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
+            "summary": "Nearly 1,000 developers competed at the venue, from ecosystems like Base, Solana, and others arriving from companies like Microsoft and Google, most racing to build products around the theme of AI age...",
+            "time": "Fri, 08 May 2026 19:12:29 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon"
         },
         {
             "source": "Hacker News",
-            "title": "Komai: a fine Matrix chat app you can get to love",
-            "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 26\n# Comments: 10",
-            "time": "Fri, 08 May 2026 00:10:44 +0000",
-            "url": "https://etke.cc/blog/introducing-komai"
+            "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+            "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests\nComments URL: https://news.ycombinator.com/item?id=48070115\nPoints:...",
+            "time": "Fri, 08 May 2026 23:37:55 +0000",
+            "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests"
         },
         {
             "source": "Hacker News",
-            "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-            "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 30\n# Comments: 10",
-            "time": "Fri, 08 May 2026 00:03:38 +0000",
-            "url": "https://github.com/robertdfrench/ifuncd-up"
+            "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
+            "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166\nComments URL: https://news.ycombinator.com/item?id=48069313\nPoints: 25\n# Comments: 0",
+            "time": "Fri, 08 May 2026 22:00:22 +0000",
+            "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166"
         },
         {
             "source": "Hacker News",
-            "title": "Gambling ads on social media reach more than twice as many men as women: study",
-            "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 19\n# Commen...",
-            "time": "Thu, 07 May 2026 23:17:03 +0000",
-            "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women"
+            "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+            "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 175\n# Comments: 120",
+            "time": "Fri, 08 May 2026 21:47:47 +0000",
+            "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging"
         }
     ]
 }
