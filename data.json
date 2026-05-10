@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-09 11:38:28",
+    "updated_at": "2026-05-10 11:55:10",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
-            "summary": "The Senate Banking Committee announced it would hold its markup hearing for the Clarity Act on March 14.",
-            "time": "Fri, 08 May 2026 23:20:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday"
+            "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
+            "summary": "The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.",
+            "time": "Sat, 09 May 2026 17:28:08 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns"
         },
         {
             "source": "CoinDesk",
-            "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
-            "summary": "Tokenization and digital asset-infrastructure stocks climbed as SEC Chair Paul Atkins signaled support for onchain finance rules.",
-            "time": "Fri, 08 May 2026 20:59:25 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000"
+            "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
+            "summary": "Novig CEO Jacob Fortinsky said his company will transition to a federal Designated Contract Market framework this summer to launch in all 50 states, while 57 Maiden's Adam Mastrelli said he was banned...",
+            "time": "Sat, 09 May 2026 17:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says"
         },
         {
             "source": "CoinDesk",
-            "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
-            "summary": "Nearly 1,000 developers competed at the venue, from ecosystems like Base, Solana, and others arriving from companies like Microsoft and Google, most racing to build products around the theme of AI age...",
-            "time": "Fri, 08 May 2026 19:12:29 +0000",
-            "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon"
+            "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
+            "summary": "Quantum computing does not only pose a risk to up to $3 trillion in digital assets, it also threatens the security of banking systems, military communications, digital identities and more, Project Ele...",
+            "time": "Sat, 09 May 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues"
         },
         {
             "source": "Hacker News",
-            "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-            "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests\nComments URL: https://news.ycombinator.com/item?id=48070115\nPoints:...",
-            "time": "Fri, 08 May 2026 23:37:55 +0000",
-            "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests"
+            "title": "Gemini API File Search is now multimodal",
+            "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 3\n# C...",
+            "time": "Sun, 10 May 2026 03:22:02 +0000",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
         },
         {
             "source": "Hacker News",
-            "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
-            "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166\nComments URL: https://news.ycombinator.com/item?id=48069313\nPoints: 25\n# Comments: 0",
-            "time": "Fri, 08 May 2026 22:00:22 +0000",
-            "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166"
+            "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+            "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scr...",
+            "time": "Sun, 10 May 2026 03:01:44 +0000",
+            "url": "https://github.com/imtomt/ymawky"
         },
         {
             "source": "Hacker News",
-            "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-            "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 175\n# Comments: 120",
-            "time": "Fri, 08 May 2026 21:47:47 +0000",
-            "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging"
+            "title": "Sparse Cholesky Elimination Tree",
+            "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 7\n# Comments: 0",
+            "time": "Sun, 10 May 2026 01:52:55 +0000",
+            "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html"
         }
     ]
 }
