@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-11 12:05:48",
+    "updated_at": "2026-05-12 11:49:37",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Policy at Consensus Miami: State of Crypto",
-            "summary": "This was a hectic week.",
-            "time": "Sun, 10 May 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/10/policy-at-consensus-miami-state-of-crypto"
+            "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
+            "summary": "Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.",
+            "time": "Mon, 11 May 2026 20:21:44 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin"
         },
         {
             "source": "CoinDesk",
-            "title": "Agentic commerce will run on crypto rails, PayPal and Google reps tell Consensus Miami",
-            "summary": "Senior figures from PayPal and Google Cloud said open payment protocols, machine-readable merchant catalogs and multi-party crypto custody are needed to scale agentic commerce.",
-            "time": "Sun, 10 May 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami"
+            "title": "'I don’t think that’s crazy': Here is why Circle is betting on new $3 billion blockchain",
+            "summary": "The USDC stablecoin issuer is betting Arc can become Wall Street’s blockchain rail for payments and tokenized finance, though analysts still see it as speculative.",
+            "time": "Mon, 11 May 2026 19:51:09 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain"
         },
         {
             "source": "CoinDesk",
-            "title": "Bored Ape NFTs are finally making a comeback as crypto traders rediscover their appetite for risk",
-            "summary": "BAYC floor prices have doubled in a month as traders rotate back into speculative crypto bets, reviving hopes of a broader NFT recovery.",
-            "time": "Sun, 10 May 2026 13:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk"
+            "title": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
+            "summary": "The crypto exchange operator is pursuing a new fundraising round as it ramps up acquisitions across derivatives and stablecoins while laying the groundwork for a future public listing.",
+            "time": "Mon, 11 May 2026 18:42:27 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo"
         },
         {
             "source": "Hacker News",
-            "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
-            "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 29\n# Comments: 6",
-            "time": "Mon, 11 May 2026 02:43:34 +0000",
-            "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html"
+            "title": "Software Internals Book Club",
+            "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 8\n# Comments: 0",
+            "time": "Tue, 12 May 2026 02:28:11 +0000",
+            "url": "https://eatonphil.com/bookclub.html"
         },
         {
             "source": "Hacker News",
-            "title": "I'm going back to writing code by hand",
-            "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 116\n# Comments: 47",
-            "time": "Mon, 11 May 2026 01:23:51 +0000",
-            "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/"
+            "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+            "summary": "Article URL: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/\nComments URL: https://news.ycombinator.com/item?id=48103459\nPoints: 29\n# Comments: 12",
+            "time": "Tue, 12 May 2026 02:22:04 +0000",
+            "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/"
         },
         {
             "source": "Hacker News",
-            "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-            "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 68\n# Comments: 10",
-            "time": "Sun, 10 May 2026 23:39:55 +0000",
-            "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
+            "title": "Claude Platform on AWS",
+            "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 45\n# Comments: 23",
+            "time": "Tue, 12 May 2026 01:24:29 +0000",
+            "url": "https://claude.com/blog/claude-platform-on-aws"
         }
     ]
 }
