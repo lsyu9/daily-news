@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-12 11:49:37",
+    "updated_at": "2026-05-13 11:58:32",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
-            "summary": "Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.",
-            "time": "Mon, 11 May 2026 20:21:44 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin"
+            "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
+            "summary": "The global banking giant is expanding its tokenized money market lineup, following BlackRock's similar move just a few days ago.",
+            "time": "Tue, 12 May 2026 21:18:10 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up"
         },
         {
             "source": "CoinDesk",
-            "title": "'I don’t think that’s crazy': Here is why Circle is betting on new $3 billion blockchain",
-            "summary": "The USDC stablecoin issuer is betting Arc can become Wall Street’s blockchain rail for payments and tokenized finance, though analysts still see it as speculative.",
-            "time": "Mon, 11 May 2026 19:51:09 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain"
+            "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
+            "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand.",
+            "time": "Tue, 12 May 2026 17:31:53 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions"
         },
         {
             "source": "CoinDesk",
-            "title": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
-            "summary": "The crypto exchange operator is pursuing a new fundraising round as it ramps up acquisitions across derivatives and stablecoins while laying the groundwork for a future public listing.",
-            "time": "Mon, 11 May 2026 18:42:27 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo"
+            "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
+            "summary": "Warsh’s confirmation to the Fed board positions the crypto-linked investor to replace Jerome Powell as chair amid inflation and digital asset policy debates.",
+            "time": "Tue, 12 May 2026 17:29:09 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote"
         },
         {
             "source": "Hacker News",
-            "title": "Software Internals Book Club",
-            "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 8\n# Comments: 0",
-            "time": "Tue, 12 May 2026 02:28:11 +0000",
-            "url": "https://eatonphil.com/bookclub.html"
+            "title": "Starship V3",
+            "summary": "Article URL: https://www.spacex.com/updates#starship-v3\nComments URL: https://news.ycombinator.com/item?id=48116781\nPoints: 129\n# Comments: 73",
+            "time": "Wed, 13 May 2026 01:29:31 +0000",
+            "url": "https://www.spacex.com/updates#starship-v3"
         },
         {
             "source": "Hacker News",
-            "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
-            "summary": "Article URL: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/\nComments URL: https://news.ycombinator.com/item?id=48103459\nPoints: 29\n# Comments: 12",
-            "time": "Tue, 12 May 2026 02:22:04 +0000",
-            "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/"
+            "title": "My graduation cap runs Rust",
+            "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\nComments URL: https://news.ycombinator.com/item?id=48116207\nPoints: 91\n# Comments: 25",
+            "time": "Wed, 13 May 2026 00:04:21 +0000",
+            "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/"
         },
         {
             "source": "Hacker News",
-            "title": "Claude Platform on AWS",
-            "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 45\n# Comments: 23",
-            "time": "Tue, 12 May 2026 01:24:29 +0000",
-            "url": "https://claude.com/blog/claude-platform-on-aws"
+            "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+            "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/\nComments URL: https://news.ycombinator.com/item?id=48116064\nPoints: 30\n# Comments: 1",
+            "time": "Tue, 12 May 2026 23:46:28 +0000",
+            "url": "https://blog.cloudflare.com/quic-death-spiral-fix/"
         }
     ]
 }
