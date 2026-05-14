@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-13 11:58:32",
+    "updated_at": "2026-05-14 11:57:29",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
-            "summary": "The global banking giant is expanding its tokenized money market lineup, following BlackRock's similar move just a few days ago.",
-            "time": "Tue, 12 May 2026 21:18:10 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up"
+            "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
+            "summary": "The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.",
+            "time": "Wed, 13 May 2026 19:01:56 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall"
         },
         {
             "source": "CoinDesk",
-            "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
-            "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand.",
-            "time": "Tue, 12 May 2026 17:31:53 +0000",
-            "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions"
+            "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
+            "summary": "Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’",
+            "time": "Wed, 13 May 2026 16:48:39 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing"
         },
         {
             "source": "CoinDesk",
-            "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-            "summary": "Warsh’s confirmation to the Fed board positions the crypto-linked investor to replace Jerome Powell as chair amid inflation and digital asset policy debates.",
-            "time": "Tue, 12 May 2026 17:29:09 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote"
+            "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
+            "summary": "CEO Simon Gerovich says regulatory and infrastructure challenges are slowing the launch of Metaplanet's perpetual preferred share.",
+            "time": "Wed, 13 May 2026 16:43:49 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure"
         },
         {
             "source": "Hacker News",
-            "title": "Starship V3",
-            "summary": "Article URL: https://www.spacex.com/updates#starship-v3\nComments URL: https://news.ycombinator.com/item?id=48116781\nPoints: 129\n# Comments: 73",
-            "time": "Wed, 13 May 2026 01:29:31 +0000",
-            "url": "https://www.spacex.com/updates#starship-v3"
+            "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+            "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrate...",
+            "time": "Thu, 14 May 2026 02:45:08 +0000",
+            "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor"
         },
         {
             "source": "Hacker News",
-            "title": "My graduation cap runs Rust",
-            "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\nComments URL: https://news.ycombinator.com/item?id=48116207\nPoints: 91\n# Comments: 25",
-            "time": "Wed, 13 May 2026 00:04:21 +0000",
-            "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/"
+            "title": "Show HN: Nibble",
+            "summary": "An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn't perfect, and the README touches on on...",
+            "time": "Thu, 14 May 2026 01:46:45 +0000",
+            "url": "https://github.com/glouw/nibble"
         },
         {
             "source": "Hacker News",
-            "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-            "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/\nComments URL: https://news.ycombinator.com/item?id=48116064\nPoints: 30\n# Comments: 1",
-            "time": "Tue, 12 May 2026 23:46:28 +0000",
-            "url": "https://blog.cloudflare.com/quic-death-spiral-fix/"
+            "title": "Cisco Workforce Reductions",
+            "summary": "Article URL: https://blogs.cisco.com/news/our-path-forward\nComments URL: https://news.ycombinator.com/item?id=48130123\nPoints: 52\n# Comments: 28",
+            "time": "Thu, 14 May 2026 01:38:05 +0000",
+            "url": "https://blogs.cisco.com/news/our-path-forward"
         }
     ]
 }
