@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-14 11:57:29",
+    "updated_at": "2026-05-15 12:01:49",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
-            "summary": "The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.",
-            "time": "Wed, 13 May 2026 19:01:56 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall"
+            "title": "Here is why Wall Street is racing to tokenize the entire stock market",
+            "summary": "Tokenization has been the narrative of 2026. Executing on that narrative is trickier, but proponents say the benefits are massive if they pull it off.",
+            "time": "Thu, 14 May 2026 20:36:13 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/14/here-is-why-wall-street-is-racing-to-tokenize-the-entire-stock-market"
         },
         {
             "source": "CoinDesk",
-            "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
-            "summary": "Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’",
-            "time": "Wed, 13 May 2026 16:48:39 +0000",
-            "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing"
+            "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
+            "summary": "The upbeat public debut of AI chipmaker Cerebras is also helping to lift both crypto and traditional markets.",
+            "time": "Thu, 14 May 2026 17:51:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances"
         },
         {
             "source": "CoinDesk",
-            "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
-            "summary": "CEO Simon Gerovich says regulatory and infrastructure challenges are slowing the launch of Metaplanet's perpetual preferred share.",
-            "time": "Wed, 13 May 2026 16:43:49 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure"
+            "title": "Cerebras shares skyrocket 100% after $5.5 billion IPO amid AI stock frenzy",
+            "summary": "The AI infrastructure company began trading Thursday as investors continue pouring capital into artificial intelligence stocks.",
+            "time": "Thu, 14 May 2026 17:12:17 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-shares-skyrocket-100-after-usd5-5b-ipo-amid-ai-stock-frenzy"
         },
         {
             "source": "Hacker News",
-            "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-            "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrate...",
-            "time": "Thu, 14 May 2026 02:45:08 +0000",
-            "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor"
+            "title": "Mullvad exit IPs are surprisingly identifying",
+            "summary": "Article URL: https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/\nComments URL: https://news.ycombinator.com/item?id=48143880\nPoints: 96\n# Comments: 23",
+            "time": "Fri, 15 May 2026 02:35:35 +0000",
+            "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Nibble",
-            "summary": "An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn't perfect, and the README touches on on...",
-            "time": "Thu, 14 May 2026 01:46:45 +0000",
-            "url": "https://github.com/glouw/nibble"
+            "title": "Find vendors used by any company",
+            "summary": "Article URL: https://sub-processors.com/subprocessor/elasticsearch\nComments URL: https://news.ycombinator.com/item?id=48143617\nPoints: 4\n# Comments: 0",
+            "time": "Fri, 15 May 2026 01:55:57 +0000",
+            "url": "https://sub-processors.com/subprocessor/elasticsearch"
         },
         {
             "source": "Hacker News",
-            "title": "Cisco Workforce Reductions",
-            "summary": "Article URL: https://blogs.cisco.com/news/our-path-forward\nComments URL: https://news.ycombinator.com/item?id=48130123\nPoints: 52\n# Comments: 28",
-            "time": "Thu, 14 May 2026 01:38:05 +0000",
-            "url": "https://blogs.cisco.com/news/our-path-forward"
+            "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+            "summary": "Article URL: https://www.theembeddedrustacean.com/uferris\nComments URL: https://news.ycombinator.com/item?id=48143256\nPoints: 13\n# Comments: 3",
+            "time": "Fri, 15 May 2026 01:04:13 +0000",
+            "url": "https://www.theembeddedrustacean.com/uferris"
         }
     ]
 }
