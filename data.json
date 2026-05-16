@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-15 12:01:49",
+    "updated_at": "2026-05-16 11:42:46",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Here is why Wall Street is racing to tokenize the entire stock market",
-            "summary": "Tokenization has been the narrative of 2026. Executing on that narrative is trickier, but proponents say the benefits are massive if they pull it off.",
-            "time": "Thu, 14 May 2026 20:36:13 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/14/here-is-why-wall-street-is-racing-to-tokenize-the-entire-stock-market"
+            "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
+            "summary": "Arkham Intelligence data shows that over $1 billion in bitcoin has left wallets attributed to Bhutan in the past year, flowing to exchanges and trading firms. The country says it has not sold any.",
+            "time": "Sat, 16 May 2026 02:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
-            "summary": "The upbeat public debut of AI chipmaker Cerebras is also helping to lift both crypto and traditional markets.",
-            "time": "Thu, 14 May 2026 17:51:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances"
+            "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+            "summary": "As the Commodity Futures Trading Commission takes on a growing task to police U.S. crypto trading, senior lawmakers are saying it needs bipartisan leadership.",
+            "time": "Fri, 15 May 2026 21:35:57 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission"
         },
         {
             "source": "CoinDesk",
-            "title": "Cerebras shares skyrocket 100% after $5.5 billion IPO amid AI stock frenzy",
-            "summary": "The AI infrastructure company began trading Thursday as investors continue pouring capital into artificial intelligence stocks.",
-            "time": "Thu, 14 May 2026 17:12:17 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-shares-skyrocket-100-after-usd5-5b-ipo-amid-ai-stock-frenzy"
+            "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
+            "summary": "Elon Musk’s rocket and satellite company has accelerated plans for its blockbuster public offering, with trading expected to begin as early as June 12 after a faster-than-expected SEC review.",
+            "time": "Fri, 15 May 2026 19:50:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut"
         },
         {
             "source": "Hacker News",
-            "title": "Mullvad exit IPs are surprisingly identifying",
-            "summary": "Article URL: https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/\nComments URL: https://news.ycombinator.com/item?id=48143880\nPoints: 96\n# Comments: 23",
-            "time": "Fri, 15 May 2026 02:35:35 +0000",
-            "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
+            "title": "'No way to prevent this,' says only package manager where this regularly happens",
+            "summary": "Article URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/\nComments URL: https://news.ycombinator.com/item?id=48155690\nPoints: 218\n# Comments: 84",
+            "time": "Sat, 16 May 2026 00:36:02 +0000",
+            "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/"
         },
         {
             "source": "Hacker News",
-            "title": "Find vendors used by any company",
-            "summary": "Article URL: https://sub-processors.com/subprocessor/elasticsearch\nComments URL: https://news.ycombinator.com/item?id=48143617\nPoints: 4\n# Comments: 0",
-            "time": "Fri, 15 May 2026 01:55:57 +0000",
-            "url": "https://sub-processors.com/subprocessor/elasticsearch"
+            "title": "I broke AppLovin's mediation cipher protocol",
+            "summary": "Article URL: https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/\nComments URL: https://news.ycombinator.com/item?id=48155678\nPoints: 17\n# Comments: 3",
+            "time": "Sat, 16 May 2026 00:35:01 +0000",
+            "url": "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/"
         },
         {
             "source": "Hacker News",
-            "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
-            "summary": "Article URL: https://www.theembeddedrustacean.com/uferris\nComments URL: https://news.ycombinator.com/item?id=48143256\nPoints: 13\n# Comments: 3",
-            "time": "Fri, 15 May 2026 01:04:13 +0000",
-            "url": "https://www.theembeddedrustacean.com/uferris"
+            "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+            "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using us...",
+            "time": "Sat, 16 May 2026 00:18:03 +0000",
+            "url": "https://ljtn.github.io/epiq/"
         }
     ]
 }
