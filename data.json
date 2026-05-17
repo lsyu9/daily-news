@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-16 11:42:46",
+    "updated_at": "2026-05-17 12:02:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
-            "summary": "Arkham Intelligence data shows that over $1 billion in bitcoin has left wallets attributed to Bhutan in the past year, flowing to exchanges and trading firms. The country says it has not sold any.",
-            "time": "Sat, 16 May 2026 02:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown"
+            "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+            "summary": "In an interview with CoinDesk, the lead engineer at Firedancer gives an update on how the new client, also known as a software, is fairing in the Solana ecosystem.",
+            "time": "Sat, 16 May 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
-            "summary": "As the Commodity Futures Trading Commission takes on a growing task to police U.S. crypto trading, senior lawmakers are saying it needs bipartisan leadership.",
-            "time": "Fri, 15 May 2026 21:35:57 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission"
+            "title": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
+            "summary": "DeFi insurance protocols debuted with huge ambitions during the 2020 crypto boom. But as hacks evolved and users chased yields over protection, most of the sector collapsed under the same risks it was...",
+            "time": "Sat, 16 May 2026 14:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/16/crypto-users-are-choosing-juicy-yields-over-protection-putting-billions-at-risk-of-hacks"
         },
         {
             "source": "CoinDesk",
-            "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
-            "summary": "Elon Musk’s rocket and satellite company has accelerated plans for its blockbuster public offering, with trading expected to begin as early as June 12 after a faster-than-expected SEC review.",
-            "time": "Fri, 15 May 2026 19:50:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut"
+            "title": "The $293 million KelpDAO hack shows why DeFi is finally being forced to grow up",
+            "summary": "For protocol founders and security researchers, the incident reinforced a broader shift underway across crypto: DeFi is no longer primarily battling coding bugs. It’s battling complexity.",
+            "time": "Sat, 16 May 2026 13:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/16/the-usd293-million-kelpdao-hack-shows-why-defi-is-finally-being-forced-to-grow-up"
         },
         {
             "source": "Hacker News",
-            "title": "'No way to prevent this,' says only package manager where this regularly happens",
-            "summary": "Article URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/\nComments URL: https://news.ycombinator.com/item?id=48155690\nPoints: 218\n# Comments: 84",
-            "time": "Sat, 16 May 2026 00:36:02 +0000",
-            "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/"
+            "title": "Bear spray is exploding in the trash near Yellowstone National Park",
+            "summary": "Article URL: https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php\nComments URL: https://news.ycombinator.com/item?id=48165548\nPoints: 9\n# Comments: 8",
+            "time": "Sun, 17 May 2026 02:24:16 +0000",
+            "url": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php"
         },
         {
             "source": "Hacker News",
-            "title": "I broke AppLovin's mediation cipher protocol",
-            "summary": "Article URL: https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/\nComments URL: https://news.ycombinator.com/item?id=48155678\nPoints: 17\n# Comments: 3",
-            "time": "Sat, 16 May 2026 00:35:01 +0000",
-            "url": "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/"
+            "title": "Hosting a website on an 8-bit microcontroller",
+            "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 45\n# Comments: 1",
+            "time": "Sun, 17 May 2026 01:25:26 +0000",
+            "url": "https://maurycyz.com/projects/mcusite/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
-            "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using us...",
-            "time": "Sat, 16 May 2026 00:18:03 +0000",
-            "url": "https://ljtn.github.io/epiq/"
+            "title": "Self-Distillation Enables Continual Learning [pdf]",
+            "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 16\n# Comments: 5",
+            "time": "Sun, 17 May 2026 01:19:14 +0000",
+            "url": "https://arxiv.org/abs/2601.19897"
         }
     ]
 }
