@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-20 12:10:07",
+    "updated_at": "2026-05-21 12:18:55",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
-            "summary": "Donald Trump's executive order asks the Fed to review how depository institutions may be granted access to payment services, an area the crypto industry is deeply involved with.",
-            "time": "Tue, 19 May 2026 22:54:08 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails"
+            "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
+            "summary": "The \"combinatorial outcome contracts\" would resolve if every part of an underlying contract resolved, according to a filing.",
+            "time": "Wed, 20 May 2026 22:55:53 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs"
         },
         {
             "source": "CoinDesk",
-            "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
-            "summary": "The head of digital assets and tokenization at one of Germany’s largest asset managers said that USDT and USDC are not stablecoins, from his perspective.",
-            "time": "Tue, 19 May 2026 20:47:28 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says"
+            "title": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
+            "summary": "Nvidia's stronger-than-expected results and bullish AI outlook lifted crypto mining stocks tied to data center and high-performance computing demand, even as the chipmaker's shares fell due to growth ...",
+            "time": "Wed, 20 May 2026 22:22:52 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook"
         },
         {
             "source": "CoinDesk",
-            "title": "This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says",
-            "summary": "The research firm said bitcoin traders remain unusually defensive, reducing the risk of the kind of leverage-driven collapse seen in prior downturns.",
-            "time": "Tue, 19 May 2026 20:30:21 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says"
+            "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
+            "summary": "The U.S. Fed issued a revised proposal on the structure of payment accounts, taking the next step to build on an earlier pitch for so-called skinny accounts.",
+            "time": "Wed, 20 May 2026 22:11:10 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms"
         },
         {
             "source": "Hacker News",
-            "title": "Evals Will Break and You Won't See It Coming",
-            "summary": "Article URL: https://wanglun1996.github.io/blog/your-evals-will-break.html\nComments URL: https://news.ycombinator.com/item?id=48202658\nPoints: 3\n# Comments: 1",
-            "time": "Wed, 20 May 2026 03:10:30 +0000",
-            "url": "https://wanglun1996.github.io/blog/your-evals-will-break.html"
+            "title": "OpenAI to confidentially file for IPO as soon as Friday",
+            "summary": "Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html\nComments URL: https://news.ycombinator.com/item?id=48217052\nPoints: 41\n# Comments: 2",
+            "time": "Thu, 21 May 2026 02:24:35 +0000",
+            "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html"
         },
         {
             "source": "Hacker News",
-            "title": "Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive",
-            "summary": "Article URL: https://fivethirtyeightindex.com/\nComments URL: https://news.ycombinator.com/item?id=48201973\nPoints: 61\n# Comments: 14",
-            "time": "Wed, 20 May 2026 01:34:19 +0000",
-            "url": "https://fivethirtyeightindex.com/"
+            "title": "Haskell Foundation 2026 Update",
+            "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 20\n# Comments: 3",
+            "time": "Thu, 21 May 2026 02:13:23 +0000",
+            "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136"
         },
         {
             "source": "Hacker News",
-            "title": "Railway Blocked by Google Cloud",
-            "summary": "Article URL: https://status.railway.com/?date=20260519\nComments URL: https://news.ycombinator.com/item?id=48201484\nPoints: 291\n# Comments: 126",
-            "time": "Wed, 20 May 2026 00:23:54 +0000",
-            "url": "https://status.railway.com/?date=20260519"
+            "title": "What is Demand Coop and why tech workers should join one",
+            "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 43\n# Comments: 44",
+            "time": "Thu, 21 May 2026 01:20:52 +0000",
+            "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop"
         }
     ]
 }
