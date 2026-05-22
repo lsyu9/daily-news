@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-21 12:18:55",
+    "updated_at": "2026-05-22 12:14:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
-            "summary": "The \"combinatorial outcome contracts\" would resolve if every part of an underlying contract resolved, according to a filing.",
-            "time": "Wed, 20 May 2026 22:55:53 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs"
+            "title": "Satoshi’s 1.1 million bitcoin and millions more can be saved from quantum attack, says expert",
+            "summary": "Researchers at the privacy-centric blockchain startup say their multi-layer quantum defense will feature a soft fork to freeze and protect dormant BTC.",
+            "time": "Thu, 21 May 2026 19:10:03 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
-            "summary": "Nvidia's stronger-than-expected results and bullish AI outlook lifted crypto mining stocks tied to data center and high-performance computing demand, even as the chipmaker's shares fell due to growth ...",
-            "time": "Wed, 20 May 2026 22:22:52 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook"
+            "title": "Mark Cuban says he sold most of his Bitcoin after failed hedge narrative 'disappointed' the billionaire",
+            "summary": "The billionaire investor said he sold most of his bitcoin after concluding the cryptocurrency failed to act as a hedge during recent geopolitical turmoil and dollar weakness.",
+            "time": "Thu, 21 May 2026 17:30:16 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/21/mark-cuban-says-he-sold-most-of-his-bitcoin-after-failed-hedge-narrative-disappointed-the-billionaire"
         },
         {
             "source": "CoinDesk",
-            "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
-            "summary": "The U.S. Fed issued a revised proposal on the structure of payment accounts, taking the next step to build on an earlier pitch for so-called skinny accounts.",
-            "time": "Wed, 20 May 2026 22:11:10 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms"
+            "title": "Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community",
+            "summary": "What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members.",
+            "time": "Thu, 21 May 2026 16:56:33 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community"
         },
         {
             "source": "Hacker News",
-            "title": "OpenAI to confidentially file for IPO as soon as Friday",
-            "summary": "Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html\nComments URL: https://news.ycombinator.com/item?id=48217052\nPoints: 41\n# Comments: 2",
-            "time": "Thu, 21 May 2026 02:24:35 +0000",
-            "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html"
+            "title": "SpaceX not the behemoth everyone thought",
+            "summary": "Article URL: https://www.axios.com/2026/05/21/spacex-ipo-musk-ai\nComments URL: https://news.ycombinator.com/item?id=48231815\nPoints: 6\n# Comments: 0",
+            "time": "Fri, 22 May 2026 04:03:36 +0000",
+            "url": "https://www.axios.com/2026/05/21/spacex-ipo-musk-ai"
         },
         {
             "source": "Hacker News",
-            "title": "Haskell Foundation 2026 Update",
-            "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 20\n# Comments: 3",
-            "time": "Thu, 21 May 2026 02:13:23 +0000",
-            "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136"
+            "title": "Coins Stream",
+            "summary": "Article URL: https://coins.stream\nComments URL: https://news.ycombinator.com/item?id=48231256\nPoints: 7\n# Comments: 3",
+            "time": "Fri, 22 May 2026 02:25:46 +0000",
+            "url": "https://coins.stream"
         },
         {
             "source": "Hacker News",
-            "title": "What is Demand Coop and why tech workers should join one",
-            "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 43\n# Comments: 44",
-            "time": "Thu, 21 May 2026 01:20:52 +0000",
-            "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop"
+            "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+            "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126\nComments URL: https://news.ycombinator.com/item?id=48230892\nPoints: 109\n# Comments: 34",
+            "time": "Fri, 22 May 2026 01:30:45 +0000",
+            "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
         }
     ]
 }
