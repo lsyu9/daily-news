@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-24 12:13:04",
+    "updated_at": "2026-05-25 12:24:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
-            "summary": "\"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,\" wrote President Trump late Satu...",
-            "time": "Sat, 23 May 2026 20:52:21 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement"
+            "title": "Coinbase does not fear competition from Wall Street, says exchange executive",
+            "summary": "A Coinbase executive called on regulators to implement sensible crypto regulation, while announcing the Stand With Crypto event taking place in over 500 locations worldwide.",
+            "time": "Sun, 24 May 2026 20:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
-            "summary": "Former Credit Suisse global head of portfolio and Risk Dimensions CIO Mark Connors says bitcoin has broken out of its longest stretch of underperformance in history and is ready to beat stocks, bonds,...",
-            "time": "Sat, 23 May 2026 19:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street"
+            "title": "Crypto and the Fed: State of Crypto",
+            "summary": "This past week saw incremental, but potentially important steps.",
+            "time": "Sun, 24 May 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
-            "summary": "Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.",
-            "time": "Sat, 23 May 2026 14:19:18 +0000",
-            "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally"
+            "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+            "summary": "Ledn forecasts the bitcoin-backed lending market could grow to $1 trillion within a decade as new research highlights strong borrower demand.",
+            "time": "Sun, 24 May 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/22/ledn"
         },
         {
             "source": "Hacker News",
-            "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-            "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 92\n# Comments: 22",
-            "time": "Sun, 24 May 2026 01:21:13 +0000",
-            "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"
+            "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+            "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices\nComments URL: https://news.ycombinator.com/item?id=48260140\nPoints: 130\n# Comments: 87",
+            "time": "Sun, 24 May 2026 19:12:46 +0000",
+            "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices"
         },
         {
             "source": "Hacker News",
-            "title": "Scammers are abusing an internal Microsoft account to send spam links",
-            "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 67\n# Comments: 12",
-            "time": "Sun, 24 May 2026 00:51:32 +0000",
-            "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/"
+            "title": "A fundamental principle of aeronautical engineering has been overturned",
+            "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 99\n# Comments: 59",
+            "time": "Sun, 24 May 2026 19:10:26 +0000",
+            "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/"
         },
         {
             "source": "Hacker News",
-            "title": "Wake up! 16b",
-            "summary": "Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48253060\nPoints: 90\n# Comments: 6",
-            "time": "Sun, 24 May 2026 00:30:50 +0000",
-            "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html"
+            "title": "Defeating Git Rigour Fatigue with Jujutsu",
+            "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 109\n# Comments: 109",
+            "time": "Sun, 24 May 2026 18:39:10 +0000",
+            "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/"
         }
     ]
 }
