@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-25 12:24:03",
+    "updated_at": "2026-05-26 12:09:37",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Coinbase does not fear competition from Wall Street, says exchange executive",
-            "summary": "A Coinbase executive called on regulators to implement sensible crypto regulation, while announcing the Stand With Crypto event taking place in over 500 locations worldwide.",
-            "time": "Sun, 24 May 2026 20:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive"
+            "title": "Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see",
+            "summary": "Enflux says “the bid is there” but no one is adding size, while Glassnode data shows easing selling pressure alongside weaker market activity.",
+            "time": "Tue, 26 May 2026 04:06:43 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/26/bitcoin-stalls-near-usd76-500-as-muted-trading-points-to-macro-wait-and-see"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto and the Fed: State of Crypto",
-            "summary": "This past week saw incremental, but potentially important steps.",
-            "time": "Sun, 24 May 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto"
+            "title": "NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump",
+            "summary": "The rally is fueled by NEAR Intents, the cross-chain system that has processed over $19 billion in volume and generated $32 million in fees.",
+            "time": "Mon, 25 May 2026 17:38:39 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/25/near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15-jump"
         },
         {
             "source": "CoinDesk",
-            "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
-            "summary": "Ledn forecasts the bitcoin-backed lending market could grow to $1 trillion within a decade as new research highlights strong borrower demand.",
-            "time": "Sun, 24 May 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/22/ledn"
+            "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+            "summary": "Authorities stated that using crypto or blockchain doesn't change platforms that let users wager on uncertain outcomes from being gambling products.",
+            "time": "Mon, 25 May 2026 17:04:49 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise"
         },
         {
             "source": "Hacker News",
-            "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-            "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices\nComments URL: https://news.ycombinator.com/item?id=48260140\nPoints: 130\n# Comments: 87",
-            "time": "Sun, 24 May 2026 19:12:46 +0000",
-            "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices"
+            "title": "Why the Smart Home Bubble Popped",
+            "summary": "Article URL: https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/\nComments URL: https://news.ycombinator.com/item?id=48274667\nPoints: 6\n# Comments: 2",
+            "time": "Tue, 26 May 2026 03:35:17 +0000",
+            "url": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/"
         },
         {
             "source": "Hacker News",
-            "title": "A fundamental principle of aeronautical engineering has been overturned",
-            "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 99\n# Comments: 59",
-            "time": "Sun, 24 May 2026 19:10:26 +0000",
-            "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/"
+            "title": "Does Anybody Actually Like React?",
+            "summary": "Article URL: https://jsx.lol\nComments URL: https://news.ycombinator.com/item?id=48274077\nPoints: 86\n# Comments: 90",
+            "time": "Tue, 26 May 2026 01:55:15 +0000",
+            "url": "https://jsx.lol"
         },
         {
             "source": "Hacker News",
-            "title": "Defeating Git Rigour Fatigue with Jujutsu",
-            "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 109\n# Comments: 109",
-            "time": "Sun, 24 May 2026 18:39:10 +0000",
-            "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/"
+            "title": "Designing for and against the manufactured normalcy field (2012)",
+            "summary": "Article URL: https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html\nComments URL: https://news.ycombinator.com/item?id=48273597\nPoi...",
+            "time": "Tue, 26 May 2026 00:36:17 +0000",
+            "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html"
         }
     ]
 }
