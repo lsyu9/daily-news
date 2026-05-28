@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-27 12:22:52",
+    "updated_at": "2026-05-28 12:13:05",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Trump praises prediction markets, defends CFTC as court cases compound",
-            "summary": "U.S. President Donald Trump said it was \"critically important\" that the CFTC keep \"exclusive authority\" over prediction markets, echoing CFTC Chair Michael Selig.",
-            "time": "Tue, 26 May 2026 21:50:04 +0000",
-            "url": "https://www.coindesk.com/policy/2026/05/26/trump-praises-prediction-markets-defends-cftc-as-court-cases-compound"
+            "title": "U.S. CFTC files request to erase Gemini settlement that it no longer considers fair",
+            "summary": "The regulator went back to analyze the 2022 case and decided that it wouldn't have been pursued under current management and practices.",
+            "time": "Thu, 28 May 2026 01:12:09 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair"
         },
         {
             "source": "CoinDesk",
-            "title": "Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel  indexes",
-            "summary": "The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.",
-            "time": "Tue, 26 May 2026 19:03:39 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes"
+            "title": "Google engineer insider-traded search results on Polymarket, Feds allege",
+            "summary": "The charges mark the second major arrest over insider trading on a prediction market.",
+            "time": "Wed, 27 May 2026 21:57:49 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/27/google-engineer-insider-traded-search-results-on-polymarket-feds-allege"
         },
         {
             "source": "CoinDesk",
-            "title": "UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks",
-            "summary": "Britain applied banking-style sanctions to crypto exchanges for the first time, requiring U.K. financial firms to freeze funds and trace transactions.",
-            "time": "Tue, 26 May 2026 17:33:35 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/26/uk-sanctions-huobi-and-ruble-stablecoin-issuer-in-crackdown-on-russia-crypto-networks"
+            "title": "The crypto industry’s massive political war chest is starting to lean Republican ahead of midterms",
+            "summary": "As crypto world notches political wins in Texas and beyond, some of its emerging political action committees ditch bipartisan approach for a Republican focus.",
+            "time": "Wed, 27 May 2026 21:24:12 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/05/27/crypto-cash-backs-potential-new-allies-in-congress-as-industry-pac-presence-widens"
         },
         {
             "source": "Hacker News",
-            "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
-            "summary": "Article URL: https://gearcommit.nanocorp.app/\nComments URL: https://news.ycombinator.com/item?id=48288761\nPoints: 5\n# Comments: 0",
-            "time": "Wed, 27 May 2026 02:29:24 +0000",
-            "url": "https://gearcommit.nanocorp.app/"
+            "title": "RamAIn (YC W26) Is Hiring",
+            "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\nComments URL: https://news.ycombinator.com/item?id=48303599\nPoints: 0\n# Comments: 0",
+            "time": "Thu, 28 May 2026 02:21:11 +0000",
+            "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer"
         },
         {
             "source": "Hacker News",
-            "title": "Where does next-token prediction leave us?",
-            "summary": "Article URL: https://pop.rdi.sh/where-does-next-token-prediction-leave-us/\nComments URL: https://news.ycombinator.com/item?id=48288191\nPoints: 49\n# Comments: 21",
-            "time": "Wed, 27 May 2026 01:10:44 +0000",
-            "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/"
+            "title": "\"US has the troops in place to attack Cuba\" per Politico",
+            "summary": "Article URL: https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740\nComments URL: https://news.ycombinator.com/item?id=48303594\nPoints: 20\n# Comments: 11",
+            "time": "Thu, 28 May 2026 02:20:30 +0000",
+            "url": "https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740"
         },
         {
             "source": "Hacker News",
-            "title": "Tunecat: Simple Internet Radio",
-            "summary": "Article URL: https://codeberg.org/lindenii/tunecat/\nComments URL: https://news.ycombinator.com/item?id=48288174\nPoints: 20\n# Comments: 0",
-            "time": "Wed, 27 May 2026 01:08:16 +0000",
-            "url": "https://codeberg.org/lindenii/tunecat/"
+            "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+            "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 68\n# Comments: 32",
+            "time": "Thu, 28 May 2026 00:49:58 +0000",
+            "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html"
         }
     ]
 }
