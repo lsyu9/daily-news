@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-29 12:15:10",
+    "updated_at": "2026-05-30 12:00:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-            "summary": "As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.",
-            "time": "Thu, 28 May 2026 22:03:42 +0000",
-            "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings"
+            "title": "‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
+            "summary": "JPMorgan CEO Jamie Dimon criticized Coinbase CEO Brian Armstrong and warned the current CLARITY Act framework could ultimately fail, as banks and crypto firms clash over whether stablecoin issuers sho...",
+            "time": "Fri, 29 May 2026 20:03:52 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
-            "summary": "FalconX has hired Cantor and other bankers to advise on a potential IPO and confidentially filed draft paperwork with the SEC, though the listing is not expected until later this year amid volatile ma...",
-            "time": "Thu, 28 May 2026 19:53:38 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers"
+            "title": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
+            "summary": "As the CFTC issued landmark approvals for crypto perpetual futures contracts, it explained in a related advisory that round-the-clock activity isn't right for all.",
+            "time": "Fri, 29 May 2026 16:29:42 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors"
         },
         {
             "source": "CoinDesk",
-            "title": "Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war",
-            "summary": "In this week's edition of The Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.",
-            "time": "Thu, 28 May 2026 19:09:36 +0000",
-            "url": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war"
+            "title": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
+            "summary": "Ronghui Gu shares tips on how to isolate AI agents while testing them so they do not have access to critical personal information or digital assets.",
+            "time": "Fri, 29 May 2026 15:31:07 +0000",
+            "url": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo"
         },
         {
             "source": "Hacker News",
-            "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-            "summary": "Article URL: https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/\nComments URL: https://news.ycombinator.com/item?id=48318678\nPoints: 23\n# Comme...",
-            "time": "Fri, 29 May 2026 03:32:15 +0000",
-            "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/"
+            "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+            "summary": "Article URL: https://www.perryts.com/\nComments URL: https://news.ycombinator.com/item?id=48332151\nPoints: 7\n# Comments: 7",
+            "time": "Sat, 30 May 2026 03:14:25 +0000",
+            "url": "https://www.perryts.com/"
         },
         {
             "source": "Hacker News",
-            "title": "Cars are trying to spy on you, and it's only just the beginning",
-            "summary": "Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse\nComments URL: https://news.ycombinator.com/item?id=48318481\nPoints: 83\n# Comments: 30",
-            "time": "Fri, 29 May 2026 03:01:00 +0000",
-            "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse"
+            "title": "Naphtha Shortages Having a Growing Impact in Japan",
+            "summary": "Article URL: https://www.nippon.com/en/japan-data/h02783/\nComments URL: https://news.ycombinator.com/item?id=48331786\nPoints: 25\n# Comments: 8",
+            "time": "Sat, 30 May 2026 02:20:40 +0000",
+            "url": "https://www.nippon.com/en/japan-data/h02783/"
         },
         {
             "source": "Hacker News",
-            "title": "Blue Origin's New Glenn blows up during static fire test",
-            "summary": "Article URL: https://twitter.com/nasaspaceflight/status/2060164928472854821\nComments URL: https://news.ycombinator.com/item?id=48317774\nPoints: 143\n# Comments: 74",
-            "time": "Fri, 29 May 2026 01:16:38 +0000",
-            "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821"
+            "title": "WH proposes rules giving political appointees final approval on research grants",
+            "summary": "Article URL: https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/\nComments URL: https://news.ycombinator.com/item?id=4833...",
+            "time": "Sat, 30 May 2026 01:39:52 +0000",
+            "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/"
         }
     ]
 }
