@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-05-31 12:25:39",
+    "updated_at": "2026-06-01 12:56:13",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
-            "summary": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the e...",
-            "time": "Sun, 31 May 2026 02:30:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions"
+            "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
+            "summary": "Coinbase announces INR rails to make the platform fully accessible to Indian retail traders.",
+            "time": "Sun, 31 May 2026 23:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch"
         },
         {
             "source": "CoinDesk",
-            "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
-            "summary": "Fuller allegedly diverted $6.2 million for personal use and $5.5M for Ponzi-like payments; only 3% of funds went to crypto trading.",
-            "time": "Sat, 30 May 2026 17:27:34 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots"
+            "title": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
+            "summary": "NYDIG, meanwhile, rejected the basis-trade theory, citing the large discount and the lack of an unusual spike in corresponding CME bitcoin futures volume.",
+            "time": "Sun, 31 May 2026 19:41:51 +0000",
+            "url": "https://www.coindesk.com/markets/2026/05/31/a-massive-usd1-26-billion-sale-of-blackrock-s-ibit-was-likely-a-rapid-exit-by-a-large-investor"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
-            "summary": "The seizure, falling under \"Operation Economic Fury,\" aims to restrict Iran's access to overseas revenue, banking networks, and crypto infrastructure.",
-            "time": "Sat, 30 May 2026 15:50:37 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands"
+            "title": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
+            "summary": "Rep. French Hill, head of the House Financial Services Committee, weighed in on outstanding policy issues in an interview with CoinDesk last month.",
+            "time": "Sun, 31 May 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto"
         },
         {
             "source": "Hacker News",
-            "title": "Please Do Not Vibe Fuck Up This Software – Rsync",
-            "summary": "Article URL: https://github.com/RsyncProject/rsync/issues/929\nComments URL: https://news.ycombinator.com/item?id=48342705\nPoints: 31\n# Comments: 7",
-            "time": "Sun, 31 May 2026 03:16:48 +0000",
-            "url": "https://github.com/RsyncProject/rsync/issues/929"
+            "title": "Marcus Aurelius Had Anxiety Too – Stoicism for People Who Overthink",
+            "summary": "Article URL: https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism\nComments URL: https://news.ycombinator.com/item?id=48352379\nPoints: 14\n# Comments: 1",
+            "time": "Mon, 01 Jun 2026 03:42:03 +0000",
+            "url": "https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism"
         },
         {
             "source": "Hacker News",
-            "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-            "summary": "Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)\nComments URL: https://news.ycombinator.com/item?id=48341578\nPoints: 582\n# Comments: 189",
-            "time": "Sat, 30 May 2026 23:26:13 +0000",
-            "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)"
+            "title": "Shift from a leader-follower to a leader-leader approach",
+            "summary": "Article URL: https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a\nComments URL: https://news.ycombinator.com/item?id=48351858\nPoints: 58\n# Comments: 31",
+            "time": "Mon, 01 Jun 2026 02:03:03 +0000",
+            "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a"
         },
         {
             "source": "Hacker News",
-            "title": "Cheese Paper: a text editor specifically designed for writing",
-            "summary": "Article URL: https://brie.gay/cheese-paper/\nComments URL: https://news.ycombinator.com/item?id=48341407\nPoints: 67\n# Comments: 14",
-            "time": "Sat, 30 May 2026 22:58:41 +0000",
-            "url": "https://brie.gay/cheese-paper/"
+            "title": "Chuwi Minibook X",
+            "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/\nComments URL: https://news.ycombinator.com/item?id=48350598\nPoints: 124\n# Comments: 115",
+            "time": "Sun, 31 May 2026 22:59:50 +0000",
+            "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/"
         }
     ]
 }
