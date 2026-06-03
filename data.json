@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-02 12:43:49",
+    "updated_at": "2026-06-03 12:52:47",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto investment firm Keyrock is acquiring bankrupt lender Blockfills",
-            "summary": "The Brussels-based digital asset services firm plans to purchase BlockFills months after the Chicago-based company filed for Chapter 11 bankruptcy, if a court approves.",
-            "time": "Mon, 01 Jun 2026 20:48:19 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/01/crypto-investment-firm-keyrock-is-acquiring-bankrupt-lender-blockfills"
+            "title": "Bitcoin plunges below $66,000 as global stocks, AI trades hit fresh records",
+            "summary": "BTC plunged 6.4% to a 24-hour low of $65,708 and ether broke below $1,900 in Asian trading on Wednesday, just hours after the MSCI All Country World Index set a fresh all-time high on the AI rally.",
+            "time": "Wed, 03 Jun 2026 04:28:13 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
-            "summary": "Investors pulled $1.67 billion from digital asset investment products last week, with bitcoin funds posting their largest weekly outflow of the year, according to a recent report from CoinShares.",
-            "time": "Mon, 01 Jun 2026 17:59:06 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows"
+            "title": "Mastercard expands on-chain settlement in bet on stablecoins and always-on finance",
+            "summary": "The company plans to offer stablecoin, weekend and holiday settlement as demand grows for real-time movement of money.",
+            "time": "Wed, 03 Jun 2026 04:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance"
         },
         {
             "source": "CoinDesk",
-            "title": "Saylor's Strategy sold bitcoin for the first time since 2022. These firms are still buying",
-            "summary": "With Strategy breaking its accumulation streak and many peers stepping aside, the list of active digital asset treasuries has narrowed considerably.",
-            "time": "Mon, 01 Jun 2026 17:25:55 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/01/saylor-s-strategy-sold-bitcoin-for-the-first-time-since-2022-these-firms-are-still-buying"
+            "title": "Bitcoin's slide to $66,000 is accelerating a shift into digital dollars",
+            "summary": "The crypto market is seeing a capital flight into dollar-linked stablecoins even as stocks and the Dollar Index remain calm.",
+            "time": "Wed, 03 Jun 2026 02:44:12 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-slide-to-usd67-000-is-accelerating-a-shift-into-digital-dollars"
         },
         {
             "source": "Hacker News",
-            "title": "U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box",
-            "summary": "Article URL: https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/\nComments URL: https://news.ycombinator.com/item?id=48365237\nPoint...",
-            "time": "Tue, 02 Jun 2026 02:28:24 +0000",
-            "url": "https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/"
+            "title": "America's Data Center Build-Out Is Falling Way Behind Schedule",
+            "summary": "Article URL: https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8\nComments URL: https://news.ycombinator.com/item?id=48379704\nPoints: 12\n# Comments: 3",
+            "time": "Wed, 03 Jun 2026 03:53:13 +0000",
+            "url": "https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8"
         },
         {
             "source": "Hacker News",
-            "title": "macOS needs its grid back",
-            "summary": "Article URL: https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/\nComments URL: https://news.ycombinator.com/item?id=48364800\nPoints: 124\n# Comments: 65",
-            "time": "Tue, 02 Jun 2026 01:28:34 +0000",
-            "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"
+            "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+            "summary": "Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/\nComments URL: https://news.ycombinator.com/item?id=48379669\nPoints: 7\n# Comments: 0",
+            "time": "Wed, 03 Jun 2026 03:47:56 +0000",
+            "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/"
         },
         {
             "source": "Hacker News",
-            "title": "Crystal Nights (2008)",
-            "summary": "Article URL: https://www.gregegan.net/MISC/CRYSTAL/Crystal.html\nComments URL: https://news.ycombinator.com/item?id=48364754\nPoints: 24\n# Comments: 3",
-            "time": "Tue, 02 Jun 2026 01:22:42 +0000",
-            "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html"
+            "title": "The American Missile Crisis",
+            "summary": "Article URL: https://research.contrary.com/report/the-american-missile-crisis\nComments URL: https://news.ycombinator.com/item?id=48379551\nPoints: 18\n# Comments: 8",
+            "time": "Wed, 03 Jun 2026 03:30:50 +0000",
+            "url": "https://research.contrary.com/report/the-american-missile-crisis"
         }
     ]
 }
