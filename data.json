@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-03 12:52:47",
+    "updated_at": "2026-06-04 12:46:43",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin plunges below $66,000 as global stocks, AI trades hit fresh records",
-            "summary": "BTC plunged 6.4% to a 24-hour low of $65,708 and ether broke below $1,900 in Asian trading on Wednesday, just hours after the MSCI All Country World Index set a fresh all-time high on the AI rally.",
-            "time": "Wed, 03 Jun 2026 04:28:13 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records"
+            "title": "Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out",
+            "summary": "Presto Research says bitcoin's drawdowns this year have coincided with rallies in AI stocks and gold as markets scale back expectations for Fed rate cuts.",
+            "time": "Thu, 04 Jun 2026 02:13:28 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out"
         },
         {
             "source": "CoinDesk",
-            "title": "Mastercard expands on-chain settlement in bet on stablecoins and always-on finance",
-            "summary": "The company plans to offer stablecoin, weekend and holiday settlement as demand grows for real-time movement of money.",
-            "time": "Wed, 03 Jun 2026 04:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance"
+            "title": "Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated",
+            "summary": "Analysts and market observers are saying bitcoin's crash is happening due to traders chasing momentum and rotating out of crypto and into high-flying IPOs and AI stocks.",
+            "time": "Thu, 04 Jun 2026 02:11:08 +0000",
+            "url": "https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin's slide to $66,000 is accelerating a shift into digital dollars",
-            "summary": "The crypto market is seeing a capital flight into dollar-linked stablecoins even as stocks and the Dollar Index remain calm.",
-            "time": "Wed, 03 Jun 2026 02:44:12 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-slide-to-usd67-000-is-accelerating-a-shift-into-digital-dollars"
+            "title": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens",
+            "summary": "The selloff has triggered demand for protective options plays, pushing the fear gauge higher.",
+            "time": "Thu, 04 Jun 2026 01:30:53 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february"
         },
         {
             "source": "Hacker News",
-            "title": "America's Data Center Build-Out Is Falling Way Behind Schedule",
-            "summary": "Article URL: https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8\nComments URL: https://news.ycombinator.com/item?id=48379704\nPoints: 12\n# Comments: 3",
-            "time": "Wed, 03 Jun 2026 03:53:13 +0000",
-            "url": "https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8"
+            "title": "American capitalism has taken an apocalyptic turn",
+            "summary": "Article URL: https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn\nComments URL: https://news.ycombinator.com/item?id=48393043\nPoints: 90\n# Comments: 67",
+            "time": "Thu, 04 Jun 2026 02:44:40 +0000",
+            "url": "https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn"
         },
         {
             "source": "Hacker News",
-            "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-            "summary": "Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/\nComments URL: https://news.ycombinator.com/item?id=48379669\nPoints: 7\n# Comments: 0",
-            "time": "Wed, 03 Jun 2026 03:47:56 +0000",
-            "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/"
+            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+            "summary": "Article URL: https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/\nComments URL: https://news.ycombinator.com/item?id=48392343\nPoints: 102\n# Comments: 39",
+            "time": "Thu, 04 Jun 2026 00:56:32 +0000",
+            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"
         },
         {
             "source": "Hacker News",
-            "title": "The American Missile Crisis",
-            "summary": "Article URL: https://research.contrary.com/report/the-american-missile-crisis\nComments URL: https://news.ycombinator.com/item?id=48379551\nPoints: 18\n# Comments: 8",
-            "time": "Wed, 03 Jun 2026 03:30:50 +0000",
-            "url": "https://research.contrary.com/report/the-american-missile-crisis"
+            "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
+            "summary": "Article URL: https://e360.yale.edu/digest/trump-ooi-amoc\nComments URL: https://news.ycombinator.com/item?id=48392232\nPoints: 300\n# Comments: 176",
+            "time": "Thu, 04 Jun 2026 00:44:13 +0000",
+            "url": "https://e360.yale.edu/digest/trump-ooi-amoc"
         }
     ]
 }
