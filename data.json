@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-04 12:46:43",
+    "updated_at": "2026-06-05 12:21:45",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out",
-            "summary": "Presto Research says bitcoin's drawdowns this year have coincided with rallies in AI stocks and gold as markets scale back expectations for Fed rate cuts.",
-            "time": "Thu, 04 Jun 2026 02:13:28 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out"
+            "title": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
+            "summary": "The industry has been trying to make a case this week the Clarity Act provides law enforcement strong tools to combat illicit finance involving cryptocurrency.",
+            "time": "Thu, 04 Jun 2026 19:41:14 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward"
         },
         {
             "source": "CoinDesk",
-            "title": "Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated",
-            "summary": "Analysts and market observers are saying bitcoin's crash is happening due to traders chasing momentum and rotating out of crypto and into high-flying IPOs and AI stocks.",
-            "time": "Thu, 04 Jun 2026 02:11:08 +0000",
-            "url": "https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated"
+            "title": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
+            "summary": "The regulator rejected claims he's doing President Trump's bidding during a congressional hearing that also addressed the GENIUS Act stablecoin push.",
+            "time": "Thu, 04 Jun 2026 18:19:13 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens",
-            "summary": "The selloff has triggered demand for protective options plays, pushing the fear gauge higher.",
-            "time": "Thu, 04 Jun 2026 01:30:53 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february"
+            "title": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
+            "summary": "Backed by economist Nouriel Roubini, a long-time anti-bitcoin advocate, and known as 'Dr. Doom,' the Atlas CEO, Reza Bundy, shot a short-term warning for bitcoin but stayed bullish in the long-term.",
+            "time": "Thu, 04 Jun 2026 18:15:52 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/04/dr-doom-backed-atlas-capital-ceo-says-bitcoin-could-crash-70-before-reaching-usd500-000"
         },
         {
             "source": "Hacker News",
-            "title": "American capitalism has taken an apocalyptic turn",
-            "summary": "Article URL: https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn\nComments URL: https://news.ycombinator.com/item?id=48393043\nPoints: 90\n# Comments: 67",
-            "time": "Thu, 04 Jun 2026 02:44:40 +0000",
-            "url": "https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn"
+            "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+            "summary": "Article URL: https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/\nComments URL: https://news.ycombinator.com/item?id=48407499\nPoints: 12\n# Comments: 2",
+            "time": "Fri, 05 Jun 2026 03:14:28 +0000",
+            "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/"
         },
         {
             "source": "Hacker News",
-            "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-            "summary": "Article URL: https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/\nComments URL: https://news.ycombinator.com/item?id=48392343\nPoints: 102\n# Comments: 39",
-            "time": "Thu, 04 Jun 2026 00:56:32 +0000",
-            "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"
+            "title": "The Causes of Long Covid",
+            "summary": "Article URL: https://www.science.org/content/blog-post/causes-long-covid\nComments URL: https://news.ycombinator.com/item?id=48407451\nPoints: 22\n# Comments: 5",
+            "time": "Fri, 05 Jun 2026 03:04:28 +0000",
+            "url": "https://www.science.org/content/blog-post/causes-long-covid"
         },
         {
             "source": "Hacker News",
-            "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
-            "summary": "Article URL: https://e360.yale.edu/digest/trump-ooi-amoc\nComments URL: https://news.ycombinator.com/item?id=48392232\nPoints: 300\n# Comments: 176",
-            "time": "Thu, 04 Jun 2026 00:44:13 +0000",
-            "url": "https://e360.yale.edu/digest/trump-ooi-amoc"
+            "title": "What happens if Japan takes in zero immigrants?",
+            "summary": "Article URL: https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero\nComments URL: https://news.ycombinator.com/item?id=48407068\nPoints: 9\n# Comments: 2",
+            "time": "Fri, 05 Jun 2026 01:56:26 +0000",
+            "url": "https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero"
         }
     ]
 }
