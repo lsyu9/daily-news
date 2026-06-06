@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-05 12:21:45",
+    "updated_at": "2026-06-06 12:03:51",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
-            "summary": "The industry has been trying to make a case this week the Clarity Act provides law enforcement strong tools to combat illicit finance involving cryptocurrency.",
-            "time": "Thu, 04 Jun 2026 19:41:14 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward"
+            "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
+            "summary": "Santiment data show active addresses at a four-month high and social dominance near a 2026 peak after Charles Hoskinson warned of a \"wave of failures\" in the ecosystem.",
+            "time": "Sat, 06 Jun 2026 03:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows"
         },
         {
             "source": "CoinDesk",
-            "title": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
-            "summary": "The regulator rejected claims he's doing President Trump's bidding during a congressional hearing that also addressed the GENIUS Act stablecoin push.",
-            "time": "Thu, 04 Jun 2026 18:19:13 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice"
+            "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+            "summary": "Mati Greenspan, Michael Saylor and Jameson Lopp blamed the AI boom for draining capital from bitcoin. Meanwhile, Jack Mallers refrained from sharing an outlook but recommended buying the dip.",
+            "time": "Fri, 05 Jun 2026 19:27:20 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion"
         },
         {
             "source": "CoinDesk",
-            "title": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
-            "summary": "Backed by economist Nouriel Roubini, a long-time anti-bitcoin advocate, and known as 'Dr. Doom,' the Atlas CEO, Reza Bundy, shot a short-term warning for bitcoin but stayed bullish in the long-term.",
-            "time": "Thu, 04 Jun 2026 18:15:52 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/04/dr-doom-backed-atlas-capital-ceo-says-bitcoin-could-crash-70-before-reaching-usd500-000"
+            "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
+            "summary": "After an AI model helped uncover a four-year-old flaw in Zcash, security researchers warn that similar bugs may be hiding across crypto and traditional financial systems.",
+            "time": "Fri, 05 Jun 2026 18:02:33 +0000",
+            "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next"
         },
         {
             "source": "Hacker News",
-            "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-            "summary": "Article URL: https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/\nComments URL: https://news.ycombinator.com/item?id=48407499\nPoints: 12\n# Comments: 2",
-            "time": "Fri, 05 Jun 2026 03:14:28 +0000",
-            "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/"
+            "title": "OpenAI Help: Lockdown Mode",
+            "summary": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode\nComments URL: https://news.ycombinator.com/item?id=48421145\nPoints: 7\n# Comments: 3",
+            "time": "Sat, 06 Jun 2026 03:36:15 +0000",
+            "url": "https://help.openai.com/en/articles/20001061-lockdown-mode"
         },
         {
             "source": "Hacker News",
-            "title": "The Causes of Long Covid",
-            "summary": "Article URL: https://www.science.org/content/blog-post/causes-long-covid\nComments URL: https://news.ycombinator.com/item?id=48407451\nPoints: 22\n# Comments: 5",
-            "time": "Fri, 05 Jun 2026 03:04:28 +0000",
-            "url": "https://www.science.org/content/blog-post/causes-long-covid"
+            "title": "Ask HN: Why is the HN crowd so anti-AI?",
+            "summary": "Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates tech...",
+            "time": "Sat, 06 Jun 2026 02:31:51 +0000",
+            "url": "https://news.ycombinator.com/item?id=48420827"
         },
         {
             "source": "Hacker News",
-            "title": "What happens if Japan takes in zero immigrants?",
-            "summary": "Article URL: https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero\nComments URL: https://news.ycombinator.com/item?id=48407068\nPoints: 9\n# Comments: 2",
-            "time": "Fri, 05 Jun 2026 01:56:26 +0000",
-            "url": "https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero"
+            "title": "Show HN: ABC Classic 100 Rankings visualised",
+            "summary": "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.I've considered adding a search function, but I also ...",
+            "time": "Sat, 06 Jun 2026 01:32:09 +0000",
+            "url": "https://classic100.gotski.workers.dev/"
         }
     ]
 }
