@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-06 12:03:51",
+    "updated_at": "2026-06-07 12:40:35",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
-            "summary": "Santiment data show active addresses at a four-month high and social dominance near a 2026 peak after Charles Hoskinson warned of a \"wave of failures\" in the ecosystem.",
-            "time": "Sat, 06 Jun 2026 03:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows"
+            "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+            "summary": "A week that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years.",
+            "time": "Sat, 06 Jun 2026 19:58:54 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion"
         },
         {
             "source": "CoinDesk",
-            "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
-            "summary": "Mati Greenspan, Michael Saylor and Jameson Lopp blamed the AI boom for draining capital from bitcoin. Meanwhile, Jack Mallers refrained from sharing an outlook but recommended buying the dip.",
-            "time": "Fri, 05 Jun 2026 19:27:20 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion"
+            "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+            "summary": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital ...",
+            "time": "Sat, 06 Jun 2026 16:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem"
         },
         {
             "source": "CoinDesk",
-            "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
-            "summary": "After an AI model helped uncover a four-year-old flaw in Zcash, security researchers warn that similar bugs may be hiding across crypto and traditional financial systems.",
-            "time": "Fri, 05 Jun 2026 18:02:33 +0000",
-            "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next"
+            "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
+            "summary": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.",
+            "time": "Sat, 06 Jun 2026 15:59:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain"
         },
         {
             "source": "Hacker News",
-            "title": "OpenAI Help: Lockdown Mode",
-            "summary": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode\nComments URL: https://news.ycombinator.com/item?id=48421145\nPoints: 7\n# Comments: 3",
-            "time": "Sat, 06 Jun 2026 03:36:15 +0000",
-            "url": "https://help.openai.com/en/articles/20001061-lockdown-mode"
+            "title": "Valve P2P networking broken for more than 2 months",
+            "summary": "Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398\nComments URL: https://news.ycombinator.com/item?id=48431461\nPoints: 43\n# Comments: 14",
+            "time": "Sun, 07 Jun 2026 03:21:52 +0000",
+            "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398"
         },
         {
             "source": "Hacker News",
-            "title": "Ask HN: Why is the HN crowd so anti-AI?",
-            "summary": "Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates tech...",
-            "time": "Sat, 06 Jun 2026 02:31:51 +0000",
-            "url": "https://news.ycombinator.com/item?id=48420827"
+            "title": "The Russian who invented semiconductors 25 years before the USA",
+            "summary": "Article URL: https://www.semidoped.com/p/til-the-man-who-invented-the-future\nComments URL: https://news.ycombinator.com/item?id=48431367\nPoints: 19\n# Comments: 5",
+            "time": "Sun, 07 Jun 2026 03:00:52 +0000",
+            "url": "https://www.semidoped.com/p/til-the-man-who-invented-the-future"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: ABC Classic 100 Rankings visualised",
-            "summary": "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.I've considered adding a search function, but I also ...",
-            "time": "Sat, 06 Jun 2026 01:32:09 +0000",
-            "url": "https://classic100.gotski.workers.dev/"
+            "title": "Field of clones: How horse replicas came to dominate polo",
+            "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses\nComments URL: https://news.ycombinator.com/item?id=48431286\nPoints: 31\n# Comments: 17",
+            "time": "Sun, 07 Jun 2026 02:46:37 +0000",
+            "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses"
         }
     ]
 }
