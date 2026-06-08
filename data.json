@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-07 12:40:35",
+    "updated_at": "2026-06-08 12:45:32",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-            "summary": "A week that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years.",
-            "time": "Sat, 06 Jun 2026 19:58:54 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion"
+            "title": "Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash",
+            "summary": "BTC has pulled back from overnight highs as escalating geopolitical tensions weigh over risk sentiment and send oil price higher.",
+            "time": "Mon, 08 Jun 2026 04:21:53 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash"
         },
         {
             "source": "CoinDesk",
-            "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-            "summary": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital ...",
-            "time": "Sat, 06 Jun 2026 16:30:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem"
+            "title": "A quick review of the Ways and Means tax bills: State of Crypto",
+            "summary": "The House Ways and Means Committee is gearing up for its big tax push.",
+            "time": "Sun, 07 Jun 2026 20:27:12 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
-            "summary": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.",
-            "time": "Sat, 06 Jun 2026 15:59:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain"
+            "title": "Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows",
+            "summary": "The firm's executive chairman posted a familiar chart with Strategy's previous BTC purchases writing \"a good time to add more dots.\"",
+            "time": "Sun, 07 Jun 2026 17:41:57 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows"
         },
         {
             "source": "Hacker News",
-            "title": "Valve P2P networking broken for more than 2 months",
-            "summary": "Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398\nComments URL: https://news.ycombinator.com/item?id=48431461\nPoints: 43\n# Comments: 14",
-            "time": "Sun, 07 Jun 2026 03:21:52 +0000",
-            "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398"
+            "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+            "summary": "Article URL: https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/\nComments URL: https://news.ycombinator.com/item?id=48440952\nPoints: 26\n# Comments: 3",
+            "time": "Mon, 08 Jun 2026 03:17:10 +0000",
+            "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/"
         },
         {
             "source": "Hacker News",
-            "title": "The Russian who invented semiconductors 25 years before the USA",
-            "summary": "Article URL: https://www.semidoped.com/p/til-the-man-who-invented-the-future\nComments URL: https://news.ycombinator.com/item?id=48431367\nPoints: 19\n# Comments: 5",
-            "time": "Sun, 07 Jun 2026 03:00:52 +0000",
-            "url": "https://www.semidoped.com/p/til-the-man-who-invented-the-future"
+            "title": "Dopamine Fracking",
+            "summary": "Article URL: https://igerman.cc/blog/dopamine-fracking/\nComments URL: https://news.ycombinator.com/item?id=48440792\nPoints: 23\n# Comments: 4",
+            "time": "Mon, 08 Jun 2026 02:42:24 +0000",
+            "url": "https://igerman.cc/blog/dopamine-fracking/"
         },
         {
             "source": "Hacker News",
-            "title": "Field of clones: How horse replicas came to dominate polo",
-            "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses\nComments URL: https://news.ycombinator.com/item?id=48431286\nPoints: 31\n# Comments: 17",
-            "time": "Sun, 07 Jun 2026 02:46:37 +0000",
-            "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses"
+            "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+            "summary": "Article URL: https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/\nComments URL: https://news.ycombinator.com/item?id=48440610\nPoints:...",
+            "time": "Mon, 08 Jun 2026 02:05:40 +0000",
+            "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/"
         }
     ]
 }
