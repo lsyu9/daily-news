@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-09 12:07:24",
+    "updated_at": "2026-06-10 12:18:58",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
-            "summary": "Users are being paid to shave their heads, chug liquor and interview homeless people on camera, raising questions about whether Pump.fun's latest product rewards creativity or exploitation.",
-            "time": "Mon, 08 Jun 2026 22:58:02 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze"
+            "title": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
+            "summary": "The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel.",
+            "time": "Tue, 09 Jun 2026 21:06:01 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns"
         },
         {
             "source": "CoinDesk",
-            "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
-            "summary": "Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research",
-            "time": "Mon, 08 Jun 2026 18:41:04 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea"
+            "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
+            "summary": "At a panel at ETHConf, Carlos Domingo argued that bringing stocks and exchange-traded funds onchain could unlock a market far larger than today's roughly $30 billion tokenized asset sector.",
+            "time": "Tue, 09 Jun 2026 19:49:28 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market"
         },
         {
             "source": "CoinDesk",
-            "title": "Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase",
-            "summary": "Meanwhile, Strive bought 32 bitcoin, the same number Strategy dumped last week.",
-            "time": "Mon, 08 Jun 2026 17:04:38 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase"
+            "title": "UK financial regulator moves to allow mutual funds 10% exposure to crypto ETNs",
+            "summary": "The Financial Conduct Authority proposed allowing some investment schemes to add exposure to crypto exchange-traded notes.",
+            "time": "Tue, 09 Jun 2026 15:39:13 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/09/uk-financial-regulator-moves-to-allow-mutual-funds-10-exposure-to-crypto-etns"
         },
         {
             "source": "Hacker News",
-            "title": "Claude Fable 5",
-            "summary": "Article URL: https://www.anthropic.com/news/claude-fable-5-mythos-5\nComments URL: https://news.ycombinator.com/item?id=48456104\nPoints: 5\n# Comments: 2",
-            "time": "Tue, 09 Jun 2026 03:46:15 +0000",
-            "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+            "title": "Rich Sutton on AI creativity and discovery",
+            "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA\n\nComments URL: https://news.ycombinator.com/item?id=48470581\nPoints: 37\n# Comments: 16",
+            "time": "Wed, 10 Jun 2026 02:25:24 +0000",
+            "url": "https://twitter.com/RichardSSutton/status/2061216087744946656"
         },
         {
             "source": "Hacker News",
-            "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-            "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\nComments URL: https://news.ycombinator.com/item?id=48456015\nPoints: 0\n# Comments: 0",
-            "time": "Tue, 09 Jun 2026 03:34:00 +0000",
-            "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer"
+            "title": "German ruling declares Google liable for false answers in AI Overviews",
+            "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\nComments URL: https://news.ycombinator.com/item?i...",
+            "time": "Wed, 10 Jun 2026 01:44:13 +0000",
+            "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
         },
         {
             "source": "Hacker News",
-            "title": "Job: Head of Stonehenge",
-            "summary": "Article URL: https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449\nComments URL: https://news.ycombinator.com/item?id=48455928\nPoints: 29\n# Com...",
-            "time": "Tue, 09 Jun 2026 03:20:40 +0000",
-            "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449"
+            "title": "macOS Container Machines",
+            "summary": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md\nComments URL: https://news.ycombinator.com/item?id=48469658\nPoints: 352\n# Comments: 135",
+            "time": "Wed, 10 Jun 2026 00:29:01 +0000",
+            "url": "https://github.com/apple/container/blob/main/docs/container-machine.md"
         }
     ]
 }
