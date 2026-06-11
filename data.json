@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-10 12:18:58",
+    "updated_at": "2026-06-11 12:41:12",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
-            "summary": "The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel.",
-            "time": "Tue, 09 Jun 2026 21:06:01 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns"
+            "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
+            "summary": "Two widely watched gauges show capitulation, but the analyst flagging them warns the slow grind comes next.",
+            "time": "Thu, 11 Jun 2026 04:34:35 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next"
         },
         {
             "source": "CoinDesk",
-            "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
-            "summary": "At a panel at ETHConf, Carlos Domingo argued that bringing stocks and exchange-traded funds onchain could unlock a market far larger than today's roughly $30 billion tokenized asset sector.",
-            "time": "Tue, 09 Jun 2026 19:49:28 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market"
+            "title": "Privacy returns to focus as Ethereum developers explore new token standards",
+            "summary": "In this week's edition of The Protocol Newsletter, we're looking at where privacy is headed in the Ethereum ecosystem.",
+            "time": "Wed, 10 Jun 2026 18:14:58 +0000",
+            "url": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards"
         },
         {
             "source": "CoinDesk",
-            "title": "UK financial regulator moves to allow mutual funds 10% exposure to crypto ETNs",
-            "summary": "The Financial Conduct Authority proposed allowing some investment schemes to add exposure to crypto exchange-traded notes.",
-            "time": "Tue, 09 Jun 2026 15:39:13 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/09/uk-financial-regulator-moves-to-allow-mutual-funds-10-exposure-to-crypto-etns"
+            "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
+            "summary": "BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry'...",
+            "time": "Wed, 10 Jun 2026 18:09:23 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market"
         },
         {
             "source": "Hacker News",
-            "title": "Rich Sutton on AI creativity and discovery",
-            "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA\n\nComments URL: https://news.ycombinator.com/item?id=48470581\nPoints: 37\n# Comments: 16",
-            "time": "Wed, 10 Jun 2026 02:25:24 +0000",
-            "url": "https://twitter.com/RichardSSutton/status/2061216087744946656"
+            "title": "Are insecure code completions in PyCharm a vulnerability?",
+            "summary": "Article URL: https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability\nComments URL: https://news.ycombinator.com/item?id=48485160\nPoints: 9\n# Comments: 1",
+            "time": "Thu, 11 Jun 2026 01:26:03 +0000",
+            "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability"
         },
         {
             "source": "Hacker News",
-            "title": "German ruling declares Google liable for false answers in AI Overviews",
-            "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\nComments URL: https://news.ycombinator.com/item?i...",
-            "time": "Wed, 10 Jun 2026 01:44:13 +0000",
-            "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+            "title": "AI agent runs amok in Fedora and elsewhere",
+            "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/\nComments URL: https://news.ycombinator.com/item?id=48484584\nPoints: 221\n# Comments: 56",
+            "time": "Thu, 11 Jun 2026 00:10:08 +0000",
+            "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
         },
         {
             "source": "Hacker News",
-            "title": "macOS Container Machines",
-            "summary": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md\nComments URL: https://news.ycombinator.com/item?id=48469658\nPoints: 352\n# Comments: 135",
-            "time": "Wed, 10 Jun 2026 00:29:01 +0000",
-            "url": "https://github.com/apple/container/blob/main/docs/container-machine.md"
+            "title": "Deficient executive control in transformer attention",
+            "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838\nComments URL: https://news.ycombinator.com/item?id=48484282\nPoints: 29\n# Comments: 10",
+            "time": "Wed, 10 Jun 2026 23:35:01 +0000",
+            "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838"
         }
     ]
 }
