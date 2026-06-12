@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-11 12:41:12",
+    "updated_at": "2026-06-12 12:43:37",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
-            "summary": "Two widely watched gauges show capitulation, but the analyst flagging them warns the slow grind comes next.",
-            "time": "Thu, 11 Jun 2026 04:34:35 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next"
+            "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
+            "summary": "The company's fully diluted value will be about $1.8 trillion, with the stock set to open for trade on Friday on the Nasdaq.",
+            "time": "Thu, 11 Jun 2026 20:12:46 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever"
         },
         {
             "source": "CoinDesk",
-            "title": "Privacy returns to focus as Ethereum developers explore new token standards",
-            "summary": "In this week's edition of The Protocol Newsletter, we're looking at where privacy is headed in the Ethereum ecosystem.",
-            "time": "Wed, 10 Jun 2026 18:14:58 +0000",
-            "url": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards"
+            "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
+            "summary": "\"Coinbase for Agents\" is a new platform that lets AI assistants like ChatGPT and Claude connect to users’ Coinbase accounts to trade crypto, access data and eventually make payments and purchases auto...",
+            "time": "Thu, 11 Jun 2026 17:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf"
         },
         {
             "source": "CoinDesk",
-            "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
-            "summary": "BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry'...",
-            "time": "Wed, 10 Jun 2026 18:09:23 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market"
+            "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
+            "summary": "Digital asset bank Sygnum says institutional clients want multiple tokenized cash instruments operating interchangeably on a single platform.",
+            "time": "Thu, 11 Jun 2026 16:37:53 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure"
         },
         {
             "source": "Hacker News",
-            "title": "Are insecure code completions in PyCharm a vulnerability?",
-            "summary": "Article URL: https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability\nComments URL: https://news.ycombinator.com/item?id=48485160\nPoints: 9\n# Comments: 1",
-            "time": "Thu, 11 Jun 2026 01:26:03 +0000",
-            "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability"
+            "title": "Claude Fable is relentlessly proactive",
+            "summary": "Article URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/\nComments URL: https://news.ycombinator.com/item?id=48498573\nPoints: 233\n# Comments: 187",
+            "time": "Fri, 12 Jun 2026 01:06:51 +0000",
+            "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"
         },
         {
             "source": "Hacker News",
-            "title": "AI agent runs amok in Fedora and elsewhere",
-            "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/\nComments URL: https://news.ycombinator.com/item?id=48484584\nPoints: 221\n# Comments: 56",
-            "time": "Thu, 11 Jun 2026 00:10:08 +0000",
-            "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+            "title": "Removing 'um' from a recording is harder than it sounds",
+            "summary": "Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/\nComments URL: https://news.ycombinator.com/item?id=48498421\nPoints: 32\n# Comments: 12",
+            "time": "Fri, 12 Jun 2026 00:42:11 +0000",
+            "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
         },
         {
             "source": "Hacker News",
-            "title": "Deficient executive control in transformer attention",
-            "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838\nComments URL: https://news.ycombinator.com/item?id=48484282\nPoints: 29\n# Comments: 10",
-            "time": "Wed, 10 Jun 2026 23:35:01 +0000",
-            "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838"
+            "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+            "summary": "Article URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf\nComments URL: https://news.ycombinator.com/item?id=48498385\nPoints: 220\n# Comments: 77",
+            "time": "Fri, 12 Jun 2026 00:38:11 +0000",
+            "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
         }
     ]
 }
