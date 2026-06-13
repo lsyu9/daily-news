@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-12 12:43:37",
+    "updated_at": "2026-06-13 12:22:25",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
-            "summary": "The company's fully diluted value will be about $1.8 trillion, with the stock set to open for trade on Friday on the Nasdaq.",
-            "time": "Thu, 11 Jun 2026 20:12:46 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever"
+            "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
+            "summary": "Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto selloff.",
+            "time": "Fri, 12 Jun 2026 18:09:06 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst"
         },
         {
             "source": "CoinDesk",
-            "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
-            "summary": "\"Coinbase for Agents\" is a new platform that lets AI assistants like ChatGPT and Claude connect to users’ Coinbase accounts to trade crypto, access data and eventually make payments and purchases auto...",
-            "time": "Thu, 11 Jun 2026 17:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf"
+            "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
+            "summary": "VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
+            "time": "Fri, 12 Jun 2026 16:05:31 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market"
         },
         {
             "source": "CoinDesk",
-            "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
-            "summary": "Digital asset bank Sygnum says institutional clients want multiple tokenized cash instruments operating interchangeably on a single platform.",
-            "time": "Thu, 11 Jun 2026 16:37:53 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure"
+            "title": "Elon Musk's SpaceX soars 20% in blockbuster Nasdaq debut",
+            "summary": "The stock was trading above $160 in volatile action after last night's IPO at $135.",
+            "time": "Fri, 12 Jun 2026 15:55:42 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/12/spacex-opens-at-usdtk-in-blockbuster-nasdaq-debut"
         },
         {
             "source": "Hacker News",
-            "title": "Claude Fable is relentlessly proactive",
-            "summary": "Article URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/\nComments URL: https://news.ycombinator.com/item?id=48498573\nPoints: 233\n# Comments: 187",
-            "time": "Fri, 12 Jun 2026 01:06:51 +0000",
-            "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"
+            "title": "Open source AI must win",
+            "summary": "Article URL: https://opensourceaimustwin.com/?share=v2\nComments URL: https://news.ycombinator.com/item?id=48511908\nPoints: 380\n# Comments: 107",
+            "time": "Sat, 13 Jun 2026 02:14:24 +0000",
+            "url": "https://opensourceaimustwin.com/?share=v2"
         },
         {
             "source": "Hacker News",
-            "title": "Removing 'um' from a recording is harder than it sounds",
-            "summary": "Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/\nComments URL: https://news.ycombinator.com/item?id=48498421\nPoints: 32\n# Comments: 12",
-            "time": "Fri, 12 Jun 2026 00:42:11 +0000",
-            "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
+            "title": "As a result of a US Government directive, we are suspending access to Fable 5",
+            "summary": "Article URL: https://twitter.com/ClaudeDevs/status/2065597942602531163\nComments URL: https://news.ycombinator.com/item?id=48511168\nPoints: 70\n# Comments: 16",
+            "time": "Sat, 13 Jun 2026 01:02:41 +0000",
+            "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163"
         },
         {
             "source": "Hacker News",
-            "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-            "summary": "Article URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf\nComments URL: https://news.ycombinator.com/item?id=48498385\nPoints: 220\n# Comments: 77",
-            "time": "Fri, 12 Jun 2026 00:38:11 +0000",
-            "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
+            "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+            "summary": "Article URL: https://status.claude.com/incidents/s9w82lp9dcn9\nComments URL: https://news.ycombinator.com/item?id=48511121\nPoints: 184\n# Comments: 70",
+            "time": "Sat, 13 Jun 2026 00:58:06 +0000",
+            "url": "https://status.claude.com/incidents/s9w82lp9dcn9"
         }
     ]
 }
