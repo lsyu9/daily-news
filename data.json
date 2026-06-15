@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-14 12:49:43",
+    "updated_at": "2026-06-15 13:06:04",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-            "summary": "Anthropic’s new Claude Fable 5 puts powerful cyber tools behind safety filters. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the fi...",
-            "time": "Sat, 13 Jun 2026 18:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed"
+            "title": "XRP climbs 4% above $1.18 as traders test next resistance zone",
+            "summary": "XRP extended its rebound from recent lows on the strongest buying activity in weeks, with institutional flows and ETF demand supporting a push toward the $1.20 level.",
+            "time": "Mon, 15 Jun 2026 04:25:42 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone"
         },
         {
             "source": "CoinDesk",
-            "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
-            "summary": "The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.",
-            "time": "Sat, 13 Jun 2026 17:00:16 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve"
+            "title": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
+            "summary": "A peace agreement that reopens the Strait of Hormuz pulled the geopolitical premium out of oil and put back into risk assets.",
+            "time": "Mon, 15 Jun 2026 03:56:27 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding"
         },
         {
             "source": "CoinDesk",
-            "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-            "summary": "O’Connor argues that crypto’s clearest success story has scaled as money but not as capital.",
-            "time": "Sat, 13 Jun 2026 16:51:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash"
+            "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
+            "summary": "The price of crude oil is tumbling, and U.S. stock futures are moving higher.",
+            "time": "Mon, 15 Jun 2026 00:08:10 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open"
         },
         {
             "source": "Hacker News",
-            "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-            "summary": "Article URL: https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf\nComments URL: https://news.ycombinator.com/item?id=48523773\nPoints: 51\n# Comments: 46",
-            "time": "Sun, 14 Jun 2026 02:59:34 +0000",
-            "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf"
+            "title": "Even more batteries included with Emacs",
+            "summary": "Article URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/\nComments URL: https://news.ycombinator.com/item?id=48535886\nPoints: 50\n# Comments: 11",
+            "time": "Mon, 15 Jun 2026 02:30:25 +0000",
+            "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/"
         },
         {
             "source": "Hacker News",
-            "title": "Weave: Merging based on language structure and not lines",
-            "summary": "Article URL: https://ataraxy-labs.github.io/weave/\nComments URL: https://news.ycombinator.com/item?id=48523705\nPoints: 7\n# Comments: 1",
-            "time": "Sun, 14 Jun 2026 02:45:38 +0000",
-            "url": "https://ataraxy-labs.github.io/weave/"
+            "title": "The hallucinogenic mushroom that contains no known psychedelic",
+            "summary": "Article URL: https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the\nComments URL: https://news.ycombinator.com/item?id=48535215\nPoints: 45\n# Comments: 23",
+            "time": "Mon, 15 Jun 2026 01:07:37 +0000",
+            "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the"
         },
         {
             "source": "Hacker News",
-            "title": "Building a serial and VGA \"everything console\"",
-            "summary": "Article URL: http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html\nComments URL: https://news.ycombinator.com/item?id=48523615\nPoints: 9\n# Comments: 0",
-            "time": "Sun, 14 Jun 2026 02:31:15 +0000",
-            "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
+            "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+            "summary": "Article URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/\nComments URL: https://news.ycombinator.com/item?id=48534628\nPoints: 42\n# Comments: 3",
+            "time": "Mon, 15 Jun 2026 00:07:32 +0000",
+            "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/"
         }
     ]
 }
