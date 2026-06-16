@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-15 13:06:04",
+    "updated_at": "2026-06-16 13:09:01",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "XRP climbs 4% above $1.18 as traders test next resistance zone",
-            "summary": "XRP extended its rebound from recent lows on the strongest buying activity in weeks, with institutional flows and ETF demand supporting a push toward the $1.20 level.",
-            "time": "Mon, 15 Jun 2026 04:25:42 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone"
+            "title": "Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing",
+            "summary": "A US-Iran deal pulled oil lower and lifted stocks, but bitcoin's bounce is hesitant. ETF outflows just paused after a record run, and analysts say the market wants the deal signed before pricing it in...",
+            "time": "Tue, 16 Jun 2026 04:48:31 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
-            "summary": "A peace agreement that reopens the Strait of Hormuz pulled the geopolitical premium out of oil and put back into risk assets.",
-            "time": "Mon, 15 Jun 2026 03:56:27 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding"
+            "title": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
+            "summary": "The Bank of Japan raised its key interest rate by 25 basis points to 1%, the highest level since 1995.",
+            "time": "Tue, 16 Jun 2026 04:30:41 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
-            "summary": "The price of crude oil is tumbling, and U.S. stock futures are moving higher.",
-            "time": "Mon, 15 Jun 2026 00:08:10 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open"
+            "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
+            "summary": "Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem.",
+            "time": "Mon, 15 Jun 2026 18:14:07 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project"
         },
         {
             "source": "Hacker News",
-            "title": "Even more batteries included with Emacs",
-            "summary": "Article URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/\nComments URL: https://news.ycombinator.com/item?id=48535886\nPoints: 50\n# Comments: 11",
-            "time": "Mon, 15 Jun 2026 02:30:25 +0000",
-            "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/"
+            "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+            "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419\nComments URL: https://news.ycombinator.com/item?id=48550693\nPoints: 17\n# Comments: 0",
+            "time": "Tue, 16 Jun 2026 04:46:36 +0000",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419"
         },
         {
             "source": "Hacker News",
-            "title": "The hallucinogenic mushroom that contains no known psychedelic",
-            "summary": "Article URL: https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the\nComments URL: https://news.ycombinator.com/item?id=48535215\nPoints: 45\n# Comments: 23",
-            "time": "Mon, 15 Jun 2026 01:07:37 +0000",
-            "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the"
+            "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+            "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch\nComments URL: https://news.ycombinator.com/item?id=48549918\nPoints: 136\n# Comments: 56",
+            "time": "Tue, 16 Jun 2026 02:47:57 +0000",
+            "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
         },
         {
             "source": "Hacker News",
-            "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-            "summary": "Article URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/\nComments URL: https://news.ycombinator.com/item?id=48534628\nPoints: 42\n# Comments: 3",
-            "time": "Mon, 15 Jun 2026 00:07:32 +0000",
-            "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/"
+            "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+            "summary": "Article URL: https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/\nComments URL: https://news.ycombinator.com/item?id=48548975\nPoints: 77\n# Comments: 61",
+            "time": "Tue, 16 Jun 2026 00:28:14 +0000",
+            "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/"
         }
     ]
 }
