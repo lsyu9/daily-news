@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-16 13:09:01",
+    "updated_at": "2026-06-17 12:50:21",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing",
-            "summary": "A US-Iran deal pulled oil lower and lifted stocks, but bitcoin's bounce is hesitant. ETF outflows just paused after a record run, and analysts say the market wants the deal signed before pricing it in...",
-            "time": "Tue, 16 Jun 2026 04:48:31 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing"
+            "title": "XRP gives back breakout gains, slipping below $1.23 on heavy selling",
+            "summary": "XRP briefly traded above key resistance before sellers stepped in, with rising volume suggesting traders used the rally to cut positions rather than add risk.",
+            "time": "Wed, 17 Jun 2026 04:39:46 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
-            "summary": "The Bank of Japan raised its key interest rate by 25 basis points to 1%, the highest level since 1995.",
-            "time": "Tue, 16 Jun 2026 04:30:41 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high"
+            "title": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
+            "summary": "UNI surged after Standard Chartered set a $100 long-term target, and HYPE and solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first t...",
+            "time": "Wed, 17 Jun 2026 04:35:44 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed"
         },
         {
             "source": "CoinDesk",
-            "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
-            "summary": "Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem.",
-            "time": "Mon, 15 Jun 2026 18:14:07 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project"
+            "title": "Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows",
+            "summary": "Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA.",
+            "time": "Tue, 16 Jun 2026 21:54:49 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows"
         },
         {
             "source": "Hacker News",
-            "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-            "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419\nComments URL: https://news.ycombinator.com/item?id=48550693\nPoints: 17\n# Comments: 0",
-            "time": "Tue, 16 Jun 2026 04:46:36 +0000",
-            "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419"
+            "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+            "summary": "Article URL: https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn\nComments URL: https://news.ycombinator.com/item?id=48565130\nPoints: 36\n# Comments: 27",
+            "time": "Wed, 17 Jun 2026 02:47:29 +0000",
+            "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn"
         },
         {
             "source": "Hacker News",
-            "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-            "summary": "Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch\nComments URL: https://news.ycombinator.com/item?id=48549918\nPoints: 136\n# Comments: 56",
-            "time": "Tue, 16 Jun 2026 02:47:57 +0000",
-            "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
+            "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+            "summary": "Article URL: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/\nComments URL: https://news.ycombinator.com/item?id=48564696\nPoints: 66\n# Comments...",
+            "time": "Wed, 17 Jun 2026 01:40:22 +0000",
+            "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/"
         },
         {
             "source": "Hacker News",
-            "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-            "summary": "Article URL: https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/\nComments URL: https://news.ycombinator.com/item?id=48548975\nPoints: 77\n# Comments: 61",
-            "time": "Tue, 16 Jun 2026 00:28:14 +0000",
-            "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/"
+            "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+            "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/\nComments URL: https://news.ycombinator....",
+            "time": "Tue, 16 Jun 2026 23:15:44 +0000",
+            "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
         }
     ]
 }
