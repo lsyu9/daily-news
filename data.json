@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-17 12:50:21",
+    "updated_at": "2026-06-18 12:42:58",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "XRP gives back breakout gains, slipping below $1.23 on heavy selling",
-            "summary": "XRP briefly traded above key resistance before sellers stepped in, with rising volume suggesting traders used the rally to cut positions rather than add risk.",
-            "time": "Wed, 17 Jun 2026 04:39:46 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling"
+            "title": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
+            "summary": "Long-time bitcoin bull Matt Hougan told CoinDesk that during this bear market and with ‘doubts swirling’, investors have found ‘it easier to reach for something more tangible:’ stablecoins and tokeniz...",
+            "time": "Thu, 18 Jun 2026 04:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says"
         },
         {
             "source": "CoinDesk",
-            "title": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
-            "summary": "UNI surged after Standard Chartered set a $100 long-term target, and HYPE and solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first t...",
-            "time": "Wed, 17 Jun 2026 04:35:44 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed"
+            "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
+            "summary": "Kalshi's perpetual futures product did not meet the Dodd-Frank Act's definition of a \"swap\" and should not have been approved, Terrence Duffy said.",
+            "time": "Thu, 18 Jun 2026 03:44:30 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval"
         },
         {
             "source": "CoinDesk",
-            "title": "Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows",
-            "summary": "Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA.",
-            "time": "Tue, 16 Jun 2026 21:54:49 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows"
+            "title": "Kentucky targets prediction markets, puts red state in potential clash with Trump team",
+            "summary": "President Donald Trump has taken the stance that states have no business with firms like Kalshi and Polymarket, and now a staunch GOP state is defying that view.",
+            "time": "Wed, 17 Jun 2026 21:20:05 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team"
         },
         {
             "source": "Hacker News",
-            "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
-            "summary": "Article URL: https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn\nComments URL: https://news.ycombinator.com/item?id=48565130\nPoints: 36\n# Comments: 27",
-            "time": "Wed, 17 Jun 2026 02:47:29 +0000",
-            "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn"
+            "title": "Local Qwen isn't a worse Opus, it's a different tool",
+            "summary": "Article URL: https://blog.alexellis.io/local-ai-is-not-opus/\nComments URL: https://news.ycombinator.com/item?id=48580209\nPoints: 13\n# Comments: 1",
+            "time": "Thu, 18 Jun 2026 03:04:20 +0000",
+            "url": "https://blog.alexellis.io/local-ai-is-not-opus/"
         },
         {
             "source": "Hacker News",
-            "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-            "summary": "Article URL: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/\nComments URL: https://news.ycombinator.com/item?id=48564696\nPoints: 66\n# Comments...",
-            "time": "Wed, 17 Jun 2026 01:40:22 +0000",
-            "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/"
+            "title": "[x86] AI Compute Extensions (ACE) Specification",
+            "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/\nComments URL: https://news.ycombinator.com/item?id=48579913\nPoints: 19\n# Comments: 7",
+            "time": "Thu, 18 Jun 2026 02:32:01 +0000",
+            "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
         },
         {
             "source": "Hacker News",
-            "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-            "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/\nComments URL: https://news.ycombinator....",
-            "time": "Tue, 16 Jun 2026 23:15:44 +0000",
-            "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
+            "title": "Midjourney Medical",
+            "summary": "https://www.midjourney.com/medicalVideo: https://x.com/midjourney/status/2067422898407837797\n\nComments URL: https://news.ycombinator.com/item?id=48579650\nPoints: 300\n# Comments: 252",
+            "time": "Thu, 18 Jun 2026 01:59:51 +0000",
+            "url": "https://www.midjourney.com/medical/blogpost"
         }
     ]
 }
