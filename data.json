@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-18 12:42:58",
+    "updated_at": "2026-06-19 13:02:32",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
-            "summary": "Long-time bitcoin bull Matt Hougan told CoinDesk that during this bear market and with ‘doubts swirling’, investors have found ‘it easier to reach for something more tangible:’ stablecoins and tokeniz...",
-            "time": "Thu, 18 Jun 2026 04:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says"
+            "title": "Bitcoin traders load up on bearish bets all the way down to $52,000",
+            "summary": "Bitcoin traders are scrambling to buy options bets that would pay off if the selloff deepens.",
+            "time": "Fri, 19 Jun 2026 05:02:01 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000"
         },
         {
             "source": "CoinDesk",
-            "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
-            "summary": "Kalshi's perpetual futures product did not meet the Dodd-Frank Act's definition of a \"swap\" and should not have been approved, Terrence Duffy said.",
-            "time": "Thu, 18 Jun 2026 03:44:30 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval"
+            "title": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades",
+            "summary": "Crypto dropped across the board on Friday in holiday-thinned trading, giving back the week's gains. With oil down 9% and the Iran deal signed, the question turns to whether this cycle gets an altseaso...",
+            "time": "Fri, 19 Jun 2026 04:49:20 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades"
         },
         {
             "source": "CoinDesk",
-            "title": "Kentucky targets prediction markets, puts red state in potential clash with Trump team",
-            "summary": "President Donald Trump has taken the stance that states have no business with firms like Kalshi and Polymarket, and now a staunch GOP state is defying that view.",
-            "time": "Wed, 17 Jun 2026 21:20:05 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team"
+            "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
+            "summary": "Alexander Mashinsky, the founder of failed crypto lender Celsius, had earlier been imprisoned for fraud and is now formally banned from CFTC registration.",
+            "time": "Thu, 18 Jun 2026 19:26:55 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator"
         },
         {
             "source": "Hacker News",
-            "title": "Local Qwen isn't a worse Opus, it's a different tool",
-            "summary": "Article URL: https://blog.alexellis.io/local-ai-is-not-opus/\nComments URL: https://news.ycombinator.com/item?id=48580209\nPoints: 13\n# Comments: 1",
-            "time": "Thu, 18 Jun 2026 03:04:20 +0000",
-            "url": "https://blog.alexellis.io/local-ai-is-not-opus/"
+            "title": "Let's Encrypt has been down most of today",
+            "summary": "Article URL: https://letsencrypt.status.io/#2026\nComments URL: https://news.ycombinator.com/item?id=48594715\nPoints: 63\n# Comments: 15",
+            "time": "Fri, 19 Jun 2026 04:18:09 +0000",
+            "url": "https://letsencrypt.status.io/#2026"
         },
         {
             "source": "Hacker News",
-            "title": "[x86] AI Compute Extensions (ACE) Specification",
-            "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/\nComments URL: https://news.ycombinator.com/item?id=48579913\nPoints: 19\n# Comments: 7",
-            "time": "Thu, 18 Jun 2026 02:32:01 +0000",
-            "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
+            "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
+            "summary": "Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885\nComments URL: https://news.ycombinator.com/item?id=48594592\nPoints: 38\n# Comments: 5",
+            "time": "Fri, 19 Jun 2026 03:50:25 +0000",
+            "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885"
         },
         {
             "source": "Hacker News",
-            "title": "Midjourney Medical",
-            "summary": "https://www.midjourney.com/medicalVideo: https://x.com/midjourney/status/2067422898407837797\n\nComments URL: https://news.ycombinator.com/item?id=48579650\nPoints: 300\n# Comments: 252",
-            "time": "Thu, 18 Jun 2026 01:59:51 +0000",
-            "url": "https://www.midjourney.com/medical/blogpost"
+            "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+            "summary": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/\nComments URL: https://news.ycombinator.com/item?id=48593731\nPoints: 52\n# Comments: 13",
+            "time": "Fri, 19 Jun 2026 01:06:27 +0000",
+            "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/"
         }
     ]
 }
