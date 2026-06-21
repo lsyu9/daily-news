@@ -1,6 +1,20 @@
 {
-    "updated_at": "2026-06-20 12:15:33",
+    "updated_at": "2026-06-21 12:59:08",
     "news": [
+        {
+            "source": "CoinDesk",
+            "title": "AI is making crypto security cheaper, faster and harder to ignore",
+            "summary": "As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, po...",
+            "time": "Sat, 20 Jun 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore"
+        },
+        {
+            "source": "CoinDesk",
+            "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+            "summary": "From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.",
+            "time": "Sat, 20 Jun 2026 13:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown"
+        },
         {
             "source": "CoinDesk",
             "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
@@ -9,39 +23,25 @@
             "url": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj"
         },
         {
-            "source": "CoinDesk",
-            "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
-            "summary": "GoMining unveiled a software development kit and programmable access for its bitcoin payment protocol GoBTC Pay, allowing merchants to accept BTC for everyday purchases.",
-            "time": "Fri, 19 Jun 2026 12:30:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin"
-        },
-        {
-            "source": "CoinDesk",
-            "title": "Franklin Templeton proposes new ETFs that turn corporate dividends into bitcoin",
-            "summary": "Your day-ahead look for June 19, 2026",
-            "time": "Fri, 19 Jun 2026 11:27:59 +0000",
-            "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin"
+            "source": "Hacker News",
+            "title": "Your brain was never designed for this much bad news",
+            "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm\nComments URL: https://news.ycombinator.com/item?id=48615569\nPoints: 27\n# Comments: 7",
+            "time": "Sun, 21 Jun 2026 04:02:08 +0000",
+            "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
         },
         {
             "source": "Hacker News",
-            "title": "How to feed a dictator",
-            "summary": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film\nComments URL: https://news.ycombinator.com/item?id=48605301\nPoints: 103\n# Comments: 37",
-            "time": "Sat, 20 Jun 2026 01:16:56 +0000",
-            "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
+            "title": "Armstrong Effect",
+            "summary": "Article URL: https://en.wikipedia.org/wiki/Armstrong_effect\nComments URL: https://news.ycombinator.com/item?id=48615529\nPoints: 3\n# Comments: 0",
+            "time": "Sun, 21 Jun 2026 03:54:22 +0000",
+            "url": "https://en.wikipedia.org/wiki/Armstrong_effect"
         },
         {
             "source": "Hacker News",
-            "title": "Hey, n00b, we didn't hire you to complete tasks",
-            "summary": "Article URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete\nComments URL: https://news.ycombinator.com/item?id=48604851\nPoints: 118\n# Comments: 52",
-            "time": "Sat, 20 Jun 2026 00:11:07 +0000",
-            "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete"
-        },
-        {
-            "source": "Hacker News",
-            "title": "Aikido Code Audit",
-            "summary": "Article URL: https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase\nComments URL: https://news.ycombinator.com/item?id=48604741\nPoints: 26\n# Comments: ...",
-            "time": "Fri, 19 Jun 2026 23:54:54 +0000",
-            "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase"
+            "title": "Developers don't understand CORS (2019)",
+            "summary": "Article URL: https://fosterelli.co/developers-dont-understand-cors\nComments URL: https://news.ycombinator.com/item?id=48614844\nPoints: 55\n# Comments: 24",
+            "time": "Sun, 21 Jun 2026 01:35:40 +0000",
+            "url": "https://fosterelli.co/developers-dont-understand-cors"
         }
     ]
 }
