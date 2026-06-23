@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-22 13:06:48",
+    "updated_at": "2026-06-23 12:05:02",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
-            "summary": "sian stocks and tech climbed as the US and Iran agreed a roadmap to a final peace deal, sending oil below $80. Crypto stayed soft, with bitcoin down 2% on the week and the memecoins leading the losses...",
-            "time": "Mon, 22 Jun 2026 04:58:49 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally"
+            "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
+            "summary": "The idea of a U.S. central bank digital currency — though little more than a research topic at the Federal Reserve — may be getting formally blocked.",
+            "time": "Mon, 22 Jun 2026 23:01:15 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
         },
         {
             "source": "CoinDesk",
-            "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
-            "summary": "CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S. perpetual futures product.",
-            "time": "Sun, 21 Jun 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto"
+            "title": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
+            "summary": "tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention.",
+            "time": "Mon, 22 Jun 2026 21:08:50 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-            "summary": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.",
-            "time": "Sun, 21 Jun 2026 07:12:35 +0000",
-            "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit"
+            "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
+            "summary": "Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes.",
+            "time": "Mon, 22 Jun 2026 20:58:40 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart"
         },
         {
             "source": "Hacker News",
-            "title": "Danish privacy activist Lars Andersen raided by police",
-            "summary": "Article URL: https://xcancel.com/LarsAnders1620/status/2068208864747540516#m\nComments URL: https://news.ycombinator.com/item?id=48625823\nPoints: 6\n# Comments: 0",
-            "time": "Mon, 22 Jun 2026 04:50:26 +0000",
-            "url": "https://xcancel.com/LarsAnders1620/status/2068208864747540516#m"
+            "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+            "summary": "Article URL: https://arxiv.org/abs/2606.03748\nComments URL: https://news.ycombinator.com/item?id=48639434\nPoints: 8\n# Comments: 0",
+            "time": "Tue, 23 Jun 2026 02:28:00 +0000",
+            "url": "https://arxiv.org/abs/2606.03748"
         },
         {
             "source": "Hacker News",
-            "title": "Sakana Fugu",
-            "summary": "Article URL: https://sakana.ai/fugu/\nComments URL: https://news.ycombinator.com/item?id=48624782\nPoints: 66\n# Comments: 29",
-            "time": "Mon, 22 Jun 2026 02:08:18 +0000",
-            "url": "https://sakana.ai/fugu/"
+            "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+            "summary": "Article URL: https://arxiv.org/abs/2606.16140\nComments URL: https://news.ycombinator.com/item?id=48639240\nPoints: 33\n# Comments: 10",
+            "time": "Tue, 23 Jun 2026 02:01:25 +0000",
+            "url": "https://arxiv.org/abs/2606.16140"
         },
         {
             "source": "Hacker News",
-            "title": "1983 Northern Telecom Commodore Phone",
-            "summary": "Article URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\nComments URL: https://news.ycombinator.com/item?id=48624114\nPoints: 35\n# Comments: 10",
-            "time": "Mon, 22 Jun 2026 00:34:33 +0000",
-            "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/"
+            "title": "1,700 free online courses from top universities",
+            "summary": "Article URL: https://www.openculture.com/freeonlinecourses\nComments URL: https://news.ycombinator.com/item?id=48639184\nPoints: 84\n# Comments: 17",
+            "time": "Tue, 23 Jun 2026 01:54:38 +0000",
+            "url": "https://www.openculture.com/freeonlinecourses"
         }
     ]
 }
