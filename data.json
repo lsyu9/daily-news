@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-24 12:08:18",
+    "updated_at": "2026-06-25 12:08:28",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
-            "summary": "The Fairshake super PAC supported Adrian Boafo in Maryland, plus other candidates in Maryland, New York and Utah as each ran its primary elections.",
-            "time": "Wed, 24 Jun 2026 03:00:34 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance"
+            "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
+            "summary": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all...",
+            "time": "Wed, 24 Jun 2026 19:52:39 +0000",
+            "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish"
         },
         {
             "source": "CoinDesk",
-            "title": "AI chipmaker Cerebras down 11% after first public earnings report",
-            "summary": "While revenue was up 92% from year-ago levels, the company forecasted a lower core gross margin next quarter.",
-            "time": "Tue, 23 Jun 2026 22:58:44 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report"
+            "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+            "summary": "The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report.",
+            "time": "Wed, 24 Jun 2026 19:48:23 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
-            "summary": "The economist known as \"Dr. Doom\" is supporting a tokenized security backed by a Nasdaq-listed ETF he oversees, designed to protect wealth in global crises.",
-            "time": "Tue, 23 Jun 2026 21:54:10 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar"
+            "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+            "summary": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+            "time": "Wed, 24 Jun 2026 17:18:08 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe"
         },
         {
             "source": "Hacker News",
-            "title": "The war on terror primed America for autocracy",
-            "summary": "https://archive.is/CBCZM\n\nComments URL: https://news.ycombinator.com/item?id=48654367\nPoints: 76\n# Comments: 39",
-            "time": "Wed, 24 Jun 2026 02:23:39 +0000",
-            "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy"
+            "title": "Ask HN: Where is our profession (programmer) going?",
+            "summary": "I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend's company to see what they were working on (15 ppl). To preface: I'm a hea...",
+            "time": "Thu, 25 Jun 2026 02:41:47 +0000",
+            "url": "https://news.ycombinator.com/item?id=48668199"
         },
         {
             "source": "Hacker News",
-            "title": "Qwen-AgentWorld: Language World Models for General Agents",
-            "summary": "Article URL: https://arxiv.org/abs/2606.24597\nComments URL: https://news.ycombinator.com/item?id=48654351\nPoints: 6\n# Comments: 0",
-            "time": "Wed, 24 Jun 2026 02:21:47 +0000",
-            "url": "https://arxiv.org/abs/2606.24597"
+            "title": "Medical students are using popular research tool to pump out misleading studies",
+            "summary": "Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\nComments URL: https://news.ycombinator.com/item?id=48668119\nPoints: 4\n...",
+            "time": "Thu, 25 Jun 2026 02:30:18 +0000",
+            "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies"
         },
         {
             "source": "Hacker News",
-            "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-            "summary": "Article URL: https://github.com/End2End-Diffusion/diffusion-bench\nComments URL: https://news.ycombinator.com/item?id=48654274\nPoints: 9\n# Comments: 0",
-            "time": "Wed, 24 Jun 2026 02:12:31 +0000",
-            "url": "https://github.com/End2End-Diffusion/diffusion-bench"
+            "title": "Cloudflare launched self-managed OAuth for all",
+            "summary": "Article URL: https://blog.cloudflare.com/oauth-for-all/\nComments URL: https://news.ycombinator.com/item?id=48668033\nPoints: 29\n# Comments: 6",
+            "time": "Thu, 25 Jun 2026 02:18:10 +0000",
+            "url": "https://blog.cloudflare.com/oauth-for-all/"
         }
     ]
 }
