@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-25 12:08:28",
+    "updated_at": "2026-06-26 12:15:17",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
-            "summary": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all...",
-            "time": "Wed, 24 Jun 2026 19:52:39 +0000",
-            "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish"
+            "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
+            "summary": "The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year.",
+            "time": "Thu, 25 Jun 2026 20:47:24 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market"
         },
         {
             "source": "CoinDesk",
-            "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-            "summary": "The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report.",
-            "time": "Wed, 24 Jun 2026 19:48:23 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket"
+            "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
+            "summary": "The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks.",
+            "time": "Thu, 25 Jun 2026 18:46:08 +0000",
+            "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network"
         },
         {
             "source": "CoinDesk",
-            "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
-            "summary": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
-            "time": "Wed, 24 Jun 2026 17:18:08 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe"
+            "title": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
+            "summary": "The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle.",
+            "time": "Thu, 25 Jun 2026 17:48:18 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever"
         },
         {
             "source": "Hacker News",
-            "title": "Ask HN: Where is our profession (programmer) going?",
-            "summary": "I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend's company to see what they were working on (15 ppl). To preface: I'm a hea...",
-            "time": "Thu, 25 Jun 2026 02:41:47 +0000",
-            "url": "https://news.ycombinator.com/item?id=48668199"
+            "title": "No-One Escapes the Permanent Underclass",
+            "summary": "Article URL: https://borretti.me/article/no-one-escapes-the-permanent-underclass\nComments URL: https://news.ycombinator.com/item?id=48682016\nPoints: 19\n# Comments: 7",
+            "time": "Fri, 26 Jun 2026 03:25:51 +0000",
+            "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass"
         },
         {
             "source": "Hacker News",
-            "title": "Medical students are using popular research tool to pump out misleading studies",
-            "summary": "Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\nComments URL: https://news.ycombinator.com/item?id=48668119\nPoints: 4\n...",
-            "time": "Thu, 25 Jun 2026 02:30:18 +0000",
-            "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies"
+            "title": "Libre Barcode Project",
+            "summary": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 17\n# Comments: 0",
+            "time": "Fri, 26 Jun 2026 03:12:42 +0000",
+            "url": "https://graphicore.github.io/librebarcode/"
         },
         {
             "source": "Hacker News",
-            "title": "Cloudflare launched self-managed OAuth for all",
-            "summary": "Article URL: https://blog.cloudflare.com/oauth-for-all/\nComments URL: https://news.ycombinator.com/item?id=48668033\nPoints: 29\n# Comments: 6",
-            "time": "Thu, 25 Jun 2026 02:18:10 +0000",
-            "url": "https://blog.cloudflare.com/oauth-for-all/"
+            "title": "What happened after 2k people tried to hack my AI assistant",
+            "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/\nComments URL: https://news.ycombinator.com/item?id=48681687\nPoints: 8\n# Comments: 0",
+            "time": "Fri, 26 Jun 2026 02:29:23 +0000",
+            "url": "https://www.fernandoi.cl/posts/hackmyclaw/"
         }
     ]
 }
