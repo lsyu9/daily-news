@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-27 12:01:19",
+    "updated_at": "2026-06-28 12:23:41",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
-            "summary": "Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.",
-            "time": "Fri, 26 Jun 2026 20:15:03 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000"
+            "title": "Why a selloff in gold and silver is dragging bitcoin down",
+            "summary": "Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to riv...",
+            "time": "Sat, 27 Jun 2026 18:11:04 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-            "summary": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets.",
-            "time": "Fri, 26 Jun 2026 19:38:12 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s"
+            "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
+            "summary": "Despite the trading platform’s restructuring and the wave of crypto companies making cuts, signaling a late bear market, Altcoin Pro’s Horst, Anderson and Zhuleku explain there’s no reason to panic.",
+            "time": "Sat, 27 Jun 2026 16:30:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments"
         },
         {
             "source": "CoinDesk",
-            "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
-            "summary": "A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.",
-            "time": "Fri, 26 Jun 2026 18:37:50 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts"
+            "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+            "summary": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against their bullion, mirroring bitcoin-backed lending without selling the underlying asset.",
+            "time": "Sat, 27 Jun 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans"
         },
         {
             "source": "Hacker News",
-            "title": "WordStar: A Writer's Word Processor (1996)",
-            "summary": "Article URL: https://www.sfwriter.com/wordstar.htm\nComments URL: https://news.ycombinator.com/item?id=48694853\nPoints: 4\n# Comments: 0",
-            "time": "Sat, 27 Jun 2026 03:30:01 +0000",
-            "url": "https://www.sfwriter.com/wordstar.htm"
+            "title": "Ford hired AI and sacked humans. It backfired badly",
+            "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html\nComments URL: https://news.ycombinator.com/item?id=48703968\nPoints: 33\n# Comments: 7",
+            "time": "Sun, 28 Jun 2026 03:09:13 +0000",
+            "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
         },
         {
             "source": "Hacker News",
-            "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
-            "summary": "For those who are using llms on macbook, Want to understand how macbook is different than dedicated GPU in running those models? and how to know how much a macbook is capable of running a model?\n\nComm...",
-            "time": "Sat, 27 Jun 2026 03:17:43 +0000",
-            "url": "https://news.ycombinator.com/item?id=48694802"
+            "title": "Marfa Public Radio Puts You to Sleep",
+            "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 74\n# Comments: 12",
+            "time": "Sun, 28 Jun 2026 02:23:08 +0000",
+            "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Hacker News on a train station-style flip board",
-            "summary": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. T...",
-            "time": "Sat, 27 Jun 2026 00:43:39 +0000",
-            "url": "https://popflame.quickish.space/hn-flipboard/"
+            "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+            "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\nComments URL: https://news.ycombinator.com/item?id=48703613\nPoints: 53\n# Comments: 33",
+            "time": "Sun, 28 Jun 2026 01:55:21 +0000",
+            "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you"
         }
     ]
 }
