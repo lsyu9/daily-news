@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-28 12:23:41",
+    "updated_at": "2026-06-29 12:43:02",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Why a selloff in gold and silver is dragging bitcoin down",
-            "summary": "Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to riv...",
-            "time": "Sat, 27 Jun 2026 18:11:04 +0000",
-            "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down"
+            "title": "$4 billion gone. Spot bitcoin ETFs are on track for their worst month on record",
+            "summary": "Investors have pulled out $4 billion from the U.S.-listed spot bitcoin ETFs in June, the highest outflow on record.",
+            "time": "Mon, 29 Jun 2026 04:05:48 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/29/usd4-billion-gone-spot-bitcoin-etfs-are-on-track-for-their-worst-month-on-record"
         },
         {
             "source": "CoinDesk",
-            "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
-            "summary": "Despite the trading platform’s restructuring and the wave of crypto companies making cuts, signaling a late bear market, Altcoin Pro’s Horst, Anderson and Zhuleku explain there’s no reason to panic.",
-            "time": "Sat, 27 Jun 2026 16:30:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments"
+            "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
+            "summary": "The Binance founder shared his views on a variety of topics in an exclusive interview with CoinDesk earlier this month.",
+            "time": "Sun, 28 Jun 2026 19:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-            "summary": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against their bullion, mirroring bitcoin-backed lending without selling the underlying asset.",
-            "time": "Sat, 27 Jun 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans"
+            "title": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
+            "summary": "The bitcoin advocate said his crypto bottom claim is based on the fact that the traditional four-year halving cycle has changed, although several analysts continue to expect further downside.",
+            "time": "Sun, 28 Jun 2026 15:07:12 +0000",
+            "url": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided"
         },
         {
             "source": "Hacker News",
-            "title": "Ford hired AI and sacked humans. It backfired badly",
-            "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html\nComments URL: https://news.ycombinator.com/item?id=48703968\nPoints: 33\n# Comments: 7",
-            "time": "Sun, 28 Jun 2026 03:09:13 +0000",
-            "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
+            "title": "Age verification is just a precursor to automated attribution of speech",
+            "summary": "Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\nComments URL: https://news.ycombinator.com/item?id=48714529\nPoints: 117\n# Comments: 21",
+            "time": "Mon, 29 Jun 2026 03:42:07 +0000",
+            "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026"
         },
         {
             "source": "Hacker News",
-            "title": "Marfa Public Radio Puts You to Sleep",
-            "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 74\n# Comments: 12",
-            "time": "Sun, 28 Jun 2026 02:23:08 +0000",
-            "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep"
+            "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+            "summary": "Article URL: https://danunparsed.com/p/hackerrank-open-source-ats\nComments URL: https://news.ycombinator.com/item?id=48713832\nPoints: 5\n# Comments: 0",
+            "time": "Mon, 29 Jun 2026 01:44:40 +0000",
+            "url": "https://danunparsed.com/p/hackerrank-open-source-ats"
         },
         {
             "source": "Hacker News",
-            "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-            "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\nComments URL: https://news.ycombinator.com/item?id=48703613\nPoints: 53\n# Comments: 33",
-            "time": "Sun, 28 Jun 2026 01:55:21 +0000",
-            "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you"
+            "title": "You might not need a service worker",
+            "summary": "Article URL: https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/\nComments URL: https://news.ycombinator.com/item?id=48713453\nPoints: 7\n# Comments: 0",
+            "time": "Mon, 29 Jun 2026 00:48:17 +0000",
+            "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/"
         }
     ]
 }
