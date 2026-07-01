@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-06-30 12:09:59",
+    "updated_at": "2026-07-01 12:25:58",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Securitize heads to NYSE debut after investors approve SPAC merger",
-            "summary": "The tokenization firm is expected to begin trading on the NYSE on Thursday, becoming one of the first publicly traded pure-play tokenization companies.",
-            "time": "Mon, 29 Jun 2026 23:05:58 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger"
+            "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
+            "summary": "Senators Tim Scott and Bill Hagerty, who managed to push the crypto GENIUS Act into law, introduced the bill to give the government powers to defend U.S. AI.",
+            "time": "Tue, 30 Jun 2026 23:02:46 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
-            "summary": "The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs.",
-            "time": "Mon, 29 Jun 2026 17:57:18 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank"
+            "title": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
+            "summary": "The president has capitalized massively on crypto, according to his 2025 financial disclosure, making it one of his most lucrative business moves.",
+            "time": "Tue, 30 Jun 2026 22:28:15 +0000",
+            "url": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump"
         },
         {
             "source": "CoinDesk",
-            "title": "JPMorgan urges strong safeguards as congress weighs crypto market structure rules",
-            "summary": "The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act.",
-            "time": "Mon, 29 Jun 2026 17:31:33 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework"
+            "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
+            "summary": "The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments.",
+            "time": "Tue, 30 Jun 2026 21:00:19 +0000",
+            "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders"
         },
         {
             "source": "Hacker News",
-            "title": "Exploring PDP-1 Lisp (1960)",
-            "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 27\n# Comments: 14",
-            "time": "Tue, 30 Jun 2026 00:56:42 +0000",
-            "url": "https://obsolescence.dev/pdp1-lisp-introduction.html"
+            "title": "Supersonic flight returning to US after half-century ban",
+            "summary": "https://www.faa.gov/newsroom/trumps-transportation-secretary...\n\nComments URL: https://news.ycombinator.com/item?id=48741654\nPoints: 22\n# Comments: 14",
+            "time": "Wed, 01 Jul 2026 02:26:22 +0000",
+            "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/"
         },
         {
             "source": "Hacker News",
-            "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-            "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 50\n# Comments: 19",
-            "time": "Tue, 30 Jun 2026 00:38:19 +0000",
-            "url": "https://fil-c.org/context_switches"
+            "title": "Americans see their country's past, present and future",
+            "summary": "Article URL: https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future\nComments URL: https://news.ycombinator.com/item?id=48741360\nPoints: 9\n# Commen...",
+            "time": "Wed, 01 Jul 2026 01:24:21 +0000",
+            "url": "https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future"
         },
         {
             "source": "Hacker News",
-            "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-            "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/\nComments URL: https://news.ycombinator.com/item?id=48727116\nPoints: 47\n# Comments: 12",
-            "time": "Tue, 30 Jun 2026 00:30:11 +0000",
-            "url": "https://longcat.chat/blog/longcat-2.0/"
+            "title": "Forestiere Underground Gardens",
+            "summary": "Article URL: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens\nComments URL: https://news.ycombinator.com/item?id=48741359\nPoints: 31\n# Comments: 3",
+            "time": "Wed, 01 Jul 2026 01:23:09 +0000",
+            "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens"
         }
     ]
 }
