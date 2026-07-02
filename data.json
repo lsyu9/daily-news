@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-01 12:25:58",
+    "updated_at": "2026-07-02 12:05:21",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
-            "summary": "Senators Tim Scott and Bill Hagerty, who managed to push the crypto GENIUS Act into law, introduced the bill to give the government powers to defend U.S. AI.",
-            "time": "Tue, 30 Jun 2026 23:02:46 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill"
+            "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
+            "summary": "Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism ove...",
+            "time": "Wed, 01 Jul 2026 21:13:24 +0000",
+            "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem"
         },
         {
             "source": "CoinDesk",
-            "title": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
-            "summary": "The president has capitalized massively on crypto, according to his 2025 financial disclosure, making it one of his most lucrative business moves.",
-            "time": "Tue, 30 Jun 2026 22:28:15 +0000",
-            "url": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump"
+            "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
+            "summary": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
+            "time": "Wed, 01 Jul 2026 18:25:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
-            "summary": "The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments.",
-            "time": "Tue, 30 Jun 2026 21:00:19 +0000",
-            "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders"
+            "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
+            "summary": "The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance struct...",
+            "time": "Wed, 01 Jul 2026 17:52:33 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide"
         },
         {
             "source": "Hacker News",
-            "title": "Supersonic flight returning to US after half-century ban",
-            "summary": "https://www.faa.gov/newsroom/trumps-transportation-secretary...\n\nComments URL: https://news.ycombinator.com/item?id=48741654\nPoints: 22\n# Comments: 14",
-            "time": "Wed, 01 Jul 2026 02:26:22 +0000",
-            "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/"
+            "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
+            "summary": "Yes, I said final. Fight me in the comments.But seriously: there are basically exactly 3 serious JS runtimes in the world. (Now 4... or 1, idk).Why? Because the modern JS ecosystem is a fragmented, bl...",
+            "time": "Thu, 02 Jul 2026 03:11:09 +0000",
+            "url": "https://meow.style"
         },
         {
             "source": "Hacker News",
-            "title": "Americans see their country's past, present and future",
-            "summary": "Article URL: https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future\nComments URL: https://news.ycombinator.com/item?id=48741360\nPoints: 9\n# Commen...",
-            "time": "Wed, 01 Jul 2026 01:24:21 +0000",
-            "url": "https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future"
+            "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+            "summary": "Article URL: https://senior-swe-bench.snorkel.ai/\nComments URL: https://news.ycombinator.com/item?id=48755928\nPoints: 9\n# Comments: 7",
+            "time": "Thu, 02 Jul 2026 02:55:16 +0000",
+            "url": "https://senior-swe-bench.snorkel.ai/"
         },
         {
             "source": "Hacker News",
-            "title": "Forestiere Underground Gardens",
-            "summary": "Article URL: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens\nComments URL: https://news.ycombinator.com/item?id=48741359\nPoints: 31\n# Comments: 3",
-            "time": "Wed, 01 Jul 2026 01:23:09 +0000",
-            "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens"
+            "title": "Bring Back Crappy Forums",
+            "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 31\n# Comments: 15",
+            "time": "Thu, 02 Jul 2026 02:30:16 +0000",
+            "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/"
         }
     ]
 }
