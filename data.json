@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-02 12:05:21",
+    "updated_at": "2026-07-03 11:51:46",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
-            "summary": "Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism ove...",
-            "time": "Wed, 01 Jul 2026 21:13:24 +0000",
-            "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem"
+            "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+            "summary": "The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers.",
+            "time": "Thu, 02 Jul 2026 19:00:03 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut"
         },
         {
             "source": "CoinDesk",
-            "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
-            "summary": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
-            "time": "Wed, 01 Jul 2026 18:25:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto"
+            "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+            "summary": "The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings.",
+            "time": "Thu, 02 Jul 2026 17:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
-            "summary": "The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance struct...",
-            "time": "Wed, 01 Jul 2026 17:52:33 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide"
+            "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
+            "summary": "Bitwise said STRC's volatility reflects a late-cycle leverage unwind, with institutions poised to replace Strategy as bitcoin's biggest buyer.",
+            "time": "Thu, 02 Jul 2026 16:51:36 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
-            "summary": "Yes, I said final. Fight me in the comments.But seriously: there are basically exactly 3 serious JS runtimes in the world. (Now 4... or 1, idk).Why? Because the modern JS ecosystem is a fragmented, bl...",
-            "time": "Thu, 02 Jul 2026 03:11:09 +0000",
-            "url": "https://meow.style"
+            "title": "CarPlay Is Additive",
+            "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\nComments URL: https://news.ycombinator.com/item?id=48769397\nPoints: 80\n# Comments: 87",
+            "time": "Fri, 03 Jul 2026 01:02:45 +0000",
+            "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts"
         },
         {
             "source": "Hacker News",
-            "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-            "summary": "Article URL: https://senior-swe-bench.snorkel.ai/\nComments URL: https://news.ycombinator.com/item?id=48755928\nPoints: 9\n# Comments: 7",
-            "time": "Thu, 02 Jul 2026 02:55:16 +0000",
-            "url": "https://senior-swe-bench.snorkel.ai/"
+            "title": "Order a burned CD of your own public GitHub repo",
+            "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl\nComments URL: https://news.ycombin...",
+            "time": "Fri, 03 Jul 2026 00:01:26 +0000",
+            "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl"
         },
         {
             "source": "Hacker News",
-            "title": "Bring Back Crappy Forums",
-            "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 31\n# Comments: 15",
-            "time": "Thu, 02 Jul 2026 02:30:16 +0000",
-            "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/"
+            "title": "An American Privacy Emergency",
+            "summary": "Recent and related:Noise infusion banned from statistical products published by Census Bureau - https://news.ycombinator.com/item?id=48517377 - June 2026 (604 comments)\n\nComments URL: https://news.yco...",
+            "time": "Fri, 03 Jul 2026 00:01:06 +0000",
+            "url": "https://scottaaronson.blog/?p=9902"
         }
     ]
 }
