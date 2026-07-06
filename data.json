@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-05 12:03:04",
+    "updated_at": "2026-07-06 12:09:04",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-            "summary": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.",
-            "time": "Sat, 04 Jul 2026 20:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says"
+            "title": "Clarity and Congress's summer break: State of Crypto",
+            "summary": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
+            "time": "Sun, 05 Jul 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin jumps above $63,000, reversing end-June losses",
-            "summary": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.",
-            "time": "Sat, 04 Jul 2026 18:07:17 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses"
+            "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+            "summary": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-c...",
+            "time": "Sun, 05 Jul 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-            "summary": "Binance founder Changpeng Zhao said Satoshi Nakamoto's bitcoin should be frozen before quantum computers can steal it. Not everyone agrees.",
-            "time": "Sat, 04 Jul 2026 18:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows"
+            "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+            "summary": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
+            "time": "Sun, 05 Jul 2026 14:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
         },
         {
             "source": "Hacker News",
-            "title": "University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)",
-            "summary": "Article URL: https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/\nComments URL: https://news.ycombinator.com/it...",
-            "time": "Sun, 05 Jul 2026 02:57:52 +0000",
-            "url": "https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/"
+            "title": "Shrimple – A Simpler, Nicer Markdown",
+            "summary": "Article URL: https://qount25.dev/Shrimple/\nComments URL: https://news.ycombinator.com/item?id=48800026\nPoints: 3\n# Comments: 1",
+            "time": "Mon, 06 Jul 2026 02:24:15 +0000",
+            "url": "https://qount25.dev/Shrimple/"
         },
         {
             "source": "Hacker News",
-            "title": "If you're a button, you have one job",
-            "summary": "Article URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/\nComments URL: https://news.ycombinator.com/item?id=48790689\nPoints: 19\n# Comments: 3",
-            "time": "Sun, 05 Jul 2026 02:01:03 +0000",
-            "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/"
+            "title": "Building relationships with customers through support didn't turn out as hoped",
+            "summary": "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support\nComments URL: https://news.ycombinator.com/item?id=48799929\nPoints: 17\n# Comments: 1",
+            "time": "Mon, 06 Jul 2026 02:06:49 +0000",
+            "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support"
         },
         {
             "source": "Hacker News",
-            "title": "Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression",
-            "summary": "Article URL: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478\nComments URL: https://news.ycombinator.com/item?id=48790583\nPoints: 11\n# Comments: 1",
-            "time": "Sun, 05 Jul 2026 01:39:05 +0000",
-            "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478"
+            "title": "The Sneakerweb",
+            "summary": "Article URL: https://sneakerweb.org/\nComments URL: https://news.ycombinator.com/item?id=48799781\nPoints: 27\n# Comments: 6",
+            "time": "Mon, 06 Jul 2026 01:35:09 +0000",
+            "url": "https://sneakerweb.org/"
         }
     ]
 }
