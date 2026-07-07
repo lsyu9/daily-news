@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-06 12:09:04",
+    "updated_at": "2026-07-07 11:59:54",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Clarity and Congress's summer break: State of Crypto",
-            "summary": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
-            "time": "Sun, 05 Jul 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto"
+            "title": "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
+            "summary": "The White House says it's still evaluating the \"best structure\" for the federal fund to hold bitcoin as a long-term reserve and a separate stockpile of other crypto assets.",
+            "time": "Mon, 06 Jul 2026 21:40:06 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out"
         },
         {
             "source": "CoinDesk",
-            "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-            "summary": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-c...",
-            "time": "Sun, 05 Jul 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
+            "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+            "summary": "As Wall Street banks adopt digital currencies for faster settlements, overall trading volume spiked 63% in just a single month.",
+            "time": "Mon, 06 Jul 2026 16:00:15 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race"
         },
         {
             "source": "CoinDesk",
-            "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-            "summary": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
-            "time": "Sun, 05 Jul 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
+            "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
+            "summary": "First, it was a tiny amount of bitcoin sales; then, the purchase of several thousand BTC; and finally, today, the unloading of thousands of BTC. What's happening at Strategy?",
+            "time": "Mon, 06 Jul 2026 15:47:12 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss"
         },
         {
             "source": "Hacker News",
-            "title": "Shrimple – A Simpler, Nicer Markdown",
-            "summary": "Article URL: https://qount25.dev/Shrimple/\nComments URL: https://news.ycombinator.com/item?id=48800026\nPoints: 3\n# Comments: 1",
-            "time": "Mon, 06 Jul 2026 02:24:15 +0000",
-            "url": "https://qount25.dev/Shrimple/"
+            "title": "How to sequence your own DNA at home",
+            "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 94\n# Comments: 23",
+            "time": "Tue, 07 Jul 2026 00:14:21 +0000",
+            "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home"
         },
         {
             "source": "Hacker News",
-            "title": "Building relationships with customers through support didn't turn out as hoped",
-            "summary": "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support\nComments URL: https://news.ycombinator.com/item?id=48799929\nPoints: 17\n# Comments: 1",
-            "time": "Mon, 06 Jul 2026 02:06:49 +0000",
-            "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support"
+            "title": "Small AI Models Gain Traction In places with unreliable networks",
+            "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 44\n# Comments: 10",
+            "time": "Mon, 06 Jul 2026 23:59:54 +0000",
+            "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
         },
         {
             "source": "Hacker News",
-            "title": "The Sneakerweb",
-            "summary": "Article URL: https://sneakerweb.org/\nComments URL: https://news.ycombinator.com/item?id=48799781\nPoints: 27\n# Comments: 6",
-            "time": "Mon, 06 Jul 2026 01:35:09 +0000",
-            "url": "https://sneakerweb.org/"
+            "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+            "summary": "Article URL: https://ternlight-demo.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=48811644\nPoints: 120\n# Comments: 34",
+            "time": "Mon, 06 Jul 2026 23:06:31 +0000",
+            "url": "https://ternlight-demo.vercel.app/"
         }
     ]
 }
