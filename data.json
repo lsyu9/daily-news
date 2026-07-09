@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-08 11:26:04",
+    "updated_at": "2026-07-09 11:53:41",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
-            "summary": "The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
-            "time": "Tue, 07 Jul 2026 19:35:14 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom"
+            "title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
+            "summary": "The prediction market's head of U.S. operations says the business is taking steps to legitimize itself after years of legal scrutiny.",
+            "time": "Wed, 08 Jul 2026 15:58:40 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto exchange Kraken is trying to become a bank in Europe",
-            "summary": "Kraken's focus is on Lithuania as the jurisdiction to secure the license, according to a person familiar with the plans.",
-            "time": "Tue, 07 Jul 2026 18:38:10 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe"
+            "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
+            "summary": "In this week's Crypto Long & Short, FalconX’s Gaspar Martin writes that BTC is reaching a market bottom and is poised for a turnaround.",
+            "time": "Wed, 08 Jul 2026 15:18:10 +0000",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc"
         },
         {
             "source": "CoinDesk",
-            "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-            "summary": "SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
-            "time": "Tue, 07 Jul 2026 16:18:18 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june"
+            "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
+            "summary": "The firm's latest fund backs AI and robotics startups but leadership says it remains committed to crypto investing.",
+            "time": "Wed, 08 Jul 2026 15:11:45 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg"
         },
         {
             "source": "Hacker News",
-            "title": "Is The Economist Always Wrong?",
-            "summary": "Article URL: https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong\nComments URL: https://news.ycombinator.com/item?id=48826703\nPoints: 36\n# Comments: 16",
-            "time": "Wed, 08 Jul 2026 02:17:01 +0000",
-            "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong"
+            "title": "I Think I Have LLM Burnout",
+            "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/\nComments URL: https://news.ycombinator.com/item?id=48839984\nPoints: 157\n# Comments: 107",
+            "time": "Thu, 09 Jul 2026 01:56:28 +0000",
+            "url": "https://www.alecscollon.com/blog/llm-burnout/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Chiptune Radio",
-            "summary": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.\n\nComments URL: https://news.ycombinator.com/item?id=48826094\nPoints: 23\n# Comments: 4",
-            "time": "Wed, 08 Jul 2026 00:55:19 +0000",
-            "url": "https://chiptune-radio.alephvoid.com/"
+            "title": "Remote Attestation",
+            "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation\nComments URL: https://news.ycombinator.com/item?id=48839397\nPoints: 41\n# Comments: 22",
+            "time": "Thu, 09 Jul 2026 00:32:33 +0000",
+            "url": "https://www.liamcvw.com/p/remote-attestation"
         },
         {
             "source": "Hacker News",
-            "title": "Rlm-Workflow",
-            "summary": "Article URL: https://try.works/projects#rlm-workflow\nComments URL: https://news.ycombinator.com/item?id=48825906\nPoints: 5\n# Comments: 0",
-            "time": "Wed, 08 Jul 2026 00:32:18 +0000",
-            "url": "https://try.works/projects#rlm-workflow"
+            "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+            "summary": "https://mira-wm.com/blog-post/\n\nComments URL: https://news.ycombinator.com/item?id=48839355\nPoints: 40\n# Comments: 9",
+            "time": "Thu, 09 Jul 2026 00:27:57 +0000",
+            "url": "https://mira-wm.com/"
         }
     ]
 }
