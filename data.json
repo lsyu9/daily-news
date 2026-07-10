@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-09 11:53:41",
+    "updated_at": "2026-07-10 11:54:29",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
-            "summary": "The prediction market's head of U.S. operations says the business is taking steps to legitimize itself after years of legal scrutiny.",
-            "time": "Wed, 08 Jul 2026 15:58:40 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report"
+            "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+            "summary": "At its last stage for government approval, the state's executive council rejected the bond project 3-2.",
+            "time": "Thu, 09 Jul 2026 22:19:54 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
-            "summary": "In this week's Crypto Long & Short, FalconX’s Gaspar Martin writes that BTC is reaching a market bottom and is poised for a turnaround.",
-            "time": "Wed, 08 Jul 2026 15:18:10 +0000",
-            "url": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc"
+            "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
+            "summary": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.",
+            "time": "Thu, 09 Jul 2026 20:42:49 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
-            "summary": "The firm's latest fund backs AI and robotics startups but leadership says it remains committed to crypto investing.",
-            "time": "Wed, 08 Jul 2026 15:11:45 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg"
+            "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
+            "summary": "Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday.",
+            "time": "Thu, 09 Jul 2026 20:31:39 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned"
         },
         {
             "source": "Hacker News",
-            "title": "I Think I Have LLM Burnout",
-            "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/\nComments URL: https://news.ycombinator.com/item?id=48839984\nPoints: 157\n# Comments: 107",
-            "time": "Thu, 09 Jul 2026 01:56:28 +0000",
-            "url": "https://www.alecscollon.com/blog/llm-burnout/"
+            "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+            "summary": "Article URL: https://www.anthropic.com/news/ben-bernanke\nComments URL: https://news.ycombinator.com/item?id=48855112\nPoints: 7\n# Comments: 1",
+            "time": "Fri, 10 Jul 2026 02:39:07 +0000",
+            "url": "https://www.anthropic.com/news/ben-bernanke"
         },
         {
             "source": "Hacker News",
-            "title": "Remote Attestation",
-            "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation\nComments URL: https://news.ycombinator.com/item?id=48839397\nPoints: 41\n# Comments: 22",
-            "time": "Thu, 09 Jul 2026 00:32:33 +0000",
-            "url": "https://www.liamcvw.com/p/remote-attestation"
+            "title": "Build your own vulnerability harness",
+            "summary": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/\nComments URL: https://news.ycombinator.com/item?id=48854681\nPoints: 18\n# Comments: 8",
+            "time": "Fri, 10 Jul 2026 01:28:43 +0000",
+            "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
         },
         {
             "source": "Hacker News",
-            "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-            "summary": "https://mira-wm.com/blog-post/\n\nComments URL: https://news.ycombinator.com/item?id=48839355\nPoints: 40\n# Comments: 9",
-            "time": "Thu, 09 Jul 2026 00:27:57 +0000",
-            "url": "https://mira-wm.com/"
+            "title": "Star Just Ate a Planet, and It's Not Done Yet",
+            "summary": "Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html\nComments URL: https://news.ycombinator.com/item?id=48854638\nPoints: 25\n# Comments: 32",
+            "time": "Fri, 10 Jul 2026 01:20:16 +0000",
+            "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html"
         }
     ]
 }
