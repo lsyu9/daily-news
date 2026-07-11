@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-10 11:54:29",
+    "updated_at": "2026-07-11 11:20:51",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
-            "summary": "At its last stage for government approval, the state's executive council rejected the bond project 3-2.",
-            "time": "Thu, 09 Jul 2026 22:19:54 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort"
+            "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+            "summary": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.",
+            "time": "Sat, 11 Jul 2026 02:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
         },
         {
             "source": "CoinDesk",
-            "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
-            "summary": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.",
-            "time": "Thu, 09 Jul 2026 20:42:49 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager"
+            "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+            "summary": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
+            "time": "Fri, 10 Jul 2026 21:26:55 +0000",
+            "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"
         },
         {
             "source": "CoinDesk",
-            "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
-            "summary": "Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday.",
-            "time": "Thu, 09 Jul 2026 20:31:39 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned"
+            "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+            "summary": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
+            "time": "Fri, 10 Jul 2026 16:02:21 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit"
         },
         {
             "source": "Hacker News",
-            "title": "Ben Bernanke Joins Anthropic Oversight Trust",
-            "summary": "Article URL: https://www.anthropic.com/news/ben-bernanke\nComments URL: https://news.ycombinator.com/item?id=48855112\nPoints: 7\n# Comments: 1",
-            "time": "Fri, 10 Jul 2026 02:39:07 +0000",
-            "url": "https://www.anthropic.com/news/ben-bernanke"
+            "title": "FreeCAD in the Browser",
+            "summary": "Article URL: https://magik.net/freecad/\nComments URL: https://news.ycombinator.com/item?id=48867264\nPoints: 31\n# Comments: 20",
+            "time": "Sat, 11 Jul 2026 00:44:00 +0000",
+            "url": "https://magik.net/freecad/"
         },
         {
             "source": "Hacker News",
-            "title": "Build your own vulnerability harness",
-            "summary": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/\nComments URL: https://news.ycombinator.com/item?id=48854681\nPoints: 18\n# Comments: 8",
-            "time": "Fri, 10 Jul 2026 01:28:43 +0000",
-            "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
+            "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
+            "summary": "Article URL: https://tilion.dev/blog/cloudflare-blocks-agents\nComments URL: https://news.ycombinator.com/item?id=48867124\nPoints: 6\n# Comments: 0",
+            "time": "Sat, 11 Jul 2026 00:26:16 +0000",
+            "url": "https://tilion.dev/blog/cloudflare-blocks-agents"
         },
         {
             "source": "Hacker News",
-            "title": "Star Just Ate a Planet, and It's Not Done Yet",
-            "summary": "Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html\nComments URL: https://news.ycombinator.com/item?id=48854638\nPoints: 25\n# Comments: 32",
-            "time": "Fri, 10 Jul 2026 01:20:16 +0000",
-            "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html"
+            "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+            "summary": "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 124\n# Comments: 44",
+            "time": "Fri, 10 Jul 2026 22:30:44 +0000",
+            "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity"
         }
     ]
 }
