@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-11 11:20:51",
+    "updated_at": "2026-07-12 11:32:51",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-            "summary": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.",
-            "time": "Sat, 11 Jul 2026 02:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
+            "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+            "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
+            "time": "Sat, 11 Jul 2026 18:06:58 +0000",
+            "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera"
         },
         {
             "source": "CoinDesk",
-            "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-            "summary": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
-            "time": "Fri, 10 Jul 2026 21:26:55 +0000",
-            "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"
+            "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+            "summary": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
+            "time": "Sat, 11 Jul 2026 17:07:24 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-            "summary": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
-            "time": "Fri, 10 Jul 2026 16:02:21 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit"
+            "title": "The UK has finally shown it’s serious about crypto",
+            "summary": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah.",
+            "time": "Sat, 11 Jul 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto"
         },
         {
             "source": "Hacker News",
-            "title": "FreeCAD in the Browser",
-            "summary": "Article URL: https://magik.net/freecad/\nComments URL: https://news.ycombinator.com/item?id=48867264\nPoints: 31\n# Comments: 20",
-            "time": "Sat, 11 Jul 2026 00:44:00 +0000",
-            "url": "https://magik.net/freecad/"
+            "title": "Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)",
+            "summary": "Article URL: https://github.com/PJHkorea/quantum-mesh-qec\nComments URL: https://news.ycombinator.com/item?id=48877672\nPoints: 3\n# Comments: 1",
+            "time": "Sun, 12 Jul 2026 02:15:11 +0000",
+            "url": "https://github.com/PJHkorea/quantum-mesh-qec"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
-            "summary": "Article URL: https://tilion.dev/blog/cloudflare-blocks-agents\nComments URL: https://news.ycombinator.com/item?id=48867124\nPoints: 6\n# Comments: 0",
-            "time": "Sat, 11 Jul 2026 00:26:16 +0000",
-            "url": "https://tilion.dev/blog/cloudflare-blocks-agents"
+            "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+            "summary": "Article URL: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/\nComments URL: https://news.ycombinator.com/item?id=48877668\nPoints: 19\n# Comments: 0",
+            "time": "Sun, 12 Jul 2026 02:13:46 +0000",
+            "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
         },
         {
             "source": "Hacker News",
-            "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-            "summary": "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 124\n# Comments: 44",
-            "time": "Fri, 10 Jul 2026 22:30:44 +0000",
-            "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity"
+            "title": "The Energetic Costs of Cellular Computation (2012)",
+            "summary": "Article URL: https://arxiv.org/abs/1203.5426\nComments URL: https://news.ycombinator.com/item?id=48877613\nPoints: 7\n# Comments: 0",
+            "time": "Sun, 12 Jul 2026 01:59:35 +0000",
+            "url": "https://arxiv.org/abs/1203.5426"
         }
     ]
 }
