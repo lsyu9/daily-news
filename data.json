@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-12 11:32:51",
+    "updated_at": "2026-07-13 11:35:37",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-            "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
-            "time": "Sat, 11 Jul 2026 18:06:58 +0000",
-            "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera"
+            "title": "Signs of life?: State of Crypto",
+            "summary": "Several sources told CoinDesk that a new draft of the Clarity Act may drop this week, but challenges remain.",
+            "time": "Sun, 12 Jul 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-            "summary": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
-            "time": "Sat, 11 Jul 2026 17:07:24 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs"
+            "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+            "summary": "The market shrank by $7.7 billion in June alone, the largest dollar amount since May 2022's Terra-Luna crash, but stablecoins will likely resume their long-term growth, one analyst said.",
+            "time": "Sun, 12 Jul 2026 13:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic"
         },
         {
             "source": "CoinDesk",
-            "title": "The UK has finally shown it’s serious about crypto",
-            "summary": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah.",
-            "time": "Sat, 11 Jul 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto"
+            "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+            "summary": "The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.",
+            "time": "Sun, 12 Jul 2026 11:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)",
-            "summary": "Article URL: https://github.com/PJHkorea/quantum-mesh-qec\nComments URL: https://news.ycombinator.com/item?id=48877672\nPoints: 3\n# Comments: 1",
-            "time": "Sun, 12 Jul 2026 02:15:11 +0000",
-            "url": "https://github.com/PJHkorea/quantum-mesh-qec"
+            "title": "Modernizing Property Tax Assessments in Allegheny County",
+            "summary": "Article URL: https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county\nComments URL: https://news.ycombinator.com/item?id=48886881\nPoints: 23\n# Comments: 7",
+            "time": "Mon, 13 Jul 2026 01:47:21 +0000",
+            "url": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county"
         },
         {
             "source": "Hacker News",
-            "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-            "summary": "Article URL: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/\nComments URL: https://news.ycombinator.com/item?id=48877668\nPoints: 19\n# Comments: 0",
-            "time": "Sun, 12 Jul 2026 02:13:46 +0000",
-            "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
+            "title": "Ask HN: Add flag for AI-generated articles",
+            "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like...",
+            "time": "Mon, 13 Jul 2026 01:24:20 +0000",
+            "url": "https://news.ycombinator.com/item?id=48886741"
         },
         {
             "source": "Hacker News",
-            "title": "The Energetic Costs of Cellular Computation (2012)",
-            "summary": "Article URL: https://arxiv.org/abs/1203.5426\nComments URL: https://news.ycombinator.com/item?id=48877613\nPoints: 7\n# Comments: 0",
-            "time": "Sun, 12 Jul 2026 01:59:35 +0000",
-            "url": "https://arxiv.org/abs/1203.5426"
+            "title": "Designing and assembling my first PCB",
+            "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html\nComments URL: https://news.ycombinator.com/item?id=48885728\nPoints: 65\n# Comments: 12",
+            "time": "Sun, 12 Jul 2026 22:56:56 +0000",
+            "url": "https://vilkeliskis.com/b/2026/0711.html"
         }
     ]
 }
