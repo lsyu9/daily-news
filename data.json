@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-14 10:56:12",
+    "updated_at": "2026-07-15 10:55:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
-            "summary": "Binance.US is betting ultra-low fees, new regulated products and deeper liquidity will help it regain customers after two years of regulatory setbacks.",
-            "time": "Mon, 13 Jul 2026 20:27:47 +0000",
-            "url": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share"
+            "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
+            "summary": "The federal derivatives regulator, which oversees trading at Kalshi, argued it was inappropriate for Michigan to \"bully\" the firm into reversing trades.",
+            "time": "Tue, 14 Jul 2026 20:51:05 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court"
         },
         {
             "source": "CoinDesk",
-            "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
-            "summary": "Institutional adoption of crypto is accelerating even as digital asset prices fail to reflect the industry's strongest fundamentals in years, Seth Ginns said.",
-            "time": "Mon, 13 Jul 2026 20:15:29 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals"
+            "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
+            "summary": "Certain Democrats are taking an increasingly rigorous stand against the crypto market structure bill, which needs a significant number from their party to pass.",
+            "time": "Tue, 14 Jul 2026 18:57:15 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill"
         },
         {
             "source": "CoinDesk",
-            "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
-            "summary": "TeraWulf says its $19 billion AI hosting agreement with Anthropic underscores its transformation from a Bitcoin miner into an AI infrastructure company.",
-            "time": "Mon, 13 Jul 2026 19:43:03 +0000",
-            "url": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race"
+            "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
+            "summary": "Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange is focusing more on payments and financial services than on trading alone as it drives the next phase of its expansion.",
+            "time": "Tue, 14 Jul 2026 17:33:19 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth"
         },
         {
             "source": "Hacker News",
-            "title": "Fundamentals of Wireless Communication",
-            "summary": "Article URL: https://web.stanford.edu/~dntse/wireless_book.html\nComments URL: https://news.ycombinator.com/item?id=48901454\nPoints: 16\n# Comments: 2",
-            "time": "Tue, 14 Jul 2026 02:10:19 +0000",
-            "url": "https://web.stanford.edu/~dntse/wireless_book.html"
+            "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+            "summary": "Article URL: https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/\nComments URL: https://news.ycombinator.com/item?id=48915244\nPoints: ...",
+            "time": "Wed, 15 Jul 2026 01:43:49 +0000",
+            "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/"
         },
         {
             "source": "Hacker News",
-            "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-            "summary": "Article URL: https://satellitemap.space/\nComments URL: https://news.ycombinator.com/item?id=48901356\nPoints: 7\n# Comments: 1",
-            "time": "Tue, 14 Jul 2026 01:55:24 +0000",
-            "url": "https://satellitemap.space/"
+            "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+            "summary": "Article URL: https://tailscale.com/security-bulletins\nComments URL: https://news.ycombinator.com/item?id=48915004\nPoints: 45\n# Comments: 19",
+            "time": "Wed, 15 Jul 2026 01:08:26 +0000",
+            "url": "https://tailscale.com/security-bulletins"
         },
         {
             "source": "Hacker News",
-            "title": "What will be left for us to work on?",
-            "summary": "Article URL: https://www.normaltech.ai/p/what-will-be-left-for-us-to-work\nComments URL: https://news.ycombinator.com/item?id=48901292\nPoints: 8\n# Comments: 0",
-            "time": "Tue, 14 Jul 2026 01:44:40 +0000",
-            "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work"
+            "title": "Data centers have hiked electricity prices on the public by $23B",
+            "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/\nComments URL: https://news.ycombinator.com/item?id=48914683\nPoints: 69\n# Comments: 32",
+            "time": "Wed, 15 Jul 2026 00:20:31 +0000",
+            "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/"
         }
     ]
 }
