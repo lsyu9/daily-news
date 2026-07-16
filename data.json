@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-15 10:55:03",
+    "updated_at": "2026-07-16 11:16:52",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
-            "summary": "The federal derivatives regulator, which oversees trading at Kalshi, argued it was inappropriate for Michigan to \"bully\" the firm into reversing trades.",
-            "time": "Tue, 14 Jul 2026 20:51:05 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court"
+            "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
+            "summary": "Pollak said that Jordan Fish, also known on X as 'Cobie,' will lead the Base app team.",
+            "time": "Wed, 15 Jul 2026 20:18:02 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed"
         },
         {
             "source": "CoinDesk",
-            "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
-            "summary": "Certain Democrats are taking an increasingly rigorous stand against the crypto market structure bill, which needs a significant number from their party to pass.",
-            "time": "Tue, 14 Jul 2026 18:57:15 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill"
+            "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+            "summary": "DTCC's first live production trades using tokenized securities show how blockchain could reshape the infrastructure behind Wall Street.",
+            "time": "Wed, 15 Jul 2026 17:02:22 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push"
         },
         {
             "source": "CoinDesk",
-            "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-            "summary": "Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange is focusing more on payments and financial services than on trading alone as it drives the next phase of its expansion.",
-            "time": "Tue, 14 Jul 2026 17:33:19 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth"
+            "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
+            "summary": "The move creates a pathway for public companies to raise capital onchain and issue tokenized securities.",
+            "time": "Wed, 15 Jul 2026 16:52:28 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos"
         },
         {
             "source": "Hacker News",
-            "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-            "summary": "Article URL: https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/\nComments URL: https://news.ycombinator.com/item?id=48915244\nPoints: ...",
-            "time": "Wed, 15 Jul 2026 01:43:49 +0000",
-            "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/"
+            "title": "Bluesky Trademarks ATProto",
+            "summary": "Article URL: https://atproto.com/blog/at-protocol-trademark\nComments URL: https://news.ycombinator.com/item?id=48929351\nPoints: 15\n# Comments: 1",
+            "time": "Thu, 16 Jul 2026 01:21:04 +0000",
+            "url": "https://atproto.com/blog/at-protocol-trademark"
         },
         {
             "source": "Hacker News",
-            "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-            "summary": "Article URL: https://tailscale.com/security-bulletins\nComments URL: https://news.ycombinator.com/item?id=48915004\nPoints: 45\n# Comments: 19",
-            "time": "Wed, 15 Jul 2026 01:08:26 +0000",
-            "url": "https://tailscale.com/security-bulletins"
+            "title": "Show HN: One More Letter",
+            "summary": "Article URL: https://playonemoreletter.com/\nComments URL: https://news.ycombinator.com/item?id=48928402\nPoints: 52\n# Comments: 31",
+            "time": "Wed, 15 Jul 2026 23:10:10 +0000",
+            "url": "https://playonemoreletter.com/"
         },
         {
             "source": "Hacker News",
-            "title": "Data centers have hiked electricity prices on the public by $23B",
-            "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/\nComments URL: https://news.ycombinator.com/item?id=48914683\nPoints: 69\n# Comments: 32",
-            "time": "Wed, 15 Jul 2026 00:20:31 +0000",
-            "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/"
+            "title": "Nul Characters in Strings in SQLite",
+            "summary": "Article URL: https://sqlite.org/nulinstr.html\nComments URL: https://news.ycombinator.com/item?id=48928343\nPoints: 35\n# Comments: 10",
+            "time": "Wed, 15 Jul 2026 23:03:45 +0000",
+            "url": "https://sqlite.org/nulinstr.html"
         }
     ]
 }
