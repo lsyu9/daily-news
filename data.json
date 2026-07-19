@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-18 10:56:22",
+    "updated_at": "2026-07-19 11:29:06",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-            "summary": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved.",
-            "time": "Fri, 17 Jul 2026 18:00:11 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on"
+            "title": "France orders country's internet service providers to block Polymarket",
+            "summary": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
+            "time": "Sat, 18 Jul 2026 21:52:18 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket"
         },
         {
             "source": "CoinDesk",
-            "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
-            "summary": "Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments.",
-            "time": "Fri, 17 Jul 2026 17:23:01 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure"
+            "title": "Crypto executives say digital native generations may never need a bank account",
+            "summary": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
+            "time": "Sat, 18 Jul 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account"
         },
         {
             "source": "CoinDesk",
-            "title": "Cardano hands core development to outside teams in decentralization push",
-            "summary": "Input Output will transfer control of the Haskell node, Plutus, Hydra and other components as founder Charles Hoskinson says the network must change and start growing again.",
-            "time": "Fri, 17 Jul 2026 16:23:26 +0000",
-            "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push"
+            "title": "DOG Mode explains Bitcoin's next governance fight",
+            "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
+            "time": "Sat, 18 Jul 2026 17:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight"
         },
         {
             "source": "Hacker News",
-            "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-            "summary": "Article URL: https://moonstone.sh/\nComments URL: https://news.ycombinator.com/item?id=48954175\nPoints: 8\n# Comments: 2",
-            "time": "Sat, 18 Jul 2026 01:18:15 +0000",
-            "url": "https://moonstone.sh/"
+            "title": "AI Mania Is Eviscerating Global Decision-Making",
+            "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3\nComments URL: https://news.ycombinator.com/item?id=48964185\nPoints: 33\n# Comments: 5",
+            "time": "Sun, 19 Jul 2026 01:29:19 +0000",
+            "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
         },
         {
             "source": "Hacker News",
-            "title": "I Started a \"Dirt Notebook\"",
-            "summary": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/\nComments URL: https://news.ycombinator.com/item?id=48954149\nPoints: 14\n# Comments: 8",
-            "time": "Sat, 18 Jul 2026 01:12:13 +0000",
-            "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/"
+            "title": "Better and Cheaper Than IPTV",
+            "summary": "Article URL: https://github.com/stupside/castor\nComments URL: https://news.ycombinator.com/item?id=48964015\nPoints: 49\n# Comments: 19",
+            "time": "Sun, 19 Jul 2026 00:59:55 +0000",
+            "url": "https://github.com/stupside/castor"
         },
         {
             "source": "Hacker News",
-            "title": "DrDroid (YC W23) Is Hiring",
-            "summary": "Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory\nComments URL: https://news.ycombinator.com/item?id=48954074\nPoints: 0\n# Comments: 0",
-            "time": "Sat, 18 Jul 2026 01:01:08 +0000",
-            "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory"
+            "title": "Transcribe.cpp",
+            "summary": "Article URL: https://workshop.cjpais.com/projects/transcribe-cpp\nComments URL: https://news.ycombinator.com/item?id=48963879\nPoints: 145\n# Comments: 23",
+            "time": "Sun, 19 Jul 2026 00:38:26 +0000",
+            "url": "https://workshop.cjpais.com/projects/transcribe-cpp"
         }
     ]
 }
