@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-20 11:42:15",
+    "updated_at": "2026-07-21 11:22:28",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "The GENIUS Act turns 1: State of Crypto",
-            "summary": "The stablecoin-focused GENIUS Act became a law a year ago.",
-            "time": "Sun, 19 Jul 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto"
+            "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+            "summary": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it.",
+            "time": "Mon, 20 Jul 2026 14:31:23 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
-            "summary": "Michael Saylor argues that a new proposal, BIP-110, to temporarily block \"spam\" data from the Bitcoin blockchain would undermine the network's neutrality and create a dangerous precedent for censorshi...",
-            "time": "Sun, 19 Jul 2026 15:19:21 +0000",
-            "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea"
+            "title": "Exodus to cut 25% of global workforce in payments shift",
+            "summary": "This restructuring is part of a strategy to build a full-stack payments platform following the company's acquisitions of Monavate and Baanx.",
+            "time": "Mon, 20 Jul 2026 13:53:08 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift"
         },
         {
             "source": "CoinDesk",
-            "title": "AI is destroying the internet. Math is our only hope.",
-            "summary": "The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.",
-            "time": "Sun, 19 Jul 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope"
+            "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
+            "summary": "The deals sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
+            "time": "Mon, 20 Jul 2026 13:49:24 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector"
         },
         {
             "source": "Hacker News",
-            "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-            "summary": "Article URL: https://github.com/hgaiser/moonshine\nComments URL: https://news.ycombinator.com/item?id=48972970\nPoints: 12\n# Comments: 4",
-            "time": "Mon, 20 Jul 2026 00:16:50 +0000",
-            "url": "https://github.com/hgaiser/moonshine"
+            "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+            "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country\nCo...",
+            "time": "Tue, 21 Jul 2026 00:33:53 +0000",
+            "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country"
         },
         {
             "source": "Hacker News",
-            "title": "We want Texans to know their rights",
-            "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion\nComments URL: https://news.ycombinator.com/item?id=48972062\nPoints: 15...",
-            "time": "Sun, 19 Jul 2026 22:03:11 +0000",
-            "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion"
+            "title": "Jellyfin founder Andrew leaves team",
+            "summary": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes\nComments URL: https://news.ycombinator.com/item?id=48986091\nPoints: 117\n# Comments: 50",
+            "time": "Mon, 20 Jul 2026 23:15:41 +0000",
+            "url": "https://forum.jellyfin.org/t-project-leadership-changes"
         },
         {
             "source": "Hacker News",
-            "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
-            "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 10\n# Comments: 0",
-            "time": "Sun, 19 Jul 2026 21:51:26 +0000",
-            "url": "https://github.com/Pedroshakoor/grok-build-ios"
+            "title": "Opaque, Interoperable Passkey Records (and a Go API)",
+            "summary": "Article URL: https://words.filippo.io/passkey-record/\nComments URL: https://news.ycombinator.com/item?id=48985956\nPoints: 23\n# Comments: 4",
+            "time": "Mon, 20 Jul 2026 23:00:29 +0000",
+            "url": "https://words.filippo.io/passkey-record/"
         }
     ]
 }
