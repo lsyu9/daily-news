@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-22 11:21:07",
+    "updated_at": "2026-07-23 11:27:47",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
-            "summary": "Illinois enacted a 0.2% tax on all crypto transactions last month, with the tax taking effect next year.",
-            "time": "Tue, 21 Jul 2026 22:08:10 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax"
+            "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+            "summary": "Senator Cynthia Lummis, one of the lead negotiators on the bill, told CoinDesk she was \"pleased\" that the updated bill was ready for release.",
+            "time": "Wed, 22 Jul 2026 23:19:41 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
-            "summary": "The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway.",
-            "time": "Tue, 21 Jul 2026 21:14:03 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal"
+            "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+            "summary": "Several of the Democrats most likely to vote for the crypto market structure bill said they had issues with the new draft published by Republicans earlier in the day.",
+            "time": "Wed, 22 Jul 2026 22:22:25 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
-            "summary": "BTC has rebounded 15% from the July lows, but some analysts cautioned that the next move hinges on clearing a level where many recent buyers may look to sell.",
-            "time": "Tue, 21 Jul 2026 20:05:33 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say"
+            "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+            "summary": "The electric vehicle maker maintained its 11,509 BTC treasury through the second quarter as bitcoin declined 14%, alongside mixed earnings that beat revenue expectations but missed on profit.",
+            "time": "Wed, 22 Jul 2026 20:40:24 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss"
         },
         {
             "source": "Hacker News",
-            "title": "LG to Ban Residential Proxies from Smart TV Apps",
-            "summary": "Article URL: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/\nComments URL: https://news.ycombinator.com/item?id=49000864\nPoints: 9\n# Comments: 2",
-            "time": "Wed, 22 Jul 2026 01:52:31 +0000",
-            "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/"
+            "title": "Restructuring GitHub's bug bounty program",
+            "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 5\n# Comments: 1",
+            "time": "Thu, 23 Jul 2026 02:28:23 +0000",
+            "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/"
         },
         {
             "source": "Hacker News",
-            "title": "Ten Steps Towards Happiness (2015)",
-            "summary": "Article URL: http://hintjens.com/blog:99\nComments URL: https://news.ycombinator.com/item?id=49000600\nPoints: 30\n# Comments: 12",
-            "time": "Wed, 22 Jul 2026 01:17:26 +0000",
-            "url": "http://hintjens.com/blog:99"
+            "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+            "summary": "Article URL: https://arxiv.org/abs/2607.20386\nComments URL: https://news.ycombinator.com/item?id=49015878\nPoints: 4\n# Comments: 0",
+            "time": "Thu, 23 Jul 2026 01:58:18 +0000",
+            "url": "https://arxiv.org/abs/2607.20386"
         },
         {
             "source": "Hacker News",
-            "title": "How an AI Anime Is Created",
-            "summary": "Article URL: https://www.aventos.dev/our-process?view=blog\nComments URL: https://news.ycombinator.com/item?id=49000429\nPoints: 18\n# Comments: 17",
-            "time": "Wed, 22 Jul 2026 00:53:00 +0000",
-            "url": "https://www.aventos.dev/our-process?view=blog"
+            "title": "Run large language models at home, BitTorrent‑style",
+            "summary": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 52\n# Comments: 21",
+            "time": "Thu, 23 Jul 2026 01:33:12 +0000",
+            "url": "https://petals.dev/"
         }
     ]
 }
