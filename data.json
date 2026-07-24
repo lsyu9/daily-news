@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-23 11:27:47",
+    "updated_at": "2026-07-24 11:22:01",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
-            "summary": "Senator Cynthia Lummis, one of the lead negotiators on the bill, told CoinDesk she was \"pleased\" that the updated bill was ready for release.",
-            "time": "Wed, 22 Jul 2026 23:19:41 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed"
+            "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
+            "summary": "The deadline to get the crypto market structure bill done before senators scatter will likely be missed, says Majority Leader Thune, though it may get a start before then.",
+            "time": "Thu, 23 Jul 2026 20:16:37 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says"
         },
         {
             "source": "CoinDesk",
-            "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
-            "summary": "Several of the Democrats most likely to vote for the crypto market structure bill said they had issues with the new draft published by Republicans earlier in the day.",
-            "time": "Wed, 22 Jul 2026 22:22:25 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues"
+            "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+            "summary": "The post, now deleted, touted a token called $VLAD and falsely claimed it would be listed on Robinhood.",
+            "time": "Thu, 23 Jul 2026 18:29:31 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy"
         },
         {
             "source": "CoinDesk",
-            "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
-            "summary": "The electric vehicle maker maintained its 11,509 BTC treasury through the second quarter as bitcoin declined 14%, alongside mixed earnings that beat revenue expectations but missed on profit.",
-            "time": "Wed, 22 Jul 2026 20:40:24 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss"
+            "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+            "summary": "The former Signet developer aims to launch early next year a marketplace connecting stablecoin issuers with regional lenders to manage reserves.",
+            "time": "Thu, 23 Jul 2026 18:10:02 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out"
         },
         {
             "source": "Hacker News",
-            "title": "Restructuring GitHub's bug bounty program",
-            "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 5\n# Comments: 1",
-            "time": "Thu, 23 Jul 2026 02:28:23 +0000",
-            "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/"
+            "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+            "summary": "Article URL: https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/\nComments URL: https://news.ycombinator.com/item?id=49030547\nPoints: 3\n...",
+            "time": "Fri, 24 Jul 2026 02:18:23 +0000",
+            "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/"
         },
         {
             "source": "Hacker News",
-            "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-            "summary": "Article URL: https://arxiv.org/abs/2607.20386\nComments URL: https://news.ycombinator.com/item?id=49015878\nPoints: 4\n# Comments: 0",
-            "time": "Thu, 23 Jul 2026 01:58:18 +0000",
-            "url": "https://arxiv.org/abs/2607.20386"
+            "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
+            "summary": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607\nComments URL: https://news.ycombinator.com/item?id=49030474\nPoints: 27\n# C...",
+            "time": "Fri, 24 Jul 2026 02:06:31 +0000",
+            "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607"
         },
         {
             "source": "Hacker News",
-            "title": "Run large language models at home, BitTorrent‑style",
-            "summary": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 52\n# Comments: 21",
-            "time": "Thu, 23 Jul 2026 01:33:12 +0000",
-            "url": "https://petals.dev/"
+            "title": "The Visual 6502",
+            "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 65\n# Comments: 19",
+            "time": "Thu, 23 Jul 2026 23:36:42 +0000",
+            "url": "http://visual6502.org/JSSim/index.html"
         }
     ]
 }
