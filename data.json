@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-24 11:22:01",
+    "updated_at": "2026-07-25 11:20:13",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-            "summary": "The deadline to get the crypto market structure bill done before senators scatter will likely be missed, says Majority Leader Thune, though it may get a start before then.",
-            "time": "Thu, 23 Jul 2026 20:16:37 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says"
+            "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+            "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
+            "time": "Fri, 24 Jul 2026 15:01:46 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house"
         },
         {
             "source": "CoinDesk",
-            "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
-            "summary": "The post, now deleted, touted a token called $VLAD and falsely claimed it would be listed on Robinhood.",
-            "time": "Thu, 23 Jul 2026 18:29:31 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy"
+            "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
+            "summary": "The project is moving away from basic network expansion to focus entirely on integrating its biometric screening devices across enterprise software suites.",
+            "time": "Fri, 24 Jul 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes"
         },
         {
             "source": "CoinDesk",
-            "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
-            "summary": "The former Signet developer aims to launch early next year a marketplace connecting stablecoin issuers with regional lenders to manage reserves.",
-            "time": "Thu, 23 Jul 2026 18:10:02 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out"
+            "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
+            "summary": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.",
+            "time": "Fri, 24 Jul 2026 14:36:16 +0000",
+            "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo"
         },
         {
             "source": "Hacker News",
-            "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
-            "summary": "Article URL: https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/\nComments URL: https://news.ycombinator.com/item?id=49030547\nPoints: 3\n...",
-            "time": "Fri, 24 Jul 2026 02:18:23 +0000",
-            "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/"
+            "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+            "summary": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/\nComments URL: https://news.ycombinator.com/item?id=49042751\nPoints: 40\n# Comments: 2",
+            "time": "Fri, 24 Jul 2026 23:13:18 +0000",
+            "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/"
         },
         {
             "source": "Hacker News",
-            "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
-            "summary": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607\nComments URL: https://news.ycombinator.com/item?id=49030474\nPoints: 27\n# C...",
-            "time": "Fri, 24 Jul 2026 02:06:31 +0000",
-            "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607"
+            "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+            "summary": "Article URL: https://github.com/apresta/max-studio-tools\nComments URL: https://news.ycombinator.com/item?id=49041546\nPoints: 26\n# Comments: 0",
+            "time": "Fri, 24 Jul 2026 21:03:10 +0000",
+            "url": "https://github.com/apresta/max-studio-tools"
         },
         {
             "source": "Hacker News",
-            "title": "The Visual 6502",
-            "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 65\n# Comments: 19",
-            "time": "Thu, 23 Jul 2026 23:36:42 +0000",
-            "url": "http://visual6502.org/JSSim/index.html"
+            "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+            "summary": "Article URL: https://artificialanalysis.ai/models\nComments URL: https://news.ycombinator.com/item?id=49040741\nPoints: 166\n# Comments: 109",
+            "time": "Fri, 24 Jul 2026 19:45:10 +0000",
+            "url": "https://artificialanalysis.ai/models"
         }
     ]
 }
