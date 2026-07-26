@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-25 11:20:13",
+    "updated_at": "2026-07-26 11:34:07",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-            "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
-            "time": "Fri, 24 Jul 2026 15:01:46 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house"
+            "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+            "summary": "New regulations for crypto trading, custody, and settlement in Russia take effect Sept. 1, with requirements for licensed intermediaries applying from July 2027.",
+            "time": "Sat, 25 Jul 2026 16:59:36 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
         },
         {
             "source": "CoinDesk",
-            "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-            "summary": "The project is moving away from basic network expansion to focus entirely on integrating its biometric screening devices across enterprise software suites.",
-            "time": "Fri, 24 Jul 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes"
+            "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+            "summary": "The group allegedly breached Central Bank systems, converted crypto to cash via Chinese brokers, and used small transfers to evade detection.",
+            "time": "Sat, 25 Jul 2026 15:46:05 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-            "summary": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.",
-            "time": "Fri, 24 Jul 2026 14:36:16 +0000",
-            "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo"
+            "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+            "summary": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
+            "time": "Sat, 25 Jul 2026 13:00:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case"
         },
         {
             "source": "Hacker News",
-            "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-            "summary": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/\nComments URL: https://news.ycombinator.com/item?id=49042751\nPoints: 40\n# Comments: 2",
-            "time": "Fri, 24 Jul 2026 23:13:18 +0000",
-            "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/"
+            "title": "JetZero",
+            "summary": "Article URL: https://www.jetzero.aero\nComments URL: https://news.ycombinator.com/item?id=49054224\nPoints: 27\n# Comments: 12",
+            "time": "Sun, 26 Jul 2026 02:55:50 +0000",
+            "url": "https://www.jetzero.aero"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-            "summary": "Article URL: https://github.com/apresta/max-studio-tools\nComments URL: https://news.ycombinator.com/item?id=49041546\nPoints: 26\n# Comments: 0",
-            "time": "Fri, 24 Jul 2026 21:03:10 +0000",
-            "url": "https://github.com/apresta/max-studio-tools"
+            "title": "An ESP32 based plane radar for my desk",
+            "summary": "Article URL: https://blog.ktz.me/esp32-plane-radar/\nComments URL: https://news.ycombinator.com/item?id=49054107\nPoints: 8\n# Comments: 1",
+            "time": "Sun, 26 Jul 2026 02:35:43 +0000",
+            "url": "https://blog.ktz.me/esp32-plane-radar/"
         },
         {
             "source": "Hacker News",
-            "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-            "summary": "Article URL: https://artificialanalysis.ai/models\nComments URL: https://news.ycombinator.com/item?id=49040741\nPoints: 166\n# Comments: 109",
-            "time": "Fri, 24 Jul 2026 19:45:10 +0000",
-            "url": "https://artificialanalysis.ai/models"
+            "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+            "summary": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the b...",
+            "time": "Sun, 26 Jul 2026 02:22:26 +0000",
+            "url": "https://golfcoursebrowser.com/"
         }
     ]
 }
