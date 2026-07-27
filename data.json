@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-26 11:34:07",
+    "updated_at": "2026-07-27 11:42:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
-            "summary": "New regulations for crypto trading, custody, and settlement in Russia take effect Sept. 1, with requirements for licensed intermediaries applying from July 2027.",
-            "time": "Sat, 25 Jul 2026 16:59:36 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
+            "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
+            "summary": "POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
+            "time": "Mon, 27 Jul 2026 00:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns"
         },
         {
             "source": "CoinDesk",
-            "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
-            "summary": "The group allegedly breached Central Bank systems, converted crypto to cash via Chinese brokers, and used small transfers to evade detection.",
-            "time": "Sat, 25 Jul 2026 15:46:05 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto"
+            "title": "2 weeks left for Clarity: State of Crypto",
+            "summary": "The Senate leaves town in two weeks. Here's what needs to happen for Clarity to advance before then.",
+            "time": "Sun, 26 Jul 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
-            "summary": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
-            "time": "Sat, 25 Jul 2026 13:00:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case"
+            "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+            "summary": "The Commodity Futures Trading Commission again issued an advisory that signals firms have been straying into cookie-cutter self-certification.",
+            "time": "Sun, 26 Jul 2026 13:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts"
         },
         {
             "source": "Hacker News",
-            "title": "JetZero",
-            "summary": "Article URL: https://www.jetzero.aero\nComments URL: https://news.ycombinator.com/item?id=49054224\nPoints: 27\n# Comments: 12",
-            "time": "Sun, 26 Jul 2026 02:55:50 +0000",
-            "url": "https://www.jetzero.aero"
+            "title": "PGSimCity - How PostgreSQL Works",
+            "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 208\n# Comments: 29",
+            "time": "Mon, 27 Jul 2026 00:19:04 +0000",
+            "url": "https://nikolays.github.io/PGSimCity/"
         },
         {
             "source": "Hacker News",
-            "title": "An ESP32 based plane radar for my desk",
-            "summary": "Article URL: https://blog.ktz.me/esp32-plane-radar/\nComments URL: https://news.ycombinator.com/item?id=49054107\nPoints: 8\n# Comments: 1",
-            "time": "Sun, 26 Jul 2026 02:35:43 +0000",
-            "url": "https://blog.ktz.me/esp32-plane-radar/"
+            "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+            "summary": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we...",
+            "time": "Mon, 27 Jul 2026 00:03:48 +0000",
+            "url": "https://portzero.net/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-            "summary": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the b...",
-            "time": "Sun, 26 Jul 2026 02:22:26 +0000",
-            "url": "https://golfcoursebrowser.com/"
+            "title": "Fonts In Use – Find out where a font is used",
+            "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 29\n# Comments: 1",
+            "time": "Sun, 26 Jul 2026 23:45:09 +0000",
+            "url": "https://fontsinuse.com/"
         }
     ]
 }
