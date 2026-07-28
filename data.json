@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-27 11:42:03",
+    "updated_at": "2026-07-28 11:14:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
-            "summary": "POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
-            "time": "Mon, 27 Jul 2026 00:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns"
+            "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
+            "summary": "The majority leader is pursuing floor time for unrelated bills as the crypto industry waits for its policy effort to get its chance for votes.",
+            "time": "Mon, 27 Jul 2026 23:55:16 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere"
         },
         {
             "source": "CoinDesk",
-            "title": "2 weeks left for Clarity: State of Crypto",
-            "summary": "The Senate leaves town in two weeks. Here's what needs to happen for Clarity to advance before then.",
-            "time": "Sun, 26 Jul 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto"
+            "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
+            "summary": "A federal judge ruled that Minnesota's law criminalizing prediction markets would probably violate the federal Commodity Exchange Act.",
+            "time": "Mon, 27 Jul 2026 23:29:38 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-            "summary": "The Commodity Futures Trading Commission again issued an advisory that signals firms have been straying into cookie-cutter self-certification.",
-            "time": "Sun, 26 Jul 2026 13:00:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts"
+            "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+            "summary": "BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.",
+            "time": "Mon, 27 Jul 2026 19:55:45 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next"
         },
         {
             "source": "Hacker News",
-            "title": "PGSimCity - How PostgreSQL Works",
-            "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 208\n# Comments: 29",
-            "time": "Mon, 27 Jul 2026 00:19:04 +0000",
-            "url": "https://nikolays.github.io/PGSimCity/"
+            "title": "Using an open model feels surprisingly good",
+            "summary": "Article URL: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\nComments URL: https://news.ycombinator.com/item?id=49078583\nPoints: 9\n# Comments: 1",
+            "time": "Tue, 28 Jul 2026 02:37:14 +0000",
+            "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-            "summary": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we...",
-            "time": "Mon, 27 Jul 2026 00:03:48 +0000",
-            "url": "https://portzero.net/"
+            "title": "EYG: A Programming Language for Humans",
+            "summary": "Article URL: https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/\nComments URL: https://news.ycombinator.com/item?id=49078463\nPoints: 11\n# Comments: 1",
+            "time": "Tue, 28 Jul 2026 02:21:37 +0000",
+            "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/"
         },
         {
             "source": "Hacker News",
-            "title": "Fonts In Use – Find out where a font is used",
-            "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 29\n# Comments: 1",
-            "time": "Sun, 26 Jul 2026 23:45:09 +0000",
-            "url": "https://fontsinuse.com/"
+            "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+            "summary": "Article URL: https://fermisense.com/when-machines-take-the-wheel/\nComments URL: https://news.ycombinator.com/item?id=49078454\nPoints: 9\n# Comments: 1",
+            "time": "Tue, 28 Jul 2026 02:18:53 +0000",
+            "url": "https://fermisense.com/when-machines-take-the-wheel/"
         }
     ]
 }
