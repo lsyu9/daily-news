@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-29 11:17:13",
+    "updated_at": "2026-07-30 10:49:47",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
-            "summary": "Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized financ...",
-            "time": "Tue, 28 Jul 2026 23:50:38 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first"
+            "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
+            "summary": "Insiders say that the bipartisan Senate duo revamping the bill's Trump-approved ethics section have come up with something they hope wins sufficient yes votes.",
+            "time": "Wed, 29 Jul 2026 23:12:04 +0000",
+            "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits"
         },
         {
             "source": "CoinDesk",
-            "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
-            "summary": "Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.",
-            "time": "Tue, 28 Jul 2026 20:23:31 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst"
+            "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+            "summary": "The brokerage reported $100 million revenue from crypto trading, a 38% decline in a year, offset by stronger options, equities and prediction markets activity.",
+            "time": "Wed, 29 Jul 2026 20:40:43 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools"
         },
         {
             "source": "CoinDesk",
-            "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
-            "summary": "The new network powers Ondo's recently-launched perpetual futures platform and will eventually support trading across onchain financial assets.",
-            "time": "Tue, 28 Jul 2026 19:44:26 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network"
+            "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+            "summary": "Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.",
+            "time": "Wed, 29 Jul 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting"
         },
         {
             "source": "Hacker News",
-            "title": "Does every question mark deserve a Betteridge?",
-            "summary": "Article URL: https://dynomight.net/betteridge/\nComments URL: https://news.ycombinator.com/item?id=49092781\nPoints: 5\n# Comments: 2",
-            "time": "Wed, 29 Jul 2026 02:29:12 +0000",
-            "url": "https://dynomight.net/betteridge/"
+            "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+            "summary": "Article URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/\nComments URL: https://news.ycombina...",
+            "time": "Thu, 30 Jul 2026 01:35:10 +0000",
+            "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/"
         },
         {
             "source": "Hacker News",
-            "title": "Hooray for the Sockets Interface",
-            "summary": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\nComments URL: https://news.ycombinator.com/item?id=49092754\nPoints: 5\n# Comments: 1",
-            "time": "Wed, 29 Jul 2026 02:25:29 +0000",
-            "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/"
+            "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+            "summary": "Article URL: https://waveformsecurity.com/blog/flume/\nComments URL: https://news.ycombinator.com/item?id=49105136\nPoints: 15\n# Comments: 5",
+            "time": "Thu, 30 Jul 2026 01:27:12 +0000",
+            "url": "https://waveformsecurity.com/blog/flume/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-            "summary": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you...",
-            "time": "Wed, 29 Jul 2026 02:22:04 +0000",
-            "url": "https://github.com/jagg-ix/zil-lean"
+            "title": "Show HN: A local merge queue for parallel Claude Code agents",
+            "summary": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane...",
+            "time": "Thu, 30 Jul 2026 00:20:16 +0000",
+            "url": "https://github.com/funador/claude-code-merge-queue"
         }
     ]
 }
