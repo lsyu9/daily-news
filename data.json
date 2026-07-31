@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-30 10:49:47",
+    "updated_at": "2026-07-31 11:32:31",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
-            "summary": "Insiders say that the bipartisan Senate duo revamping the bill's Trump-approved ethics section have come up with something they hope wins sufficient yes votes.",
-            "time": "Wed, 29 Jul 2026 23:12:04 +0000",
-            "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits"
+            "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+            "summary": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.",
+            "time": "Thu, 30 Jul 2026 20:32:13 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline"
         },
         {
             "source": "CoinDesk",
-            "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
-            "summary": "The brokerage reported $100 million revenue from crypto trading, a 38% decline in a year, offset by stronger options, equities and prediction markets activity.",
-            "time": "Wed, 29 Jul 2026 20:40:43 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools"
+            "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
+            "summary": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
+            "time": "Thu, 30 Jul 2026 20:18:33 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates"
         },
         {
             "source": "CoinDesk",
-            "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
-            "summary": "Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.",
-            "time": "Wed, 29 Jul 2026 18:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting"
+            "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+            "summary": "Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across borders in a live test of blockchain-based settlement.",
+            "time": "Thu, 30 Jul 2026 17:34:03 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot"
         },
         {
             "source": "Hacker News",
-            "title": "A pharmacy chain in Vermont implemented AI for efficiency",
-            "summary": "Article URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/\nComments URL: https://news.ycombina...",
-            "time": "Thu, 30 Jul 2026 01:35:10 +0000",
-            "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/"
+            "title": "The Religion of Speed",
+            "summary": "Article URL: https://graybeard.ing/the-religion-of-speed/\nComments URL: https://news.ycombinator.com/item?id=49117284\nPoints: 21\n# Comments: 5",
+            "time": "Thu, 30 Jul 2026 23:43:22 +0000",
+            "url": "https://graybeard.ing/the-religion-of-speed/"
         },
         {
             "source": "Hacker News",
-            "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
-            "summary": "Article URL: https://waveformsecurity.com/blog/flume/\nComments URL: https://news.ycombinator.com/item?id=49105136\nPoints: 15\n# Comments: 5",
-            "time": "Thu, 30 Jul 2026 01:27:12 +0000",
-            "url": "https://waveformsecurity.com/blog/flume/"
+            "title": "The AI Aesthetic",
+            "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/\nComments URL: https://news.ycombinator.com/item?id=49117099\nPoints: 159\n# Comments: 82",
+            "time": "Thu, 30 Jul 2026 23:22:16 +0000",
+            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: A local merge queue for parallel Claude Code agents",
-            "summary": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane...",
-            "time": "Thu, 30 Jul 2026 00:20:16 +0000",
-            "url": "https://github.com/funador/claude-code-merge-queue"
+            "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+            "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\nComments URL: https://news.ycombinator.com/item?id=49116922\nPoints: 113\n# Comments: 91",
+            "time": "Thu, 30 Jul 2026 23:00:51 +0000",
+            "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
         }
     ]
 }
