@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-07-31 11:32:31",
+    "updated_at": "2026-08-01 11:32:17",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
-            "summary": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.",
-            "time": "Thu, 30 Jul 2026 20:32:13 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline"
+            "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+            "summary": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
+            "time": "Fri, 31 Jul 2026 20:50:58 +0000",
+            "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say"
         },
         {
             "source": "CoinDesk",
-            "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
-            "summary": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
-            "time": "Thu, 30 Jul 2026 20:18:33 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates"
+            "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+            "summary": "The world’s largest stablecoin issuer added 14 metric tons of gold and about 1,800 bitcoin to its reserves during the second quarter.",
+            "time": "Fri, 31 Jul 2026 18:24:55 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
         },
         {
             "source": "CoinDesk",
-            "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
-            "summary": "Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across borders in a live test of blockchain-based settlement.",
-            "time": "Thu, 30 Jul 2026 17:34:03 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot"
+            "title": "The good and the bad of perps, according to crypto traders",
+            "summary": "Both retail and institutional traders worry about the funding rate.",
+            "time": "Fri, 31 Jul 2026 17:53:59 +0000",
+            "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders"
         },
         {
             "source": "Hacker News",
-            "title": "The Religion of Speed",
-            "summary": "Article URL: https://graybeard.ing/the-religion-of-speed/\nComments URL: https://news.ycombinator.com/item?id=49117284\nPoints: 21\n# Comments: 5",
-            "time": "Thu, 30 Jul 2026 23:43:22 +0000",
-            "url": "https://graybeard.ing/the-religion-of-speed/"
+            "title": "Flint: A Visualization Language for the AI Era",
+            "summary": "Article URL: https://microsoft.github.io/flint-chart/\nComments URL: https://news.ycombinator.com/item?id=49130604\nPoints: 6\n# Comments: 0",
+            "time": "Sat, 01 Aug 2026 02:45:09 +0000",
+            "url": "https://microsoft.github.io/flint-chart/"
         },
         {
             "source": "Hacker News",
-            "title": "The AI Aesthetic",
-            "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/\nComments URL: https://news.ycombinator.com/item?id=49117099\nPoints: 159\n# Comments: 82",
-            "time": "Thu, 30 Jul 2026 23:22:16 +0000",
-            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
+            "title": "How to Exist",
+            "summary": "Article URL: https://www.raptitude.com/2026/07/how-to-exist/\nComments URL: https://news.ycombinator.com/item?id=49129990\nPoints: 49\n# Comments: 17",
+            "time": "Sat, 01 Aug 2026 00:25:00 +0000",
+            "url": "https://www.raptitude.com/2026/07/how-to-exist/"
         },
         {
             "source": "Hacker News",
-            "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-            "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\nComments URL: https://news.ycombinator.com/item?id=49116922\nPoints: 113\n# Comments: 91",
-            "time": "Thu, 30 Jul 2026 23:00:51 +0000",
-            "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+            "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+            "summary": "Article URL: https://code.intellios.ai/cwbrowser/\nComments URL: https://news.ycombinator.com/item?id=49128826\nPoints: 50\n# Comments: 19",
+            "time": "Fri, 31 Jul 2026 21:39:52 +0000",
+            "url": "https://code.intellios.ai/cwbrowser/"
         }
     ]
 }
