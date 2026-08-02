@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-01 11:32:17",
+    "updated_at": "2026-08-02 11:32:02",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-            "summary": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
-            "time": "Fri, 31 Jul 2026 20:50:58 +0000",
-            "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say"
+            "title": "Strategy holds STRC dividend at 12%",
+            "summary": "Customarily, Michael Saylor and team have lifted the STRC dividend when it trades sizably below par, but not this month.",
+            "time": "Sat, 01 Aug 2026 22:01:57 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12"
         },
         {
             "source": "CoinDesk",
-            "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-            "summary": "The world’s largest stablecoin issuer added 14 metric tons of gold and about 1,800 bitcoin to its reserves during the second quarter.",
-            "time": "Fri, 31 Jul 2026 18:24:55 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
+            "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+            "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
+            "time": "Sat, 01 Aug 2026 20:10:54 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million"
         },
         {
             "source": "CoinDesk",
-            "title": "The good and the bad of perps, according to crypto traders",
-            "summary": "Both retail and institutional traders worry about the funding rate.",
-            "time": "Fri, 31 Jul 2026 17:53:59 +0000",
-            "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders"
+            "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+            "summary": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June’s total.",
+            "time": "Sat, 01 Aug 2026 16:51:35 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"
         },
         {
             "source": "Hacker News",
-            "title": "Flint: A Visualization Language for the AI Era",
-            "summary": "Article URL: https://microsoft.github.io/flint-chart/\nComments URL: https://news.ycombinator.com/item?id=49130604\nPoints: 6\n# Comments: 0",
-            "time": "Sat, 01 Aug 2026 02:45:09 +0000",
-            "url": "https://microsoft.github.io/flint-chart/"
+            "title": "Four Time Scales for Technology Development and Deployment",
+            "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/\nComments URL: https://news.ycombinator.com/item?id=49140487\nPoints: 8\n# Comments: 0",
+            "time": "Sun, 02 Aug 2026 02:26:52 +0000",
+            "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/"
         },
         {
             "source": "Hacker News",
-            "title": "How to Exist",
-            "summary": "Article URL: https://www.raptitude.com/2026/07/how-to-exist/\nComments URL: https://news.ycombinator.com/item?id=49129990\nPoints: 49\n# Comments: 17",
-            "time": "Sat, 01 Aug 2026 00:25:00 +0000",
-            "url": "https://www.raptitude.com/2026/07/how-to-exist/"
+            "title": "When random.bytes() runs but doesn't work",
+            "summary": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt\nComments URL: https://news.ycombinator.com/item?id=49140405\nPoints: 3\n# Comments: 0",
+            "time": "Sun, 02 Aug 2026 02:08:26 +0000",
+            "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-            "summary": "Article URL: https://code.intellios.ai/cwbrowser/\nComments URL: https://news.ycombinator.com/item?id=49128826\nPoints: 50\n# Comments: 19",
-            "time": "Fri, 31 Jul 2026 21:39:52 +0000",
-            "url": "https://code.intellios.ai/cwbrowser/"
+            "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+            "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox\nComments URL: https://news.ycombinator.com/item?id=49140396\nPoints: 27\n# Comments: 6",
+            "time": "Sun, 02 Aug 2026 02:07:09 +0000",
+            "url": "https://github.com/tom-ilan/cycloidal_gearbox"
         }
     ]
 }
