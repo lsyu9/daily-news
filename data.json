@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-02 11:32:02",
+    "updated_at": "2026-08-03 11:34:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Strategy holds STRC dividend at 12%",
-            "summary": "Customarily, Michael Saylor and team have lifted the STRC dividend when it trades sizably below par, but not this month.",
-            "time": "Sat, 01 Aug 2026 22:01:57 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12"
+            "title": "Counting down the days: State of Crypto",
+            "summary": "The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities.",
+            "time": "Sun, 02 Aug 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-            "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
-            "time": "Sat, 01 Aug 2026 20:10:54 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million"
+            "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+            "summary": "Revenue fell from $80 million to $20 million in the bear market. OTC lending at $260 million outstanding is the fastest-growing line, targeting $1 billion by year-end.",
+            "time": "Sun, 02 Aug 2026 17:00:00 +0000",
+            "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants"
         },
         {
             "source": "CoinDesk",
-            "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-            "summary": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June’s total.",
-            "time": "Sat, 01 Aug 2026 16:51:35 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"
+            "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+            "summary": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
+            "time": "Sun, 02 Aug 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says"
         },
         {
             "source": "Hacker News",
-            "title": "Four Time Scales for Technology Development and Deployment",
-            "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/\nComments URL: https://news.ycombinator.com/item?id=49140487\nPoints: 8\n# Comments: 0",
-            "time": "Sun, 02 Aug 2026 02:26:52 +0000",
-            "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/"
+            "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+            "summary": "Article URL: https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic\nComments URL: https://news.ycombinator.com/item?id=49150738\nPoints: 59\n# C...",
+            "time": "Mon, 03 Aug 2026 03:00:52 +0000",
+            "url": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic"
         },
         {
             "source": "Hacker News",
-            "title": "When random.bytes() runs but doesn't work",
-            "summary": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt\nComments URL: https://news.ycombinator.com/item?id=49140405\nPoints: 3\n# Comments: 0",
-            "time": "Sun, 02 Aug 2026 02:08:26 +0000",
-            "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt"
+            "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+            "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 85\n# Comments: 23",
+            "time": "Mon, 03 Aug 2026 02:16:09 +0000",
+            "url": "https://qwen.ai/blog?id=qwen3.8"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-            "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox\nComments URL: https://news.ycombinator.com/item?id=49140396\nPoints: 27\n# Comments: 6",
-            "time": "Sun, 02 Aug 2026 02:07:09 +0000",
-            "url": "https://github.com/tom-ilan/cycloidal_gearbox"
+            "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+            "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc9851.html\nComments URL: https://news.ycombinator.com/item?id=49150181\nPoints: 19\n# Comments: 5",
+            "time": "Mon, 03 Aug 2026 01:23:26 +0000",
+            "url": "https://www.rfc-editor.org/rfc/rfc9851.html"
         }
     ]
 }
