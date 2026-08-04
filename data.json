@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-03 11:34:14",
+    "updated_at": "2026-08-04 11:17:16",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Counting down the days: State of Crypto",
-            "summary": "The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities.",
-            "time": "Sun, 02 Aug 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto"
+            "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
+            "summary": "The agent, who had \"top secret\" clearance and worked in FBI headquarters, was accused of taking crypto from wallets the agency had investigated.",
+            "time": "Mon, 03 Aug 2026 22:17:59 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-            "summary": "Revenue fell from $80 million to $20 million in the bear market. OTC lending at $260 million outstanding is the fastest-growing line, targeting $1 billion by year-end.",
-            "time": "Sun, 02 Aug 2026 17:00:00 +0000",
-            "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants"
+            "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
+            "summary": "The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.",
+            "time": "Mon, 03 Aug 2026 15:24:45 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy"
         },
         {
             "source": "CoinDesk",
-            "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-            "summary": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
-            "time": "Sun, 02 Aug 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says"
+            "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
+            "summary": "Coordinated action sent the yen sharply higher, but bitcoin’s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk.",
+            "time": "Mon, 03 Aug 2026 14:46:08 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin"
         },
         {
             "source": "Hacker News",
-            "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
-            "summary": "Article URL: https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic\nComments URL: https://news.ycombinator.com/item?id=49150738\nPoints: 59\n# C...",
-            "time": "Mon, 03 Aug 2026 03:00:52 +0000",
-            "url": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic"
+            "title": "Native Apps Should Be Avoided Whenever Possible",
+            "summary": "Article URL: https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/\nComments URL: https://news.ycombinator.com/item?id=49163286\nPoints: 19\n# Comments: 10",
+            "time": "Tue, 04 Aug 2026 01:06:36 +0000",
+            "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/"
         },
         {
             "source": "Hacker News",
-            "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-            "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 85\n# Comments: 23",
-            "time": "Mon, 03 Aug 2026 02:16:09 +0000",
-            "url": "https://qwen.ai/blog?id=qwen3.8"
+            "title": "There Will Come Soft Rains (1950) [pdf]",
+            "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 41\n# Comments: 18",
+            "time": "Mon, 03 Aug 2026 23:24:53 +0000",
+            "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf"
         },
         {
             "source": "Hacker News",
-            "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-            "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc9851.html\nComments URL: https://news.ycombinator.com/item?id=49150181\nPoints: 19\n# Comments: 5",
-            "time": "Mon, 03 Aug 2026 01:23:26 +0000",
-            "url": "https://www.rfc-editor.org/rfc/rfc9851.html"
+            "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+            "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 64\n# Comments: 31",
+            "time": "Mon, 03 Aug 2026 22:04:49 +0000",
+            "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
         }
     ]
 }
