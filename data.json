@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-04 11:17:16",
+    "updated_at": "2026-08-05 11:12:22",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-            "summary": "The agent, who had \"top secret\" clearance and worked in FBI headquarters, was accused of taking crypto from wallets the agency had investigated.",
-            "time": "Mon, 03 Aug 2026 22:17:59 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto"
+            "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+            "summary": "Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.",
+            "time": "Tue, 04 Aug 2026 20:26:21 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value"
         },
         {
             "source": "CoinDesk",
-            "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
-            "summary": "The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.",
-            "time": "Mon, 03 Aug 2026 15:24:45 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy"
+            "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+            "summary": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.",
+            "time": "Tue, 04 Aug 2026 17:55:23 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-            "summary": "Coordinated action sent the yen sharply higher, but bitcoin’s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk.",
-            "time": "Mon, 03 Aug 2026 14:46:08 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin"
+            "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+            "summary": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.",
+            "time": "Tue, 04 Aug 2026 17:14:13 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say"
         },
         {
             "source": "Hacker News",
-            "title": "Native Apps Should Be Avoided Whenever Possible",
-            "summary": "Article URL: https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/\nComments URL: https://news.ycombinator.com/item?id=49163286\nPoints: 19\n# Comments: 10",
-            "time": "Tue, 04 Aug 2026 01:06:36 +0000",
-            "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/"
+            "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+            "summary": "Article URL: https://www.asiae.co.kr/en/article/2026080416131786841\nComments URL: https://news.ycombinator.com/item?id=49177554\nPoints: 9\n# Comments: 4",
+            "time": "Wed, 05 Aug 2026 01:34:26 +0000",
+            "url": "https://www.asiae.co.kr/en/article/2026080416131786841"
         },
         {
             "source": "Hacker News",
-            "title": "There Will Come Soft Rains (1950) [pdf]",
-            "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 41\n# Comments: 18",
-            "time": "Mon, 03 Aug 2026 23:24:53 +0000",
-            "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf"
+            "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+            "summary": "Article URL: https://arxiv.org/abs/2603.04221\nComments URL: https://news.ycombinator.com/item?id=49176983\nPoints: 27\n# Comments: 19",
+            "time": "Wed, 05 Aug 2026 00:10:37 +0000",
+            "url": "https://arxiv.org/abs/2603.04221"
         },
         {
             "source": "Hacker News",
-            "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-            "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 64\n# Comments: 31",
-            "time": "Mon, 03 Aug 2026 22:04:49 +0000",
-            "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
+            "title": "Bugtraq Is Back",
+            "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\nComments URL: https://news.ycombinator.com/item?id=49176947\nPoints: 26\n#...",
+            "time": "Wed, 05 Aug 2026 00:05:49 +0000",
+            "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/"
         }
     ]
 }
