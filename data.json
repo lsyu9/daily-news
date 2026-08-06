@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-05 11:12:22",
+    "updated_at": "2026-08-06 11:15:40",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
-            "summary": "Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.",
-            "time": "Tue, 04 Aug 2026 20:26:21 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value"
+            "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+            "summary": "Binance alleged RedotPay poached customers from the crypto exchange in a lawsuit filed in Hong Kong.",
+            "time": "Wed, 05 Aug 2026 21:40:33 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users"
         },
         {
             "source": "CoinDesk",
-            "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
-            "summary": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.",
-            "time": "Tue, 04 Aug 2026 17:55:23 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc"
+            "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+            "summary": "The leading industry PAC, Fairshake, put $2 million into a Detroit Democratic primary but came up short, even as several PAC-backed candidates won elsewhere.",
+            "time": "Wed, 05 Aug 2026 18:15:21 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow"
         },
         {
             "source": "CoinDesk",
-            "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-            "summary": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.",
-            "time": "Tue, 04 Aug 2026 17:14:13 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say"
+            "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+            "summary": "Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could drive some investors toward bitcoin ETFs.",
+            "time": "Wed, 05 Aug 2026 15:44:08 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say"
         },
         {
             "source": "Hacker News",
-            "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-            "summary": "Article URL: https://www.asiae.co.kr/en/article/2026080416131786841\nComments URL: https://news.ycombinator.com/item?id=49177554\nPoints: 9\n# Comments: 4",
-            "time": "Wed, 05 Aug 2026 01:34:26 +0000",
-            "url": "https://www.asiae.co.kr/en/article/2026080416131786841"
+            "title": "Nashville uses eminent domain to block data center near zoo",
+            "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project\nComments URL: https://news.ycombinator.com/item?id=49191624\nPoints: 3...",
+            "time": "Thu, 06 Aug 2026 02:15:14 +0000",
+            "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
         },
         {
             "source": "Hacker News",
-            "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-            "summary": "Article URL: https://arxiv.org/abs/2603.04221\nComments URL: https://news.ycombinator.com/item?id=49176983\nPoints: 27\n# Comments: 19",
-            "time": "Wed, 05 Aug 2026 00:10:37 +0000",
-            "url": "https://arxiv.org/abs/2603.04221"
+            "title": "LLMs won't break symmetric crypto",
+            "summary": "Article URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto\nComments URL: https://news.ycombinator.com/item?id=49191365\nPoints: 40\n# Comments: 27",
+            "time": "Thu, 06 Aug 2026 01:39:06 +0000",
+            "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto"
         },
         {
             "source": "Hacker News",
-            "title": "Bugtraq Is Back",
-            "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\nComments URL: https://news.ycombinator.com/item?id=49176947\nPoints: 26\n#...",
-            "time": "Wed, 05 Aug 2026 00:05:49 +0000",
-            "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/"
+            "title": "The title cards in Blade Runner are amazing",
+            "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 169\n# Comments: 72",
+            "time": "Wed, 05 Aug 2026 21:29:23 +0000",
+            "url": "https://randsinrepose.com/archives/blade-runner-title-cards/"
         }
     ]
 }
