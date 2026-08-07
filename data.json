@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-06 11:15:40",
+    "updated_at": "2026-08-07 10:55:21",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
-            "summary": "Binance alleged RedotPay poached customers from the crypto exchange in a lawsuit filed in Hong Kong.",
-            "time": "Wed, 05 Aug 2026 21:40:33 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users"
+            "title": "Senate won't vote on crypto Clarity Act before its summer break",
+            "summary": "The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year.",
+            "time": "Fri, 07 Aug 2026 02:14:43 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
-            "summary": "The leading industry PAC, Fairshake, put $2 million into a Detroit Democratic primary but came up short, even as several PAC-backed candidates won elsewhere.",
-            "time": "Wed, 05 Aug 2026 18:15:21 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow"
+            "title": "Power struggle erupts at Ondo Finance after founder’s death",
+            "summary": "Three Delaware court filings reveal a battle for control of Ondo Finance after founder Nathan Allman's death.",
+            "time": "Thu, 06 Aug 2026 21:59:33 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death"
         },
         {
             "source": "CoinDesk",
-            "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-            "summary": "Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could drive some investors toward bitcoin ETFs.",
-            "time": "Wed, 05 Aug 2026 15:44:08 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say"
+            "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
+            "summary": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.",
+            "time": "Thu, 06 Aug 2026 16:10:04 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate"
         },
         {
             "source": "Hacker News",
-            "title": "Nashville uses eminent domain to block data center near zoo",
-            "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project\nComments URL: https://news.ycombinator.com/item?id=49191624\nPoints: 3...",
-            "time": "Thu, 06 Aug 2026 02:15:14 +0000",
-            "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
+            "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+            "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 77\n# Commen...",
+            "time": "Fri, 07 Aug 2026 00:06:28 +0000",
+            "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7"
         },
         {
             "source": "Hacker News",
-            "title": "LLMs won't break symmetric crypto",
-            "summary": "Article URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto\nComments URL: https://news.ycombinator.com/item?id=49191365\nPoints: 40\n# Comments: 27",
-            "time": "Thu, 06 Aug 2026 01:39:06 +0000",
-            "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto"
+            "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+            "summary": "Author here.Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a...",
+            "time": "Thu, 06 Aug 2026 22:50:09 +0000",
+            "url": "https://zenodo.org/records/21359923"
         },
         {
             "source": "Hacker News",
-            "title": "The title cards in Blade Runner are amazing",
-            "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 169\n# Comments: 72",
-            "time": "Wed, 05 Aug 2026 21:29:23 +0000",
-            "url": "https://randsinrepose.com/archives/blade-runner-title-cards/"
+            "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+            "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 99\n# Comments: 16",
+            "time": "Thu, 06 Aug 2026 21:52:16 +0000",
+            "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/"
         }
     ]
 }
