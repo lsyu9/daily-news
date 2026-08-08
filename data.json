@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-07 10:55:21",
+    "updated_at": "2026-08-08 10:01:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Senate won't vote on crypto Clarity Act before its summer break",
-            "summary": "The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year.",
-            "time": "Fri, 07 Aug 2026 02:14:43 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break"
+            "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+            "summary": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
+            "time": "Fri, 07 Aug 2026 21:13:21 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal"
         },
         {
             "source": "CoinDesk",
-            "title": "Power struggle erupts at Ondo Finance after founder’s death",
-            "summary": "Three Delaware court filings reveal a battle for control of Ondo Finance after founder Nathan Allman's death.",
-            "time": "Thu, 06 Aug 2026 21:59:33 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death"
+            "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+            "summary": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
+            "time": "Fri, 07 Aug 2026 20:20:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock"
         },
         {
             "source": "CoinDesk",
-            "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-            "summary": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.",
-            "time": "Thu, 06 Aug 2026 16:10:04 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate"
+            "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+            "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
+            "time": "Fri, 07 Aug 2026 18:42:44 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges"
         },
         {
             "source": "Hacker News",
-            "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-            "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 77\n# Commen...",
-            "time": "Fri, 07 Aug 2026 00:06:28 +0000",
-            "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7"
+            "title": "The Nixpkgs core team has disbanded",
+            "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 24\n# Comments: 3",
+            "time": "Sat, 08 Aug 2026 01:12:45 +0000",
+            "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
         },
         {
             "source": "Hacker News",
-            "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-            "summary": "Author here.Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a...",
-            "time": "Thu, 06 Aug 2026 22:50:09 +0000",
-            "url": "https://zenodo.org/records/21359923"
+            "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+            "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 91\n# Comments: 38",
+            "time": "Fri, 07 Aug 2026 22:24:27 +0000",
+            "url": "https://genesisopenmodels.anl.gov/"
         },
         {
             "source": "Hacker News",
-            "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-            "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 99\n# Comments: 16",
-            "time": "Thu, 06 Aug 2026 21:52:16 +0000",
-            "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/"
+            "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+            "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycom...",
+            "time": "Fri, 07 Aug 2026 21:19:57 +0000",
+            "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070"
         }
     ]
 }
