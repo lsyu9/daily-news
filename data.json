@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-09 10:08:52",
+    "updated_at": "2026-08-10 10:16:05",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-            "summary": "The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.",
-            "time": "Sat, 08 Aug 2026 20:06:47 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support"
+            "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+            "summary": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
+            "time": "Sun, 09 Aug 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
-            "summary": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.",
-            "time": "Sat, 08 Aug 2026 17:48:02 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near"
+            "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+            "summary": "Revenue has fallen four quarters running while open interest hit a record high. The gap is a fee-sharing program that hands half the platform's volume to outside builders.",
+            "time": "Sun, 09 Aug 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype"
         },
         {
             "source": "CoinDesk",
-            "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-            "summary": "The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.",
-            "time": "Sat, 08 Aug 2026 15:25:38 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad"
+            "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+            "summary": "Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest since mid-April, with BlackRock’s IBIT taking the bulk.",
+            "time": "Sun, 09 Aug 2026 14:19:35 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk"
         },
         {
             "source": "Hacker News",
-            "title": "The AI Apocalypse Is Here",
-            "summary": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\nComments URL: https://news.ycombinator.com/item?id=49227521\nPoints: 11\n# Comments: 2",
-            "time": "Sun, 09 Aug 2026 01:28:36 +0000",
-            "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/"
+            "title": "How We Pushed CDC into Postgres",
+            "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 21\n# Comments: 0",
+            "time": "Mon, 10 Aug 2026 01:01:34 +0000",
+            "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/"
         },
         {
             "source": "Hacker News",
-            "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-            "summary": "Article URL: https://os8088.com/\nComments URL: https://news.ycombinator.com/item?id=49226923\nPoints: 34\n# Comments: 10",
-            "time": "Sat, 08 Aug 2026 23:37:27 +0000",
-            "url": "https://os8088.com/"
+            "title": "Japanese court overturns Red RAW video patent",
+            "summary": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/\nComments URL: https://news.ycombinator.com/item?id=49237873\nPoints: 25\n# Com...",
+            "time": "Mon, 10 Aug 2026 00:36:24 +0000",
+            "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/"
         },
         {
             "source": "Hacker News",
-            "title": "Dithered QR Codes",
-            "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/\nComments URL: https://news.ycombinator.com/item?id=49226742\nPoints: 24\n# Comments: 3",
-            "time": "Sat, 08 Aug 2026 23:05:24 +0000",
-            "url": "https://www.andrewt.net/dithered-qr-codes/wtf/"
+            "title": "The Ambition Project",
+            "summary": "Article URL: https://www.betonit.ai/p/the-ambition-project\nComments URL: https://news.ycombinator.com/item?id=49237407\nPoints: 6\n# Comments: 0",
+            "time": "Sun, 09 Aug 2026 23:36:05 +0000",
+            "url": "https://www.betonit.ai/p/the-ambition-project"
         }
     ]
 }
