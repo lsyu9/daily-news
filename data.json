@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-10 10:16:05",
+    "updated_at": "2026-08-11 10:07:57",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
-            "summary": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
-            "time": "Sun, 09 Aug 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto"
+            "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+            "summary": "The Truth Social parent held 9,477 BTC worth $557 million at the end of June, while its Cronos position also suffered a steep drop in value.",
+            "time": "Mon, 10 Aug 2026 21:12:07 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million"
         },
         {
             "source": "CoinDesk",
-            "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
-            "summary": "Revenue has fallen four quarters running while open interest hit a record high. The gap is a fee-sharing program that hands half the platform's volume to outside builders.",
-            "time": "Sun, 09 Aug 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype"
+            "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+            "summary": "Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.",
+            "time": "Mon, 10 Aug 2026 20:20:06 +0000",
+            "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
-            "summary": "Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest since mid-April, with BlackRock’s IBIT taking the bulk.",
-            "time": "Sun, 09 Aug 2026 14:19:35 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk"
+            "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+            "summary": "Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.",
+            "time": "Mon, 10 Aug 2026 20:03:24 +0000",
+            "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors"
         },
         {
             "source": "Hacker News",
-            "title": "How We Pushed CDC into Postgres",
-            "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 21\n# Comments: 0",
-            "time": "Mon, 10 Aug 2026 01:01:34 +0000",
-            "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/"
+            "title": "Chicken Scheme 6.0",
+            "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS\nComments URL: https://news.ycombinator.com/item?id=49251702\nPoints: 33\n# Comments: 3",
+            "time": "Tue, 11 Aug 2026 00:24:15 +0000",
+            "url": "https://code.call-cc.org/releases/6.0.0/NEWS"
         },
         {
             "source": "Hacker News",
-            "title": "Japanese court overturns Red RAW video patent",
-            "summary": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/\nComments URL: https://news.ycombinator.com/item?id=49237873\nPoints: 25\n# Com...",
-            "time": "Mon, 10 Aug 2026 00:36:24 +0000",
-            "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/"
+            "title": "The UK's War on Anonymity Has Come to America",
+            "summary": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 178\n# Comments: 99",
+            "time": "Mon, 10 Aug 2026 23:45:50 +0000",
+            "url": "https://www.effort.news/uk-lobby"
         },
         {
             "source": "Hacker News",
-            "title": "The Ambition Project",
-            "summary": "Article URL: https://www.betonit.ai/p/the-ambition-project\nComments URL: https://news.ycombinator.com/item?id=49237407\nPoints: 6\n# Comments: 0",
-            "time": "Sun, 09 Aug 2026 23:36:05 +0000",
-            "url": "https://www.betonit.ai/p/the-ambition-project"
+            "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+            "summary": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 56\n# Comments: 11",
+            "time": "Mon, 10 Aug 2026 23:16:25 +0000",
+            "url": "https://everycube.alen.is/"
         }
     ]
 }
