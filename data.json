@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-12 10:25:50",
+    "updated_at": "2026-08-13 10:27:24",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
-            "summary": "Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.",
-            "time": "Tue, 11 Aug 2026 21:38:13 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move"
+            "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+            "summary": "The U.S. regulator of platforms such as Kalshi and Polymarket suggests the industry is getting into bad compliance habits that may allow for market abuse.",
+            "time": "Wed, 12 Aug 2026 23:16:53 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc"
         },
         {
             "source": "CoinDesk",
-            "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-            "summary": "New York sued Kalshi last month in a bid to block it from operating sports-related prediction markets.",
-            "time": "Tue, 11 Aug 2026 21:28:59 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit"
+            "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+            "summary": "Tokenized assets hit a record and trading activity jumped, but revenue slipped in the firm’s first earnings report since going public.",
+            "time": "Wed, 12 Aug 2026 22:26:24 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short"
         },
         {
             "source": "CoinDesk",
-            "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
-            "summary": "Itaú Unibanco said it teamed up with tokenization specialist OpenAssets to test tokenized bonds and funds in a pilot run by Brazil's financial watchdog ANBIMA.",
-            "time": "Tue, 11 Aug 2026 19:06:23 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization"
+            "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+            "summary": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.",
+            "time": "Wed, 12 Aug 2026 22:11:09 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank"
         },
         {
             "source": "Hacker News",
-            "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
-            "summary": "Article URL: https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/\nComments URL: https://news.ycombinator.com/item?id=49266899\n...",
-            "time": "Wed, 12 Aug 2026 01:42:46 +0000",
-            "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/"
+            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+            "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 17\n# Comments: 2",
+            "time": "Thu, 13 Aug 2026 00:01:43 +0000",
+            "url": "https://www.ballet.dev/"
         },
         {
             "source": "Hacker News",
-            "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-            "summary": "Article URL: https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\nComments URL: https://news.ycombinator.com/item?id=49266560\nPoints: ...",
-            "time": "Wed, 12 Aug 2026 00:58:00 +0000",
-            "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/"
+            "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+            "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 33\n# Comments: 9",
+            "time": "Wed, 12 Aug 2026 23:50:33 +0000",
+            "url": "https://sharktastica.co.uk/articles/pc-fxt-45"
         },
         {
             "source": "Hacker News",
-            "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-            "summary": "Article URL: https://www.cftc.gov/PressRoom/PressReleases/9281-26\nComments URL: https://news.ycombinator.com/item?id=49266277\nPoints: 121\n# Comments: 101",
-            "time": "Wed, 12 Aug 2026 00:17:59 +0000",
-            "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26"
+            "title": "What's New in Flutter 3.47",
+            "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 47\n# Comments: 33",
+            "time": "Wed, 12 Aug 2026 23:46:00 +0000",
+            "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47"
         }
     ]
 }
