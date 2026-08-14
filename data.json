@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-13 10:27:24",
+    "updated_at": "2026-08-14 10:25:26",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
-            "summary": "The U.S. regulator of platforms such as Kalshi and Polymarket suggests the industry is getting into bad compliance habits that may allow for market abuse.",
-            "time": "Wed, 12 Aug 2026 23:16:53 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc"
+            "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+            "summary": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
+            "time": "Thu, 13 Aug 2026 23:09:14 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns"
         },
         {
             "source": "CoinDesk",
-            "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
-            "summary": "Tokenized assets hit a record and trading activity jumped, but revenue slipped in the firm’s first earnings report since going public.",
-            "time": "Wed, 12 Aug 2026 22:26:24 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short"
+            "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+            "summary": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
+            "time": "Thu, 13 Aug 2026 22:18:07 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date"
         },
         {
             "source": "CoinDesk",
-            "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-            "summary": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.",
-            "time": "Wed, 12 Aug 2026 22:11:09 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank"
+            "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+            "summary": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it completed its long-promised financial audit.",
+            "time": "Thu, 13 Aug 2026 18:26:21 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-            "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 17\n# Comments: 2",
-            "time": "Thu, 13 Aug 2026 00:01:43 +0000",
-            "url": "https://www.ballet.dev/"
+            "title": "Bluesky Protocol Services",
+            "summary": "Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services\nComments URL: https://news.ycombinator.com/item?id=49293324\nPoints: 71\n# Comments: 16",
+            "time": "Fri, 14 Aug 2026 00:14:28 +0000",
+            "url": "https://atproto.com/blog/introducing-bluesky-protocol-services"
         },
         {
             "source": "Hacker News",
-            "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-            "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 33\n# Comments: 9",
-            "time": "Wed, 12 Aug 2026 23:50:33 +0000",
-            "url": "https://sharktastica.co.uk/articles/pc-fxt-45"
+            "title": "SparrowMap – Cameras that watch government vehicles",
+            "summary": "Article URL: https://sparrowmap.com/\nComments URL: https://news.ycombinator.com/item?id=49293294\nPoints: 41\n# Comments: 8",
+            "time": "Fri, 14 Aug 2026 00:10:04 +0000",
+            "url": "https://sparrowmap.com/"
         },
         {
             "source": "Hacker News",
-            "title": "What's New in Flutter 3.47",
-            "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 47\n# Comments: 33",
-            "time": "Wed, 12 Aug 2026 23:46:00 +0000",
-            "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47"
+            "title": "Blog about things you don't understand yet",
+            "summary": "Article URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\nComments URL: https://news.ycombinator.com/item?id=49293087\nPoints: 15\n# Comments: 3",
+            "time": "Thu, 13 Aug 2026 23:39:33 +0000",
+            "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/"
         }
     ]
 }
