@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-15 09:36:45",
+    "updated_at": "2026-08-16 09:44:01",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-            "summary": "Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.",
-            "time": "Fri, 14 Aug 2026 23:41:49 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say"
+            "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
+            "summary": "Hyperliquid traders value Unitree at nearly $38 billion versus $9 billion at its IPO, leaving leveraged bets vulnerable when trading begins, Allium analysts said.",
+            "time": "Sat, 15 Aug 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price"
         },
         {
             "source": "CoinDesk",
-            "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
-            "summary": "The Office of the Comptroller of the Currency said it granted \"preliminary conditional approval\" to World Liberty Trust Co. on Friday.",
-            "time": "Fri, 14 Aug 2026 21:05:23 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator"
+            "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
+            "summary": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
+            "time": "Sat, 15 Aug 2026 15:56:05 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options"
         },
         {
             "source": "CoinDesk",
-            "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-            "summary": "Bullish, Coinbase, and Circle were among the names lower on Friday after the regulatory setback.",
-            "time": "Fri, 14 Aug 2026 17:48:04 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push"
+            "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+            "summary": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
+            "time": "Sat, 15 Aug 2026 15:21:15 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city"
         },
         {
             "source": "Hacker News",
-            "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
-            "summary": "Article URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697\nComments URL: https://news.ycombinator.com/item?id=49305927\nPoints: 77\n# Comments: 29",
-            "time": "Fri, 14 Aug 2026 23:40:37 +0000",
-            "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697"
+            "title": "Tea5767-Radio-Tuner",
+            "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner\nComments URL: https://news.ycombinator.com/item?id=49315456\nPoints: 9\n# Comments: 0",
+            "time": "Sat, 15 Aug 2026 23:54:35 +0000",
+            "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner"
         },
         {
             "source": "Hacker News",
-            "title": "The case for overhauling American science",
-            "summary": "Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\nComments URL: https://news.ycombinator.com/item?id=49305708\nPoints: 31\n# Comments: 12",
-            "time": "Fri, 14 Aug 2026 23:11:34 +0000",
-            "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science"
+            "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+            "summary": "Article URL: https://sugartrack-beta.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49314884\nPoints: 20\n# Comments: 5",
+            "time": "Sat, 15 Aug 2026 22:28:14 +0000",
+            "url": "https://sugartrack-beta.vercel.app/"
         },
         {
             "source": "Hacker News",
-            "title": "Stop sending me huge PRs; a rant",
-            "summary": "Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\nComments URL: https://news.ycombinator.com/item?id=49305558\nPoints: 55\n# Comments: 35",
-            "time": "Fri, 14 Aug 2026 22:48:15 +0000",
-            "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va"
+            "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+            "summary": "Article URL: https://xescu.re/keeta-consensus.pdf\nComments URL: https://news.ycombinator.com/item?id=49314642\nPoints: 11\n# Comments: 1",
+            "time": "Sat, 15 Aug 2026 21:49:45 +0000",
+            "url": "https://xescu.re/keeta-consensus.pdf"
         }
     ]
 }
