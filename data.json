@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-16 09:44:01",
+    "updated_at": "2026-08-17 09:41:40",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-            "summary": "Hyperliquid traders value Unitree at nearly $38 billion versus $9 billion at its IPO, leaving leveraged bets vulnerable when trading begins, Allium analysts said.",
-            "time": "Sat, 15 Aug 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price"
+            "title": "The SEC meeting that wasn't: State of Crypto",
+            "summary": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
+            "time": "Sun, 16 Aug 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-            "summary": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
-            "time": "Sat, 15 Aug 2026 15:56:05 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options"
+            "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+            "summary": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
+            "time": "Sun, 16 Aug 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
         },
         {
             "source": "CoinDesk",
-            "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-            "summary": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
-            "time": "Sat, 15 Aug 2026 15:21:15 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city"
+            "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+            "summary": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
+            "time": "Sun, 16 Aug 2026 14:02:32 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
         },
         {
             "source": "Hacker News",
-            "title": "Tea5767-Radio-Tuner",
-            "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner\nComments URL: https://news.ycombinator.com/item?id=49315456\nPoints: 9\n# Comments: 0",
-            "time": "Sat, 15 Aug 2026 23:54:35 +0000",
-            "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner"
+            "title": "Rhombus 1.1 is now available",
+            "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\nComments URL: https://news.ycombinator.com/item?id=49325384\nPoints: 8\n# Comments: 4",
+            "time": "Mon, 17 Aug 2026 00:48:21 +0000",
+            "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html"
         },
         {
             "source": "Hacker News",
-            "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-            "summary": "Article URL: https://sugartrack-beta.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49314884\nPoints: 20\n# Comments: 5",
-            "time": "Sat, 15 Aug 2026 22:28:14 +0000",
-            "url": "https://sugartrack-beta.vercel.app/"
+            "title": "The Life and Death of Direct File [pdf]",
+            "summary": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\nComments URL: https://news.ycombinator.com/item?id=49325185\nPoints: 43\n# Comments: 11",
+            "time": "Mon, 17 Aug 2026 00:17:57 +0000",
+            "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf"
         },
         {
             "source": "Hacker News",
-            "title": "Modeling and Verification of Keeta's Consensus [pdf]",
-            "summary": "Article URL: https://xescu.re/keeta-consensus.pdf\nComments URL: https://news.ycombinator.com/item?id=49314642\nPoints: 11\n# Comments: 1",
-            "time": "Sat, 15 Aug 2026 21:49:45 +0000",
-            "url": "https://xescu.re/keeta-consensus.pdf"
+            "title": "The federal keyword lists that canceled billions in research funding",
+            "summary": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/\nComments URL: https://news.ycombinator.com/item?id=49325159\nPoints: 3...",
+            "time": "Mon, 17 Aug 2026 00:14:10 +0000",
+            "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/"
         }
     ]
 }
