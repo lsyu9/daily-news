@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-17 09:41:40",
+    "updated_at": "2026-08-18 09:37:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "The SEC meeting that wasn't: State of Crypto",
-            "summary": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
-            "time": "Sun, 16 Aug 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
+            "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+            "summary": "Payward will use Anthropic’s cybersecurity model to hunt vulnerabilities and share open-source findings.",
+            "time": "Mon, 17 Aug 2026 22:12:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-            "summary": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
-            "time": "Sun, 16 Aug 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
+            "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+            "summary": "Strategy is prioritizing STRC, cash reserves, and its credit business over stock buybacks, Executive Chairman Michael Saylor said Monday.",
+            "time": "Mon, 17 Aug 2026 18:53:47 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-            "summary": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
-            "time": "Sun, 16 Aug 2026 14:02:32 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
+            "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+            "summary": "Sheldon Lee said a Chinese-language X account making the claims was hacked. Users want wallets, assets and liabilities disclosed.",
+            "time": "Mon, 17 Aug 2026 16:40:08 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees"
         },
         {
             "source": "Hacker News",
-            "title": "Rhombus 1.1 is now available",
-            "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\nComments URL: https://news.ycombinator.com/item?id=49325384\nPoints: 8\n# Comments: 4",
-            "time": "Mon, 17 Aug 2026 00:48:21 +0000",
-            "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html"
+            "title": "PM Carney announces largest clean energy investment in North American history",
+            "summary": "Article URL: https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north\nComments URL: https://news.ycombinator.com/item?id=49339577\nPoi...",
+            "time": "Tue, 18 Aug 2026 00:25:26 +0000",
+            "url": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north"
         },
         {
             "source": "Hacker News",
-            "title": "The Life and Death of Direct File [pdf]",
-            "summary": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\nComments URL: https://news.ycombinator.com/item?id=49325185\nPoints: 43\n# Comments: 11",
-            "time": "Mon, 17 Aug 2026 00:17:57 +0000",
-            "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf"
+            "title": "Repair Cafe – Fix Your Broken Items",
+            "summary": "Article URL: https://www.repaircafe.org/\nComments URL: https://news.ycombinator.com/item?id=49339097\nPoints: 7\n# Comments: 2",
+            "time": "Mon, 17 Aug 2026 23:28:28 +0000",
+            "url": "https://www.repaircafe.org/"
         },
         {
             "source": "Hacker News",
-            "title": "The federal keyword lists that canceled billions in research funding",
-            "summary": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/\nComments URL: https://news.ycombinator.com/item?id=49325159\nPoints: 3...",
-            "time": "Mon, 17 Aug 2026 00:14:10 +0000",
-            "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/"
+            "title": "Puppy PPE",
+            "summary": "Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde\nComments URL: https://news.ycombinator.com/item?id=49338953\nPoints: 15\n# Comments: 3",
+            "time": "Mon, 17 Aug 2026 23:10:06 +0000",
+            "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde"
         }
     ]
 }
