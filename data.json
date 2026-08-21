@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-20 09:37:50",
+    "updated_at": "2026-08-21 09:42:39",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
-            "summary": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
-            "time": "Wed, 19 Aug 2026 22:26:01 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why"
+            "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+            "summary": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
+            "time": "Thu, 20 Aug 2026 18:54:18 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails"
         },
         {
             "source": "CoinDesk",
-            "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
-            "summary": "During a White House meeting Wednesday, President Donald Trump said CFTC Chair Mike Selig is working to bring the perpetual futures platform into the U.S. under federal rules.",
-            "time": "Wed, 19 Aug 2026 19:49:51 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s"
+            "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+            "summary": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
+            "time": "Thu, 20 Aug 2026 16:17:32 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000"
         },
         {
             "source": "CoinDesk",
-            "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-            "summary": "The CEOs from companies across several tech-forward sectors met with the president in advance of this week's first Innovation Advisory Committee at the CFTC.",
-            "time": "Wed, 19 Aug 2026 19:48:33 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event"
+            "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
+            "summary": "Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.",
+            "time": "Thu, 20 Aug 2026 15:16:12 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern"
         },
         {
             "source": "Hacker News",
-            "title": "Universality of Gradient Descent Neural Network Training",
-            "summary": "Article URL: https://arxiv.org/abs/2007.13664\nComments URL: https://news.ycombinator.com/item?id=49368828\nPoints: 7\n# Comments: 0",
-            "time": "Thu, 20 Aug 2026 00:05:12 +0000",
-            "url": "https://arxiv.org/abs/2007.13664"
+            "title": "It is a sign of the times that Amazon gets to call this fair use",
+            "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html\nComments URL: https://news.ycombinator.com/item?id=49382200\nPoints: 5\n# Comments: 2",
+            "time": "Fri, 21 Aug 2026 00:34:32 +0000",
+            "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html"
         },
         {
             "source": "Hacker News",
-            "title": "Collaborative Human Agent Protocol (CHAP)",
-            "summary": "Article URL: https://github.com/BrightbeamAI/chap\nComments URL: https://news.ycombinator.com/item?id=49367836\nPoints: 19\n# Comments: 3",
-            "time": "Wed, 19 Aug 2026 22:09:16 +0000",
-            "url": "https://github.com/BrightbeamAI/chap"
+            "title": "There's no such thing as a small software team anymore",
+            "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\nComments URL: https://news.ycombinator.com/item?id=49382152\nPoints: 13\n# Comments: 11",
+            "time": "Fri, 21 Aug 2026 00:28:37 +0000",
+            "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/"
         },
         {
             "source": "Hacker News",
-            "title": "Feature Request: Support AGENTS.md",
-            "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 131\n# Comments: 76",
-            "time": "Wed, 19 Aug 2026 21:19:50 +0000",
-            "url": "https://github.com/anthropics/claude-code/issues/6235"
+            "title": "Copyright does not protect AI-generated content in EU",
+            "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678\nComments URL: https://news.ycombinator.com/item?id=49382041\nPoints: 54\n# Comments: 60",
+            "time": "Fri, 21 Aug 2026 00:15:12 +0000",
+            "url": "https://mathstodon.xyz/@maxpool/117128107757895678"
         }
     ]
 }
