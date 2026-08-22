@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-21 09:42:39",
+    "updated_at": "2026-08-22 09:36:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-            "summary": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
-            "time": "Thu, 20 Aug 2026 18:54:18 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails"
+            "title": "Crypto advocates join in suing Illinois over digital asset tax",
+            "summary": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
+            "time": "Fri, 21 Aug 2026 22:10:28 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax"
         },
         {
             "source": "CoinDesk",
-            "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
-            "summary": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
-            "time": "Thu, 20 Aug 2026 16:17:32 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000"
+            "title": "Pass the Clarity Act",
+            "summary": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
+            "time": "Fri, 21 Aug 2026 19:00:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-            "summary": "Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.",
-            "time": "Thu, 20 Aug 2026 15:16:12 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern"
+            "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+            "summary": "ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, though flat dominance shows this is no broad alt season.",
+            "time": "Fri, 21 Aug 2026 16:10:37 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin"
         },
         {
             "source": "Hacker News",
-            "title": "It is a sign of the times that Amazon gets to call this fair use",
-            "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html\nComments URL: https://news.ycombinator.com/item?id=49382200\nPoints: 5\n# Comments: 2",
-            "time": "Fri, 21 Aug 2026 00:34:32 +0000",
-            "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html"
+            "title": "HN: The Good Parts (2016)",
+            "summary": "Article URL: https://danluu.com/hn-comments/\nComments URL: https://news.ycombinator.com/item?id=49395171\nPoints: 11\n# Comments: 6",
+            "time": "Fri, 21 Aug 2026 23:53:03 +0000",
+            "url": "https://danluu.com/hn-comments/"
         },
         {
             "source": "Hacker News",
-            "title": "There's no such thing as a small software team anymore",
-            "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\nComments URL: https://news.ycombinator.com/item?id=49382152\nPoints: 13\n# Comments: 11",
-            "time": "Fri, 21 Aug 2026 00:28:37 +0000",
-            "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/"
+            "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+            "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the “k...",
+            "time": "Fri, 21 Aug 2026 23:09:06 +0000",
+            "url": "https://ozbrain.com"
         },
         {
             "source": "Hacker News",
-            "title": "Copyright does not protect AI-generated content in EU",
-            "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678\nComments URL: https://news.ycombinator.com/item?id=49382041\nPoints: 54\n# Comments: 60",
-            "time": "Fri, 21 Aug 2026 00:15:12 +0000",
-            "url": "https://mathstodon.xyz/@maxpool/117128107757895678"
+            "title": "Three important steps in my maturation process",
+            "summary": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/\nComments URL: https://news.ycombinator.com/item?id=49394496\nPoints: 41\n# Comments: 8",
+            "time": "Fri, 21 Aug 2026 22:29:00 +0000",
+            "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/"
         }
     ]
 }
