@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-22 09:36:03",
+    "updated_at": "2026-08-23 09:46:02",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto advocates join in suing Illinois over digital asset tax",
-            "summary": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
-            "time": "Fri, 21 Aug 2026 22:10:28 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax"
+            "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+            "summary": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+            "time": "Sat, 22 Aug 2026 15:16:41 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
         },
         {
             "source": "CoinDesk",
-            "title": "Pass the Clarity Act",
-            "summary": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
-            "time": "Fri, 21 Aug 2026 19:00:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act"
+            "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+            "summary": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
+            "time": "Sat, 22 Aug 2026 14:10:17 +0000",
+            "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-            "summary": "ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, though flat dominance shows this is no broad alt season.",
-            "time": "Fri, 21 Aug 2026 16:10:37 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin"
+            "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+            "summary": "Fairmint CEO Joris Delanoue warns tokenized stocks risk recreating Wall Street’s 1960s paper crisis through fragmented systems and standards.",
+            "time": "Sat, 22 Aug 2026 14:00:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says"
         },
         {
             "source": "Hacker News",
-            "title": "HN: The Good Parts (2016)",
-            "summary": "Article URL: https://danluu.com/hn-comments/\nComments URL: https://news.ycombinator.com/item?id=49395171\nPoints: 11\n# Comments: 6",
-            "time": "Fri, 21 Aug 2026 23:53:03 +0000",
-            "url": "https://danluu.com/hn-comments/"
+            "title": "US Military newspaper editor voices censorship fears after being fired",
+            "summary": "Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o\nComments URL: https://news.ycombinator.com/item?id=49405110\nPoints: 18\n# Comments: 3",
+            "time": "Sun, 23 Aug 2026 00:19:17 +0000",
+            "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-            "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the “k...",
-            "time": "Fri, 21 Aug 2026 23:09:06 +0000",
-            "url": "https://ozbrain.com"
+            "title": "NanoGPT Speedrun Frontier",
+            "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun\nComments URL: https://news.ycombinator.com/item?id=49404380\nPoints: 44\n# Comments: 12",
+            "time": "Sat, 22 Aug 2026 22:14:27 +0000",
+            "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
         },
         {
             "source": "Hacker News",
-            "title": "Three important steps in my maturation process",
-            "summary": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/\nComments URL: https://news.ycombinator.com/item?id=49394496\nPoints: 41\n# Comments: 8",
-            "time": "Fri, 21 Aug 2026 22:29:00 +0000",
-            "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/"
+            "title": "NetBSD and my life (2005)",
+            "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 94\n# Comments: 24",
+            "time": "Sat, 22 Aug 2026 19:07:46 +0000",
+            "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html"
         }
     ]
 }
