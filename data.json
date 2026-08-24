@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-23 09:46:02",
+    "updated_at": "2026-08-24 09:43:26",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-            "summary": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
-            "time": "Sat, 22 Aug 2026 15:16:41 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
+            "title": "Regulation Crypto is here: State of Crypto",
+            "summary": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
+            "time": "Sun, 23 Aug 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-            "summary": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
-            "time": "Sat, 22 Aug 2026 14:10:17 +0000",
-            "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
+            "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+            "summary": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
+            "time": "Sun, 23 Aug 2026 15:52:21 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes"
         },
         {
             "source": "CoinDesk",
-            "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-            "summary": "Fairmint CEO Joris Delanoue warns tokenized stocks risk recreating Wall Street’s 1960s paper crisis through fragmented systems and standards.",
-            "time": "Sat, 22 Aug 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says"
+            "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+            "summary": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+            "time": "Sun, 23 Aug 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases"
         },
         {
             "source": "Hacker News",
-            "title": "US Military newspaper editor voices censorship fears after being fired",
-            "summary": "Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o\nComments URL: https://news.ycombinator.com/item?id=49405110\nPoints: 18\n# Comments: 3",
-            "time": "Sun, 23 Aug 2026 00:19:17 +0000",
-            "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o"
+            "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+            "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\nComments URL: https://news.ycombinator.com/item?id=49409200\nPoints: 21\n# Comments: 2",
+            "time": "Sun, 23 Aug 2026 14:38:25 +0000",
+            "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/"
         },
         {
             "source": "Hacker News",
-            "title": "NanoGPT Speedrun Frontier",
-            "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun\nComments URL: https://news.ycombinator.com/item?id=49404380\nPoints: 44\n# Comments: 12",
-            "time": "Sat, 22 Aug 2026 22:14:27 +0000",
-            "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+            "title": "Authoritarianism of Code",
+            "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\nComments URL: https://news.ycombinator.com/item?id=49409184\nPoints: 5\n# Comments: 3",
+            "time": "Sun, 23 Aug 2026 14:36:38 +0000",
+            "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/"
         },
         {
             "source": "Hacker News",
-            "title": "NetBSD and my life (2005)",
-            "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 94\n# Comments: 24",
-            "time": "Sat, 22 Aug 2026 19:07:46 +0000",
-            "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html"
+            "title": "What Is a Harness?",
+            "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/\nComments URL: https://news.ycombinator.com/item?id=49409092\nPoints: 27\n# Comments: 15",
+            "time": "Sun, 23 Aug 2026 14:24:21 +0000",
+            "url": "https://earendil.com/posts/what-is-a-harness/"
         }
     ]
 }
