@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-24 09:43:26",
+    "updated_at": "2026-08-25 09:38:18",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Regulation Crypto is here: State of Crypto",
-            "summary": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
-            "time": "Sun, 23 Aug 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto"
+            "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+            "summary": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
+            "time": "Mon, 24 Aug 2026 19:36:36 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key"
         },
         {
             "source": "CoinDesk",
-            "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-            "summary": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
-            "time": "Sun, 23 Aug 2026 15:52:21 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes"
+            "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+            "summary": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
+            "time": "Mon, 24 Aug 2026 17:30:10 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-            "summary": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
-            "time": "Sun, 23 Aug 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases"
+            "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+            "summary": "The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.",
+            "time": "Mon, 24 Aug 2026 17:12:35 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain"
         },
         {
             "source": "Hacker News",
-            "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-            "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\nComments URL: https://news.ycombinator.com/item?id=49409200\nPoints: 21\n# Comments: 2",
-            "time": "Sun, 23 Aug 2026 14:38:25 +0000",
-            "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/"
+            "title": "What languages are agent skills written in?",
+            "summary": "Article URL: https://plicara.ai/research/agent-skill-languages/\nComments URL: https://news.ycombinator.com/item?id=49427825\nPoints: 3\n# Comments: 0",
+            "time": "Tue, 25 Aug 2026 00:52:27 +0000",
+            "url": "https://plicara.ai/research/agent-skill-languages/"
         },
         {
             "source": "Hacker News",
-            "title": "Authoritarianism of Code",
-            "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\nComments URL: https://news.ycombinator.com/item?id=49409184\nPoints: 5\n# Comments: 3",
-            "time": "Sun, 23 Aug 2026 14:36:38 +0000",
-            "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/"
+            "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+            "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 32\n# Comments: 7",
+            "time": "Mon, 24 Aug 2026 23:00:37 +0000",
+            "url": "https://github.com/murerkinn/bookshelf"
         },
         {
             "source": "Hacker News",
-            "title": "What Is a Harness?",
-            "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/\nComments URL: https://news.ycombinator.com/item?id=49409092\nPoints: 27\n# Comments: 15",
-            "time": "Sun, 23 Aug 2026 14:24:21 +0000",
-            "url": "https://earendil.com/posts/what-is-a-harness/"
+            "title": "Show HN: Flostep – Diagrams people can actually walkthrough",
+            "summary": "Article URL: https://flostep.dev/\nComments URL: https://news.ycombinator.com/item?id=49426877\nPoints: 7\n# Comments: 2",
+            "time": "Mon, 24 Aug 2026 22:45:24 +0000",
+            "url": "https://flostep.dev/"
         }
     ]
 }
