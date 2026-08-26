@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-25 09:38:18",
+    "updated_at": "2026-08-26 09:43:27",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
-            "summary": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
-            "time": "Mon, 24 Aug 2026 19:36:36 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key"
+            "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+            "summary": "The \"BankChain Alliance\" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized deposits inside the banking system's regulatory sphere.",
+            "time": "Tue, 25 Aug 2026 21:56:57 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-            "summary": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
-            "time": "Mon, 24 Aug 2026 17:30:10 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year"
+            "title": "Zerohash back for second effort at OCC trust bank charter",
+            "summary": "The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort.",
+            "time": "Tue, 25 Aug 2026 21:38:28 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter"
         },
         {
             "source": "CoinDesk",
-            "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-            "summary": "The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.",
-            "time": "Mon, 24 Aug 2026 17:12:35 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain"
+            "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+            "summary": "The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month.",
+            "time": "Tue, 25 Aug 2026 19:40:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move"
         },
         {
             "source": "Hacker News",
-            "title": "What languages are agent skills written in?",
-            "summary": "Article URL: https://plicara.ai/research/agent-skill-languages/\nComments URL: https://news.ycombinator.com/item?id=49427825\nPoints: 3\n# Comments: 0",
-            "time": "Tue, 25 Aug 2026 00:52:27 +0000",
-            "url": "https://plicara.ai/research/agent-skill-languages/"
+            "title": "Queryable Executables",
+            "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 5\n# Comments: 1",
+            "time": "Wed, 26 Aug 2026 00:20:49 +0000",
+            "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables"
         },
         {
             "source": "Hacker News",
-            "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-            "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 32\n# Comments: 7",
-            "time": "Mon, 24 Aug 2026 23:00:37 +0000",
-            "url": "https://github.com/murerkinn/bookshelf"
+            "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+            "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 25\n# Comments: 4",
+            "time": "Tue, 25 Aug 2026 22:40:07 +0000",
+            "url": "https://github.com/runetes/maiao"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Flostep – Diagrams people can actually walkthrough",
-            "summary": "Article URL: https://flostep.dev/\nComments URL: https://news.ycombinator.com/item?id=49426877\nPoints: 7\n# Comments: 2",
-            "time": "Mon, 24 Aug 2026 22:45:24 +0000",
-            "url": "https://flostep.dev/"
+            "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+            "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits...",
+            "time": "Tue, 25 Aug 2026 22:08:50 +0000",
+            "url": "https://github.com/swimmingbrain/texbrain"
         }
     ]
 }
