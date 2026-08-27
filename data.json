@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-26 09:43:27",
+    "updated_at": "2026-08-27 16:42:51",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-            "summary": "The \"BankChain Alliance\" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized deposits inside the banking system's regulatory sphere.",
-            "time": "Tue, 25 Aug 2026 21:56:57 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network"
+            "title": "Bitcoin researchers propose quantum fix that would not crowd out transactions",
+            "summary": "The SHRINCS proposal would let bitcoin transactions use larger, quantum-resistant approvals while preserving more network capacity than existing post-quantum signature designs.",
+            "time": "Thu, 27 Aug 2026 07:15:57 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions"
         },
         {
             "source": "CoinDesk",
-            "title": "Zerohash back for second effort at OCC trust bank charter",
-            "summary": "The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort.",
-            "time": "Tue, 25 Aug 2026 21:38:28 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter"
+            "title": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings",
+            "summary": "Yi, who is now the co-CEO of Binance alongside its other chief Richard Teng, still uses the name Marge in meetings and chats.",
+            "time": "Thu, 27 Aug 2026 05:25:28 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings"
         },
         {
             "source": "CoinDesk",
-            "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-            "summary": "The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month.",
-            "time": "Tue, 25 Aug 2026 19:40:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move"
+            "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
+            "summary": "Every major token except solana and BNB is flat or lower over 24 hours, with bitcoin holding a 14% weekly gain and XRP 28%.",
+            "time": "Thu, 27 Aug 2026 04:35:18 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike"
         },
         {
             "source": "Hacker News",
-            "title": "Queryable Executables",
-            "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 5\n# Comments: 1",
-            "time": "Wed, 26 Aug 2026 00:20:49 +0000",
-            "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables"
+            "title": "Kusama Yayoi has died",
+            "summary": "https://archive.ph/axjMFhttps://yayoi-kusama.jp/en/news4518/\n\nComments URL: https://news.ycombinator.com/item?id=49458709\nPoints: 159\n# Comments: 13",
+            "time": "Thu, 27 Aug 2026 02:21:18 +0000",
+            "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html"
         },
         {
             "source": "Hacker News",
-            "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-            "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 25\n# Comments: 4",
-            "time": "Tue, 25 Aug 2026 22:40:07 +0000",
-            "url": "https://github.com/runetes/maiao"
+            "title": "Getting video models to learn better, faster",
+            "summary": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video\nComments URL: https://news.ycombinator.com/item?id=49458502\nPoints: 25\n# Comments: 9",
+            "time": "Thu, 27 Aug 2026 01:53:34 +0000",
+            "url": "https://www.linum.ai/field-notes/data-filtering-gen-video"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-            "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits...",
-            "time": "Tue, 25 Aug 2026 22:08:50 +0000",
-            "url": "https://github.com/swimmingbrain/texbrain"
+            "title": "Laion Big Video Dataset",
+            "summary": "Article URL: https://projects.laion.ai/bvd/\nComments URL: https://news.ycombinator.com/item?id=49458478\nPoints: 57\n# Comments: 16",
+            "time": "Thu, 27 Aug 2026 01:50:26 +0000",
+            "url": "https://projects.laion.ai/bvd/"
         }
     ]
 }
