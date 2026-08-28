@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-27 16:42:51",
+    "updated_at": "2026-08-28 18:55:20",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin researchers propose quantum fix that would not crowd out transactions",
-            "summary": "The SHRINCS proposal would let bitcoin transactions use larger, quantum-resistant approvals while preserving more network capacity than existing post-quantum signature designs.",
-            "time": "Thu, 27 Aug 2026 07:15:57 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions"
+            "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
+            "summary": "BTC briefly touched $81,455 overnight, its highest since May 15 as Nasdaq futures slipped and gold extended gains heading into the weekend.",
+            "time": "Fri, 28 Aug 2026 10:37:35 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate"
         },
         {
             "source": "CoinDesk",
-            "title": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings",
-            "summary": "Yi, who is now the co-CEO of Binance alongside its other chief Richard Teng, still uses the name Marge in meetings and chats.",
-            "time": "Thu, 27 Aug 2026 05:25:28 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings"
+            "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
+            "summary": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
+            "time": "Fri, 28 Aug 2026 10:21:47 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
-            "summary": "Every major token except solana and BNB is flat or lower over 24 hours, with bitcoin holding a 14% weekly gain and XRP 28%.",
-            "time": "Thu, 27 Aug 2026 04:35:18 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike"
+            "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
+            "summary": "The activity, appearing to spread sanctioned funds to trigger account restrictions, occurred between Aug. 17 and Aug. 24.",
+            "time": "Fri, 28 Aug 2026 09:10:40 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions"
         },
         {
             "source": "Hacker News",
-            "title": "Kusama Yayoi has died",
-            "summary": "https://archive.ph/axjMFhttps://yayoi-kusama.jp/en/news4518/\n\nComments URL: https://news.ycombinator.com/item?id=49458709\nPoints: 159\n# Comments: 13",
-            "time": "Thu, 27 Aug 2026 02:21:18 +0000",
-            "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html"
+            "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+            "summary": "Article URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html\nComments URL: https://news.ycombinator.com/item?id=49476143\nPoints: 57\n# Comments: 8",
+            "time": "Fri, 28 Aug 2026 09:00:46 +0000",
+            "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html"
         },
         {
             "source": "Hacker News",
-            "title": "Getting video models to learn better, faster",
-            "summary": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video\nComments URL: https://news.ycombinator.com/item?id=49458502\nPoints: 25\n# Comments: 9",
-            "time": "Thu, 27 Aug 2026 01:53:34 +0000",
-            "url": "https://www.linum.ai/field-notes/data-filtering-gen-video"
+            "title": "Climate change is strengthening El Niño, coral records suggest",
+            "summary": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest\nComments URL: https://news.ycombinator.com/item?id=49475404\nPoints: 55\n# Comments: ...",
+            "time": "Fri, 28 Aug 2026 07:19:16 +0000",
+            "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest"
         },
         {
             "source": "Hacker News",
-            "title": "Laion Big Video Dataset",
-            "summary": "Article URL: https://projects.laion.ai/bvd/\nComments URL: https://news.ycombinator.com/item?id=49458478\nPoints: 57\n# Comments: 16",
-            "time": "Thu, 27 Aug 2026 01:50:26 +0000",
-            "url": "https://projects.laion.ai/bvd/"
+            "title": "Show HN: FnScribe – Open-source, offline dictation for macOS",
+            "summary": "Article URL: https://github.com/AlgorithmicResearchGroup/fnscribe\nComments URL: https://news.ycombinator.com/item?id=49475159\nPoints: 9\n# Comments: 2",
+            "time": "Fri, 28 Aug 2026 06:45:47 +0000",
+            "url": "https://github.com/AlgorithmicResearchGroup/fnscribe"
         }
     ]
 }
