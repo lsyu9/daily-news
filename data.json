@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-28 18:55:20",
+    "updated_at": "2026-08-29 14:41:45",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
-            "summary": "BTC briefly touched $81,455 overnight, its highest since May 15 as Nasdaq futures slipped and gold extended gains heading into the weekend.",
-            "time": "Fri, 28 Aug 2026 10:37:35 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate"
+            "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+            "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
+            "time": "Sat, 29 Aug 2026 04:30:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges"
         },
         {
             "source": "CoinDesk",
-            "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
-            "summary": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
-            "time": "Fri, 28 Aug 2026 10:21:47 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments"
+            "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+            "summary": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this wee...",
+            "time": "Sat, 29 Aug 2026 02:30:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives"
         },
         {
             "source": "CoinDesk",
-            "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
-            "summary": "The activity, appearing to spread sanctioned funds to trigger account restrictions, occurred between Aug. 17 and Aug. 24.",
-            "time": "Fri, 28 Aug 2026 09:10:40 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions"
+            "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+            "summary": "This latest U.S. appeals court ruling sets up a rift between federal courts on event contracts, suggesting the U.S. Supreme Court may need to settle the matter.",
+            "time": "Fri, 28 Aug 2026 21:28:12 +0000",
+            "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets"
         },
         {
             "source": "Hacker News",
-            "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-            "summary": "Article URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html\nComments URL: https://news.ycombinator.com/item?id=49476143\nPoints: 57\n# Comments: 8",
-            "time": "Fri, 28 Aug 2026 09:00:46 +0000",
-            "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html"
+            "title": "TurboKV: Insanely fast Rust key-value store",
+            "summary": "Article URL: https://github.com/kingroryg/turbokv\nComments URL: https://news.ycombinator.com/item?id=49486334\nPoints: 63\n# Comments: 22",
+            "time": "Sat, 29 Aug 2026 02:23:37 +0000",
+            "url": "https://github.com/kingroryg/turbokv"
         },
         {
             "source": "Hacker News",
-            "title": "Climate change is strengthening El Niño, coral records suggest",
-            "summary": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest\nComments URL: https://news.ycombinator.com/item?id=49475404\nPoints: 55\n# Comments: ...",
-            "time": "Fri, 28 Aug 2026 07:19:16 +0000",
-            "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest"
+            "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+            "summary": "Article URL: https://www.kumander.org/\nComments URL: https://news.ycombinator.com/item?id=49486176\nPoints: 34\n# Comments: 11",
+            "time": "Sat, 29 Aug 2026 01:48:15 +0000",
+            "url": "https://www.kumander.org/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: FnScribe – Open-source, offline dictation for macOS",
-            "summary": "Article URL: https://github.com/AlgorithmicResearchGroup/fnscribe\nComments URL: https://news.ycombinator.com/item?id=49475159\nPoints: 9\n# Comments: 2",
-            "time": "Fri, 28 Aug 2026 06:45:47 +0000",
-            "url": "https://github.com/AlgorithmicResearchGroup/fnscribe"
+            "title": "Our decision on Cursor following its acquisition by SpaceX",
+            "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 357\n# Comments: 148",
+            "time": "Sat, 29 Aug 2026 01:47:53 +0000",
+            "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
         }
     ]
 }
