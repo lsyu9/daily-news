@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-29 14:41:45",
+    "updated_at": "2026-08-30 12:54:36",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
-            "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
-            "time": "Sat, 29 Aug 2026 04:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges"
+            "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+            "summary": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
+            "time": "Sat, 29 Aug 2026 23:49:17 +0000",
+            "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49"
         },
         {
             "source": "CoinDesk",
-            "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-            "summary": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this wee...",
-            "time": "Sat, 29 Aug 2026 02:30:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives"
+            "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+            "summary": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers.",
+            "time": "Sat, 29 Aug 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing"
         },
         {
             "source": "CoinDesk",
-            "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
-            "summary": "This latest U.S. appeals court ruling sets up a rift between federal courts on event contracts, suggesting the U.S. Supreme Court may need to settle the matter.",
-            "time": "Fri, 28 Aug 2026 21:28:12 +0000",
-            "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets"
+            "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+            "summary": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
+            "time": "Sat, 29 Aug 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test"
         },
         {
             "source": "Hacker News",
-            "title": "TurboKV: Insanely fast Rust key-value store",
-            "summary": "Article URL: https://github.com/kingroryg/turbokv\nComments URL: https://news.ycombinator.com/item?id=49486334\nPoints: 63\n# Comments: 22",
-            "time": "Sat, 29 Aug 2026 02:23:37 +0000",
-            "url": "https://github.com/kingroryg/turbokv"
+            "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+            "summary": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws\nComments URL: https://news.ycombinator.com/item?id=49495127\nPoints: 27\n...",
+            "time": "Sun, 30 Aug 2026 02:25:32 +0000",
+            "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws"
         },
         {
             "source": "Hacker News",
-            "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-            "summary": "Article URL: https://www.kumander.org/\nComments URL: https://news.ycombinator.com/item?id=49486176\nPoints: 34\n# Comments: 11",
-            "time": "Sat, 29 Aug 2026 01:48:15 +0000",
-            "url": "https://www.kumander.org/"
+            "title": "FreeCORE TrueNAS Core – Continued",
+            "summary": "Article URL: https://freecore.org/\nComments URL: https://news.ycombinator.com/item?id=49494856\nPoints: 53\n# Comments: 31",
+            "time": "Sun, 30 Aug 2026 01:31:32 +0000",
+            "url": "https://freecore.org/"
         },
         {
             "source": "Hacker News",
-            "title": "Our decision on Cursor following its acquisition by SpaceX",
-            "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 357\n# Comments: 148",
-            "time": "Sat, 29 Aug 2026 01:47:53 +0000",
-            "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
+            "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+            "summary": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/\nComments URL: https://news.ycombinator.com/...",
+            "time": "Sun, 30 Aug 2026 01:09:15 +0000",
+            "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"
         }
     ]
 }
