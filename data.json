@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-30 12:54:36",
+    "updated_at": "2026-08-31 12:58:40",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
-            "summary": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
-            "time": "Sat, 29 Aug 2026 23:49:17 +0000",
-            "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49"
+            "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+            "summary": "An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.",
+            "time": "Mon, 31 Aug 2026 04:57:13 +0000",
+            "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic"
         },
         {
             "source": "CoinDesk",
-            "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
-            "summary": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers.",
-            "time": "Sat, 29 Aug 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing"
+            "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+            "summary": "BTC remains August's best-performing asset after the latest escalation in geopolitical tensions.",
+            "time": "Mon, 31 Aug 2026 04:29:10 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower"
         },
         {
             "source": "CoinDesk",
-            "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-            "summary": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
-            "time": "Sat, 29 Aug 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test"
+            "title": "Michael Saylor hints at first bitcoin purchase in two months",
+            "summary": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
+            "time": "Sun, 30 Aug 2026 15:39:55 +0000",
+            "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months"
         },
         {
             "source": "Hacker News",
-            "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
-            "summary": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws\nComments URL: https://news.ycombinator.com/item?id=49495127\nPoints: 27\n...",
-            "time": "Sun, 30 Aug 2026 02:25:32 +0000",
-            "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws"
+            "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+            "summary": "Article URL: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis\nComments URL: https://news.ycombinator.com/item?id=49505351\nPoints: 19\n# Comments: 18",
+            "time": "Mon, 31 Aug 2026 03:45:57 +0000",
+            "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis"
         },
         {
             "source": "Hacker News",
-            "title": "FreeCORE TrueNAS Core – Continued",
-            "summary": "Article URL: https://freecore.org/\nComments URL: https://news.ycombinator.com/item?id=49494856\nPoints: 53\n# Comments: 31",
-            "time": "Sun, 30 Aug 2026 01:31:32 +0000",
-            "url": "https://freecore.org/"
+            "title": "UC Berkeley indefinitely suspends international student work authorizations",
+            "summary": "Article URL: https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html\n...",
+            "time": "Mon, 31 Aug 2026 03:34:09 +0000",
+            "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html"
         },
         {
             "source": "Hacker News",
-            "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-            "summary": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/\nComments URL: https://news.ycombinator.com/...",
-            "time": "Sun, 30 Aug 2026 01:09:15 +0000",
-            "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"
+            "title": "P99 0 ms* autocomplete for 240M domain names",
+            "summary": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\nComments URL: https://news.ycombinator.com/item?id=49505219\nPoints: 21\n# Comments: 13",
+            "time": "Mon, 31 Aug 2026 03:20:33 +0000",
+            "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
         }
     ]
 }
