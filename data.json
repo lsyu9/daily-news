@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-08-31 12:58:40",
+    "updated_at": "2026-09-01 12:37:32",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
-            "summary": "An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.",
-            "time": "Mon, 31 Aug 2026 04:57:13 +0000",
-            "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic"
+            "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+            "summary": "Ether, solana, tron and dogecoin all shed ground over 24 hours while HYPE added about 4%, leaving bitcoin flat on the week after August's 24% run.",
+            "time": "Tue, 01 Sep 2026 04:30:28 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
-            "summary": "BTC remains August's best-performing asset after the latest escalation in geopolitical tensions.",
-            "time": "Mon, 31 Aug 2026 04:29:10 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower"
+            "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+            "summary": "1789 Capital is putting in about $300 million, adding to a roughly $200 million stake, as the prediction market's valuation rises from $15 billion.",
+            "time": "Tue, 01 Sep 2026 04:19:54 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report"
         },
         {
             "source": "CoinDesk",
-            "title": "Michael Saylor hints at first bitcoin purchase in two months",
-            "summary": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
-            "time": "Sun, 30 Aug 2026 15:39:55 +0000",
-            "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months"
+            "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+            "summary": "Outstanding XRP futures positions outside CME fell by more than 500 million tokens in two weeks, while exposure on the regulated U.S. exchange climbed about 36% as XRP rallied toward $1.40.",
+            "time": "Tue, 01 Sep 2026 03:49:39 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows"
         },
         {
             "source": "Hacker News",
-            "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-            "summary": "Article URL: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis\nComments URL: https://news.ycombinator.com/item?id=49505351\nPoints: 19\n# Comments: 18",
-            "time": "Mon, 31 Aug 2026 03:45:57 +0000",
-            "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis"
+            "title": "Restroom Archive",
+            "summary": "Article URL: https://restroomarchive.com\nComments URL: https://news.ycombinator.com/item?id=49517624\nPoints: 10\n# Comments: 1",
+            "time": "Tue, 01 Sep 2026 03:23:48 +0000",
+            "url": "https://restroomarchive.com"
         },
         {
             "source": "Hacker News",
-            "title": "UC Berkeley indefinitely suspends international student work authorizations",
-            "summary": "Article URL: https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html\n...",
-            "time": "Mon, 31 Aug 2026 03:34:09 +0000",
-            "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html"
+            "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+            "summary": "Article URL: https://antigravity.google/docs/boost/\nComments URL: https://news.ycombinator.com/item?id=49517537\nPoints: 29\n# Comments: 13",
+            "time": "Tue, 01 Sep 2026 03:05:55 +0000",
+            "url": "https://antigravity.google/docs/boost/"
         },
         {
             "source": "Hacker News",
-            "title": "P99 0 ms* autocomplete for 240M domain names",
-            "summary": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\nComments URL: https://news.ycombinator.com/item?id=49505219\nPoints: 21\n# Comments: 13",
-            "time": "Mon, 31 Aug 2026 03:20:33 +0000",
-            "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
+            "title": "Fastpotify",
+            "summary": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 36\n# Comments: 5",
+            "time": "Tue, 01 Sep 2026 02:52:14 +0000",
+            "url": "https://fastpotify.rocks/"
         }
     ]
 }
