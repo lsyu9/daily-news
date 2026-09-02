@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-01 12:37:32",
+    "updated_at": "2026-09-02 12:00:02",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-            "summary": "Ether, solana, tron and dogecoin all shed ground over 24 hours while HYPE added about 4%, leaving bitcoin flat on the week after August's 24% run.",
-            "time": "Tue, 01 Sep 2026 04:30:28 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets"
+            "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+            "summary": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications.",
+            "time": "Tue, 01 Sep 2026 23:55:46 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading"
         },
         {
             "source": "CoinDesk",
-            "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
-            "summary": "1789 Capital is putting in about $300 million, adding to a roughly $200 million stake, as the prediction market's valuation rises from $15 billion.",
-            "time": "Tue, 01 Sep 2026 04:19:54 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report"
+            "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+            "summary": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro token a priority for expansion.",
+            "time": "Tue, 01 Sep 2026 15:36:27 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture"
         },
         {
             "source": "CoinDesk",
-            "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-            "summary": "Outstanding XRP futures positions outside CME fell by more than 500 million tokens in two weeks, while exposure on the regulated U.S. exchange climbed about 36% as XRP rallied toward $1.40.",
-            "time": "Tue, 01 Sep 2026 03:49:39 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows"
+            "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+            "summary": "Revenue on Robinhood Chain hit a 24-hour record of $1.9 million, driving a 30% rally in ARB as traders chased downstream gains.",
+            "time": "Tue, 01 Sep 2026 15:28:29 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring"
         },
         {
             "source": "Hacker News",
-            "title": "Restroom Archive",
-            "summary": "Article URL: https://restroomarchive.com\nComments URL: https://news.ycombinator.com/item?id=49517624\nPoints: 10\n# Comments: 1",
-            "time": "Tue, 01 Sep 2026 03:23:48 +0000",
-            "url": "https://restroomarchive.com"
+            "title": "True Rate of Unemployment",
+            "summary": "Article URL: https://www.lisep.org/tru\nComments URL: https://news.ycombinator.com/item?id=49530989\nPoints: 5\n# Comments: 0",
+            "time": "Wed, 02 Sep 2026 02:21:10 +0000",
+            "url": "https://www.lisep.org/tru"
         },
         {
             "source": "Hacker News",
-            "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
-            "summary": "Article URL: https://antigravity.google/docs/boost/\nComments URL: https://news.ycombinator.com/item?id=49517537\nPoints: 29\n# Comments: 13",
-            "time": "Tue, 01 Sep 2026 03:05:55 +0000",
-            "url": "https://antigravity.google/docs/boost/"
+            "title": "Anthropic banned me for \"suspicious signals\"",
+            "summary": "Article URL: https://kix.codes/anthropic-banned-me-for-suspicious-signals/\nComments URL: https://news.ycombinator.com/item?id=49530298\nPoints: 20\n# Comments: 9",
+            "time": "Wed, 02 Sep 2026 00:38:49 +0000",
+            "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/"
         },
         {
             "source": "Hacker News",
-            "title": "Fastpotify",
-            "summary": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 36\n# Comments: 5",
-            "time": "Tue, 01 Sep 2026 02:52:14 +0000",
-            "url": "https://fastpotify.rocks/"
+            "title": "The efficient frontier of LLM inference",
+            "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 61\n# Comments: 9",
+            "time": "Tue, 01 Sep 2026 23:48:05 +0000",
+            "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
         }
     ]
 }
