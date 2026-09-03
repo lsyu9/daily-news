@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-02 12:00:02",
+    "updated_at": "2026-09-03 11:58:55",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
-            "summary": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications.",
-            "time": "Tue, 01 Sep 2026 23:55:46 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading"
+            "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+            "summary": "FBI agents took control of domains and servers, specifically Alqassam.ps, to intercept donations and prevent further fundraising for the Al-Qassam Brigades.",
+            "time": "Wed, 02 Sep 2026 21:24:26 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites"
         },
         {
             "source": "CoinDesk",
-            "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
-            "summary": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro token a priority for expansion.",
-            "time": "Tue, 01 Sep 2026 15:36:27 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture"
+            "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+            "summary": "The crypto exchange operator, which confidentially filed for a U.S. listing last November, had already put its IPO plans on hold amid difficult market conditions.",
+            "time": "Wed, 02 Sep 2026 20:08:34 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest"
         },
         {
             "source": "CoinDesk",
-            "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
-            "summary": "Revenue on Robinhood Chain hit a 24-hour record of $1.9 million, driving a 30% rally in ARB as traders chased downstream gains.",
-            "time": "Tue, 01 Sep 2026 15:28:29 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring"
+            "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+            "summary": "Adding Massachusetts incumbent Auchincloss to the list of winning primary candidates Fairshake supported, the industry's influence moves on to November.",
+            "time": "Wed, 02 Sep 2026 17:39:00 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election"
         },
         {
             "source": "Hacker News",
-            "title": "True Rate of Unemployment",
-            "summary": "Article URL: https://www.lisep.org/tru\nComments URL: https://news.ycombinator.com/item?id=49530989\nPoints: 5\n# Comments: 0",
-            "time": "Wed, 02 Sep 2026 02:21:10 +0000",
-            "url": "https://www.lisep.org/tru"
+            "title": "Wk. 6 of Vibecoding an MMO",
+            "summary": "Article URL: https://eldermyr.com/\nComments URL: https://news.ycombinator.com/item?id=49545547\nPoints: 5\n# Comments: 1",
+            "time": "Thu, 03 Sep 2026 03:13:54 +0000",
+            "url": "https://eldermyr.com/"
         },
         {
             "source": "Hacker News",
-            "title": "Anthropic banned me for \"suspicious signals\"",
-            "summary": "Article URL: https://kix.codes/anthropic-banned-me-for-suspicious-signals/\nComments URL: https://news.ycombinator.com/item?id=49530298\nPoints: 20\n# Comments: 9",
-            "time": "Wed, 02 Sep 2026 00:38:49 +0000",
-            "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/"
+            "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+            "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufactu...",
+            "time": "Wed, 02 Sep 2026 22:36:04 +0000",
+            "url": "https://news.ycombinator.com/item?id=49543530"
         },
         {
             "source": "Hacker News",
-            "title": "The efficient frontier of LLM inference",
-            "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 61\n# Comments: 9",
-            "time": "Tue, 01 Sep 2026 23:48:05 +0000",
-            "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
+            "title": "Reasons robotics is hard",
+            "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 61\n# Comments: 23",
+            "time": "Wed, 02 Sep 2026 22:02:30 +0000",
+            "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
         }
     ]
 }
