@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-03 11:58:55",
+    "updated_at": "2026-09-04 12:00:41",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
-            "summary": "FBI agents took control of domains and servers, specifically Alqassam.ps, to intercept donations and prevent further fundraising for the Al-Qassam Brigades.",
-            "time": "Wed, 02 Sep 2026 21:24:26 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites"
+            "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+            "summary": "The Office of the Comptroller of the Currency granted a provisional charter to the new full-service bank, adding it to the growing mix of crypto-native institutions.",
+            "time": "Fri, 04 Sep 2026 03:26:50 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate"
         },
         {
             "source": "CoinDesk",
-            "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
-            "summary": "The crypto exchange operator, which confidentially filed for a U.S. listing last November, had already put its IPO plans on hold amid difficult market conditions.",
-            "time": "Wed, 02 Sep 2026 20:08:34 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest"
+            "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+            "summary": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
+            "time": "Fri, 04 Sep 2026 03:03:25 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
-            "summary": "Adding Massachusetts incumbent Auchincloss to the list of winning primary candidates Fairshake supported, the industry's influence moves on to November.",
-            "time": "Wed, 02 Sep 2026 17:39:00 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election"
+            "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+            "summary": "The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.",
+            "time": "Thu, 03 Sep 2026 15:58:02 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae"
         },
         {
             "source": "Hacker News",
-            "title": "Wk. 6 of Vibecoding an MMO",
-            "summary": "Article URL: https://eldermyr.com/\nComments URL: https://news.ycombinator.com/item?id=49545547\nPoints: 5\n# Comments: 1",
-            "time": "Thu, 03 Sep 2026 03:13:54 +0000",
-            "url": "https://eldermyr.com/"
+            "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+            "summary": "Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/\nComments URL: https://news.ycombinator.com/item?id=49559992\nPoints: 9\n# Comments: 6",
+            "time": "Fri, 04 Sep 2026 02:54:16 +0000",
+            "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/"
         },
         {
             "source": "Hacker News",
-            "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-            "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufactu...",
-            "time": "Wed, 02 Sep 2026 22:36:04 +0000",
-            "url": "https://news.ycombinator.com/item?id=49543530"
+            "title": "From Hookswitch to Grave",
+            "summary": "Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html\nComments URL: https://news.ycombinator.com/item?id=49559901\nPoints: 8\n# Comments: 0",
+            "time": "Fri, 04 Sep 2026 02:40:12 +0000",
+            "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html"
         },
         {
             "source": "Hacker News",
-            "title": "Reasons robotics is hard",
-            "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 61\n# Comments: 23",
-            "time": "Wed, 02 Sep 2026 22:02:30 +0000",
-            "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
+            "title": "Project Xanadu: Even More Hindsight",
+            "summary": "Article URL: https://gwern.net/xanadu\nComments URL: https://news.ycombinator.com/item?id=49559522\nPoints: 26\n# Comments: 3",
+            "time": "Fri, 04 Sep 2026 01:45:23 +0000",
+            "url": "https://gwern.net/xanadu"
         }
     ]
 }
