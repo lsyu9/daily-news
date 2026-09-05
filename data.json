@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-04 12:00:41",
+    "updated_at": "2026-09-05 11:57:36",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
-            "summary": "The Office of the Comptroller of the Currency granted a provisional charter to the new full-service bank, adding it to the growing mix of crypto-native institutions.",
-            "time": "Fri, 04 Sep 2026 03:26:50 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate"
+            "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
+            "summary": "AMC boss Adam Aron called Robinhood’s stock tokens “synthetic equity” and threatened legal action. Vlad Tenev says the brokerage stands behind the product.",
+            "time": "Fri, 04 Sep 2026 14:56:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in"
         },
         {
             "source": "CoinDesk",
-            "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
-            "summary": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
-            "time": "Fri, 04 Sep 2026 03:03:25 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight"
+            "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
+            "summary": "The U.K.'s largest retail investment platform, Hargreaves Lansdown, has reversed course following the FCA's decision to lift its retail ban on crypto ETPs in October.",
+            "time": "Fri, 04 Sep 2026 14:23:11 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns"
         },
         {
             "source": "CoinDesk",
-            "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-            "summary": "The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.",
-            "time": "Thu, 03 Sep 2026 15:58:02 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae"
+            "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
+            "summary": "The law enforcement association said it has pivoted its position regarding the Clarity Act to neutral, months after it warned against a law it said would shield crypto crime.",
+            "time": "Fri, 04 Sep 2026 14:12:34 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral"
         },
         {
             "source": "Hacker News",
-            "title": "A Mysterious Kidney Disease Has Arrived in Texas",
-            "summary": "Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/\nComments URL: https://news.ycombinator.com/item?id=49559992\nPoints: 9\n# Comments: 6",
-            "time": "Fri, 04 Sep 2026 02:54:16 +0000",
-            "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/"
+            "title": "Nitter has more working instances than before the takedowns",
+            "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 28\n# Comments: 8",
+            "time": "Sat, 05 Sep 2026 00:04:16 +0000",
+            "url": "https://codeberg.org/mv12star/shitter/wiki/Instances"
         },
         {
             "source": "Hacker News",
-            "title": "From Hookswitch to Grave",
-            "summary": "Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html\nComments URL: https://news.ycombinator.com/item?id=49559901\nPoints: 8\n# Comments: 0",
-            "time": "Fri, 04 Sep 2026 02:40:12 +0000",
-            "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html"
+            "title": "Artificial Analysis Intelligence Index v4.2",
+            "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 73\n# Comments: 18",
+            "time": "Sat, 05 Sep 2026 00:04:14 +0000",
+            "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
         },
         {
             "source": "Hacker News",
-            "title": "Project Xanadu: Even More Hindsight",
-            "summary": "Article URL: https://gwern.net/xanadu\nComments URL: https://news.ycombinator.com/item?id=49559522\nPoints: 26\n# Comments: 3",
-            "time": "Fri, 04 Sep 2026 01:45:23 +0000",
-            "url": "https://gwern.net/xanadu"
+            "title": "Show HN: Moadim.io – A scheduler for agents",
+            "summary": "Why can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimited ...",
+            "time": "Fri, 04 Sep 2026 23:50:29 +0000",
+            "url": "https://moadim.io/"
         }
     ]
 }
