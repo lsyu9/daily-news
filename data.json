@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-05 11:57:36",
+    "updated_at": "2026-09-06 12:04:00",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
-            "summary": "AMC boss Adam Aron called Robinhood’s stock tokens “synthetic equity” and threatened legal action. Vlad Tenev says the brokerage stands behind the product.",
-            "time": "Fri, 04 Sep 2026 14:56:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in"
+            "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+            "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
+            "time": "Sat, 05 Sep 2026 18:05:11 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market"
         },
         {
             "source": "CoinDesk",
-            "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-            "summary": "The U.K.'s largest retail investment platform, Hargreaves Lansdown, has reversed course following the FCA's decision to lift its retail ban on crypto ETPs in October.",
-            "time": "Fri, 04 Sep 2026 14:23:11 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns"
+            "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+            "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
+            "time": "Sat, 05 Sep 2026 16:43:13 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-            "summary": "The law enforcement association said it has pivoted its position regarding the Clarity Act to neutral, months after it warned against a law it said would shield crypto crime.",
-            "time": "Fri, 04 Sep 2026 14:12:34 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral"
+            "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+            "summary": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
+            "time": "Sat, 05 Sep 2026 12:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million"
         },
         {
             "source": "Hacker News",
-            "title": "Nitter has more working instances than before the takedowns",
-            "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 28\n# Comments: 8",
-            "time": "Sat, 05 Sep 2026 00:04:16 +0000",
-            "url": "https://codeberg.org/mv12star/shitter/wiki/Instances"
+            "title": "AI, Tools and Transformation",
+            "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation\nComments URL: https://news.ycombinator.com/item?id=49582656\nPoints: 3\n# Comments: 0",
+            "time": "Sun, 06 Sep 2026 02:12:46 +0000",
+            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
         },
         {
             "source": "Hacker News",
-            "title": "Artificial Analysis Intelligence Index v4.2",
-            "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 73\n# Comments: 18",
-            "time": "Sat, 05 Sep 2026 00:04:14 +0000",
-            "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
+            "title": "GPT-6 Astra on robot arms",
+            "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/\nComments URL: https://news.ycombinator.com/item?id=49582582\nPoints: 73\n# Comments: 29",
+            "time": "Sun, 06 Sep 2026 01:52:45 +0000",
+            "url": "https://openai.robocurve.org/gpt-6-astra/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Moadim.io – A scheduler for agents",
-            "summary": "Why can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimited ...",
-            "time": "Fri, 04 Sep 2026 23:50:29 +0000",
-            "url": "https://moadim.io/"
+            "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+            "summary": "Article URL: https://cloudinabottle.org/blog/launch-post\nComments URL: https://news.ycombinator.com/item?id=49582000\nPoints: 215\n# Comments: 88",
+            "time": "Sun, 06 Sep 2026 00:03:29 +0000",
+            "url": "https://cloudinabottle.org/blog/launch-post"
         }
     ]
 }
