@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-06 12:04:00",
+    "updated_at": "2026-09-07 12:03:17",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
-            "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
-            "time": "Sat, 05 Sep 2026 18:05:11 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market"
+            "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+            "summary": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
+            "time": "Mon, 07 Sep 2026 03:43:12 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys"
         },
         {
             "source": "CoinDesk",
-            "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-            "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
-            "time": "Sat, 05 Sep 2026 16:43:13 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
+            "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+            "summary": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court.",
+            "time": "Sun, 06 Sep 2026 18:30:00 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
-            "summary": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
-            "time": "Sat, 05 Sep 2026 12:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million"
+            "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+            "summary": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
+            "time": "Sun, 06 Sep 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month"
         },
         {
             "source": "Hacker News",
-            "title": "AI, Tools and Transformation",
-            "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation\nComments URL: https://news.ycombinator.com/item?id=49582656\nPoints: 3\n# Comments: 0",
-            "time": "Sun, 06 Sep 2026 02:12:46 +0000",
-            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
+            "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+            "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\nComments URL: https://news.ycombinator.com/item?id=49593563\nPoints: 40\n# Comme...",
+            "time": "Mon, 07 Sep 2026 03:29:51 +0000",
+            "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
         },
         {
             "source": "Hacker News",
-            "title": "GPT-6 Astra on robot arms",
-            "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/\nComments URL: https://news.ycombinator.com/item?id=49582582\nPoints: 73\n# Comments: 29",
-            "time": "Sun, 06 Sep 2026 01:52:45 +0000",
-            "url": "https://openai.robocurve.org/gpt-6-astra/"
+            "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+            "summary": "Article URL: https://gettogether.dev\nComments URL: https://news.ycombinator.com/item?id=49592840\nPoints: 12\n# Comments: 4",
+            "time": "Mon, 07 Sep 2026 01:41:11 +0000",
+            "url": "https://gettogether.dev"
         },
         {
             "source": "Hacker News",
-            "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-            "summary": "Article URL: https://cloudinabottle.org/blog/launch-post\nComments URL: https://news.ycombinator.com/item?id=49582000\nPoints: 215\n# Comments: 88",
-            "time": "Sun, 06 Sep 2026 00:03:29 +0000",
-            "url": "https://cloudinabottle.org/blog/launch-post"
+            "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+            "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel\nComments URL: https://news.ycombinator.com/item?id=49592366\nPoints: 17\n# Comments: 3",
+            "time": "Mon, 07 Sep 2026 00:21:01 +0000",
+            "url": "https://github.com/Staatsgeheim/MathKernel"
         }
     ]
 }
