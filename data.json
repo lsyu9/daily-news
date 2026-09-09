@@ -1,26 +1,47 @@
 {
-    "updated_at": "2026-09-08 12:05:23",
+    "updated_at": "2026-09-09 12:11:56",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
-            "summary": "Simon Gerovich said Metaplanet had not adequately explained the structure, and denied involvement in MMXX Ventures’ trading decisions.",
-            "time": "Mon, 07 Sep 2026 23:01:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered"
+            "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
+            "summary": "Kuchinad, the CEO of cryptocurrency custody firm Copper since 2024, has left the company, according to two people familiar with the matter.",
+            "time": "Tue, 08 Sep 2026 15:23:46 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month"
         },
         {
             "source": "CoinDesk",
-            "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-            "summary": "LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes — including a Democratic win in 2028 — comes good.",
-            "time": "Mon, 07 Sep 2026 15:44:30 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop"
+            "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+            "summary": "The deal could grant Circle vital, regulated \"last-mile\" infrastructure, bridging the gap between stablecoins and traditional local banking systems.",
+            "time": "Tue, 08 Sep 2026 14:40:46 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million"
         },
         {
             "source": "CoinDesk",
-            "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-            "summary": "BitBay became Zondacrypto in 2021. The exchange stopped trading in April after customers faced frozen withdrawals and estimated losses of at least $94 million.",
-            "time": "Mon, 07 Sep 2026 15:28:43 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe"
+            "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
+            "summary": "SATA’s 13% annualised dividend and resilience around par are helping Strive raise capital and outperform Strategy.",
+            "time": "Tue, 08 Sep 2026 14:33:32 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Harvard study predicts most suicide attempts a week in advance",
+            "summary": "Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance\nComments URL: https://news.ycombinator.com/item?id=49619906\nPoints: 94\n# Comments: 46",
+            "time": "Wed, 09 Sep 2026 02:07:13 +0000",
+            "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance"
+        },
+        {
+            "source": "Hacker News",
+            "title": "AI Responsibility – OpenAI and Anthropic",
+            "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843\nComments URL: https://news.ycombinator.com/item?id=49619639\nPoints: 65\n# Comments: 14",
+            "time": "Wed, 09 Sep 2026 01:32:49 +0000",
+            "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
+        },
+        {
+            "source": "Hacker News",
+            "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+            "summary": "Article URL: https://gpu-lexer.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49619464\nPoints: 31\n# Comments: 8",
+            "time": "Wed, 09 Sep 2026 01:14:50 +0000",
+            "url": "https://gpu-lexer.vercel.app/"
         }
     ]
 }
