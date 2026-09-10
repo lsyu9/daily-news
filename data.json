@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-09 12:11:56",
+    "updated_at": "2026-09-10 12:09:00",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
-            "summary": "Kuchinad, the CEO of cryptocurrency custody firm Copper since 2024, has left the company, according to two people familiar with the matter.",
-            "time": "Tue, 08 Sep 2026 15:23:46 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month"
+            "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
+            "summary": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
+            "time": "Wed, 09 Sep 2026 16:11:07 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo"
         },
         {
             "source": "CoinDesk",
-            "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
-            "summary": "The deal could grant Circle vital, regulated \"last-mile\" infrastructure, bridging the gap between stablecoins and traditional local banking systems.",
-            "time": "Tue, 08 Sep 2026 14:40:46 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million"
+            "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+            "summary": "Chinese-language platform Xinbi is accused of operating on crypto transactions as it offered services to other criminal networks.",
+            "time": "Wed, 09 Sep 2026 16:05:11 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee"
         },
         {
             "source": "CoinDesk",
-            "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
-            "summary": "SATA’s 13% annualised dividend and resilience around par are helping Strive raise capital and outperform Strategy.",
-            "time": "Tue, 08 Sep 2026 14:33:32 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform"
+            "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+            "summary": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.",
+            "time": "Wed, 09 Sep 2026 15:51:25 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara"
         },
         {
             "source": "Hacker News",
-            "title": "Harvard study predicts most suicide attempts a week in advance",
-            "summary": "Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance\nComments URL: https://news.ycombinator.com/item?id=49619906\nPoints: 94\n# Comments: 46",
-            "time": "Wed, 09 Sep 2026 02:07:13 +0000",
-            "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance"
+            "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+            "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 11\n# Comments: 1",
+            "time": "Thu, 10 Sep 2026 02:04:11 +0000",
+            "url": "https://hugovergnes.github.io/little-lm-3-8b/"
         },
         {
             "source": "Hacker News",
-            "title": "AI Responsibility – OpenAI and Anthropic",
-            "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843\nComments URL: https://news.ycombinator.com/item?id=49619639\nPoints: 65\n# Comments: 14",
-            "time": "Wed, 09 Sep 2026 01:32:49 +0000",
-            "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
+            "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+            "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/\nComments URL: https://news.ycombinator.c...",
+            "time": "Thu, 10 Sep 2026 01:59:51 +0000",
+            "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
         },
         {
             "source": "Hacker News",
-            "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-            "summary": "Article URL: https://gpu-lexer.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49619464\nPoints: 31\n# Comments: 8",
-            "time": "Wed, 09 Sep 2026 01:14:50 +0000",
-            "url": "https://gpu-lexer.vercel.app/"
+            "title": "Show HN: What if the speed of light was 5 km/h?",
+            "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version o...",
+            "time": "Thu, 10 Sep 2026 01:58:00 +0000",
+            "url": "https://rivendell.dmitrybrant.com/relativity/"
         }
     ]
 }
