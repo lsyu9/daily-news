@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-10 12:09:00",
+    "updated_at": "2026-09-11 12:08:07",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-            "summary": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
-            "time": "Wed, 09 Sep 2026 16:11:07 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo"
+            "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+            "summary": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
+            "time": "Thu, 10 Sep 2026 20:21:57 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
-            "summary": "Chinese-language platform Xinbi is accused of operating on crypto transactions as it offered services to other criminal networks.",
-            "time": "Wed, 09 Sep 2026 16:05:11 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee"
+            "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+            "summary": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
+            "time": "Thu, 10 Sep 2026 19:01:30 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities"
         },
         {
             "source": "CoinDesk",
-            "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-            "summary": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.",
-            "time": "Wed, 09 Sep 2026 15:51:25 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara"
+            "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+            "summary": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
+            "time": "Thu, 10 Sep 2026 17:07:59 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows"
         },
         {
             "source": "Hacker News",
-            "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-            "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 11\n# Comments: 1",
-            "time": "Thu, 10 Sep 2026 02:04:11 +0000",
-            "url": "https://hugovergnes.github.io/little-lm-3-8b/"
+            "title": "LLM Visualizer – Build a Transformer from Scratch",
+            "summary": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\nComments URL: https://news.ycombinator.com/item?id=49652996\nPoints: 7\n# Comments: 3",
+            "time": "Fri, 11 Sep 2026 02:51:51 +0000",
+            "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard"
         },
         {
             "source": "Hacker News",
-            "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-            "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/\nComments URL: https://news.ycombinator.c...",
-            "time": "Thu, 10 Sep 2026 01:59:51 +0000",
-            "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
+            "title": "Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
+            "summary": "Article URL: https://github.com/HimanshuJ16/Algo-Trading-Skills\nComments URL: https://news.ycombinator.com/item?id=49652907\nPoints: 5\n# Comments: 2",
+            "time": "Fri, 11 Sep 2026 02:37:28 +0000",
+            "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: What if the speed of light was 5 km/h?",
-            "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version o...",
-            "time": "Thu, 10 Sep 2026 01:58:00 +0000",
-            "url": "https://rivendell.dmitrybrant.com/relativity/"
+            "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+            "summary": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\nComments URL: https://news.ycombinator.com/i...",
+            "time": "Fri, 11 Sep 2026 01:00:56 +0000",
+            "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/"
         }
     ]
 }
