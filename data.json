@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-11 12:08:07",
+    "updated_at": "2026-09-12 12:07:55",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-            "summary": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
-            "time": "Thu, 10 Sep 2026 20:21:57 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky"
+            "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+            "summary": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
+            "time": "Fri, 11 Sep 2026 23:47:51 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud"
         },
         {
             "source": "CoinDesk",
-            "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
-            "summary": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
-            "time": "Thu, 10 Sep 2026 19:01:30 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities"
+            "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+            "summary": "The fallen leader of the former top exchange FTX is looking for answers from the U.S. Supreme Court.",
+            "time": "Fri, 11 Sep 2026 17:12:45 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act"
         },
         {
             "source": "CoinDesk",
-            "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-            "summary": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
-            "time": "Thu, 10 Sep 2026 17:07:59 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows"
+            "title": "With Fed rate hike all but assured, here's how markets might react",
+            "summary": "Traders could look past an expected Fed hike and weigh what higher rates are signaling about the economy.",
+            "time": "Fri, 11 Sep 2026 15:45:56 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story"
         },
         {
             "source": "Hacker News",
-            "title": "LLM Visualizer – Build a Transformer from Scratch",
-            "summary": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\nComments URL: https://news.ycombinator.com/item?id=49652996\nPoints: 7\n# Comments: 3",
-            "time": "Fri, 11 Sep 2026 02:51:51 +0000",
-            "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard"
+            "title": "Google no longer provides direct URLs in search results",
+            "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 22\n# Comments: 5",
+            "time": "Sat, 12 Sep 2026 03:14:20 +0000",
+            "url": "https://www.autom.dev/blog/google-search-goto-links"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
-            "summary": "Article URL: https://github.com/HimanshuJ16/Algo-Trading-Skills\nComments URL: https://news.ycombinator.com/item?id=49652907\nPoints: 5\n# Comments: 2",
-            "time": "Fri, 11 Sep 2026 02:37:28 +0000",
-            "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills"
+            "title": "Pandas Should Go Extinct",
+            "summary": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/\nComments URL: https://news.ycombinator.com/item?id=49668198\nPoints: 50\n# Comments: 27",
+            "time": "Sat, 12 Sep 2026 02:42:08 +0000",
+            "url": "https://eddie.codes/posts/pandas-should-go-extinct/"
         },
         {
             "source": "Hacker News",
-            "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-            "summary": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\nComments URL: https://news.ycombinator.com/i...",
-            "time": "Fri, 11 Sep 2026 01:00:56 +0000",
-            "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/"
+            "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+            "summary": "Article URL: https://www.minitap.ai/blog/i-expected-better-from-google\nComments URL: https://news.ycombinator.com/item?id=49668181\nPoints: 85\n# Comments: 14",
+            "time": "Sat, 12 Sep 2026 02:39:39 +0000",
+            "url": "https://www.minitap.ai/blog/i-expected-better-from-google"
         }
     ]
 }
