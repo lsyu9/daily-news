@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-14 12:26:30",
+    "updated_at": "2026-09-15 12:26:51",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
-            "summary": "I dunno, flip a coin.",
-            "time": "Sun, 13 Sep 2026 18:45:08 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto"
+            "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
+            "summary": "Democratic Senators were said to be meeting late Monday to discuss the latest proposed draft text.",
+            "time": "Tue, 15 Sep 2026 04:09:01 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions"
         },
         {
             "source": "CoinDesk",
-            "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-            "summary": "lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
-            "time": "Sun, 13 Sep 2026 17:00:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key"
+            "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+            "summary": "The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.",
+            "time": "Tue, 15 Sep 2026 03:27:38 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week"
         },
         {
             "source": "CoinDesk",
-            "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-            "summary": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
-            "time": "Sun, 13 Sep 2026 13:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist"
+            "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+            "summary": "Bitcoin pulls back from $79,000 as the Senate prepares to vote on the Clarity Act and oil prices rise.",
+            "time": "Tue, 15 Sep 2026 03:23:28 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb"
         },
         {
             "source": "Hacker News",
-            "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-            "summary": "https://archive.ph/8NmSg\n\nComments URL: https://news.ycombinator.com/item?id=49691343\nPoints: 42\n# Comments: 22",
-            "time": "Mon, 14 Sep 2026 02:50:40 +0000",
-            "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/"
+            "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+            "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\nComments URL: https://news.ycombinat...",
+            "time": "Tue, 15 Sep 2026 00:40:14 +0000",
+            "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Is It Greg?",
-            "summary": "My friend Greg often posts incredible things he just made, just for fun.Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!A few things he made that I ...",
-            "time": "Mon, 14 Sep 2026 01:58:41 +0000",
-            "url": "https://github.com/antoineleclair/is-it-greg"
+            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+            "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd\nComments URL: https://news.ycombinator.com/item?id=49705442\nPoints: 46\n# Comments: 9",
+            "time": "Mon, 14 Sep 2026 23:01:36 +0000",
+            "url": "https://github.com/JamesRyanATX/fcbnerd"
         },
         {
             "source": "Hacker News",
-            "title": "The Malicious Use of Artificial Intelligence",
-            "summary": "Article URL: https://arxiv.org/abs/1802.07228\nComments URL: https://news.ycombinator.com/item?id=49690678\nPoints: 25\n# Comments: 6",
-            "time": "Mon, 14 Sep 2026 01:22:35 +0000",
-            "url": "https://arxiv.org/abs/1802.07228"
+            "title": "Charts built for Chat",
+            "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/\nComments URL: https://news.ycombinator.com/item?id=49704246\nPoints: 146\n# Comments: 45",
+            "time": "Mon, 14 Sep 2026 21:22:54 +0000",
+            "url": "https://dbtcharts.com/blog/charts-built-for-chat/"
         }
     ]
 }
