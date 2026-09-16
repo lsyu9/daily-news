@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-15 12:26:51",
+    "updated_at": "2026-09-16 12:22:27",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-            "summary": "Democratic Senators were said to be meeting late Monday to discuss the latest proposed draft text.",
-            "time": "Tue, 15 Sep 2026 04:09:01 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions"
+            "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+            "summary": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
+            "time": "Wed, 16 Sep 2026 04:07:27 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-            "summary": "The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.",
-            "time": "Tue, 15 Sep 2026 03:27:38 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week"
+            "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+            "summary": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
+            "time": "Wed, 16 Sep 2026 03:37:45 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
-            "summary": "Bitcoin pulls back from $79,000 as the Senate prepares to vote on the Clarity Act and oil prices rise.",
-            "time": "Tue, 15 Sep 2026 03:23:28 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb"
+            "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
+            "summary": "Last minute, behind-the-scenes disputes locked in a dismal showing for the market structure legislation the industry pinned its greatest hopes on.",
+            "time": "Tue, 15 Sep 2026 21:58:48 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act"
         },
         {
             "source": "Hacker News",
-            "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-            "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\nComments URL: https://news.ycombinat...",
-            "time": "Tue, 15 Sep 2026 00:40:14 +0000",
-            "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
+            "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+            "summary": "Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\nComments URL: https://news.ycombinator.com/item?id=49721548\nPoints: 31\n# Comments: 10",
+            "time": "Wed, 16 Sep 2026 02:46:06 +0000",
+            "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-            "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd\nComments URL: https://news.ycombinator.com/item?id=49705442\nPoints: 46\n# Comments: 9",
-            "time": "Mon, 14 Sep 2026 23:01:36 +0000",
-            "url": "https://github.com/JamesRyanATX/fcbnerd"
+            "title": "Stay discoverable in search while disallowing AI training",
+            "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/\nComments URL: https://news.ycombinator.com/item?id=49721435\nPoints: 36\n# Comments: 16",
+            "time": "Wed, 16 Sep 2026 02:25:18 +0000",
+            "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
         },
         {
             "source": "Hacker News",
-            "title": "Charts built for Chat",
-            "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/\nComments URL: https://news.ycombinator.com/item?id=49704246\nPoints: 146\n# Comments: 45",
-            "time": "Mon, 14 Sep 2026 21:22:54 +0000",
-            "url": "https://dbtcharts.com/blog/charts-built-for-chat/"
+            "title": "Apple Reference Image: A New Approach for Verified Photography",
+            "summary": "Article URL: https://security.apple.com/blog/apple-reference-image/\nComments URL: https://news.ycombinator.com/item?id=49721322\nPoints: 55\n# Comments: 34",
+            "time": "Wed, 16 Sep 2026 02:07:31 +0000",
+            "url": "https://security.apple.com/blog/apple-reference-image/"
         }
     ]
 }
