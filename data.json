@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-16 12:22:27",
+    "updated_at": "2026-09-17 12:28:28",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
-            "summary": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
-            "time": "Wed, 16 Sep 2026 04:07:27 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails"
+            "title": "Goldman pivots, now forecasts Fed hike in October",
+            "summary": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
+            "time": "Thu, 17 Sep 2026 04:17:55 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october"
         },
         {
             "source": "CoinDesk",
-            "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-            "summary": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
-            "time": "Wed, 16 Sep 2026 03:37:45 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000"
+            "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+            "summary": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings.",
+            "time": "Wed, 16 Sep 2026 19:07:34 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data"
         },
         {
             "source": "CoinDesk",
-            "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
-            "summary": "Last minute, behind-the-scenes disputes locked in a dismal showing for the market structure legislation the industry pinned its greatest hopes on.",
-            "time": "Tue, 15 Sep 2026 21:58:48 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act"
+            "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+            "summary": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
+            "time": "Wed, 16 Sep 2026 17:54:55 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023"
         },
         {
             "source": "Hacker News",
-            "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-            "summary": "Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\nComments URL: https://news.ycombinator.com/item?id=49721548\nPoints: 31\n# Comments: 10",
-            "time": "Wed, 16 Sep 2026 02:46:06 +0000",
-            "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/"
+            "title": "The Painful Truth: The RAM Crisis Is Only Just the Beginning",
+            "summary": "Article URL: https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/\nComments URL: https://news.ycombinator.com/item?id=49736220\nPoints: 10\n# Comments: 4",
+            "time": "Thu, 17 Sep 2026 03:57:59 +0000",
+            "url": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/"
         },
         {
             "source": "Hacker News",
-            "title": "Stay discoverable in search while disallowing AI training",
-            "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/\nComments URL: https://news.ycombinator.com/item?id=49721435\nPoints: 36\n# Comments: 16",
-            "time": "Wed, 16 Sep 2026 02:25:18 +0000",
-            "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
+            "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+            "summary": "Article URL: https://ryan.science/blog/keys-not-included\nComments URL: https://news.ycombinator.com/item?id=49735930\nPoints: 49\n# Comments: 16",
+            "time": "Thu, 17 Sep 2026 03:03:23 +0000",
+            "url": "https://ryan.science/blog/keys-not-included"
         },
         {
             "source": "Hacker News",
-            "title": "Apple Reference Image: A New Approach for Verified Photography",
-            "summary": "Article URL: https://security.apple.com/blog/apple-reference-image/\nComments URL: https://news.ycombinator.com/item?id=49721322\nPoints: 55\n# Comments: 34",
-            "time": "Wed, 16 Sep 2026 02:07:31 +0000",
-            "url": "https://security.apple.com/blog/apple-reference-image/"
+            "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
+            "summary": "Article URL: https://www.vanityfair.com/news/2008/05/monsanto200805\nComments URL: https://news.ycombinator.com/item?id=49735692\nPoints: 23\n# Comments: 9",
+            "time": "Thu, 17 Sep 2026 02:19:49 +0000",
+            "url": "https://www.vanityfair.com/news/2008/05/monsanto200805"
         }
     ]
 }
