@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-17 12:28:28",
+    "updated_at": "2026-09-18 12:12:50",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Goldman pivots, now forecasts Fed hike in October",
-            "summary": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
-            "time": "Thu, 17 Sep 2026 04:17:55 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october"
+            "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+            "summary": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
+            "time": "Fri, 18 Sep 2026 03:03:38 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike"
         },
         {
             "source": "CoinDesk",
-            "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-            "summary": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings.",
-            "time": "Wed, 16 Sep 2026 19:07:34 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data"
+            "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+            "summary": "The SEC is giving tokenized stocks a regulated U.S. pathway, while keeping trading volumes, access and issuer rights tightly controlled.",
+            "time": "Thu, 17 Sep 2026 21:47:22 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work"
         },
         {
             "source": "CoinDesk",
-            "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-            "summary": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
-            "time": "Wed, 16 Sep 2026 17:54:55 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023"
+            "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+            "summary": "The estranged daughter of 77-year-old Kathleen Allman has petitioned a Hawaiian court to establish a limited conservatorship to protect her parents’ share of her brother’s stake in Ondo.",
+            "time": "Thu, 17 Sep 2026 21:28:35 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending"
         },
         {
             "source": "Hacker News",
-            "title": "The Painful Truth: The RAM Crisis Is Only Just the Beginning",
-            "summary": "Article URL: https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/\nComments URL: https://news.ycombinator.com/item?id=49736220\nPoints: 10\n# Comments: 4",
-            "time": "Thu, 17 Sep 2026 03:57:59 +0000",
-            "url": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/"
+            "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+            "summary": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/\nComments URL: https://news.ycombinator.com/item?id=49749771\nPoints: 5\n# Comments: 0",
+            "time": "Fri, 18 Sep 2026 03:04:38 +0000",
+            "url": "https://linguisticdiscovery.com/posts/pre-greek/"
         },
         {
             "source": "Hacker News",
-            "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-            "summary": "Article URL: https://ryan.science/blog/keys-not-included\nComments URL: https://news.ycombinator.com/item?id=49735930\nPoints: 49\n# Comments: 16",
-            "time": "Thu, 17 Sep 2026 03:03:23 +0000",
-            "url": "https://ryan.science/blog/keys-not-included"
+            "title": "Code Scans",
+            "summary": "Article URL: https://devin.ai/blog/introducing-code-scans\nComments URL: https://news.ycombinator.com/item?id=49749744\nPoints: 6\n# Comments: 0",
+            "time": "Fri, 18 Sep 2026 03:00:40 +0000",
+            "url": "https://devin.ai/blog/introducing-code-scans"
         },
         {
             "source": "Hacker News",
-            "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
-            "summary": "Article URL: https://www.vanityfair.com/news/2008/05/monsanto200805\nComments URL: https://news.ycombinator.com/item?id=49735692\nPoints: 23\n# Comments: 9",
-            "time": "Thu, 17 Sep 2026 02:19:49 +0000",
-            "url": "https://www.vanityfair.com/news/2008/05/monsanto200805"
+            "title": "Hacking OpenAI",
+            "summary": "Article URL: https://www.hacktron.ai/blog/hacking-openai\nComments URL: https://news.ycombinator.com/item?id=49749656\nPoints: 49\n# Comments: 15",
+            "time": "Fri, 18 Sep 2026 02:47:24 +0000",
+            "url": "https://www.hacktron.ai/blog/hacking-openai"
         }
     ]
 }
