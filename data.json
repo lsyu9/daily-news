@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-22 12:22:20",
+    "updated_at": "2026-09-23 12:19:11",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-            "summary": "The official x402 kit now includes Cardano tools for apps and AI agents to pay with ADA and other network tokens, though the facilitator has so far only been tested on pre-production.",
-            "time": "Tue, 22 Sep 2026 04:15:45 +0000",
-            "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments"
+            "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+            "summary": "Falling oil eased inflation worries through the Asian session, while a bill to make the government's bitcoin stockpile permanent moved further through Congress than any before it.",
+            "time": "Wed, 23 Sep 2026 04:10:08 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-            "summary": "Bitcoin has broken out to $86,000, but analysts say the next leg depends on whether spot buyers continue to show up as leverage builds.",
-            "time": "Mon, 21 Sep 2026 20:39:39 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building"
+            "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
+            "summary": "The Commodity Futures Trading Commission issued a new advisory to flag the unique dangers of markets based on individuals' behavior.",
+            "time": "Wed, 23 Sep 2026 00:00:45 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms"
         },
         {
             "source": "CoinDesk",
-            "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
-            "summary": "TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.",
-            "time": "Mon, 21 Sep 2026 19:08:40 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules"
+            "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+            "summary": "Senator Cynthia Lummis said the crypto industry should \"pin it on the Democrats\" in her first public remarks after last week's failed Clarity Act vote.",
+            "time": "Tue, 22 Sep 2026 21:29:05 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says"
         },
         {
             "source": "Hacker News",
-            "title": "Claude Status – Elevated errors for multiple models",
-            "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh\nComments URL: https://news.ycombinator.com/item?id=49795579\nPoints: 77\n# Comments: 61",
-            "time": "Tue, 22 Sep 2026 01:05:19 +0000",
-            "url": "https://status.claude.com/incidents/7g1qpkyz5gxh"
+            "title": "Data-Only Attacks Are Easier Than You Think",
+            "summary": "Article URL: https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\nComments URL: https://news.ycombinator.com/item?id=49811429\nPoints: 4\n# Comments: 0",
+            "time": "Wed, 23 Sep 2026 03:49:28 +0000",
+            "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think"
         },
         {
             "source": "Hacker News",
-            "title": "Socrates vs. the Written Word (2011)",
-            "summary": "Article URL: https://wondermark.com/socrates-vs-writing/\nComments URL: https://news.ycombinator.com/item?id=49795122\nPoints: 19\n# Comments: 4",
-            "time": "Tue, 22 Sep 2026 00:06:55 +0000",
-            "url": "https://wondermark.com/socrates-vs-writing/"
+            "title": "Transit rewards (Waymo pays you to take the train)",
+            "summary": "Article URL: https://waymo.com/blog/2026/09/transit-rewards/\nComments URL: https://news.ycombinator.com/item?id=49811065\nPoints: 19\n# Comments: 1",
+            "time": "Wed, 23 Sep 2026 02:52:29 +0000",
+            "url": "https://waymo.com/blog/2026/09/transit-rewards/"
         },
         {
             "source": "Hacker News",
-            "title": "Looking forward to Git 2.56 – and 3.0",
-            "summary": "Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\nComments URL: https://news.ycombinator.com/item?id=49794736\nPoints: 53\n# Comments: 22",
-            "time": "Mon, 21 Sep 2026 23:16:51 +0000",
-            "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
+            "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+            "summary": "Article URL: https://www.bbc.com/news/articles/cqj3dgy8x3vro\nComments URL: https://news.ycombinator.com/item?id=49810829\nPoints: 68\n# Comments: 43",
+            "time": "Wed, 23 Sep 2026 02:13:52 +0000",
+            "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro"
         }
     ]
 }
