@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-23 12:19:11",
+    "updated_at": "2026-09-24 12:15:36",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-            "summary": "Falling oil eased inflation worries through the Asian session, while a bill to make the government's bitcoin stockpile permanent moved further through Congress than any before it.",
-            "time": "Wed, 23 Sep 2026 04:10:08 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000"
+            "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+            "summary": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
+            "time": "Thu, 24 Sep 2026 04:13:01 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-            "summary": "The Commodity Futures Trading Commission issued a new advisory to flag the unique dangers of markets based on individuals' behavior.",
-            "time": "Wed, 23 Sep 2026 00:00:45 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms"
+            "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+            "summary": "The prediction market says unusual patterns in its ether perpetual market are the result of liquidity incentives.",
+            "time": "Wed, 23 Sep 2026 19:04:52 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity"
         },
         {
             "source": "CoinDesk",
-            "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
-            "summary": "Senator Cynthia Lummis said the crypto industry should \"pin it on the Democrats\" in her first public remarks after last week's failed Clarity Act vote.",
-            "time": "Tue, 22 Sep 2026 21:29:05 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says"
+            "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+            "summary": "The crypto community is seeking answers after 37-year-old growth executive Hsin-Ju Chuang was found dead in a remote California desert vehicle.",
+            "time": "Wed, 23 Sep 2026 18:59:36 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm"
         },
         {
             "source": "Hacker News",
-            "title": "Data-Only Attacks Are Easier Than You Think",
-            "summary": "Article URL: https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\nComments URL: https://news.ycombinator.com/item?id=49811429\nPoints: 4\n# Comments: 0",
-            "time": "Wed, 23 Sep 2026 03:49:28 +0000",
-            "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think"
+            "title": "Australia says OpenAI agent hacked into government website",
+            "summary": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\nComments URL: https://news.ycombinator.com/item?id=49825024\nPoints: 51\n# Comments: 33",
+            "time": "Thu, 24 Sep 2026 01:24:00 +0000",
+            "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411"
         },
         {
             "source": "Hacker News",
-            "title": "Transit rewards (Waymo pays you to take the train)",
-            "summary": "Article URL: https://waymo.com/blog/2026/09/transit-rewards/\nComments URL: https://news.ycombinator.com/item?id=49811065\nPoints: 19\n# Comments: 1",
-            "time": "Wed, 23 Sep 2026 02:52:29 +0000",
-            "url": "https://waymo.com/blog/2026/09/transit-rewards/"
+            "title": "Liquid Network Security Incident Assessment",
+            "summary": "Article URL: https://blog.blockstream.com/liquid-network-security-incident-assessment/\nComments URL: https://news.ycombinator.com/item?id=49824978\nPoints: 4\n# Comments: 0",
+            "time": "Thu, 24 Sep 2026 01:18:33 +0000",
+            "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/"
         },
         {
             "source": "Hacker News",
-            "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-            "summary": "Article URL: https://www.bbc.com/news/articles/cqj3dgy8x3vro\nComments URL: https://news.ycombinator.com/item?id=49810829\nPoints: 68\n# Comments: 43",
-            "time": "Wed, 23 Sep 2026 02:13:52 +0000",
-            "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro"
+            "title": "FLAWED's Flaws and What This Means for Industry Research",
+            "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\nComments URL: https://news.ycombinator.com/item?id=49824969\nPoints: 14\n# Comments: 2",
+            "time": "Thu, 24 Sep 2026 01:16:33 +0000",
+            "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/"
         }
     ]
 }
