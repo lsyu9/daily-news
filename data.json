@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-24 12:15:36",
+    "updated_at": "2026-09-25 12:27:49",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-            "summary": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
-            "time": "Thu, 24 Sep 2026 04:13:01 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007"
+            "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+            "summary": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
+            "time": "Thu, 24 Sep 2026 22:41:44 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
         },
         {
             "source": "CoinDesk",
-            "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
-            "summary": "The prediction market says unusual patterns in its ether perpetual market are the result of liquidity incentives.",
-            "time": "Wed, 23 Sep 2026 19:04:52 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity"
+            "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+            "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
+            "time": "Thu, 24 Sep 2026 22:28:49 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins"
         },
         {
             "source": "CoinDesk",
-            "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-            "summary": "The crypto community is seeking answers after 37-year-old growth executive Hsin-Ju Chuang was found dead in a remote California desert vehicle.",
-            "time": "Wed, 23 Sep 2026 18:59:36 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm"
+            "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+            "summary": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
+            "time": "Thu, 24 Sep 2026 21:59:32 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe"
         },
         {
             "source": "Hacker News",
-            "title": "Australia says OpenAI agent hacked into government website",
-            "summary": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\nComments URL: https://news.ycombinator.com/item?id=49825024\nPoints: 51\n# Comments: 33",
-            "time": "Thu, 24 Sep 2026 01:24:00 +0000",
-            "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411"
+            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+            "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.This last part, along with everything else this past year, has caused me a...",
+            "time": "Thu, 24 Sep 2026 21:33:03 +0000",
+            "url": "https://koi.rest"
         },
         {
             "source": "Hacker News",
-            "title": "Liquid Network Security Incident Assessment",
-            "summary": "Article URL: https://blog.blockstream.com/liquid-network-security-incident-assessment/\nComments URL: https://news.ycombinator.com/item?id=49824978\nPoints: 4\n# Comments: 0",
-            "time": "Thu, 24 Sep 2026 01:18:33 +0000",
-            "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/"
+            "title": "The Board Game of the Alpha Nerds (2014)",
+            "summary": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/\nComments URL: https://news.ycombinator.com/item?id=49836590\nPoints: 68\n# Comments: 26",
+            "time": "Thu, 24 Sep 2026 20:53:39 +0000",
+            "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/"
         },
         {
             "source": "Hacker News",
-            "title": "FLAWED's Flaws and What This Means for Industry Research",
-            "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\nComments URL: https://news.ycombinator.com/item?id=49824969\nPoints: 14\n# Comments: 2",
-            "time": "Thu, 24 Sep 2026 01:16:33 +0000",
-            "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/"
+            "title": "California is chasing wealth that has feet",
+            "summary": "Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that\nComments URL: https://news.ycombinator.com/item?id=49836419\nPoints: 181\n# Comments: 512",
+            "time": "Thu, 24 Sep 2026 20:34:32 +0000",
+            "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that"
         }
     ]
 }
