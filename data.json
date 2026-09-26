@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-25 12:27:49",
+    "updated_at": "2026-09-26 12:32:16",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-            "summary": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
-            "time": "Thu, 24 Sep 2026 22:41:44 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
+            "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+            "summary": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
+            "time": "Sat, 26 Sep 2026 04:30:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-            "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
-            "time": "Thu, 24 Sep 2026 22:28:49 +0000",
-            "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins"
+            "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+            "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+            "time": "Sat, 26 Sep 2026 04:02:13 +0000",
+            "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-            "summary": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
-            "time": "Thu, 24 Sep 2026 21:59:32 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe"
+            "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+            "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
+            "time": "Fri, 25 Sep 2026 22:17:38 +0000",
+            "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-            "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.This last part, along with everything else this past year, has caused me a...",
-            "time": "Thu, 24 Sep 2026 21:33:03 +0000",
-            "url": "https://koi.rest"
+            "title": "We're gonna need a lot more mathematicians",
+            "summary": "Article URL: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/\nComments URL: https://news.ycombinator.com/item?id=49852717\nPoints: 22\n# Comments: 2",
+            "time": "Sat, 26 Sep 2026 02:46:54 +0000",
+            "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
         },
         {
             "source": "Hacker News",
-            "title": "The Board Game of the Alpha Nerds (2014)",
-            "summary": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/\nComments URL: https://news.ycombinator.com/item?id=49836590\nPoints: 68\n# Comments: 26",
-            "time": "Thu, 24 Sep 2026 20:53:39 +0000",
-            "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/"
+            "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+            "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\nComments URL: https://news.ycombinator.com/item?id=49852302\nPoints: 110\n# Comments: 15",
+            "time": "Sat, 26 Sep 2026 01:36:50 +0000",
+            "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/"
         },
         {
             "source": "Hacker News",
-            "title": "California is chasing wealth that has feet",
-            "summary": "Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that\nComments URL: https://news.ycombinator.com/item?id=49836419\nPoints: 181\n# Comments: 512",
-            "time": "Thu, 24 Sep 2026 20:34:32 +0000",
-            "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that"
+            "title": "The Failed \"Hostage Theory\" of Nikole Hannah-Jones",
+            "summary": "Article URL: https://www.educationprogress.org/p/the-failed-hostage-theory-of-nikole\nComments URL: https://news.ycombinator.com/item?id=49852131\nPoints: 7\n# Comments: 1",
+            "time": "Sat, 26 Sep 2026 01:11:22 +0000",
+            "url": "https://www.educationprogress.org/p/the-failed-hostage-theory-of-nikole"
         }
     ]
 }
