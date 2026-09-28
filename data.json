@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-27 12:50:35",
+    "updated_at": "2026-09-28 12:53:16",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-            "summary": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
-            "time": "Sat, 26 Sep 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange"
+            "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+            "summary": "Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
+            "time": "Mon, 28 Sep 2026 03:58:52 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes"
         },
         {
             "source": "CoinDesk",
-            "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-            "summary": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
-            "time": "Sat, 26 Sep 2026 13:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say"
+            "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+            "summary": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
+            "time": "Sun, 27 Sep 2026 14:29:13 +0000",
+            "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
-            "summary": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
-            "time": "Sat, 26 Sep 2026 12:56:41 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze"
+            "title": "How months of work on the Clarity Act all fell apart",
+            "summary": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around...",
+            "time": "Sun, 27 Sep 2026 12:00:00 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart"
         },
         {
             "source": "Hacker News",
-            "title": "If we do not stop to help each other, what do we become?",
-            "summary": "Article URL: https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/\nComments URL: https://news.ycombinator.com/item?id=49863062\nPoints: 63\n# Comments: 11",
-            "time": "Sun, 27 Sep 2026 03:20:46 +0000",
-            "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/"
+            "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+            "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 16\n# Comments: 1",
+            "time": "Mon, 28 Sep 2026 03:23:53 +0000",
+            "url": "https://arxiv.org/abs/2110.01834"
         },
         {
             "source": "Hacker News",
-            "title": "What is the size of Yemen? (2024)",
-            "summary": "Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen\nComments URL: https://news.ycombinator.com/item?id=49862809\nPoints: 49\n# Comments: 8",
-            "time": "Sun, 27 Sep 2026 02:40:26 +0000",
-            "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen"
+            "title": "Microsoft drops Copilot+ branding from its new laptops",
+            "summary": "Article URL: https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-c...",
+            "time": "Mon, 28 Sep 2026 02:46:27 +0000",
+            "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding"
         },
         {
             "source": "Hacker News",
-            "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-            "summary": "Article URL: https://swarmcha.se/posts/openai-unctad\nComments URL: https://news.ycombinator.com/item?id=49862299\nPoints: 11\n# Comments: 5",
-            "time": "Sun, 27 Sep 2026 01:08:07 +0000",
-            "url": "https://swarmcha.se/posts/openai-unctad"
+            "title": "Nissan's third generation e-POWER powertrain",
+            "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\nComments URL: https://news.ycombinator.com/item?id=49872883\nPoints: 21\n# Comments: 18",
+            "time": "Mon, 28 Sep 2026 02:31:23 +0000",
+            "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/"
         }
     ]
 }
