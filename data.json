@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-28 12:53:16",
+    "updated_at": "2026-09-29 13:17:52",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
-            "summary": "Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
-            "time": "Mon, 28 Sep 2026 03:58:52 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes"
+            "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+            "summary": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.",
+            "time": "Tue, 29 Sep 2026 04:17:20 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again"
         },
         {
             "source": "CoinDesk",
-            "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-            "summary": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
-            "time": "Sun, 27 Sep 2026 14:29:13 +0000",
-            "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision"
+            "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+            "summary": "The bank is bringing its roughly $100 billion Treasury fund to institutional crypto firms without creating a tokenized version of it.",
+            "time": "Mon, 28 Sep 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing"
         },
         {
             "source": "CoinDesk",
-            "title": "How months of work on the Clarity Act all fell apart",
-            "summary": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around...",
-            "time": "Sun, 27 Sep 2026 12:00:00 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart"
+            "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+            "summary": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
+            "time": "Mon, 28 Sep 2026 16:24:51 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit"
         },
         {
             "source": "Hacker News",
-            "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
-            "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 16\n# Comments: 1",
-            "time": "Mon, 28 Sep 2026 03:23:53 +0000",
-            "url": "https://arxiv.org/abs/2110.01834"
+            "title": "Profit Margins of the Largest Companies",
+            "summary": "Article URL: https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/\nComments URL: https://news.ycombinator.com/item?id=49887518\nPoints: 16\n# Comments: 6",
+            "time": "Tue, 29 Sep 2026 02:55:41 +0000",
+            "url": "https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/"
         },
         {
             "source": "Hacker News",
-            "title": "Microsoft drops Copilot+ branding from its new laptops",
-            "summary": "Article URL: https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-c...",
-            "time": "Mon, 28 Sep 2026 02:46:27 +0000",
-            "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding"
+            "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
+            "summary": "Article URL: https://bluegraph.io/\nComments URL: https://news.ycombinator.com/item?id=49886901\nPoints: 15\n# Comments: 2",
+            "time": "Tue, 29 Sep 2026 01:29:31 +0000",
+            "url": "https://bluegraph.io/"
         },
         {
             "source": "Hacker News",
-            "title": "Nissan's third generation e-POWER powertrain",
-            "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\nComments URL: https://news.ycombinator.com/item?id=49872883\nPoints: 21\n# Comments: 18",
-            "time": "Mon, 28 Sep 2026 02:31:23 +0000",
-            "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/"
+            "title": "Tank Body Problem",
+            "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 55\n# Comments: 9",
+            "time": "Tue, 29 Sep 2026 00:41:45 +0000",
+            "url": "http://www.jimsitu.com"
         }
     ]
 }
