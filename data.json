@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-09-30 13:05:40",
+    "updated_at": "2026-10-01 13:20:14",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-            "summary": "A trend guage tracked on onchain analysis firm CryptoQuant is near its ceiling. The buyers who drove BTC to an eight-month high are already pulling back.",
-            "time": "Wed, 30 Sep 2026 04:38:18 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score"
+            "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+            "summary": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.",
+            "time": "Thu, 01 Oct 2026 04:58:52 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps"
         },
         {
             "source": "CoinDesk",
-            "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
-            "summary": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
-            "time": "Tue, 29 Sep 2026 23:00:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders"
+            "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+            "summary": "A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away.",
+            "time": "Thu, 01 Oct 2026 04:15:20 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
         },
         {
             "source": "CoinDesk",
-            "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-            "summary": "The agreement opens the door to tokenized derivatives as some of Wall Street's biggest institutions, including Nasdaq, NYSE and DTCC, move traditional markets onchain.",
-            "time": "Tue, 29 Sep 2026 18:21:07 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal"
+            "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+            "summary": "In the first half of this year, the sector poured millions into lobbying, with most of it tied to pushing the U.S. market structure bill to a goal it never reached.",
+            "time": "Wed, 30 Sep 2026 17:16:31 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal"
         },
         {
             "source": "Hacker News",
-            "title": "LinkedIn Larpmaxxing",
-            "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 4\n# Comments: 0",
-            "time": "Wed, 30 Sep 2026 04:19:57 +0000",
-            "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/"
+            "title": "Tennessee inmate still alive after being administered two lethal injections",
+            "summary": "Article URL: https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279\nComments URL: https://news.ycombinator.com/item?id=49917662\nPoints: 8\n# Comm...",
+            "time": "Thu, 01 Oct 2026 04:13:54 +0000",
+            "url": "https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279"
         },
         {
             "source": "Hacker News",
-            "title": "PSSA: A non-transformer language model written from scratch in Rust",
-            "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 33\n# Comments: 6",
-            "time": "Wed, 30 Sep 2026 03:19:54 +0000",
-            "url": "https://github.com/Sparticle62ops/pssa"
+            "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+            "summary": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your sema...",
+            "time": "Thu, 01 Oct 2026 02:30:48 +0000",
+            "url": "https://github.com/TantrixAuto/yantra"
         },
         {
             "source": "Hacker News",
-            "title": "RSS Feeds for Last.fm",
-            "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 9\n# Comments: 3",
-            "time": "Wed, 30 Sep 2026 03:00:05 +0000",
-            "url": "https://lfm.xiffy.nl/"
+            "title": "Jevotron: Multiple Jev integrations from the command line",
+            "summary": "Article URL: https://cmungall.github.io/jevotron/\nComments URL: https://news.ycombinator.com/item?id=49916865\nPoints: 7\n# Comments: 1",
+            "time": "Thu, 01 Oct 2026 02:12:38 +0000",
+            "url": "https://cmungall.github.io/jevotron/"
         }
     ]
 }
