@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-01 13:20:14",
+    "updated_at": "2026-10-02 13:08:26",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-            "summary": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.",
-            "time": "Thu, 01 Oct 2026 04:58:52 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps"
+            "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+            "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
+            "time": "Thu, 01 Oct 2026 20:20:04 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-            "summary": "A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away.",
-            "time": "Thu, 01 Oct 2026 04:15:20 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
+            "title": "Another Trump memecoin dinner advertised for token's top investors",
+            "summary": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\"",
+            "time": "Thu, 01 Oct 2026 18:45:29 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-            "summary": "In the first half of this year, the sector poured millions into lobbying, with most of it tied to pushing the U.S. market structure bill to a goal it never reached.",
-            "time": "Wed, 30 Sep 2026 17:16:31 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal"
+            "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+            "summary": "",
+            "time": "Thu, 01 Oct 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway"
         },
         {
             "source": "Hacker News",
-            "title": "Tennessee inmate still alive after being administered two lethal injections",
-            "summary": "Article URL: https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279\nComments URL: https://news.ycombinator.com/item?id=49917662\nPoints: 8\n# Comm...",
-            "time": "Thu, 01 Oct 2026 04:13:54 +0000",
-            "url": "https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279"
+            "title": "DeepSeek Harness",
+            "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 41\n# Comments: 14",
+            "time": "Fri, 02 Oct 2026 03:11:20 +0000",
+            "url": "https://www.deepseek.com/en/harness/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-            "summary": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your sema...",
-            "time": "Thu, 01 Oct 2026 02:30:48 +0000",
-            "url": "https://github.com/TantrixAuto/yantra"
+            "title": "How Singapore's government-run dating service works",
+            "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 43\n# Comments: 14",
+            "time": "Fri, 02 Oct 2026 01:56:52 +0000",
+            "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works"
         },
         {
             "source": "Hacker News",
-            "title": "Jevotron: Multiple Jev integrations from the command line",
-            "summary": "Article URL: https://cmungall.github.io/jevotron/\nComments URL: https://news.ycombinator.com/item?id=49916865\nPoints: 7\n# Comments: 1",
-            "time": "Thu, 01 Oct 2026 02:12:38 +0000",
-            "url": "https://cmungall.github.io/jevotron/"
+            "title": "Butterflies use optical illusions to dodge predators",
+            "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=49928152\nPoints: 27\n# Comments: 4",
+            "time": "Thu, 01 Oct 2026 23:15:24 +0000",
+            "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators"
         }
     ]
 }
