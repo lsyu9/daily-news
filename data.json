@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-02 13:08:26",
+    "updated_at": "2026-10-03 12:50:52",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-            "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
-            "time": "Thu, 01 Oct 2026 20:20:04 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda"
+            "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+            "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
+            "time": "Fri, 02 Oct 2026 21:23:20 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters"
         },
         {
             "source": "CoinDesk",
-            "title": "Another Trump memecoin dinner advertised for token's top investors",
-            "summary": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\"",
-            "time": "Thu, 01 Oct 2026 18:45:29 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors"
+            "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+            "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
+            "time": "Fri, 02 Oct 2026 17:34:40 +0000",
+            "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-            "summary": "",
-            "time": "Thu, 01 Oct 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway"
+            "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+            "summary": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own.",
+            "time": "Fri, 02 Oct 2026 17:15:35 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98"
         },
         {
             "source": "Hacker News",
-            "title": "DeepSeek Harness",
-            "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 41\n# Comments: 14",
-            "time": "Fri, 02 Oct 2026 03:11:20 +0000",
-            "url": "https://www.deepseek.com/en/harness/"
+            "title": "Extra Big Ass Intelligence",
+            "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 7\n# Comments: 1",
+            "time": "Sat, 03 Oct 2026 03:19:10 +0000",
+            "url": "https://www.extrabigassintelligence.com/"
         },
         {
             "source": "Hacker News",
-            "title": "How Singapore's government-run dating service works",
-            "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 43\n# Comments: 14",
-            "time": "Fri, 02 Oct 2026 01:56:52 +0000",
-            "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works"
+            "title": "Cloudflare OHTTP gateway",
+            "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 12\n# Comments: 2",
+            "time": "Sat, 03 Oct 2026 03:15:05 +0000",
+            "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/"
         },
         {
             "source": "Hacker News",
-            "title": "Butterflies use optical illusions to dodge predators",
-            "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=49928152\nPoints: 27\n# Comments: 4",
-            "time": "Thu, 01 Oct 2026 23:15:24 +0000",
-            "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators"
+            "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+            "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 29\n# Comments: 12",
+            "time": "Sat, 03 Oct 2026 01:09:01 +0000",
+            "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf"
         }
     ]
 }
