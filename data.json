@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-03 12:50:52",
+    "updated_at": "2026-10-04 13:23:41",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-            "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
-            "time": "Fri, 02 Oct 2026 21:23:20 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters"
+            "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+            "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
+            "time": "Sat, 03 Oct 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions"
         },
         {
             "source": "CoinDesk",
-            "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-            "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
-            "time": "Fri, 02 Oct 2026 17:34:40 +0000",
-            "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership"
+            "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+            "summary": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
+            "time": "Sat, 03 Oct 2026 16:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall"
         },
         {
             "source": "CoinDesk",
-            "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-            "summary": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own.",
-            "time": "Fri, 02 Oct 2026 17:15:35 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98"
+            "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+            "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
+            "time": "Sat, 03 Oct 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money"
         },
         {
             "source": "Hacker News",
-            "title": "Extra Big Ass Intelligence",
-            "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 7\n# Comments: 1",
-            "time": "Sat, 03 Oct 2026 03:19:10 +0000",
-            "url": "https://www.extrabigassintelligence.com/"
+            "title": "Why don't more developers \"use the platform\"?",
+            "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\nComments URL: https://news.ycombinator.com/item?id=49950554\nPoints: 32\n# Comments: 16",
+            "time": "Sun, 04 Oct 2026 04:10:47 +0000",
+            "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
         },
         {
             "source": "Hacker News",
-            "title": "Cloudflare OHTTP gateway",
-            "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 12\n# Comments: 2",
-            "time": "Sat, 03 Oct 2026 03:15:05 +0000",
-            "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/"
+            "title": "Religious scholars met with Anthropic",
+            "summary": "https://archive.is/y8FW0\n\nComments URL: https://news.ycombinator.com/item?id=49950052\nPoints: 55\n# Comments: 80",
+            "time": "Sun, 04 Oct 2026 02:34:22 +0000",
+            "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
         },
         {
             "source": "Hacker News",
-            "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-            "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 29\n# Comments: 12",
-            "time": "Sat, 03 Oct 2026 01:09:01 +0000",
-            "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf"
+            "title": "We're working on a new RuneScape MMO",
+            "summary": "Article URL: https://play.runescape.com/4\nComments URL: https://news.ycombinator.com/item?id=49949588\nPoints: 11\n# Comments: 4",
+            "time": "Sun, 04 Oct 2026 01:12:22 +0000",
+            "url": "https://play.runescape.com/4"
         }
     ]
 }
