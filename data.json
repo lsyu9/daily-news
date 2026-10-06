@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-05 13:06:45",
+    "updated_at": "2026-10-06 13:53:18",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-            "summary": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
-            "time": "Mon, 05 Oct 2026 04:45:03 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks"
+            "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+            "summary": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect.",
+            "time": "Tue, 06 Oct 2026 04:55:36 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets"
         },
         {
             "source": "CoinDesk",
-            "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-            "summary": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.",
-            "time": "Mon, 05 Oct 2026 04:41:35 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule"
+            "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+            "summary": "One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.",
+            "time": "Tue, 06 Oct 2026 04:49:05 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-            "summary": "Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall.",
-            "time": "Mon, 05 Oct 2026 04:23:25 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses"
+            "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+            "summary": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.",
+            "time": "Tue, 06 Oct 2026 04:41:10 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records"
         },
         {
             "source": "Hacker News",
-            "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-            "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\nComments URL: https://news.ycombinator.com/item?id=49960084\n...",
-            "time": "Mon, 05 Oct 2026 02:31:45 +0000",
-            "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857"
+            "title": "Resurrecting iChat Audio and Video Conferencing",
+            "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\nComments URL: https://news.ycombinator.com/item?id=49973878\nPoints: 16\n# Comments: 4",
+            "time": "Tue, 06 Oct 2026 03:39:01 +0000",
+            "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/"
         },
         {
             "source": "Hacker News",
-            "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-            "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments URL: https://news.ycombinator.com/item?id...",
-            "time": "Mon, 05 Oct 2026 01:54:08 +0000",
-            "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/"
+            "title": "Why Common Lisp is now the best programming language",
+            "summary": "Article URL: https://www.vivienhenz.com/common-lisp\nComments URL: https://news.ycombinator.com/item?id=49973598\nPoints: 80\n# Comments: 99",
+            "time": "Tue, 06 Oct 2026 02:51:51 +0000",
+            "url": "https://www.vivienhenz.com/common-lisp"
         },
         {
             "source": "Hacker News",
-            "title": "A 40ms Go garbage collector pause caused by swap",
-            "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 22\n# Comments: 5",
-            "time": "Mon, 05 Oct 2026 01:11:56 +0000",
-            "url": "https://frn.sh/go-gc/"
+            "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+            "summary": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\nComments URL: https://news.ycombinator.com/item?id=49972607\nPoints: 101\n# Comments: 74",
+            "time": "Tue, 06 Oct 2026 00:24:57 +0000",
+            "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days"
         }
     ]
 }
