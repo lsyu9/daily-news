@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-06 13:53:18",
+    "updated_at": "2026-10-07 13:26:22",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-            "summary": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect.",
-            "time": "Tue, 06 Oct 2026 04:55:36 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets"
+            "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+            "summary": "The consumer-focused blockchain will close Dec. 15 after Igloo spent tens of millions supporting it, days after Blast said its own network was no longer worth operating.",
+            "time": "Wed, 07 Oct 2026 04:31:14 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-            "summary": "One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.",
-            "time": "Tue, 06 Oct 2026 04:49:05 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump"
+            "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+            "summary": "The new standard is aimed at regulated stablecoins, funds and bonds whose issuers need identity checks, sanctions controls and other transfer rules built into the asset itself.",
+            "time": "Wed, 07 Oct 2026 04:11:33 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-            "summary": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.",
-            "time": "Tue, 06 Oct 2026 04:41:10 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records"
+            "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+            "summary": "Bitcoin briefly broke under the level analysts flagged as the point where sellers take over. Oil and the dollar both climbed.",
+            "time": "Wed, 07 Oct 2026 04:00:51 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
         },
         {
             "source": "Hacker News",
-            "title": "Resurrecting iChat Audio and Video Conferencing",
-            "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\nComments URL: https://news.ycombinator.com/item?id=49973878\nPoints: 16\n# Comments: 4",
-            "time": "Tue, 06 Oct 2026 03:39:01 +0000",
-            "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/"
+            "title": "Calling It Quits on ServerFault",
+            "summary": "Article URL: https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml\nComments URL: https://news.ycombinator.com/item?id=49988142\nPoints: 31\n# Comments: 9",
+            "time": "Wed, 07 Oct 2026 04:22:04 +0000",
+            "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml"
         },
         {
             "source": "Hacker News",
-            "title": "Why Common Lisp is now the best programming language",
-            "summary": "Article URL: https://www.vivienhenz.com/common-lisp\nComments URL: https://news.ycombinator.com/item?id=49973598\nPoints: 80\n# Comments: 99",
-            "time": "Tue, 06 Oct 2026 02:51:51 +0000",
-            "url": "https://www.vivienhenz.com/common-lisp"
+            "title": "The art of defusing a second world war bomb",
+            "summary": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb\nComments URL: https://news.ycombinator.com/item?...",
+            "time": "Wed, 07 Oct 2026 03:43:14 +0000",
+            "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb"
         },
         {
             "source": "Hacker News",
-            "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-            "summary": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\nComments URL: https://news.ycombinator.com/item?id=49972607\nPoints: 101\n# Comments: 74",
-            "time": "Tue, 06 Oct 2026 00:24:57 +0000",
-            "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days"
+            "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+            "summary": "Article URL: https://nanochess.org/la_cueva_bbs.html\nComments URL: https://news.ycombinator.com/item?id=49987675\nPoints: 21\n# Comments: 3",
+            "time": "Wed, 07 Oct 2026 03:16:45 +0000",
+            "url": "https://nanochess.org/la_cueva_bbs.html"
         }
     ]
 }
