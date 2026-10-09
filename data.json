@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-08 13:34:57",
+    "updated_at": "2026-10-09 13:39:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-            "summary": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance.",
-            "time": "Thu, 08 Oct 2026 04:23:23 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade"
+            "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+            "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
+            "time": "Fri, 09 Oct 2026 04:21:36 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-            "summary": "Bitcoin has slipped under a level FxPro says opens a \"quick path to $80,000.\" Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002.",
-            "time": "Thu, 08 Oct 2026 04:00:07 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
+            "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+            "summary": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large.",
+            "time": "Fri, 09 Oct 2026 04:04:36 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-            "summary": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
-            "time": "Thu, 08 Oct 2026 00:35:24 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges"
+            "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+            "summary": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears.",
+            "time": "Fri, 09 Oct 2026 03:27:38 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes"
         },
         {
             "source": "Hacker News",
-            "title": "A 100x faster* alternative to homebrew",
-            "summary": "Article URL: https://github.com/zerobrewhq/zerobrew\nComments URL: https://news.ycombinator.com/item?id=50001580\nPoints: 9\n# Comments: 5",
-            "time": "Thu, 08 Oct 2026 03:23:08 +0000",
-            "url": "https://github.com/zerobrewhq/zerobrew"
+            "title": "Cybernetics of AI Companies",
+            "summary": "Article URL: https://ai-cybernetics.grok.me\nComments URL: https://news.ycombinator.com/item?id=50016067\nPoints: 3\n# Comments: 0",
+            "time": "Fri, 09 Oct 2026 04:43:20 +0000",
+            "url": "https://ai-cybernetics.grok.me"
         },
         {
             "source": "Hacker News",
-            "title": "Margaret Hamilton has died",
-            "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\nComments URL: https://news.ycombinator.com/item?id=49998895\nPoints: 1099\n# Comments: 124",
-            "time": "Wed, 07 Oct 2026 21:16:18 +0000",
-            "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+            "title": "Anger as man sentenced to death for Facebook comment",
+            "summary": "Article URL: https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304\nComments URL: https://news.ycombinator.com/item?id=50015486\nPoints: 26\n# Comments: 11",
+            "time": "Fri, 09 Oct 2026 03:03:54 +0000",
+            "url": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304"
         },
         {
             "source": "Hacker News",
-            "title": "'Jonathan' is the oldest land animal on Earth",
-            "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/\nComments URL: https://news.ycombinator.com/item?id=49998066\nPoints: 103\n# Comments: 40",
-            "time": "Wed, 07 Oct 2026 20:01:37 +0000",
-            "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/"
+            "title": "Reducing undefined behavior in the C language",
+            "summary": "Article URL: https://lwn.net/Articles/1095811/\nComments URL: https://news.ycombinator.com/item?id=50015074\nPoints: 64\n# Comments: 35",
+            "time": "Fri, 09 Oct 2026 02:02:53 +0000",
+            "url": "https://lwn.net/Articles/1095811/"
         }
     ]
 }
