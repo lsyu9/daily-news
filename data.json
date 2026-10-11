@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-10 13:22:57",
+    "updated_at": "2026-10-11 13:15:28",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-            "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
-            "time": "Sat, 10 Oct 2026 04:44:35 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40"
+            "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+            "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+            "time": "Sat, 10 Oct 2026 12:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks"
         },
         {
             "source": "CoinDesk",
-            "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-            "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
-            "time": "Sat, 10 Oct 2026 04:20:07 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing"
+            "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+            "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+            "time": "Sat, 10 Oct 2026 12:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets"
         },
         {
             "source": "CoinDesk",
-            "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-            "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
-            "time": "Sat, 10 Oct 2026 03:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa"
+            "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+            "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+            "time": "Sat, 10 Oct 2026 11:00:00 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything"
         },
         {
             "source": "Hacker News",
-            "title": "Lobbying",
-            "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html\nComments URL: https://news.ycombinator.com/item?id=50029630\nPoints: 67\n# Comments: 6",
-            "time": "Sat, 10 Oct 2026 04:40:36 +0000",
-            "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html"
+            "title": "Vegetables are half as nutritious as they were in the 1960s",
+            "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/\nComments URL: https://news.ycombinator.com/item?id=50039715\nPoints: 10\n# Comments: 11",
+            "time": "Sun, 11 Oct 2026 04:07:32 +0000",
+            "url": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/"
         },
         {
             "source": "Hacker News",
-            "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
-            "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours\nComments URL: https://news.ycombinator.com/item?id=50029452\nPoints: 10\n# ...",
-            "time": "Sat, 10 Oct 2026 04:04:17 +0000",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours"
+            "title": "AI agents in a stand-up call",
+            "summary": "Article URL: https://atoll92.github.io/agent-standup/\nComments URL: https://news.ycombinator.com/item?id=50039630\nPoints: 4\n# Comments: 0",
+            "time": "Sun, 11 Oct 2026 03:42:47 +0000",
+            "url": "https://atoll92.github.io/agent-standup/"
         },
         {
             "source": "Hacker News",
-            "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-            "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\nComments URL: https://news.ycombinator.com/item?id=50029123\nPoints: 26\n# Comments: 4",
-            "time": "Sat, 10 Oct 2026 03:02:47 +0000",
-            "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/"
+            "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+            "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU\nComments URL: https://news.ycombinator.com/item?id=50039536\nPoints: 16\n# Comments: 0",
+            "time": "Sun, 11 Oct 2026 03:21:07 +0000",
+            "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU"
         }
     ]
 }
