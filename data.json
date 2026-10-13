@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-12 13:28:01",
+    "updated_at": "2026-10-13 14:25:36",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
-            "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
-            "time": "Mon, 12 Oct 2026 04:49:30 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls"
+            "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+            "summary": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
+            "time": "Tue, 13 Oct 2026 05:45:10 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million"
         },
         {
             "source": "CoinDesk",
-            "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-            "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
-            "time": "Sun, 11 Oct 2026 18:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto"
+            "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+            "summary": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.",
+            "time": "Tue, 13 Oct 2026 05:27:17 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million"
         },
         {
             "source": "CoinDesk",
-            "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-            "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
-            "time": "Sun, 11 Oct 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents"
+            "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+            "summary": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.",
+            "time": "Tue, 13 Oct 2026 04:43:18 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99"
         },
         {
             "source": "Hacker News",
-            "title": "Type-safe HTML templating in Zig",
-            "summary": "Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html\nComments URL: https://news.ycombinator.com/item?id=50051573\nPoints: 6\n# Comments: 0",
-            "time": "Mon, 12 Oct 2026 05:02:34 +0000",
-            "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html"
+            "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+            "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\nComments URL: https://news.ycombinator.com/item?id=50067356\nPoints: 8\n# Commen...",
+            "time": "Tue, 13 Oct 2026 05:57:32 +0000",
+            "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
         },
         {
             "source": "Hacker News",
-            "title": "Doory – Open-Source Canva",
-            "summary": "Article URL: https://github.com/shaongitbd/doory\nComments URL: https://news.ycombinator.com/item?id=50049872\nPoints: 50\n# Comments: 15",
-            "time": "Mon, 12 Oct 2026 00:48:27 +0000",
-            "url": "https://github.com/shaongitbd/doory"
+            "title": "Vi Hart's Big Navier-Stokes Post",
+            "summary": "Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430\nComments URL: https://news.ycombinator.com/item?id=50067098\nPoints: 15\n# Comments: 3",
+            "time": "Tue, 13 Oct 2026 05:22:28 +0000",
+            "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430"
         },
         {
             "source": "Hacker News",
-            "title": "Local Indexing to reduce tool calling and token usage",
-            "summary": "Article URL: https://tedhaley.ca/pensieve/\nComments URL: https://news.ycombinator.com/item?id=50049508\nPoints: 47\n# Comments: 12",
-            "time": "Mon, 12 Oct 2026 00:03:53 +0000",
-            "url": "https://tedhaley.ca/pensieve/"
+            "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+            "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms\nComments URL: https://news.ycombinator.com/item?id=50065932\nPoints: 86\n# Comments: 60",
+            "time": "Tue, 13 Oct 2026 02:46:43 +0000",
+            "url": "https://www.argmin.net/p/faster-fourier-transforms"
         }
     ]
 }
