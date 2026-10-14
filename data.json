@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-13 14:25:36",
+    "updated_at": "2026-10-14 12:26:34",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-            "summary": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
-            "time": "Tue, 13 Oct 2026 05:45:10 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million"
+            "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+            "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
+            "time": "Wed, 14 Oct 2026 04:11:16 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality"
         },
         {
             "source": "CoinDesk",
-            "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-            "summary": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.",
-            "time": "Tue, 13 Oct 2026 05:27:17 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million"
+            "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+            "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
+            "time": "Wed, 14 Oct 2026 03:50:54 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
         },
         {
             "source": "CoinDesk",
-            "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-            "summary": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.",
-            "time": "Tue, 13 Oct 2026 04:43:18 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99"
+            "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+            "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
+            "time": "Wed, 14 Oct 2026 01:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
         },
         {
             "source": "Hacker News",
-            "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-            "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\nComments URL: https://news.ycombinator.com/item?id=50067356\nPoints: 8\n# Commen...",
-            "time": "Tue, 13 Oct 2026 05:57:32 +0000",
-            "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+            "title": "Is 'Attention' the Essence of Intelligence?",
+            "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/\nComments URL: https://news.ycombinator.com/item?id=50081930\nPoints: 9\n# Comments: 0",
+            "time": "Wed, 14 Oct 2026 03:10:25 +0000",
+            "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
         },
         {
             "source": "Hacker News",
-            "title": "Vi Hart's Big Navier-Stokes Post",
-            "summary": "Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430\nComments URL: https://news.ycombinator.com/item?id=50067098\nPoints: 15\n# Comments: 3",
-            "time": "Tue, 13 Oct 2026 05:22:28 +0000",
-            "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430"
+            "title": "I built a tool to track what AI leaders say and how their views change on video",
+            "summary": "Article URL: https://blumify.io/people\nComments URL: https://news.ycombinator.com/item?id=50081151\nPoints: 38\n# Comments: 24",
+            "time": "Wed, 14 Oct 2026 01:09:13 +0000",
+            "url": "https://blumify.io/people"
         },
         {
             "source": "Hacker News",
-            "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-            "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms\nComments URL: https://news.ycombinator.com/item?id=50065932\nPoints: 86\n# Comments: 60",
-            "time": "Tue, 13 Oct 2026 02:46:43 +0000",
-            "url": "https://www.argmin.net/p/faster-fourier-transforms"
+            "title": "High-speed video reveals how honey bee stingers pump venom",
+            "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/\nComments URL: https://news.ycombinator.com/item?id=50081133\nPoints: 36\n# Comments: 6",
+            "time": "Wed, 14 Oct 2026 01:05:23 +0000",
+            "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
         }
     ]
 }
