@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-14 12:26:34",
+    "updated_at": "2026-10-15 12:09:02",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-            "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
-            "time": "Wed, 14 Oct 2026 04:11:16 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality"
+            "title": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs",
+            "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
+            "time": "Thu, 15 Oct 2026 03:57:45 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-            "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
-            "time": "Wed, 14 Oct 2026 03:50:54 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
+            "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
+            "summary": "CEO Tarek Mansour said he feels \"pretty good\" about the pending outcome of the current legal fight over who has the right to regulate prediction markets.",
+            "time": "Wed, 14 Oct 2026 16:34:53 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out"
         },
         {
             "source": "CoinDesk",
-            "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-            "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
-            "time": "Wed, 14 Oct 2026 01:00:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
+            "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+            "summary": "U.S.-linked wallets account for just over 88% of tracked AI model payments, dwarfing China’s 0.1% share, according to new Chainalysis research.",
+            "time": "Wed, 14 Oct 2026 15:35:36 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models"
         },
         {
             "source": "Hacker News",
-            "title": "Is 'Attention' the Essence of Intelligence?",
-            "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/\nComments URL: https://news.ycombinator.com/item?id=50081930\nPoints: 9\n# Comments: 0",
-            "time": "Wed, 14 Oct 2026 03:10:25 +0000",
-            "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
+            "title": "Future of Cancer Care Today (FCCT)",
+            "summary": "Article URL: https://sijbrandijfoundation.org/fcct\nComments URL: https://news.ycombinator.com/item?id=50098702\nPoints: 10\n# Comments: 0",
+            "time": "Thu, 15 Oct 2026 03:18:49 +0000",
+            "url": "https://sijbrandijfoundation.org/fcct"
         },
         {
             "source": "Hacker News",
-            "title": "I built a tool to track what AI leaders say and how their views change on video",
-            "summary": "Article URL: https://blumify.io/people\nComments URL: https://news.ycombinator.com/item?id=50081151\nPoints: 38\n# Comments: 24",
-            "time": "Wed, 14 Oct 2026 01:09:13 +0000",
-            "url": "https://blumify.io/people"
+            "title": "One in ten people are older than 65. Three in four live under a leader who is",
+            "summary": "Article URL: https://hannahritchie.substack.com/p/how-old-are-leaders\nComments URL: https://news.ycombinator.com/item?id=50098570\nPoints: 4\n# Comments: 1",
+            "time": "Thu, 15 Oct 2026 02:53:29 +0000",
+            "url": "https://hannahritchie.substack.com/p/how-old-are-leaders"
         },
         {
             "source": "Hacker News",
-            "title": "High-speed video reveals how honey bee stingers pump venom",
-            "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/\nComments URL: https://news.ycombinator.com/item?id=50081133\nPoints: 36\n# Comments: 6",
-            "time": "Wed, 14 Oct 2026 01:05:23 +0000",
-            "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+            "title": "The Double Headed Stack Allocator",
+            "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 24\n# Comments: 5",
+            "time": "Thu, 15 Oct 2026 02:06:36 +0000",
+            "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/"
         }
     ]
 }
