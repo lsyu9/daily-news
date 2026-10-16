@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-15 12:09:02",
+    "updated_at": "2026-10-16 12:05:24",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs",
-            "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
-            "time": "Thu, 15 Oct 2026 03:57:45 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs"
+            "title": "At the White House, crypto policy vacancy looms large",
+            "summary": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
+            "time": "Thu, 15 Oct 2026 18:48:02 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large"
         },
         {
             "source": "CoinDesk",
-            "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-            "summary": "CEO Tarek Mansour said he feels \"pretty good\" about the pending outcome of the current legal fight over who has the right to regulate prediction markets.",
-            "time": "Wed, 14 Oct 2026 16:34:53 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out"
+            "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+            "summary": "",
+            "time": "Thu, 15 Oct 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
         },
         {
             "source": "CoinDesk",
-            "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-            "summary": "U.S.-linked wallets account for just over 88% of tracked AI model payments, dwarfing China’s 0.1% share, according to new Chainalysis research.",
-            "time": "Wed, 14 Oct 2026 15:35:36 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models"
+            "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+            "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
+            "time": "Thu, 15 Oct 2026 12:35:24 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers"
         },
         {
             "source": "Hacker News",
-            "title": "Future of Cancer Care Today (FCCT)",
-            "summary": "Article URL: https://sijbrandijfoundation.org/fcct\nComments URL: https://news.ycombinator.com/item?id=50098702\nPoints: 10\n# Comments: 0",
-            "time": "Thu, 15 Oct 2026 03:18:49 +0000",
-            "url": "https://sijbrandijfoundation.org/fcct"
+            "title": "Comparing Chromium Development at Google and Igalia",
+            "summary": "Article URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 12\n# Comments: 0",
+            "time": "Fri, 16 Oct 2026 01:56:37 +0000",
+            "url": "https://lwn.net/Articles/1094721/"
         },
         {
             "source": "Hacker News",
-            "title": "One in ten people are older than 65. Three in four live under a leader who is",
-            "summary": "Article URL: https://hannahritchie.substack.com/p/how-old-are-leaders\nComments URL: https://news.ycombinator.com/item?id=50098570\nPoints: 4\n# Comments: 1",
-            "time": "Thu, 15 Oct 2026 02:53:29 +0000",
-            "url": "https://hannahritchie.substack.com/p/how-old-are-leaders"
+            "title": "Any window from your Mac, on your iPhone and iPad",
+            "summary": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 46\n# Comments: 6",
+            "time": "Fri, 16 Oct 2026 01:43:17 +0000",
+            "url": "https://github.com/Saffsanity/sill"
         },
         {
             "source": "Hacker News",
-            "title": "The Double Headed Stack Allocator",
-            "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 24\n# Comments: 5",
-            "time": "Thu, 15 Oct 2026 02:06:36 +0000",
-            "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/"
+            "title": "Thank You, Deno",
+            "summary": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving\nComments URL: https://news.ycombinator.com/item?id=50112331\nPoints: 28\n# Comments: 2",
+            "time": "Fri, 16 Oct 2026 00:52:40 +0000",
+            "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving"
         }
     ]
 }
