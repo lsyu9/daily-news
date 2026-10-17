@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-16 12:05:24",
+    "updated_at": "2026-10-17 11:56:03",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "At the White House, crypto policy vacancy looms large",
-            "summary": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
-            "time": "Thu, 15 Oct 2026 18:48:02 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large"
+            "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+            "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt...",
+            "time": "Sat, 17 Oct 2026 02:30:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-            "summary": "",
-            "time": "Thu, 15 Oct 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
+            "title": "Big Tech's AI auditors will only see what they're shown",
+            "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
+            "time": "Fri, 16 Oct 2026 14:58:22 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown"
         },
         {
             "source": "CoinDesk",
-            "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-            "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
-            "time": "Thu, 15 Oct 2026 12:35:24 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers"
+            "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+            "summary": "Your day-ahead look for Oct. 16, 2026",
+            "time": "Fri, 16 Oct 2026 11:15:00 +0000",
+            "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets"
         },
         {
             "source": "Hacker News",
-            "title": "Comparing Chromium Development at Google and Igalia",
-            "summary": "Article URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 12\n# Comments: 0",
-            "time": "Fri, 16 Oct 2026 01:56:37 +0000",
-            "url": "https://lwn.net/Articles/1094721/"
+            "title": "Butlerian Jihad",
+            "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 94\n# Comments: 45",
+            "time": "Sat, 17 Oct 2026 02:21:08 +0000",
+            "url": "https://dune.fandom.com/wiki/Butlerian_Jihad"
         },
         {
             "source": "Hacker News",
-            "title": "Any window from your Mac, on your iPhone and iPad",
-            "summary": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 46\n# Comments: 6",
-            "time": "Fri, 16 Oct 2026 01:43:17 +0000",
-            "url": "https://github.com/Saffsanity/sill"
+            "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+            "summary": "Article URL: https://www.flexport.com/company/careers/\nComments URL: https://news.ycombinator.com/item?id=50126774\nPoints: 0\n# Comments: 0",
+            "time": "Sat, 17 Oct 2026 01:01:51 +0000",
+            "url": "https://www.flexport.com/company/careers/"
         },
         {
             "source": "Hacker News",
-            "title": "Thank You, Deno",
-            "summary": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving\nComments URL: https://news.ycombinator.com/item?id=50112331\nPoints: 28\n# Comments: 2",
-            "time": "Fri, 16 Oct 2026 00:52:40 +0000",
-            "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving"
+            "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+            "summary": "Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few months...",
+            "time": "Fri, 16 Oct 2026 23:52:04 +0000",
+            "url": "https://fakeipedia.org"
         }
     ]
 }
