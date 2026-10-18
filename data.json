@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-17 11:56:03",
+    "updated_at": "2026-10-18 12:02:15",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-            "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt...",
-            "time": "Sat, 17 Oct 2026 02:30:00 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
+            "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+            "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+            "time": "Sun, 18 Oct 2026 01:06:35 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
         },
         {
             "source": "CoinDesk",
-            "title": "Big Tech's AI auditors will only see what they're shown",
-            "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
-            "time": "Fri, 16 Oct 2026 14:58:22 +0000",
-            "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown"
+            "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+            "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
+            "time": "Sat, 17 Oct 2026 17:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat"
         },
         {
             "source": "CoinDesk",
-            "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-            "summary": "Your day-ahead look for Oct. 16, 2026",
-            "time": "Fri, 16 Oct 2026 11:15:00 +0000",
-            "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets"
+            "title": "Citrini sees a tokenization boom. The harder question is who profits",
+            "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols c...",
+            "time": "Sat, 17 Oct 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits"
         },
         {
             "source": "Hacker News",
-            "title": "Butlerian Jihad",
-            "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 94\n# Comments: 45",
-            "time": "Sat, 17 Oct 2026 02:21:08 +0000",
-            "url": "https://dune.fandom.com/wiki/Butlerian_Jihad"
+            "title": "NY announces game ownership bill requiring ownership rather than licensing",
+            "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-kee...",
+            "time": "Sun, 18 Oct 2026 00:14:22 +0000",
+            "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
         },
         {
             "source": "Hacker News",
-            "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-            "summary": "Article URL: https://www.flexport.com/company/careers/\nComments URL: https://news.ycombinator.com/item?id=50126774\nPoints: 0\n# Comments: 0",
-            "time": "Sat, 17 Oct 2026 01:01:51 +0000",
-            "url": "https://www.flexport.com/company/careers/"
+            "title": "JDK 28",
+            "summary": "Article URL: https://openjdk.org/projects/jdk/28/\nComments URL: https://news.ycombinator.com/item?id=50135379\nPoints: 87\n# Comments: 35",
+            "time": "Sat, 17 Oct 2026 21:37:07 +0000",
+            "url": "https://openjdk.org/projects/jdk/28/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-            "summary": "Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few months...",
-            "time": "Fri, 16 Oct 2026 23:52:04 +0000",
-            "url": "https://fakeipedia.org"
+            "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+            "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\nComments URL: https://news.ycombinator.com/item?id=50134617\nPoints: 99\n# Comments: 108",
+            "time": "Sat, 17 Oct 2026 20:07:33 +0000",
+            "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"
         }
     ]
 }
