@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-18 12:02:15",
+    "updated_at": "2026-10-19 12:11:24",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-            "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
-            "time": "Sun, 18 Oct 2026 01:06:35 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+            "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+            "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+            "time": "Mon, 19 Oct 2026 03:36:58 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
         },
         {
             "source": "CoinDesk",
-            "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-            "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
-            "time": "Sat, 17 Oct 2026 17:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat"
+            "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+            "summary": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+            "time": "Mon, 19 Oct 2026 02:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
         },
         {
             "source": "CoinDesk",
-            "title": "Citrini sees a tokenization boom. The harder question is who profits",
-            "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols c...",
-            "time": "Sat, 17 Oct 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits"
+            "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+            "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+            "time": "Sun, 18 Oct 2026 23:28:06 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
         },
         {
             "source": "Hacker News",
-            "title": "NY announces game ownership bill requiring ownership rather than licensing",
-            "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-kee...",
-            "time": "Sun, 18 Oct 2026 00:14:22 +0000",
-            "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
+            "title": "Superlite: A Faster Alternatie to Superpowers",
+            "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/\nComments URL: https://news.ycombinator.com/item?id=50147492\nPoints: 19\n# Comments: 9",
+            "time": "Mon, 19 Oct 2026 02:01:16 +0000",
+            "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/"
         },
         {
             "source": "Hacker News",
-            "title": "JDK 28",
-            "summary": "Article URL: https://openjdk.org/projects/jdk/28/\nComments URL: https://news.ycombinator.com/item?id=50135379\nPoints: 87\n# Comments: 35",
-            "time": "Sat, 17 Oct 2026 21:37:07 +0000",
-            "url": "https://openjdk.org/projects/jdk/28/"
+            "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+            "summary": "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/\nComments URL: https://news.ycombinator.com/item?id=50147455\nPoints: 49\n# Comments: 13",
+            "time": "Mon, 19 Oct 2026 01:55:03 +0000",
+            "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/"
         },
         {
             "source": "Hacker News",
-            "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-            "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\nComments URL: https://news.ycombinator.com/item?id=50134617\nPoints: 99\n# Comments: 108",
-            "time": "Sat, 17 Oct 2026 20:07:33 +0000",
-            "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"
+            "title": "William Gibson and the trademarking of cyberspace",
+            "summary": "Article URL: https://colo.to/cyberspace.html\nComments URL: https://news.ycombinator.com/item?id=50146625\nPoints: 98\n# Comments: 15",
+            "time": "Sun, 18 Oct 2026 23:37:57 +0000",
+            "url": "https://colo.to/cyberspace.html"
         }
     ]
 }
