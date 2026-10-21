@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-20 12:23:32",
+    "updated_at": "2026-10-21 12:13:37",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-            "summary": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
-            "time": "Mon, 19 Oct 2026 20:21:13 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes"
+            "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+            "summary": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. Browsers and software makers are rushing out fixes.",
+            "time": "Wed, 21 Oct 2026 04:11:58 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-            "summary": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
-            "time": "Mon, 19 Oct 2026 16:47:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures"
+            "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+            "summary": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
+            "time": "Wed, 21 Oct 2026 04:07:07 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
         },
         {
             "source": "CoinDesk",
-            "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-            "summary": "The launch comes as Zerohash bids for a federal trust charter.",
-            "time": "Mon, 19 Oct 2026 14:58:40 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses"
+            "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+            "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
+            "time": "Tue, 20 Oct 2026 21:12:21 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
         },
         {
             "source": "Hacker News",
-            "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-            "summary": "Article URL: https://github.com/golang/go/issues/82345\nComments URL: https://news.ycombinator.com/item?id=50160877\nPoints: 14\n# Comments: 3",
-            "time": "Tue, 20 Oct 2026 03:05:07 +0000",
-            "url": "https://github.com/golang/go/issues/82345"
+            "title": "In Hilbert space, all things are quantumly possible",
+            "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/\nComments URL: https://news.ycombinator.com/item?id=50175185\nPoints: 33\n# Comments: 10",
+            "time": "Wed, 21 Oct 2026 02:04:15 +0000",
+            "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
         },
         {
             "source": "Hacker News",
-            "title": "OpenBSD 8.0",
-            "summary": "Article URL: https://www.openbsd.org/80.html\nComments URL: https://news.ycombinator.com/item?id=50160494\nPoints: 46\n# Comments: 9",
-            "time": "Tue, 20 Oct 2026 02:06:40 +0000",
-            "url": "https://www.openbsd.org/80.html"
+            "title": "The Future of CSS",
+            "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/\nComments URL: https://news.ycombinator.com/item?id=50175070\nPoints: 59\n# Comments: 22",
+            "time": "Wed, 21 Oct 2026 01:47:28 +0000",
+            "url": "https://www.joshwcomeau.com/css/interop-2027/"
         },
         {
             "source": "Hacker News",
-            "title": "OpenBSD 8.0: released Oct 20, 2026",
-            "summary": "Article URL: https://marc.info/?l=openbsd-misc&m=179245849770356&w=2\nComments URL: https://news.ycombinator.com/item?id=50160419\nPoints: 18\n# Comments: 1",
-            "time": "Tue, 20 Oct 2026 01:53:51 +0000",
-            "url": "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2"
+            "title": "Good type against all odds",
+            "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/\nComments URL: https://news.ycombinator.com/item?id=50175059\nPoints: 38\n# Comments: 8",
+            "time": "Wed, 21 Oct 2026 01:45:07 +0000",
+            "url": "https://unsung.aresluna.org/good-type-against-all-odds/"
         }
     ]
 }
