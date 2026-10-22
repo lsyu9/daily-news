@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-21 12:13:37",
+    "updated_at": "2026-10-22 12:14:05",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-            "summary": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. Browsers and software makers are rushing out fixes.",
-            "time": "Wed, 21 Oct 2026 04:11:58 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
+            "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+            "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
+            "time": "Thu, 22 Oct 2026 03:51:34 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-            "summary": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
-            "time": "Wed, 21 Oct 2026 04:07:07 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+            "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+            "summary": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations.",
+            "time": "Wed, 21 Oct 2026 16:23:44 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-            "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
-            "time": "Tue, 20 Oct 2026 21:12:21 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
+            "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+            "summary": "The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data.",
+            "time": "Wed, 21 Oct 2026 15:22:46 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
         },
         {
             "source": "Hacker News",
-            "title": "In Hilbert space, all things are quantumly possible",
-            "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/\nComments URL: https://news.ycombinator.com/item?id=50175185\nPoints: 33\n# Comments: 10",
-            "time": "Wed, 21 Oct 2026 02:04:15 +0000",
-            "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
+            "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+            "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\nComments URL: https://news.ycombinator.com/item?id=50190455\nPoints: 47\n# Comments: 25",
+            "time": "Thu, 22 Oct 2026 02:30:52 +0000",
+            "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf"
         },
         {
             "source": "Hacker News",
-            "title": "The Future of CSS",
-            "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/\nComments URL: https://news.ycombinator.com/item?id=50175070\nPoints: 59\n# Comments: 22",
-            "time": "Wed, 21 Oct 2026 01:47:28 +0000",
-            "url": "https://www.joshwcomeau.com/css/interop-2027/"
+            "title": "LLM Agents Play Pokemon Showdown",
+            "summary": "Article URL: https://olivergrabner.com/research/pokemon/\nComments URL: https://news.ycombinator.com/item?id=50190334\nPoints: 15\n# Comments: 10",
+            "time": "Thu, 22 Oct 2026 02:13:48 +0000",
+            "url": "https://olivergrabner.com/research/pokemon/"
         },
         {
             "source": "Hacker News",
-            "title": "Good type against all odds",
-            "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/\nComments URL: https://news.ycombinator.com/item?id=50175059\nPoints: 38\n# Comments: 8",
-            "time": "Wed, 21 Oct 2026 01:45:07 +0000",
-            "url": "https://unsung.aresluna.org/good-type-against-all-odds/"
+            "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+            "summary": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552\nComments URL: https://news.ycombinator.com/item?id=50190168\nPoints: 93\n# Comments: 48",
+            "time": "Thu, 22 Oct 2026 01:52:03 +0000",
+            "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552"
         }
     ]
 }
