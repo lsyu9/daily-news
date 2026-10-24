@@ -1,26 +1,47 @@
 {
-    "updated_at": "2026-10-23 12:18:02",
+    "updated_at": "2026-10-24 12:08:44",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-            "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
-            "time": "Fri, 23 Oct 2026 03:13:01 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
+            "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+            "summary": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
+            "time": "Fri, 23 Oct 2026 13:58:56 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
         },
         {
             "source": "CoinDesk",
-            "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-            "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
-            "time": "Thu, 22 Oct 2026 22:43:36 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
+            "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+            "summary": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
+            "time": "Fri, 23 Oct 2026 12:03:53 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
         },
         {
             "source": "CoinDesk",
-            "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-            "summary": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech...",
-            "time": "Thu, 22 Oct 2026 18:30:57 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech"
+            "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+            "summary": "Your day-ahead look for Oct. 23, 2026",
+            "time": "Fri, 23 Oct 2026 11:22:33 +0000",
+            "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+            "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm\nComments URL: https://news.ycombinator.com/item?id=50217683\nPoints: 39\n# Comments: 6",
+            "time": "Sat, 24 Oct 2026 01:53:10 +0000",
+            "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Twelve years of distributed SQLite",
+            "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/\nComments URL: https://news.ycombinator.com/item?id=50217500\nPoints: 36\n# Comments: 1",
+            "time": "Sat, 24 Oct 2026 01:16:58 +0000",
+            "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+        },
+        {
+            "source": "Hacker News",
+            "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+            "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6...",
+            "time": "Fri, 23 Oct 2026 23:30:17 +0000",
+            "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
         }
     ]
 }
