@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-25 12:11:13",
+    "updated_at": "2026-10-26 12:15:17",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-            "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
-            "time": "Sat, 24 Oct 2026 16:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends"
+            "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+            "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+            "time": "Mon, 26 Oct 2026 03:11:39 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
         },
         {
             "source": "CoinDesk",
-            "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-            "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
-            "time": "Sat, 24 Oct 2026 15:21:06 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
+            "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+            "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
+            "time": "Sun, 25 Oct 2026 15:00:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-            "summary": "Bitcoin has sunk to its weakest level in more than one month.",
-            "time": "Sat, 24 Oct 2026 15:11:24 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations"
+            "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+            "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+            "time": "Sun, 25 Oct 2026 13:00:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions"
         },
         {
             "source": "Hacker News",
-            "title": "Xbox Turns Down Netflix $500M Offer",
-            "summary": "Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/\nComments URL: https://news.ycombinator.com/item?id=50227892\nPoints: 43\n# Comments: 18",
-            "time": "Sun, 25 Oct 2026 03:05:53 +0000",
-            "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/"
+            "title": "Behind the scenes at the NeXT Computer office",
+            "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry\nComments URL: https://news.ycombinator.com/item?id=50238763\n...",
+            "time": "Mon, 26 Oct 2026 03:31:11 +0000",
+            "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry"
         },
         {
             "source": "Hacker News",
-            "title": "Attention people who think UB is fine",
-            "summary": "Article URL: https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html\nComments URL: https://news.ycombinator.com/item?id=50227814\nPoints: 3\n# Comments: 0",
-            "time": "Sun, 25 Oct 2026 02:50:32 +0000",
-            "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html"
+            "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+            "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot\nComments URL: https://news.ycombinator.com/item?id=50238739\nPoints: 7\n# Comments: 0",
+            "time": "Mon, 26 Oct 2026 03:29:05 +0000",
+            "url": "https://github.com/KrushnaVardhanReddy/PaperPilot"
         },
         {
             "source": "Hacker News",
-            "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-            "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report\nComments URL: https://news.ycombinator.com/item?id=50227639\nPoints: 48\n...",
-            "time": "Sun, 25 Oct 2026 02:18:35 +0000",
-            "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report"
+            "title": "Show HN: TitleArt – Make text like it's 1997",
+            "summary": "Article URL: https://titleart.dvy.io/\nComments URL: https://news.ycombinator.com/item?id=50238708\nPoints: 23\n# Comments: 7",
+            "time": "Mon, 26 Oct 2026 03:23:57 +0000",
+            "url": "https://titleart.dvy.io/"
         }
     ]
 }
