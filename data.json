@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-26 12:15:17",
+    "updated_at": "2026-10-27 12:34:21",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-            "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
-            "time": "Mon, 26 Oct 2026 03:11:39 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
+            "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+            "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+            "time": "Tue, 27 Oct 2026 04:28:49 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank"
         },
         {
             "source": "CoinDesk",
-            "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-            "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
-            "time": "Sun, 25 Oct 2026 15:00:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus"
+            "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+            "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+            "time": "Mon, 26 Oct 2026 16:05:12 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines"
         },
         {
             "source": "CoinDesk",
-            "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-            "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
-            "time": "Sun, 25 Oct 2026 13:00:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions"
+            "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+            "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
+            "time": "Mon, 26 Oct 2026 15:59:55 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks"
         },
         {
             "source": "Hacker News",
-            "title": "Behind the scenes at the NeXT Computer office",
-            "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry\nComments URL: https://news.ycombinator.com/item?id=50238763\n...",
-            "time": "Mon, 26 Oct 2026 03:31:11 +0000",
-            "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry"
+            "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+            "summary": "Article URL: https://github.com/otya128/winevdm\nComments URL: https://news.ycombinator.com/item?id=50253529\nPoints: 42\n# Comments: 2",
+            "time": "Tue, 27 Oct 2026 01:15:04 +0000",
+            "url": "https://github.com/otya128/winevdm"
         },
         {
             "source": "Hacker News",
-            "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-            "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot\nComments URL: https://news.ycombinator.com/item?id=50238739\nPoints: 7\n# Comments: 0",
-            "time": "Mon, 26 Oct 2026 03:29:05 +0000",
-            "url": "https://github.com/KrushnaVardhanReddy/PaperPilot"
+            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+            "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 98\n# Comments: 32",
+            "time": "Mon, 26 Oct 2026 22:41:48 +0000",
+            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: TitleArt – Make text like it's 1997",
-            "summary": "Article URL: https://titleart.dvy.io/\nComments URL: https://news.ycombinator.com/item?id=50238708\nPoints: 23\n# Comments: 7",
-            "time": "Mon, 26 Oct 2026 03:23:57 +0000",
-            "url": "https://titleart.dvy.io/"
+            "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+            "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\nComments URL: https://news.ycombinator.com/item?id=50252008\nPo...",
+            "time": "Mon, 26 Oct 2026 22:27:17 +0000",
+            "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it"
         }
     ]
 }
