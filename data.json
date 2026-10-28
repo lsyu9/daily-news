@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-27 12:34:21",
+    "updated_at": "2026-10-28 13:07:06",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-            "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
-            "time": "Tue, 27 Oct 2026 04:28:49 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank"
+            "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+            "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
+            "time": "Wed, 28 Oct 2026 04:15:20 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
         },
         {
             "source": "CoinDesk",
-            "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-            "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
-            "time": "Mon, 26 Oct 2026 16:05:12 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines"
+            "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+            "summary": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
+            "time": "Wed, 28 Oct 2026 03:11:14 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
         },
         {
             "source": "CoinDesk",
-            "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-            "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
-            "time": "Mon, 26 Oct 2026 15:59:55 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks"
+            "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+            "summary": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking.",
+            "time": "Tue, 27 Oct 2026 20:41:33 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
         },
         {
             "source": "Hacker News",
-            "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-            "summary": "Article URL: https://github.com/otya128/winevdm\nComments URL: https://news.ycombinator.com/item?id=50253529\nPoints: 42\n# Comments: 2",
-            "time": "Tue, 27 Oct 2026 01:15:04 +0000",
-            "url": "https://github.com/otya128/winevdm"
+            "title": "I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer",
+            "summary": "Article URL: https://github.com/Aissamohammedi88/toolkit\nComments URL: https://news.ycombinator.com/item?id=50268929\nPoints: 3\n# Comments: 0",
+            "time": "Wed, 28 Oct 2026 03:15:45 +0000",
+            "url": "https://github.com/Aissamohammedi88/toolkit"
         },
         {
             "source": "Hacker News",
-            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-            "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 98\n# Comments: 32",
-            "time": "Mon, 26 Oct 2026 22:41:48 +0000",
-            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+            "title": "Git for US Legislation",
+            "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code\nComments URL: https://news.ycombinator.com/item?id=50268380\nPoints: 126\n# Comments: 53",
+            "time": "Wed, 28 Oct 2026 01:47:50 +0000",
+            "url": "https://lexifina.com/blog/git-for-the-us-code"
         },
         {
             "source": "Hacker News",
-            "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-            "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\nComments URL: https://news.ycombinator.com/item?id=50252008\nPo...",
-            "time": "Mon, 26 Oct 2026 22:27:17 +0000",
-            "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it"
+            "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+            "summary": "Article URL: https://github.com/maharmstone/moxnox\nComments URL: https://news.ycombinator.com/item?id=50267569\nPoints: 36\n# Comments: 7",
+            "time": "Tue, 27 Oct 2026 23:53:41 +0000",
+            "url": "https://github.com/maharmstone/moxnox"
         }
     ]
 }
