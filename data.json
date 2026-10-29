@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-28 13:07:06",
+    "updated_at": "2026-10-29 13:18:55",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-            "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
-            "time": "Wed, 28 Oct 2026 04:15:20 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
+            "title": "Utah charges predictions platform Kalshi with illegal gambling",
+            "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
+            "time": "Thu, 29 Oct 2026 05:02:37 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling"
         },
         {
             "source": "CoinDesk",
-            "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-            "summary": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
-            "time": "Wed, 28 Oct 2026 03:11:14 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
+            "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+            "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+            "time": "Thu, 29 Oct 2026 03:32:43 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-            "summary": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking.",
-            "time": "Tue, 27 Oct 2026 20:41:33 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
+            "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+            "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
+            "time": "Thu, 29 Oct 2026 03:21:24 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks"
         },
         {
             "source": "Hacker News",
-            "title": "I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer",
-            "summary": "Article URL: https://github.com/Aissamohammedi88/toolkit\nComments URL: https://news.ycombinator.com/item?id=50268929\nPoints: 3\n# Comments: 0",
-            "time": "Wed, 28 Oct 2026 03:15:45 +0000",
-            "url": "https://github.com/Aissamohammedi88/toolkit"
+            "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+            "summary": "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/\nComments URL: https://news.ycombinator.com/item?id=5028434...",
+            "time": "Thu, 29 Oct 2026 03:48:05 +0000",
+            "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/"
         },
         {
             "source": "Hacker News",
-            "title": "Git for US Legislation",
-            "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code\nComments URL: https://news.ycombinator.com/item?id=50268380\nPoints: 126\n# Comments: 53",
-            "time": "Wed, 28 Oct 2026 01:47:50 +0000",
-            "url": "https://lexifina.com/blog/git-for-the-us-code"
+            "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+            "summary": "Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series\nComments URL: https://news.ycombinator.com/item?id=50284329\nPoints: 40\n# Comments: 12",
+            "time": "Thu, 29 Oct 2026 03:44:12 +0000",
+            "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series"
         },
         {
             "source": "Hacker News",
-            "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-            "summary": "Article URL: https://github.com/maharmstone/moxnox\nComments URL: https://news.ycombinator.com/item?id=50267569\nPoints: 36\n# Comments: 7",
-            "time": "Tue, 27 Oct 2026 23:53:41 +0000",
-            "url": "https://github.com/maharmstone/moxnox"
+            "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+            "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 134\n# Comments: 26",
+            "time": "Thu, 29 Oct 2026 03:33:42 +0000",
+            "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
         }
     ]
 }
