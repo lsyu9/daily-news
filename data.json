@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-29 13:18:55",
+    "updated_at": "2026-10-30 13:18:35",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Utah charges predictions platform Kalshi with illegal gambling",
-            "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
-            "time": "Thu, 29 Oct 2026 05:02:37 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling"
+            "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+            "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
+            "time": "Fri, 30 Oct 2026 04:50:42 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-            "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
-            "time": "Thu, 29 Oct 2026 03:32:43 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
+            "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+            "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
+            "time": "Fri, 30 Oct 2026 04:00:43 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
         },
         {
             "source": "CoinDesk",
-            "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-            "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
-            "time": "Thu, 29 Oct 2026 03:21:24 +0000",
-            "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks"
+            "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+            "summary": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.",
+            "time": "Fri, 30 Oct 2026 03:56:40 +0000",
+            "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
         },
         {
             "source": "Hacker News",
-            "title": "Zillow to pay $212.5M to settle class action for real estate venture",
-            "summary": "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/\nComments URL: https://news.ycombinator.com/item?id=5028434...",
-            "time": "Thu, 29 Oct 2026 03:48:05 +0000",
-            "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/"
+            "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+            "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/\nComments URL: https://news.ycombinator.com/item?id=50299182\nPoints: 27\n# Comments: 21",
+            "time": "Fri, 30 Oct 2026 02:33:04 +0000",
+            "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/"
         },
         {
             "source": "Hacker News",
-            "title": "The Milwaukee Brewers win the first World Series title in franchise history",
-            "summary": "Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series\nComments URL: https://news.ycombinator.com/item?id=50284329\nPoints: 40\n# Comments: 12",
-            "time": "Thu, 29 Oct 2026 03:44:12 +0000",
-            "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series"
+            "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+            "summary": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enable...",
+            "time": "Fri, 30 Oct 2026 02:05:41 +0000",
+            "url": "https://github.com/Millillion/lasm"
         },
         {
             "source": "Hacker News",
-            "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
-            "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 134\n# Comments: 26",
-            "time": "Thu, 29 Oct 2026 03:33:42 +0000",
-            "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
+            "title": "Pico CSS is no longer maintained",
+            "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 74\n# Comments: 21",
+            "time": "Fri, 30 Oct 2026 01:58:44 +0000",
+            "url": "https://github.com/picocss/pico/discussions/754"
         }
     ]
 }
