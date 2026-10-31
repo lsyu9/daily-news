@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-30 13:18:35",
+    "updated_at": "2026-10-31 13:01:06",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-            "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
-            "time": "Fri, 30 Oct 2026 04:50:42 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
+            "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+            "summary": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
+            "time": "Sat, 31 Oct 2026 00:48:56 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters"
         },
         {
             "source": "CoinDesk",
-            "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-            "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
-            "time": "Fri, 30 Oct 2026 04:00:43 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+            "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+            "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+            "time": "Fri, 30 Oct 2026 19:55:00 +0000",
+            "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
         },
         {
             "source": "CoinDesk",
-            "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-            "summary": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.",
-            "time": "Fri, 30 Oct 2026 03:56:40 +0000",
-            "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+            "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+            "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+            "time": "Fri, 30 Oct 2026 16:31:17 +0000",
+            "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
         },
         {
             "source": "Hacker News",
-            "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-            "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/\nComments URL: https://news.ycombinator.com/item?id=50299182\nPoints: 27\n# Comments: 21",
-            "time": "Fri, 30 Oct 2026 02:33:04 +0000",
-            "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/"
+            "title": "OpenAI raises less than half of $30B target",
+            "summary": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5\nComments URL: https://news.ycombinator.com/item?id=50312922\nPoints: 44\n# Comments: 1...",
+            "time": "Sat, 31 Oct 2026 03:22:44 +0000",
+            "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-            "summary": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enable...",
-            "time": "Fri, 30 Oct 2026 02:05:41 +0000",
-            "url": "https://github.com/Millillion/lasm"
+            "title": "Tell HN: Scribd Breached",
+            "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of Scri...",
+            "time": "Sat, 31 Oct 2026 02:46:36 +0000",
+            "url": "https://news.ycombinator.com/item?id=50312756"
         },
         {
             "source": "Hacker News",
-            "title": "Pico CSS is no longer maintained",
-            "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 74\n# Comments: 21",
-            "time": "Fri, 30 Oct 2026 01:58:44 +0000",
-            "url": "https://github.com/picocss/pico/discussions/754"
+            "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+            "summary": "Article URL: https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e\nComments URL: ...",
+            "time": "Sat, 31 Oct 2026 02:42:02 +0000",
+            "url": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e"
         }
     ]
 }
