@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-10-31 13:01:06",
+    "updated_at": "2026-11-01 13:32:32",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-            "summary": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
-            "time": "Sat, 31 Oct 2026 00:48:56 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters"
+            "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+            "summary": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+            "time": "Sun, 01 Nov 2026 01:10:05 +0000",
+            "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
         },
         {
             "source": "CoinDesk",
-            "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-            "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
-            "time": "Fri, 30 Oct 2026 19:55:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+            "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+            "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in b...",
+            "time": "Sat, 31 Oct 2026 18:00:00 +0000",
+            "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
         },
         {
             "source": "CoinDesk",
-            "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-            "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
-            "time": "Fri, 30 Oct 2026 16:31:17 +0000",
-            "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
+            "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+            "summary": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
+            "time": "Sat, 31 Oct 2026 16:09:30 +0000",
+            "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem"
         },
         {
             "source": "Hacker News",
-            "title": "OpenAI raises less than half of $30B target",
-            "summary": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5\nComments URL: https://news.ycombinator.com/item?id=50312922\nPoints: 44\n# Comments: 1...",
-            "time": "Sat, 31 Oct 2026 03:22:44 +0000",
-            "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
+            "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+            "summary": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\nComments URL: https://news.ycombinator.com/item?id=50322173\nPoints: 43\n# Comments: 17",
+            "time": "Sun, 01 Nov 2026 02:19:53 +0000",
+            "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
         },
         {
             "source": "Hacker News",
-            "title": "Tell HN: Scribd Breached",
-            "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of Scri...",
-            "time": "Sat, 31 Oct 2026 02:46:36 +0000",
-            "url": "https://news.ycombinator.com/item?id=50312756"
+            "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+            "summary": "Article URL: https://arxiv.org/abs/2409.02292\nComments URL: https://news.ycombinator.com/item?id=50322022\nPoints: 34\n# Comments: 13",
+            "time": "Sun, 01 Nov 2026 01:46:29 +0000",
+            "url": "https://arxiv.org/abs/2409.02292"
         },
         {
             "source": "Hacker News",
-            "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
-            "summary": "Article URL: https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e\nComments URL: ...",
-            "time": "Sat, 31 Oct 2026 02:42:02 +0000",
-            "url": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e"
+            "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+            "summary": "Hi HN,I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRout...",
+            "time": "Sun, 01 Nov 2026 00:10:30 +0000",
+            "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1"
         }
     ]
 }
