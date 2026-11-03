@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-02 13:29:47",
+    "updated_at": "2026-11-03 14:09:46",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-            "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
-            "time": "Mon, 02 Nov 2026 05:18:12 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
+            "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+            "summary": "The user protection fund now sits below the $800 million level that Binance’s own rules say triggers a top-up, and the exchange hasn’t said when it will refill it.",
+            "time": "Tue, 03 Nov 2026 05:36:56 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-            "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
-            "time": "Mon, 02 Nov 2026 04:42:22 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack"
+            "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+            "summary": "A 12-person committee briefly rewrote one of Arbitrum’s core contracts to spend from an address it held no key for, then put the code back. It’s the second time this year.",
+            "time": "Tue, 03 Nov 2026 05:25:12 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
         },
         {
             "source": "CoinDesk",
-            "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-            "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
-            "time": "Mon, 02 Nov 2026 04:41:16 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
+            "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+            "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
+            "time": "Tue, 03 Nov 2026 04:48:17 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
         },
         {
             "source": "Hacker News",
-            "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-            "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/\nComments URL: https://news.ycombinator.com/item?id=50332163\nPoints: 55\n# Comments: 4",
-            "time": "Mon, 02 Nov 2026 01:59:38 +0000",
-            "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
+            "title": "Show HN: I built a little browser game to practice Vim commands",
+            "summary": "I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.There are still a lot of commands I want to add, but ...",
+            "time": "Tue, 03 Nov 2026 03:10:04 +0000",
+            "url": "https://hjkl.duy.run"
         },
         {
             "source": "Hacker News",
-            "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-            "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture\nComments URL: https://news.ycombinator.com/item?id=50332086\nPoints: 53\n# Comments: 25",
-            "time": "Mon, 02 Nov 2026 01:47:07 +0000",
-            "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
+            "title": "Show HN: Rustable is an open source database client built in Rust",
+            "summary": "Article URL: https://rustable.app\nComments URL: https://news.ycombinator.com/item?id=50347524\nPoints: 15\n# Comments: 7",
+            "time": "Tue, 03 Nov 2026 03:06:53 +0000",
+            "url": "https://rustable.app"
         },
         {
             "source": "Hacker News",
-            "title": "Trigger.dev customer environment variables exposed",
-            "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026\nComments URL: https://news.ycombinator.com/item?id=50331784\nPoints: 41\n# Comments: 12",
-            "time": "Mon, 02 Nov 2026 01:09:16 +0000",
-            "url": "https://trigger.dev/blog/security-incident-nov-2026"
+            "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+            "summary": "Article URL: https://arxiv.org/abs/2608.25820\nComments URL: https://news.ycombinator.com/item?id=50347464\nPoints: 16\n# Comments: 0",
+            "time": "Tue, 03 Nov 2026 02:58:44 +0000",
+            "url": "https://arxiv.org/abs/2608.25820"
         }
     ]
 }
