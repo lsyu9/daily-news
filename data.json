@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-03 14:09:46",
+    "updated_at": "2026-11-04 13:47:56",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-            "summary": "The user protection fund now sits below the $800 million level that Binance’s own rules say triggers a top-up, and the exchange hasn’t said when it will refill it.",
-            "time": "Tue, 03 Nov 2026 05:36:56 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
+            "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+            "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.",
+            "time": "Wed, 04 Nov 2026 05:14:12 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
         },
         {
             "source": "CoinDesk",
-            "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
-            "summary": "A 12-person committee briefly rewrote one of Arbitrum’s core contracts to spend from an address it held no key for, then put the code back. It’s the second time this year.",
-            "time": "Tue, 03 Nov 2026 05:25:12 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
+            "title": "South Korea's ruling party wants to delay its crypto tax again",
+            "summary": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
+            "time": "Wed, 04 Nov 2026 05:09:40 +0000",
+            "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-            "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
-            "time": "Tue, 03 Nov 2026 04:48:17 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+            "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+            "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands.",
+            "time": "Wed, 04 Nov 2026 04:55:11 +0000",
+            "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: I built a little browser game to practice Vim commands",
-            "summary": "I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.There are still a lot of commands I want to add, but ...",
-            "time": "Tue, 03 Nov 2026 03:10:04 +0000",
-            "url": "https://hjkl.duy.run"
+            "title": "Jelly Sheet",
+            "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/\nComments URL: https://news.ycombinator.com/item?id=50361268\nPoints: 29\n# Comments: 3",
+            "time": "Wed, 04 Nov 2026 03:40:50 +0000",
+            "url": "https://mrdoob.github.io/codevember-2026/01/"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Rustable is an open source database client built in Rust",
-            "summary": "Article URL: https://rustable.app\nComments URL: https://news.ycombinator.com/item?id=50347524\nPoints: 15\n# Comments: 7",
-            "time": "Tue, 03 Nov 2026 03:06:53 +0000",
-            "url": "https://rustable.app"
+            "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+            "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients\nComments URL: https://news.ycombin...",
+            "time": "Wed, 04 Nov 2026 03:20:13 +0000",
+            "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients"
         },
         {
             "source": "Hacker News",
-            "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-            "summary": "Article URL: https://arxiv.org/abs/2608.25820\nComments URL: https://news.ycombinator.com/item?id=50347464\nPoints: 16\n# Comments: 0",
-            "time": "Tue, 03 Nov 2026 02:58:44 +0000",
-            "url": "https://arxiv.org/abs/2608.25820"
+            "title": "Arrows to arrows, categories to queries (2025)",
+            "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/\nComments URL: https://news.ycombinator.com/item?id=50361107\nPoints: 17\n# Comments: 0",
+            "time": "Wed, 04 Nov 2026 03:11:27 +0000",
+            "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/"
         }
     ]
 }
