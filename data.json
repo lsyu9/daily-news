@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-05 14:06:45",
+    "updated_at": "2026-11-06 14:00:45",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
-            "summary": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday.",
-            "time": "Thu, 05 Nov 2026 05:47:01 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool"
+            "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+            "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+            "time": "Fri, 06 Nov 2026 05:14:48 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments"
         },
         {
             "source": "CoinDesk",
-            "title": "The pile of lawsuits against Kalshi just grew by one",
-            "summary": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.",
-            "time": "Thu, 05 Nov 2026 05:28:52 +0000",
-            "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
+            "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+            "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
+            "time": "Fri, 06 Nov 2026 02:24:23 +0000",
+            "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform"
         },
         {
             "source": "CoinDesk",
-            "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-            "summary": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.",
-            "time": "Thu, 05 Nov 2026 05:25:06 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens"
+            "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+            "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+            "time": "Fri, 06 Nov 2026 01:30:00 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc"
         },
         {
             "source": "Hacker News",
-            "title": "Lemmings CSS Animation",
-            "summary": "Article URL: https://markblah.github.io/lemmings/\nComments URL: https://news.ycombinator.com/item?id=50375354\nPoints: 13\n# Comments: 2",
-            "time": "Thu, 05 Nov 2026 04:54:10 +0000",
-            "url": "https://markblah.github.io/lemmings/"
+            "title": "How accurately did science fiction stories predict AI?",
+            "summary": "Article URL: https://jamesyu.org/science-fiction-predictions-of-ai/\nComments URL: https://news.ycombinator.com/item?id=50388263\nPoints: 9\n# Comments: 5",
+            "time": "Fri, 06 Nov 2026 04:36:22 +0000",
+            "url": "https://jamesyu.org/science-fiction-predictions-of-ai/"
         },
         {
             "source": "Hacker News",
-            "title": "Starfall – Affordable, routine access to microgravity",
-            "summary": "Article URL: https://www.spacex.com/starfall\nComments URL: https://news.ycombinator.com/item?id=50373308\nPoints: 178\n# Comments: 110",
-            "time": "Thu, 05 Nov 2026 00:18:18 +0000",
-            "url": "https://www.spacex.com/starfall"
+            "title": "Pwn.college",
+            "summary": "Article URL: https://pwn.college/\nComments URL: https://news.ycombinator.com/item?id=50387796\nPoints: 57\n# Comments: 6",
+            "time": "Fri, 06 Nov 2026 03:27:14 +0000",
+            "url": "https://pwn.college/"
         },
         {
             "source": "Hacker News",
-            "title": "Images 2.6",
-            "summary": "Article URL: https://openai.com/index/introducing-images-2-6/\nComments URL: https://news.ycombinator.com/item?id=50372945\nPoints: 211\n# Comments: 137",
-            "time": "Wed, 04 Nov 2026 23:35:44 +0000",
-            "url": "https://openai.com/index/introducing-images-2-6/"
+            "title": "Nvidia Kubernetes Engine (NVKE)",
+            "summary": "Article URL: https://github.com/dsx-ai-factory/nvke\nComments URL: https://news.ycombinator.com/item?id=50387738\nPoints: 42\n# Comments: 14",
+            "time": "Fri, 06 Nov 2026 03:16:26 +0000",
+            "url": "https://github.com/dsx-ai-factory/nvke"
         }
     ]
 }
