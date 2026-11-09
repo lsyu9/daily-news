@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-08 13:34:32",
+    "updated_at": "2026-11-09 13:44:22",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-            "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
-            "time": "Sat, 07 Nov 2026 19:13:16 +0000",
-            "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end"
+            "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+            "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+            "time": "Mon, 09 Nov 2026 05:16:54 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts"
         },
         {
             "source": "CoinDesk",
-            "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-            "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-            "time": "Sat, 07 Nov 2026 17:36:46 +0000",
-            "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
+            "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+            "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+            "time": "Mon, 09 Nov 2026 04:54:39 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
         },
         {
             "source": "CoinDesk",
-            "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-            "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-            "time": "Sat, 07 Nov 2026 16:51:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
+            "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+            "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+            "time": "Mon, 09 Nov 2026 03:21:49 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
         },
         {
             "source": "Hacker News",
-            "title": "Kirlian Photography: Building Your Own Equipment",
-            "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html\nComments URL: https://news.ycombinator.com/item?id=50410359\nPoints: 6\n# Comments: 0",
-            "time": "Sun, 08 Nov 2026 04:14:12 +0000",
-            "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html"
+            "title": "A Critique of GPUI",
+            "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui\nComments URL: https://news.ycombinator.com/item?id=50420857\nPoints: 42\n# Comments: 12",
+            "time": "Mon, 09 Nov 2026 03:51:10 +0000",
+            "url": "https://blog.zortax.de/posts/a-critique-of-gpui"
         },
         {
             "source": "Hacker News",
-            "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
-            "summary": "Article URL: https://github.com/waywardgeek/ensemble\nComments URL: https://news.ycombinator.com/item?id=50410279\nPoints: 8\n# Comments: 5",
-            "time": "Sun, 08 Nov 2026 03:51:55 +0000",
-            "url": "https://github.com/waywardgeek/ensemble"
+            "title": "The Qlobe: Rotating Quine (2010)",
+            "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html\nComments URL: https://news.ycombinator.com/item?id=50420599\nPoints: 13\n# Comments: 0",
+            "time": "Mon, 09 Nov 2026 03:15:17 +0000",
+            "url": "http://mamememo.blogspot.com/2010/09/qlobe.html"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-            "summary": "Article URL: https://github.com/AmSach/maple\nComments URL: https://news.ycombinator.com/item?id=50410253\nPoints: 3\n# Comments: 1",
-            "time": "Sun, 08 Nov 2026 03:48:04 +0000",
-            "url": "https://github.com/AmSach/maple"
+            "title": "A Bit about Email",
+            "summary": "Article URL: https://maurycyz.com/misc/email/\nComments URL: https://news.ycombinator.com/item?id=50420383\nPoints: 14\n# Comments: 2",
+            "time": "Mon, 09 Nov 2026 02:46:21 +0000",
+            "url": "https://maurycyz.com/misc/email/"
         }
     ]
 }
