@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-09 13:44:22",
+    "updated_at": "2026-11-10 14:52:18",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-            "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
-            "time": "Mon, 09 Nov 2026 05:16:54 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts"
+            "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+            "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
+            "time": "Tue, 10 Nov 2026 05:18:31 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more"
         },
         {
             "source": "CoinDesk",
-            "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-            "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
-            "time": "Mon, 09 Nov 2026 04:54:39 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
+            "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+            "summary": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
+            "time": "Tue, 10 Nov 2026 04:51:20 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-            "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
-            "time": "Mon, 09 Nov 2026 03:21:49 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
+            "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+            "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
+            "time": "Tue, 10 Nov 2026 03:22:26 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
         },
         {
             "source": "Hacker News",
-            "title": "A Critique of GPUI",
-            "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui\nComments URL: https://news.ycombinator.com/item?id=50420857\nPoints: 42\n# Comments: 12",
-            "time": "Mon, 09 Nov 2026 03:51:10 +0000",
-            "url": "https://blog.zortax.de/posts/a-critique-of-gpui"
+            "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+            "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/\nComments URL: https://news.ycombinator.com/item?id=50436640\nPoints: 44\n# Comments: 6",
+            "time": "Tue, 10 Nov 2026 06:01:08 +0000",
+            "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
         },
         {
             "source": "Hacker News",
-            "title": "The Qlobe: Rotating Quine (2010)",
-            "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html\nComments URL: https://news.ycombinator.com/item?id=50420599\nPoints: 13\n# Comments: 0",
-            "time": "Mon, 09 Nov 2026 03:15:17 +0000",
-            "url": "http://mamememo.blogspot.com/2010/09/qlobe.html"
+            "title": "Your TV can see through walls",
+            "summary": "Article URL: https://maurycyz.com/projects/fading/\nComments URL: https://news.ycombinator.com/item?id=50436410\nPoints: 24\n# Comments: 1",
+            "time": "Tue, 10 Nov 2026 05:24:45 +0000",
+            "url": "https://maurycyz.com/projects/fading/"
         },
         {
             "source": "Hacker News",
-            "title": "A Bit about Email",
-            "summary": "Article URL: https://maurycyz.com/misc/email/\nComments URL: https://news.ycombinator.com/item?id=50420383\nPoints: 14\n# Comments: 2",
-            "time": "Mon, 09 Nov 2026 02:46:21 +0000",
-            "url": "https://maurycyz.com/misc/email/"
+            "title": "Ultorg: The User Interface for Relational Databases",
+            "summary": "Article URL: https://www.ultorg.com/\nComments URL: https://news.ycombinator.com/item?id=50435898\nPoints: 23\n# Comments: 5",
+            "time": "Tue, 10 Nov 2026 03:59:39 +0000",
+            "url": "https://www.ultorg.com/"
         }
     ]
 }
