@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-10 14:52:18",
+    "updated_at": "2026-11-11 13:41:45",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-            "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
-            "time": "Tue, 10 Nov 2026 05:18:31 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more"
+            "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+            "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
+            "time": "Tue, 10 Nov 2026 20:36:33 +0000",
+            "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets"
         },
         {
             "source": "CoinDesk",
-            "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-            "summary": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
-            "time": "Tue, 10 Nov 2026 04:51:20 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users"
+            "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+            "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
+            "time": "Tue, 10 Nov 2026 20:15:08 +0000",
+            "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-            "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
-            "time": "Tue, 10 Nov 2026 03:22:26 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
+            "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+            "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
+            "time": "Tue, 10 Nov 2026 17:32:22 +0000",
+            "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
         },
         {
             "source": "Hacker News",
-            "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-            "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/\nComments URL: https://news.ycombinator.com/item?id=50436640\nPoints: 44\n# Comments: 6",
-            "time": "Tue, 10 Nov 2026 06:01:08 +0000",
-            "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+            "title": "Protecting SSH Keys with macOS Secure Enclave",
+            "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/\nComments URL: https://news.ycombinator.com/item?id=50449748\nPoints: 33\n# Comments: 7",
+            "time": "Wed, 11 Nov 2026 04:28:57 +0000",
+            "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
         },
         {
             "source": "Hacker News",
-            "title": "Your TV can see through walls",
-            "summary": "Article URL: https://maurycyz.com/projects/fading/\nComments URL: https://news.ycombinator.com/item?id=50436410\nPoints: 24\n# Comments: 1",
-            "time": "Tue, 10 Nov 2026 05:24:45 +0000",
-            "url": "https://maurycyz.com/projects/fading/"
+            "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+            "summary": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna\nComments URL: https://news.ycombinator.com/item?id=50449275\nPoints: 37\n# Comments: ...",
+            "time": "Wed, 11 Nov 2026 02:57:08 +0000",
+            "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
         },
         {
             "source": "Hacker News",
-            "title": "Ultorg: The User Interface for Relational Databases",
-            "summary": "Article URL: https://www.ultorg.com/\nComments URL: https://news.ycombinator.com/item?id=50435898\nPoints: 23\n# Comments: 5",
-            "time": "Tue, 10 Nov 2026 03:59:39 +0000",
-            "url": "https://www.ultorg.com/"
+            "title": "Hooked on Tuna",
+            "summary": "https://blue-continuum.com/hooked-on-tuna\n\nComments URL: https://news.ycombinator.com/item?id=50449080\nPoints: 19\n# Comments: 1",
+            "time": "Wed, 11 Nov 2026 02:23:25 +0000",
+            "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428"
         }
     ]
 }
