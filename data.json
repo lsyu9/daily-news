@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-12 14:48:06",
+    "updated_at": "2026-11-13 14:04:54",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-            "summary": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
-            "time": "Thu, 12 Nov 2026 05:49:44 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury"
+            "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+            "summary": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
+            "time": "Fri, 13 Nov 2026 06:03:41 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-            "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
-            "time": "Thu, 12 Nov 2026 05:22:31 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
+            "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+            "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
+            "time": "Fri, 13 Nov 2026 05:45:26 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
         },
         {
             "source": "CoinDesk",
-            "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-            "summary": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
-            "time": "Thu, 12 Nov 2026 05:18:43 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger"
+            "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+            "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
+            "time": "Fri, 13 Nov 2026 05:08:59 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus"
         },
         {
             "source": "Hacker News",
-            "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-            "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/\nComments URL: https://news.ycombinator.com/item?id=50463540\nPoints: 6\n# Comments: 1",
-            "time": "Thu, 12 Nov 2026 05:49:34 +0000",
-            "url": "https://www.getlazarus.org/forums/topic/17/"
+            "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+            "summary": "Article URL: https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high\nComments URL: https://news.ycombinator.com/item?id=50478622\nPoints: 7\n# Comments: 0",
+            "time": "Fri, 13 Nov 2026 05:10:27 +0000",
+            "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high"
         },
         {
             "source": "Hacker News",
-            "title": "Darling Development Update – Q4 2026",
-            "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/\nComments URL: https://news.ycombinator.com/item?id=50463103\nPoints: 14\n# Comments: 3",
-            "time": "Thu, 12 Nov 2026 04:32:31 +0000",
-            "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/"
+            "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+            "summary": "I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on t...",
+            "time": "Fri, 13 Nov 2026 04:58:53 +0000",
+            "url": "https://github.com/pharma2a/pharma2a"
         },
         {
             "source": "Hacker News",
-            "title": "Bad ideas that aren't bad anymore",
-            "summary": "Article URL: https://devonestes.com/bad-ideas-that-arent-bad-anymore\nComments URL: https://news.ycombinator.com/item?id=50462613\nPoints: 11\n# Comments: 0",
-            "time": "Thu, 12 Nov 2026 03:18:13 +0000",
-            "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore"
+            "title": "IceWM",
+            "summary": "Article URL: https://ice-wm.org/\nComments URL: https://news.ycombinator.com/item?id=50478515\nPoints: 34\n# Comments: 12",
+            "time": "Fri, 13 Nov 2026 04:54:53 +0000",
+            "url": "https://ice-wm.org/"
         }
     ]
 }
