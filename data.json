@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-15 13:53:25",
+    "updated_at": "2026-11-16 13:53:17",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-            "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-            "time": "Sun, 15 Nov 2026 02:50:57 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+            "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+            "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
+            "time": "Mon, 16 Nov 2026 05:01:17 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-            "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
-            "time": "Sat, 14 Nov 2026 16:33:29 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+            "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+            "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+            "time": "Sun, 15 Nov 2026 19:30:00 +0000",
+            "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-            "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
-            "time": "Sat, 14 Nov 2026 16:33:23 +0000",
-            "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business"
+            "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+            "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+            "time": "Sun, 15 Nov 2026 14:00:00 +0000",
+            "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Gawain – Require type hints on all Python variables",
-            "summary": "Yes, i really hate \"dict[str, ANY]\"\n\nComments URL: https://news.ycombinator.com/item?id=50504072\nPoints: 16\n# Comments: 3",
-            "time": "Sun, 15 Nov 2026 04:39:25 +0000",
-            "url": "https://github.com/matheuzgomes/gawain"
+            "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+            "summary": "Article URL: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101\nComments URL: https://news.ycombinator.com/item?id=50514180\nPoints: 8\n# Comments: 0",
+            "time": "Mon, 16 Nov 2026 04:53:06 +0000",
+            "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-            "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp\nComments URL: https://news.ycombinator.com/item?id=50503930\nPoints: 8\n# Comments: 0",
-            "time": "Sun, 15 Nov 2026 04:09:11 +0000",
-            "url": "https://github.com/Tthanh2k6/turbo-browser-mcp"
+            "title": "Stop Filming in Log",
+            "summary": "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/\nComments URL: https://news.ycombinator.com/item?id=50514093\nPoints: 7\n# Comments: 2",
+            "time": "Mon, 16 Nov 2026 04:37:03 +0000",
+            "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/"
         },
         {
             "source": "Hacker News",
-            "title": "Osint Case Studies",
-            "summary": "Article URL: https://osintsearch.org/blog/osint-case-studies\nComments URL: https://news.ycombinator.com/item?id=50503731\nPoints: 12\n# Comments: 1",
-            "time": "Sun, 15 Nov 2026 03:33:41 +0000",
-            "url": "https://osintsearch.org/blog/osint-case-studies"
+            "title": "Tell HN: HN is being scraped for emails to scam",
+            "summary": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or thei...",
+            "time": "Mon, 16 Nov 2026 02:53:30 +0000",
+            "url": "https://news.ycombinator.com/item?id=50513451"
         }
     ]
 }
