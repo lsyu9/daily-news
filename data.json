@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-16 13:53:17",
+    "updated_at": "2026-11-17 15:30:02",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-            "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
-            "time": "Mon, 16 Nov 2026 05:01:17 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+            "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+            "summary": "The Foundation wants 25 million ADA for 12 global events, even as the token trades well below the 20 cent price used to size the request.",
+            "time": "Tue, 17 Nov 2026 06:54:49 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market"
         },
         {
             "source": "CoinDesk",
-            "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-            "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
-            "time": "Sun, 15 Nov 2026 19:30:00 +0000",
-            "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
+            "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+            "summary": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+            "time": "Tue, 17 Nov 2026 05:37:23 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-            "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
-            "time": "Sun, 15 Nov 2026 14:00:00 +0000",
-            "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session"
+            "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+            "summary": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
+            "time": "Tue, 17 Nov 2026 05:02:05 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60"
         },
         {
             "source": "Hacker News",
-            "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
-            "summary": "Article URL: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101\nComments URL: https://news.ycombinator.com/item?id=50514180\nPoints: 8\n# Comments: 0",
-            "time": "Mon, 16 Nov 2026 04:53:06 +0000",
-            "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101"
+            "title": "Tokendoctor – the same Claude Code for up to 38% less",
+            "summary": "Article URL: https://github.com/localixai/tokendoctor\nComments URL: https://news.ycombinator.com/item?id=50526584\nPoints: 20\n# Comments: 8",
+            "time": "Tue, 17 Nov 2026 02:19:50 +0000",
+            "url": "https://github.com/localixai/tokendoctor"
         },
         {
             "source": "Hacker News",
-            "title": "Stop Filming in Log",
-            "summary": "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/\nComments URL: https://news.ycombinator.com/item?id=50514093\nPoints: 7\n# Comments: 2",
-            "time": "Mon, 16 Nov 2026 04:37:03 +0000",
-            "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/"
+            "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+            "summary": "Article URL: https://support.apple.com/en-us/149699\nComments URL: https://news.ycombinator.com/item?id=50526560\nPoints: 87\n# Comments: 50",
+            "time": "Tue, 17 Nov 2026 02:17:04 +0000",
+            "url": "https://support.apple.com/en-us/149699"
         },
         {
             "source": "Hacker News",
-            "title": "Tell HN: HN is being scraped for emails to scam",
-            "summary": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or thei...",
-            "time": "Mon, 16 Nov 2026 02:53:30 +0000",
-            "url": "https://news.ycombinator.com/item?id=50513451"
+            "title": "Mem Is Shutting Down",
+            "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 43\n# Comments: 58",
+            "time": "Tue, 17 Nov 2026 02:13:41 +0000",
+            "url": "https://get.mem.ai/blog/mem-is-shutting-down"
         }
     ]
 }
