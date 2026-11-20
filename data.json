@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-19 14:55:10",
+    "updated_at": "2026-11-20 14:45:40",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Fed's rate hike push may be a mistake. Here's why",
-            "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing.",
-            "time": "Thu, 19 Nov 2026 06:23:19 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue"
+            "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+            "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
+            "time": "Fri, 20 Nov 2026 06:12:15 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too"
         },
         {
             "source": "CoinDesk",
-            "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-            "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.",
-            "time": "Thu, 19 Nov 2026 05:39:06 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows"
+            "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+            "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
+            "time": "Fri, 20 Nov 2026 06:08:28 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-            "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt.",
-            "time": "Thu, 19 Nov 2026 04:46:10 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal"
+            "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+            "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
+            "time": "Fri, 20 Nov 2026 05:32:25 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive"
         },
         {
             "source": "Hacker News",
-            "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-            "summary": "Article URL: https://kapteko.com/15-million-webservers/\nComments URL: https://news.ycombinator.com/item?id=50556533\nPoints: 10\n# Comments: 1",
-            "time": "Thu, 19 Nov 2026 05:56:36 +0000",
-            "url": "https://kapteko.com/15-million-webservers/"
+            "title": "Jujutsu Primer",
+            "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/\nComments URL: https://news.ycombinator.com/item?id=50570628\nPoints: 11\n# Comments: 1",
+            "time": "Fri, 20 Nov 2026 05:46:01 +0000",
+            "url": "https://ethanlowman.com/posts/jj-primer/"
         },
         {
             "source": "Hacker News",
-            "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
-            "summary": "Article URL: https://github.com/Ri4dH/failtrace\nComments URL: https://news.ycombinator.com/item?id=50554941\nPoints: 23\n# Comments: 5",
-            "time": "Thu, 19 Nov 2026 01:30:43 +0000",
-            "url": "https://github.com/Ri4dH/failtrace"
+            "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+            "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084\nComments URL: https://news.ycombinator.com/item?id=50570479\nPoints: 133\n# Comments: 19",
+            "time": "Fri, 20 Nov 2026 05:21:02 +0000",
+            "url": "https://grapheneos.social/@GrapheneOS/117645038299496084"
         },
         {
             "source": "Hacker News",
-            "title": "Unreal Tournament 2004 in the Browser",
-            "summary": "Article URL: https://ut2004.dev/\nComments URL: https://news.ycombinator.com/item?id=50554935\nPoints: 132\n# Comments: 56",
-            "time": "Thu, 19 Nov 2026 01:29:29 +0000",
-            "url": "https://ut2004.dev/"
+            "title": "FFmpeg 9.1 'Gauss'",
+            "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1\nComments URL: https://news.ycombinator.com/item?id=50569998\nPoints: 34\n# Comments: 9",
+            "time": "Fri, 20 Nov 2026 04:02:39 +0000",
+            "url": "https://ffmpeg.org/download.html#release_9.1"
         }
     ]
 }
