@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-20 14:45:40",
+    "updated_at": "2026-11-21 14:39:27",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-            "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
-            "time": "Fri, 20 Nov 2026 06:12:15 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too"
+            "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+            "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+            "time": "Sat, 21 Nov 2026 06:16:42 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
         },
         {
             "source": "CoinDesk",
-            "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-            "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
-            "time": "Fri, 20 Nov 2026 06:08:28 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid"
+            "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+            "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+            "time": "Sat, 21 Nov 2026 05:59:19 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
         },
         {
             "source": "CoinDesk",
-            "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-            "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
-            "time": "Fri, 20 Nov 2026 05:32:25 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive"
+            "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+            "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+            "time": "Sat, 21 Nov 2026 04:10:07 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
         },
         {
             "source": "Hacker News",
-            "title": "Jujutsu Primer",
-            "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/\nComments URL: https://news.ycombinator.com/item?id=50570628\nPoints: 11\n# Comments: 1",
-            "time": "Fri, 20 Nov 2026 05:46:01 +0000",
-            "url": "https://ethanlowman.com/posts/jj-primer/"
+            "title": "BlackBlaze now explicitly states selling your data for advertisement",
+            "summary": "Article URL: https://www.backblaze.com/company/policy/privacy\nComments URL: https://news.ycombinator.com/item?id=50585593\nPoints: 123\n# Comments: 32",
+            "time": "Sat, 21 Nov 2026 03:23:16 +0000",
+            "url": "https://www.backblaze.com/company/policy/privacy"
         },
         {
             "source": "Hacker News",
-            "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-            "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084\nComments URL: https://news.ycombinator.com/item?id=50570479\nPoints: 133\n# Comments: 19",
-            "time": "Fri, 20 Nov 2026 05:21:02 +0000",
-            "url": "https://grapheneos.social/@GrapheneOS/117645038299496084"
+            "title": "Clojure will affect the way you think about programming (2017)",
+            "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/\nComments URL: https://news.ycombinator.com/item?id=50585376\nPoints: 39\n# Comments: 7",
+            "time": "Sat, 21 Nov 2026 02:40:39 +0000",
+            "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
         },
         {
             "source": "Hacker News",
-            "title": "FFmpeg 9.1 'Gauss'",
-            "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1\nComments URL: https://news.ycombinator.com/item?id=50569998\nPoints: 34\n# Comments: 9",
-            "time": "Fri, 20 Nov 2026 04:02:39 +0000",
-            "url": "https://ffmpeg.org/download.html#release_9.1"
+            "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+            "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes\nComments URL: https://news.ycombinator.com/item?id=50584429\nPoints: 27\n# Comments: 4",
+            "time": "Sat, 21 Nov 2026 00:33:40 +0000",
+            "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes"
         }
     ]
 }
