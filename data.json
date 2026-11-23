@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-22 14:07:46",
+    "updated_at": "2026-11-23 14:59:52",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-            "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
-            "time": "Sat, 21 Nov 2026 17:50:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+            "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+            "summary": "Roughly five times as much voting stake has opposed the Foundation's 2027 conference budget as has backed it, while a developer tools request filed on Nov. 16 faces almost no opposition.",
+            "time": "Mon, 23 Nov 2026 06:15:45 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event"
         },
         {
             "source": "CoinDesk",
-            "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-            "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
-            "time": "Sat, 21 Nov 2026 16:41:00 +0000",
-            "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
+            "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+            "summary": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight.",
+            "time": "Mon, 23 Nov 2026 05:42:22 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
         },
         {
             "source": "CoinDesk",
-            "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-            "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
-            "time": "Sat, 21 Nov 2026 12:30:00 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
+            "title": "Market rout kills 50 basis points December Fed rate hike bets",
+            "summary": "Traders have removed the possibility of a 50-basis-point December Fed rate hike after last week’s market rout.",
+            "time": "Mon, 23 Nov 2026 04:45:47 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets"
         },
         {
             "source": "Hacker News",
-            "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-            "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\nComments URL: https://news.ycombinator.com/item?id=50596133\nPoints: 180\n# Comments: 91",
-            "time": "Sun, 22 Nov 2026 04:04:56 +0000",
-            "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+            "title": "Yes, 17M lines of Lean is a lot",
+            "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/\nComments URL: https://news.ycombinator.com/item?id=50607668\nPoints: 8\n# Comments: 2",
+            "time": "Mon, 23 Nov 2026 05:00:49 +0000",
+            "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/"
         },
         {
             "source": "Hacker News",
-            "title": "Together.ai: Prompt Leakage for Requests",
-            "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026\nComments URL: https://news.ycombinator.com/item?id=50595816\nPoints: 15\n# Comments: 5",
-            "time": "Sun, 22 Nov 2026 03:07:27 +0000",
-            "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+            "title": "A Partial Evaluator for C",
+            "summary": "Article URL: https://phoenix.labri.fr/software/tempo/\nComments URL: https://news.ycombinator.com/item?id=50607627\nPoints: 20\n# Comments: 0",
+            "time": "Mon, 23 Nov 2026 04:51:48 +0000",
+            "url": "https://phoenix.labri.fr/software/tempo/"
         },
         {
             "source": "Hacker News",
-            "title": "The Most Popular Car Colors in America",
-            "summary": "Article URL: https://www.iseecars.com/most-popular-car-colors-study\nComments URL: https://news.ycombinator.com/item?id=50595725\nPoints: 18\n# Comments: 23",
-            "time": "Sun, 22 Nov 2026 02:47:18 +0000",
-            "url": "https://www.iseecars.com/most-popular-car-colors-study"
+            "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+            "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/\nComments URL: https://news.ycombinator.com/...",
+            "time": "Mon, 23 Nov 2026 04:31:32 +0000",
+            "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/"
         }
     ]
 }
