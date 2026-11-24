@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-23 14:59:52",
+    "updated_at": "2026-11-24 17:25:57",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Cardano holders are turning down a $4 million request for running its flagship event",
-            "summary": "Roughly five times as much voting stake has opposed the Foundation's 2027 conference budget as has backed it, while a developer tools request filed on Nov. 16 faces almost no opposition.",
-            "time": "Mon, 23 Nov 2026 06:15:45 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event"
+            "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+            "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+            "time": "Tue, 24 Nov 2026 00:25:04 +0000",
+            "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
         },
         {
             "source": "CoinDesk",
-            "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-            "summary": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight.",
-            "time": "Mon, 23 Nov 2026 05:42:22 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
+            "title": "New York judge declines to block Kalshi from operating in the state for now",
+            "summary": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion.",
+            "time": "Mon, 23 Nov 2026 18:22:03 +0000",
+            "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now"
         },
         {
             "source": "CoinDesk",
-            "title": "Market rout kills 50 basis points December Fed rate hike bets",
-            "summary": "Traders have removed the possibility of a 50-basis-point December Fed rate hike after last week’s market rout.",
-            "time": "Mon, 23 Nov 2026 04:45:47 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets"
+            "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+            "summary": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications.",
+            "time": "Mon, 23 Nov 2026 18:12:05 +0000",
+            "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo"
         },
         {
             "source": "Hacker News",
-            "title": "Yes, 17M lines of Lean is a lot",
-            "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/\nComments URL: https://news.ycombinator.com/item?id=50607668\nPoints: 8\n# Comments: 2",
-            "time": "Mon, 23 Nov 2026 05:00:49 +0000",
-            "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/"
+            "title": "I'm not excited about tech anymore",
+            "summary": "Article URL: https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore\nComments URL: https://news.ycombinator.com/item?id=50625004\nPoints: 25\n# Comments: 18",
+            "time": "Tue, 24 Nov 2026 07:46:12 +0000",
+            "url": "https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore"
         },
         {
             "source": "Hacker News",
-            "title": "A Partial Evaluator for C",
-            "summary": "Article URL: https://phoenix.labri.fr/software/tempo/\nComments URL: https://news.ycombinator.com/item?id=50607627\nPoints: 20\n# Comments: 0",
-            "time": "Mon, 23 Nov 2026 04:51:48 +0000",
-            "url": "https://phoenix.labri.fr/software/tempo/"
+            "title": "2035 Came Early",
+            "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early\nComments URL: https://news.ycombinator.com/item?id=50624497\nPoints: 138\n# Comments: 16",
+            "time": "Tue, 24 Nov 2026 06:30:33 +0000",
+            "url": "https://fzakaria.com/2026/11/23/2035-came-early"
         },
         {
             "source": "Hacker News",
-            "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
-            "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/\nComments URL: https://news.ycombinator.com/...",
-            "time": "Mon, 23 Nov 2026 04:31:32 +0000",
-            "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/"
+            "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+            "summary": "Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601\nComments URL: https://news.ycombinator.com/item?id=50624061\nPoints: 66\n# Comments: 25",
+            "time": "Tue, 24 Nov 2026 05:15:22 +0000",
+            "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
         }
     ]
 }
