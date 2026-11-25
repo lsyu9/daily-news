@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-24 17:25:57",
+    "updated_at": "2026-11-25 15:57:46",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-            "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
-            "time": "Tue, 24 Nov 2026 00:25:04 +0000",
-            "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
+            "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+            "summary": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.",
+            "time": "Wed, 25 Nov 2026 06:33:10 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost"
         },
         {
             "source": "CoinDesk",
-            "title": "New York judge declines to block Kalshi from operating in the state for now",
-            "summary": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion.",
-            "time": "Mon, 23 Nov 2026 18:22:03 +0000",
-            "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now"
+            "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+            "summary": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
+            "time": "Wed, 25 Nov 2026 06:15:08 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter"
         },
         {
             "source": "CoinDesk",
-            "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
-            "summary": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications.",
-            "time": "Mon, 23 Nov 2026 18:12:05 +0000",
-            "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo"
+            "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+            "summary": "Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.",
+            "time": "Wed, 25 Nov 2026 04:57:22 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive"
         },
         {
             "source": "Hacker News",
-            "title": "I'm not excited about tech anymore",
-            "summary": "Article URL: https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore\nComments URL: https://news.ycombinator.com/item?id=50625004\nPoints: 25\n# Comments: 18",
-            "time": "Tue, 24 Nov 2026 07:46:12 +0000",
-            "url": "https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore"
+            "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+            "summary": "Article URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 62\n# Comments: 14",
+            "time": "Wed, 25 Nov 2026 04:31:48 +0000",
+            "url": "https://gpu-demo-gallery.pages.dev/"
         },
         {
             "source": "Hacker News",
-            "title": "2035 Came Early",
-            "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early\nComments URL: https://news.ycombinator.com/item?id=50624497\nPoints: 138\n# Comments: 16",
-            "time": "Tue, 24 Nov 2026 06:30:33 +0000",
-            "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+            "title": "Taking over US Treasury subdomains for $3 each",
+            "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each\nComments URL: https://news.ycombinator.com/item?id=50638478\nPoints: 49\n# Comments: 3",
+            "time": "Wed, 25 Nov 2026 04:27:55 +0000",
+            "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
         },
         {
             "source": "Hacker News",
-            "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-            "summary": "Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601\nComments URL: https://news.ycombinator.com/item?id=50624061\nPoints: 66\n# Comments: 25",
-            "time": "Tue, 24 Nov 2026 05:15:22 +0000",
-            "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+            "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+            "summary": "Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F\nComments URL: https://news.ycombinator.com/item?id=50638320\nPoints: 150\n# Comments: 93",
+            "time": "Wed, 25 Nov 2026 04:03:33 +0000",
+            "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"
         }
     ]
 }
