@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-25 15:57:46",
+    "updated_at": "2026-11-26 15:49:29",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Solana developers move to stop validators finishing work on blocks that already lost",
-            "summary": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.",
-            "time": "Wed, 25 Nov 2026 06:33:10 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost"
+            "title": "Zcash developers want users to move $300 million out of an older privacy system",
+            "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
+            "time": "Thu, 26 Nov 2026 07:09:25 +0000",
+            "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system"
         },
         {
             "source": "CoinDesk",
-            "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-            "summary": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
-            "time": "Wed, 25 Nov 2026 06:15:08 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter"
+            "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+            "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.",
+            "time": "Thu, 26 Nov 2026 06:19:09 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
         },
         {
             "source": "CoinDesk",
-            "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
-            "summary": "Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.",
-            "time": "Wed, 25 Nov 2026 04:57:22 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive"
+            "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+            "summary": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.",
+            "time": "Thu, 26 Nov 2026 05:30:38 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show"
         },
         {
             "source": "Hacker News",
-            "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-            "summary": "Article URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 62\n# Comments: 14",
-            "time": "Wed, 25 Nov 2026 04:31:48 +0000",
-            "url": "https://gpu-demo-gallery.pages.dev/"
+            "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+            "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real\nComments URL: https://news.ycombinator.com/item?id=50652370\nPoints: 4\n# Co...",
+            "time": "Thu, 26 Nov 2026 07:05:59 +0000",
+            "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real"
         },
         {
             "source": "Hacker News",
-            "title": "Taking over US Treasury subdomains for $3 each",
-            "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each\nComments URL: https://news.ycombinator.com/item?id=50638478\nPoints: 49\n# Comments: 3",
-            "time": "Wed, 25 Nov 2026 04:27:55 +0000",
-            "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
+            "title": "Moat: Your OpenRouter Replacement",
+            "summary": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 3\n# Comments: 0",
+            "time": "Thu, 26 Nov 2026 06:32:48 +0000",
+            "url": "https://commandcode.ai/moat"
         },
         {
             "source": "Hacker News",
-            "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-            "summary": "Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F\nComments URL: https://news.ycombinator.com/item?id=50638320\nPoints: 150\n# Comments: 93",
-            "time": "Wed, 25 Nov 2026 04:03:33 +0000",
-            "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"
+            "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+            "summary": "Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/\nComments URL: https://news.ycombinator.com/item?id=50651719\nPoints: 53\n# Comments: 6",
+            "time": "Thu, 26 Nov 2026 05:12:59 +0000",
+            "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
         }
     ]
 }
