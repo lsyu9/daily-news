@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-26 15:49:29",
+    "updated_at": "2026-11-27 15:49:28",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Zcash developers want users to move $300 million out of an older privacy system",
-            "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
-            "time": "Thu, 26 Nov 2026 07:09:25 +0000",
-            "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system"
+            "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+            "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+            "time": "Fri, 27 Nov 2026 07:33:01 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why"
         },
         {
             "source": "CoinDesk",
-            "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
-            "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.",
-            "time": "Thu, 26 Nov 2026 06:19:09 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
+            "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+            "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
+            "time": "Fri, 27 Nov 2026 05:06:32 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins"
         },
         {
             "source": "CoinDesk",
-            "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
-            "summary": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.",
-            "time": "Thu, 26 Nov 2026 05:30:38 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show"
+            "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+            "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+            "time": "Fri, 27 Nov 2026 04:45:47 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
         },
         {
             "source": "Hacker News",
-            "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-            "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real\nComments URL: https://news.ycombinator.com/item?id=50652370\nPoints: 4\n# Co...",
-            "time": "Thu, 26 Nov 2026 07:05:59 +0000",
-            "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real"
+            "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+            "summary": "Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/\nComments URL: https://news.ycombinator.com/item?id=50663666\nPoints: 18\n# Comments: 3",
+            "time": "Fri, 27 Nov 2026 06:53:52 +0000",
+            "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
         },
         {
             "source": "Hacker News",
-            "title": "Moat: Your OpenRouter Replacement",
-            "summary": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 3\n# Comments: 0",
-            "time": "Thu, 26 Nov 2026 06:32:48 +0000",
-            "url": "https://commandcode.ai/moat"
+            "title": "The group chat where your AI talks behind your back",
+            "summary": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 50\n# Comments: 12",
+            "time": "Fri, 27 Nov 2026 06:44:34 +0000",
+            "url": "https://construct22.com/"
         },
         {
             "source": "Hacker News",
-            "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-            "summary": "Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/\nComments URL: https://news.ycombinator.com/item?id=50651719\nPoints: 53\n# Comments: 6",
-            "time": "Thu, 26 Nov 2026 05:12:59 +0000",
-            "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
+            "title": "The need for a formally verifiable mainstream programming language",
+            "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/\nComments URL: https://news.ycombinator.com/item?id=50663089\nPoints: 92\n# Comments: 60",
+            "time": "Fri, 27 Nov 2026 05:22:06 +0000",
+            "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
         }
     ]
 }
