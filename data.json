@@ -1,47 +1,47 @@
 {
-    "updated_at": "2026-11-27 15:49:28",
+    "updated_at": "2026-11-28 15:17:54",
     "news": [
         {
             "source": "CoinDesk",
-            "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
-            "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
-            "time": "Fri, 27 Nov 2026 07:33:01 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why"
+            "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+            "summary": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers.",
+            "time": "Fri, 27 Nov 2026 13:19:10 +0000",
+            "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports"
         },
         {
             "source": "CoinDesk",
-            "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
-            "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
-            "time": "Fri, 27 Nov 2026 05:06:32 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins"
+            "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+            "summary": "Your day-ahead look for Nov. 27, 2026",
+            "time": "Fri, 27 Nov 2026 12:16:07 +0000",
+            "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13"
         },
         {
             "source": "CoinDesk",
-            "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
-            "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
-            "time": "Fri, 27 Nov 2026 04:45:47 +0000",
-            "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
+            "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+            "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
+            "time": "Fri, 27 Nov 2026 11:45:47 +0000",
+            "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound"
         },
         {
             "source": "Hacker News",
-            "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-            "summary": "Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/\nComments URL: https://news.ycombinator.com/item?id=50663666\nPoints: 18\n# Comments: 3",
-            "time": "Fri, 27 Nov 2026 06:53:52 +0000",
-            "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+            "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+            "summary": "Article URL: https://unkernel.dev\nComments URL: https://news.ycombinator.com/item?id=50674218\nPoints: 157\n# Comments: 12",
+            "time": "Sat, 28 Nov 2026 03:19:20 +0000",
+            "url": "https://unkernel.dev"
         },
         {
             "source": "Hacker News",
-            "title": "The group chat where your AI talks behind your back",
-            "summary": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 50\n# Comments: 12",
-            "time": "Fri, 27 Nov 2026 06:44:34 +0000",
-            "url": "https://construct22.com/"
+            "title": "Atari Homebrew Awards Cancelled",
+            "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/\nComments URL: https://news.ycombinator.com/item?id=50673688\nPoints: 168\n# Comments: 160",
+            "time": "Sat, 28 Nov 2026 02:03:25 +0000",
+            "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/"
         },
         {
             "source": "Hacker News",
-            "title": "The need for a formally verifiable mainstream programming language",
-            "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/\nComments URL: https://news.ycombinator.com/item?id=50663089\nPoints: 92\n# Comments: 60",
-            "time": "Fri, 27 Nov 2026 05:22:06 +0000",
-            "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
+            "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+            "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/\nComments URL: https://news.ycombinator.com/item?id=50672565\nPoints: 299\n# Comments: 121",
+            "time": "Fri, 27 Nov 2026 23:06:29 +0000",
+            "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
         }
     ]
 }
